@@ -1,4 +1,5 @@
-Group 13 (MM)
+**Group 13 (MM)**
 
-1) Madihah binti Che Zabri [A20EC0074]
-2)Maizatul Afrina Safiah binti Saiful Azwan [A20EC0204]
+1) Maizatul Afrina Safiah binti Saiful Azwan [A20EC0204]
+
+2) Madihah binti Che Zabri [A20EC0074]
