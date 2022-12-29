@@ -50,7 +50,7 @@ This dataset is about the formation of new clusters of Covid-19 reported in Mala
     <td>Category the cluster involves in</td>
   </tr>
     <tr>
-    <td>Cases_total/td>
+    <td>Cases_total </td>
     <td>Category the cluster involves in</td>
   </tr>
     <tr>
