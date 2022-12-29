@@ -1,4 +1,6 @@
-**Created by BEFE (Group 3)**
+*Covid-19 Clusters Formed In Malaysia*
+This dataset is about the formation of new clusters of Covid-19 reported in malaysia. 
+
 
 Group members:
 * FARAH IRDINA BINTI AHMAD BAHARUDIN - A20EC0035
