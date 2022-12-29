@@ -1,2 +1,13 @@
-The group is known by its sleek name, Samverse that stands for greatness in Greek.
-This work is done by two members, Ahamad Aiman Hafizi and Luqman Ariff. They both worked all night and day in order to finish this assignment that was tasked by their leacturer.
+Group Name:
+
+SamVerse
+
+Group Members:
+
+Ahmad Aiman Hafizi, Luqman Ariff
+
+Dataset:
+
+Restaurant Customer Review Analysis in Malaysia
+
+This dataset shows the reviews along with rating that users left on restaurants they have visited in Malaysia. This analysis combines a dataset that contains the reviews of users and the second dataset consists of the restaurants in Malaysia. The combined dataset has 8 columns after data cleaning process has finished. This dataset has 361784 records. 
