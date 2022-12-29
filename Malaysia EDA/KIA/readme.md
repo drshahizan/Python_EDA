@@ -4,5 +4,4 @@ The dataset is about the state election held in 2018. It is taken from Kaggle an
 # Group Members
 Afif Hazmie Arsyad bin Agus (A20EC0176)
 
-
 Muhammad Imran Hakimi bin Mohd Shukri (A20EC0213)
