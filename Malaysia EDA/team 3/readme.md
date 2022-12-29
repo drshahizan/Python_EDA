@@ -7,31 +7,10 @@ This dataset is about the formation of new clusters of Covid-19 reported in Mala
 * FARAH IRDINA BINTI AHMAD BAHARUDIN - A20EC0035
 * NAYLI NABIHAH BINTI JASNI - A20EC0105
 
-## Dataset Attributes with Description
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-</style>
-</head>
-<body>
-
-<h2>HTML Table</h2>
+<h2>Dataset Attributes with Description</h2>
 
 <table>
   <tr>
