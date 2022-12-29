@@ -16,7 +16,7 @@
   <a>Logical thinking</a>
 </p>
 
-![Adam (1)](https://user-images.githubusercontent.com/120595244/209939515-6d567aed-4a71-4150-9830-3e288542beca.jpg)
+![WhatsApp Image 2022-12-29 at 9 44 11 PM](https://user-images.githubusercontent.com/120614176/209962317-1b122ec0-68cf-435f-894c-be0a0d930604.jpeg)
 <h2 align="center">
   GROUP MEMBERS
   <br>
