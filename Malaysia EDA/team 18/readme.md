@@ -44,7 +44,7 @@ ________________________________________________________________________________
   TITLE: POPULATION IN MALAYSIA FROM 2010-2019<br>
 </h2>
 <p align="center">
-  The dataset is about the population in Malaysia from 2010-2019. We retrieved the dataset from www.dosm.gov.my and we analysed the dataset find out about the growth of population in Malaysia. We used Python language and various libraries such as matplotlib, pandas, seaborn and stats model formula API to make sure the analysis can be done.,br>
+  The dataset is about the population in Malaysia from 2010-2019. We retrieved the dataset from www.dosm.gov.my and we analysed the dataset find out about the growth of population in Malaysia. We used Python language and various libraries such as matplotlib, pandas, seaborn and stats model formula API to make sure the analysis can be done.<br>
 </p>
 
 This dataset contains 1700 records and 6 columns which are:
