@@ -43,43 +43,43 @@ This dataset is about the formation of new clusters of Covid-19 reported in Mala
   </tr>
     <tr>
     <td>Status</td>
-    <td>Category the cluster involves in</td>
+    <td>The current status of the cluster, either it is still active or its already ended</td>
   </tr>
     <tr>
     <td>Cases_new</td>
-    <td>Category the cluster involves in</td>
+    <td>Number of new cases recorded</td>
   </tr>
     <tr>
     <td>Cases_total </td>
-    <td>Category the cluster involves in</td>
+    <td>Number of cases recorded</td>
   </tr>
     <tr>
     <td>Cases_active</td>
-    <td>Category the cluster involves in</td>
+    <td>Number of active cases recorded</td>
   </tr>
     <tr>
     <td>Tests</td>
-    <td>Category the cluster involves in</td>
+    <td>Number of individual that do the covid test</td>
   </tr>
     <tr>
     <td>ICU</td>
-    <td>Category the cluster involves in</td>
+    <td>Number individual that is admitted in ICU</td>
   </tr>
     <tr>
     <td>Deaths</td>
-    <td>Category the cluster involves in</td>
+    <td>Number of deaths recorded</td>
   </tr>
     <tr>
     <td>Recovered</td>
-    <td>Category the cluster involves in</td>
+    <td>Number of individual that recovered</td>
   </tr>
     <tr>
     <td>Summary_bm</td>
-    <td>Category the cluster involves in</td>
+    <td>Summarization of the cluster in Malay</td>
   </tr>
     <tr>
     <td>Summary_bi</td>
-    <td>Category the cluster involves in</td>
+    <td>Summarization of the cluster in English</td>
   </tr>
 </table>
 
