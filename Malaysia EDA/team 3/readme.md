@@ -18,67 +18,67 @@ This dataset is about the formation of new clusters of Covid-19 reported in Mala
     <th>Description</th>
   </tr>
   <tr>
-    <td>Cluster</td>
+    <td>cluster</td>
     <td>Name of the cluster</td>
   </tr>
   <tr>
-    <td>State</td>
+    <td>state</td>
     <td>State that the cluster can be found. The state is labelled as number which reffered as in IC number</td>
   </tr>
   <tr>
-    <td>District</td>
+    <td>district</td>
     <td>District name the cluster can be found</td>
   </tr>
   <tr>
-    <td>Date_announced</td>
+    <td>date_announced</td>
     <td>Date when the cluster is found</td>
   </tr>
   <tr>
-    <td>Date_last_onset</td>
+    <td>date_last_onset</td>
     <td>Date when the cluster end</td>
   </tr>
   <tr>
-    <td>Category</td>
+    <td>category</td>
     <td>Category the cluster involves in</td>
   </tr>
     <tr>
-    <td>Status</td>
+    <td>status</td>
     <td>The current status of the cluster, either it is still active or its already ended</td>
   </tr>
     <tr>
-    <td>Cases_new</td>
+    <td>cases_new</td>
     <td>Number of new cases recorded</td>
   </tr>
     <tr>
-    <td>Cases_total </td>
+    <td>cases_total </td>
     <td>Number of cases recorded</td>
   </tr>
     <tr>
-    <td>Cases_active</td>
+    <td>cases_active</td>
     <td>Number of active cases recorded</td>
   </tr>
     <tr>
-    <td>Tests</td>
+    <td>tests</td>
     <td>Number of individual that do the covid test</td>
   </tr>
     <tr>
-    <td>ICU</td>
+    <td>icu</td>
     <td>Number individual that is admitted in ICU</td>
   </tr>
     <tr>
-    <td>Deaths</td>
+    <td>deaths</td>
     <td>Number of deaths recorded</td>
   </tr>
     <tr>
-    <td>Recovered</td>
+    <td>recovered</td>
     <td>Number of individual that recovered</td>
   </tr>
     <tr>
-    <td>Summary_bm</td>
+    <td>summary_bm</td>
     <td>Summarization of the cluster in Malay</td>
   </tr>
     <tr>
-    <td>Summary_bi</td>
+    <td>summary_bi</td>
     <td>Summarization of the cluster in English</td>
   </tr>
 </table>
