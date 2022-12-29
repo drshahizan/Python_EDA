@@ -1,6 +1,6 @@
 # **Group Members:**
-1. MIKHEL ADAM BIN MUHAMMAD EZRIN A20EC0237
-2. AHMAD MUHAIMIN BIN AHMAD HAMBALI A20EC0006
+1. MIKHEL ADAM BIN MUHAMMAD EZRIN (A20EC0237)
+2. AHMAD MUHAIMIN BIN AHMAD HAMBALI (A20EC0006)
 
 ## **Malaysia Hospital Patient Movement Analysis**
 
@@ -8,6 +8,7 @@ This dataset shows the flow of patients to/out of hospitals, with capacity and u
 
 
 ### Dataset Description
+[`hospital.csv`](hospital.csv): Flow of patients to/out of hospitals, with capacity and utilisation.
 
 1) `date`: yyyy-mm-dd format; data correct as of 2359hrs on that date
 2) `state`: name of state, with similar qualification on exhaustiveness of date-state combos as PKRC data
