@@ -6,5 +6,4 @@
 
 
 
-Dataset : Election Result on 2018 
 
