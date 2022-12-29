@@ -1,0 +1,460 @@
+﻿Year,State,Sex,Number of Infant deaths,Rate on Infant mortality
+2010,Johor,Female,156,5.8
+2010,Johor,Male,240,8.3
+2010,Johor,Total,396,7.1
+2010,Kedah,Female,115,6.8
+2010,Kedah,Male,159,8.7
+2010,Kedah,Total,274,7.8
+2010,Kelantan,Female,142,8.2
+2010,Kelantan,Male,159,8.6
+2010,Kelantan,Total,301,8.4
+2010,MALAYSIA,Female,1426,6.0
+2010,MALAYSIA,Male,1869,7.4
+2010,MALAYSIA,Total,3295,6.7
+2010,Melaka,Female,36,5.8
+2010,Melaka,Male,69,10.1
+2010,Melaka,Total,105,8.1
+2010,Negeri Sembilan,Female,59,7.1
+2010,Negeri Sembilan,Male,63,7.3
+2010,Negeri Sembilan,Total,122,7.2
+2010,Pahang,Female,89,7.1
+2010,Pahang,Male,108,8.0
+2010,Pahang,Total,197,7.6
+2010,Perak,Female,120,6.9
+2010,Perak,Male,169,9.1
+2010,Perak,Total,289,8.0
+2010,Perlis,Female,16,8.0
+2010,Perlis,Male,17,8.0
+2010,Perlis,Total,33,8.0
+2010,Pulau Pinang,Female,62,6.1
+2010,Pulau Pinang,Male,83,7.6
+2010,Pulau Pinang,Total,145,6.8
+2010,Sabah,Female,,
+2010,Sabah,Male,,
+2010,Sabah,Total,,
+2010,Sarawak,Female,114,5.7
+2010,Sarawak,Male,167,7.8
+2010,Sarawak,Total,281,6.8
+2010,Selangor,Female,253,5.3
+2010,Selangor,Male,304,6.0
+2010,Selangor,Total,557,5.7
+2010,Terengganu,Female,94,8.0
+2010,Terengganu,Male,108,8.6
+2010,Terengganu,Total,202,8.3
+2010,W.P. Kuala Lumpur,Female,55,4.7
+2010,W.P. Kuala Lumpur,Male,80,6.3
+2010,W.P. Kuala Lumpur,Total,135,5.5
+2010,W.P. Labuan,Female,9,11.6
+2010,W.P. Labuan,Male,6,7.0
+2010,W.P. Labuan,Total,15,9.2
+2010,W.P. Putrajaya,Female,5,4.4
+2010,W.P. Putrajaya,Male,13,10.1
+2010,W.P. Putrajaya,Total,18,7.4
+2011,Johor,Female,169,6.0
+2011,Johor,Male,205,6.8
+2011,Johor,Total,374,6.4
+2011,Kedah,Female,100,5.7
+2011,Kedah,Male,137,7.4
+2011,Kedah,Total,237,6.6
+2011,Kelantan,Female,114,6.2
+2011,Kelantan,Male,177,9.1
+2011,Kelantan,Total,291,7.7
+2011,MALAYSIA,Female,1458,5.9
+2011,MALAYSIA,Male,1872,7.1
+2011,MALAYSIA,Total,3330,6.5
+2011,Melaka,Female,48,7.2
+2011,Melaka,Male,72,9.9
+2011,Melaka,Total,120,8.6
+2011,Negeri Sembilan,Female,55,6.5
+2011,Negeri Sembilan,Male,71,7.7
+2011,Negeri Sembilan,Total,126,7.1
+2011,Pahang,Female,121,9.3
+2011,Pahang,Male,135,9.6
+2011,Pahang,Total,256,9.5
+2011,Perak,Female,102,5.6
+2011,Perak,Male,131,6.7
+2011,Perak,Total,233,6.2
+2011,Perlis,Female,16,8.1
+2011,Perlis,Male,24,10.9
+2011,Perlis,Total,40,9.6
+2011,Pulau Pinang,Female,64,6.0
+2011,Pulau Pinang,Male,97,8.3
+2011,Pulau Pinang,Total,161,7.2
+2011,Sabah,Female,,
+2011,Sabah,Male,,
+2011,Sabah,Total,,
+2011,Sarawak,Female,119,5.6
+2011,Sarawak,Male,162,7.3
+2011,Sarawak,Total,281,6.5
+2011,Selangor,Female,258,5.1
+2011,Selangor,Male,322,6.0
+2011,Selangor,Total,580,5.6
+2011,Terengganu,Female,106,8.9
+2011,Terengganu,Male,114,8.9
+2011,Terengganu,Total,220,8.9
+2011,W.P. Kuala Lumpur,Female,75,6.1
+2011,W.P. Kuala Lumpur,Male,88,6.7
+2011,W.P. Kuala Lumpur,Total,163,6.4
+2011,W.P. Labuan,Female,2,2.4
+2011,W.P. Labuan,Male,12,13.2
+2011,W.P. Labuan,Total,14,8.1
+2011,W.P. Putrajaya,Female,13,9.0
+2011,W.P. Putrajaya,Male,12,8.0
+2011,W.P. Putrajaya,Total,25,8.5
+2012,Johor,Female,175,6.0
+2012,Johor,Male,249,8.0
+2012,Johor,Total,424,7.0
+2012,Kedah,Female,100,5.7
+2012,Kedah,Male,162,8.6
+2012,Kedah,Total,262,7.2
+2012,Kelantan,Female,123,7.0
+2012,Kelantan,Male,176,9.1
+2012,Kelantan,Total,299,8.1
+2012,MALAYSIA,Female,1395,5.5
+2012,MALAYSIA,Male,1882,6.9
+2012,MALAYSIA,Total,3277,6.2
+2012,Melaka,Female,51,7.2
+2012,Melaka,Male,54,7.5
+2012,Melaka,Total,105,7.4
+2012,Negeri Sembilan,Female,64,7.4
+2012,Negeri Sembilan,Male,71,7.7
+2012,Negeri Sembilan,Total,135,7.5
+2012,Pahang,Female,91,6.8
+2012,Pahang,Male,128,9.2
+2012,Pahang,Total,219,8.0
+2012,Perak,Female,107,5.8
+2012,Perak,Male,142,7.3
+2012,Perak,Total,249,6.6
+2012,Perlis,Female,15,7.5
+2012,Perlis,Male,12,5.6
+2012,Perlis,Total,27,6.5
+2012,Pulau Pinang,Female,67,5.7
+2012,Pulau Pinang,Male,89,7.3
+2012,Pulau Pinang,Total,156,6.6
+2012,Sabah,Female,,
+2012,Sabah,Male,,
+2012,Sabah,Total,,
+2012,Sarawak,Female,115,5.6
+2012,Sarawak,Male,160,7.1
+2012,Sarawak,Total,275,6.4
+2012,Selangor,Female,241,4.6
+2012,Selangor,Male,329,5.9
+2012,Selangor,Total,570,5.3
+2012,Terengganu,Female,89,7.1
+2012,Terengganu,Male,107,8.1
+2012,Terengganu,Total,196,7.6
+2012,W.P. Kuala Lumpur,Female,55,4.2
+2012,W.P. Kuala Lumpur,Male,71,5.1
+2012,W.P. Kuala Lumpur,Total,126,4.7
+2012,W.P. Labuan,Female,6,7.2
+2012,W.P. Labuan,Male,8,8.6
+2012,W.P. Labuan,Total,14,7.9
+2012,W.P. Putrajaya,Female,11,7.1
+2012,W.P. Putrajaya,Male,18,11.3
+2012,W.P. Putrajaya,Total,29,9.2
+2013,Johor,Female,171,6.2
+2013,Johor,Male,193,6.5
+2013,Johor,Total,364,6.3
+2013,Kedah,Female,102,6.0
+2013,Kedah,Male,131,7.3
+2013,Kedah,Total,233,6.7
+2013,Kelantan,Female,105,6.0
+2013,Kelantan,Male,164,8.7
+2013,Kelantan,Total,269,7.4
+2013,MALAYSIA,Female,1367,5.6
+2013,MALAYSIA,Male,1832,7.0
+2013,MALAYSIA,Total,3199,6.3
+2013,Melaka,Female,42,6.4
+2013,Melaka,Male,48,6.8
+2013,Melaka,Total,90,6.6
+2013,Negeri Sembilan,Female,61,7.3
+2013,Negeri Sembilan,Male,68,7.5
+2013,Negeri Sembilan,Total,129,7.4
+2013,Pahang,Female,106,8.2
+2013,Pahang,Male,147,10.5
+2013,Pahang,Total,253,9.4
+2013,Perak,Female,100,5.8
+2013,Perak,Male,137,7.5
+2013,Perak,Total,237,6.7
+2013,Perlis,Female,14,7.2
+2013,Perlis,Male,22,10.4
+2013,Perlis,Total,36,8.9
+2013,Pulau Pinang,Female,52,5.0
+2013,Pulau Pinang,Male,78,7.1
+2013,Pulau Pinang,Total,130,6.0
+2013,Sabah,Female,,
+2013,Sabah,Male,,
+2013,Sabah,Total,,
+2013,Sarawak,Female,95,4.9
+2013,Sarawak,Male,135,6.4
+2013,Sarawak,Total,230,5.7
+2013,Selangor,Female,275,5.5
+2013,Selangor,Male,349,6.6
+2013,Selangor,Total,624,6.0
+2013,Terengganu,Female,93,7.5
+2013,Terengganu,Male,138,10.6
+2013,Terengganu,Total,231,9.1
+2013,W.P. Kuala Lumpur,Female,47,3.8
+2013,W.P. Kuala Lumpur,Male,76,5.8
+2013,W.P. Kuala Lumpur,Total,123,4.9
+2013,W.P. Labuan,Female,6,7.5
+2013,W.P. Labuan,Male,7,7.4
+2013,W.P. Labuan,Total,13,7.5
+2013,W.P. Putrajaya,Female,10,6.9
+2013,W.P. Putrajaya,Male,21,13.8
+2013,W.P. Putrajaya,Total,31,10.4
+2014,Johor,Female,155,5.3
+2014,Johor,Male,213,6.8
+2014,Johor,Total,368,6.1
+2014,Kedah,Female,93,5.3
+2014,Kedah,Male,137,7.2
+2014,Kedah,Total,230,6.3
+2014,Kelantan,Female,141,7.4
+2014,Kelantan,Male,178,8.8
+2014,Kelantan,Total,319,8.1
+2014,MALAYSIA,Female,1550,6.1
+2014,MALAYSIA,Male,1993,7.3
+2014,MALAYSIA,Total,3543,6.7
+2014,Melaka,Female,33,4.7
+2014,Melaka,Male,51,6.7
+2014,Melaka,Total,84,5.8
+2014,Negeri Sembilan,Female,55,6.1
+2014,Negeri Sembilan,Male,74,7.7
+2014,Negeri Sembilan,Total,129,6.9
+2014,Pahang,Female,84,6.1
+2014,Pahang,Male,129,8.7
+2014,Pahang,Total,213,7.4
+2014,Perak,Female,93,5.2
+2014,Perak,Male,134,7.1
+2014,Perak,Total,227,6.2
+2014,Perlis,Female,8,3.7
+2014,Perlis,Male,26,11.2
+2014,Perlis,Total,34,7.5
+2014,Pulau Pinang,Female,63,5.7
+2014,Pulau Pinang,Male,65,5.5
+2014,Pulau Pinang,Total,128,5.6
+2014,Sabah,Female,281,10.2
+2014,Sabah,Male,295,9.9
+2014,Sabah,Total,576,10.0
+2014,Sarawak,Female,96,4.8
+2014,Sarawak,Male,140,6.6
+2014,Sarawak,Total,236,5.7
+2014,Selangor,Female,260,4.9
+2014,Selangor,Male,313,5.6
+2014,Selangor,Total,573,5.3
+2014,Terengganu,Female,95,7.3
+2014,Terengganu,Male,118,8.4
+2014,Terengganu,Total,213,7.9
+2014,W.P. Kuala Lumpur,Female,75,5.7
+2014,W.P. Kuala Lumpur,Male,92,6.6
+2014,W.P. Kuala Lumpur,Total,167,6.2
+2014,W.P. Labuan,Female,5,5.5
+2014,W.P. Labuan,Male,10,10.4
+2014,W.P. Labuan,Total,15,8.0
+2014,W.P. Putrajaya,Female,13,8.7
+2014,W.P. Putrajaya,Male,18,11.4
+2014,W.P. Putrajaya,Total,31,10.1
+2015,Johor,Female,185,6.3
+2015,Johor,Male,255,8.1
+2015,Johor,Total,440,7.3
+2015,Kedah,Female,117,6.5
+2015,Kedah,Male,124,6.6
+2015,Kedah,Total,241,6.6
+2015,Kelantan,Female,110,5.8
+2015,Kelantan,Male,151,7.6
+2015,Kelantan,Total,261,6.7
+2015,MALAYSIA,Female,"1,604",6.4
+2015,MALAYSIA,Male,"1,978",7.3
+2015,MALAYSIA,Total,"3,582",6.9
+2015,Melaka,Female,39,5.5
+2015,Melaka,Male,41,5.5
+2015,Melaka,Total,80,5.5
+2015,Negeri Sembilan,Female,62,7.0
+2015,Negeri Sembilan,Male,66,6.9
+2015,Negeri Sembilan,Total,128,6.9
+2015,Pahang,Female,86,6.3
+2015,Pahang,Male,130,9.0
+2015,Pahang,Total,216,7.7
+2015,Perak,Female,102,5.9
+2015,Perak,Male,132,7.0
+2015,Perak,Total,234,6.4
+2015,Perlis,Female,20,9.6
+2015,Perlis,Male,15,6.7
+2015,Perlis,Total,35,8.1
+2015,Pulau Pinang,Female,63,5.9
+2015,Pulau Pinang,Male,77,6.7
+2015,Pulau Pinang,Total,140,6.3
+2015,Sabah,Female,294,11.2
+2015,Sabah,Male,320,11.2
+2015,Sabah,Total,614,11.2
+2015,Sarawak,Female,95,4.9
+2015,Sarawak,Male,128,6.2
+2015,Sarawak,Total,223,5.6
+2015,Selangor,Female,247,4.7
+2015,Selangor,Male,325,5.8
+2015,Selangor,Total,572,5.3
+2015,Terengganu,Female,99,7.5
+2015,Terengganu,Male,119,8.3
+2015,Terengganu,Total,218,7.9
+2015,W.P. Kuala Lumpur,Female,65,5.3
+2015,W.P. Kuala Lumpur,Male,75,5.6
+2015,W.P. Kuala Lumpur,Total,140,5.4
+2015,W.P. Labuan,Female,10,10.8
+2015,W.P. Labuan,Male,8,7.8
+2015,W.P. Labuan,Total,18,9.2
+2015,W.P. Putrajaya,Female,10,7.4
+2015,W.P. Putrajaya,Male,12,7.9
+2015,W.P. Putrajaya,Total,22,7.7
+2016,Johor,Female,194,6.7
+2016,Johor,Male,249,8.1
+2016,Johor,Total,443,7.4
+2016,Kedah,Female,121,6.9
+2016,Kedah,Male,133,7.2
+2016,Kedah,Total,254,7.1
+2016,Kelantan,Female,138,7.4
+2016,Kelantan,Male,160,8.1
+2016,Kelantan,Total,298,7.7
+2016,MALAYSIA,Female,"1,528",6.2
+2016,MALAYSIA,Male,"1,862",7.1
+2016,MALAYSIA,Total,"3,390",6.7
+2016,Melaka,Female,40,5.8
+2016,Melaka,Male,60,8.0
+2016,Melaka,Total,100,6.9
+2016,Negeri Sembilan,Female,52,6.0
+2016,Negeri Sembilan,Male,64,6.8
+2016,Negeri Sembilan,Total,116,6.4
+2016,Pahang,Female,98,7.4
+2016,Pahang,Male,106,7.4
+2016,Pahang,Total,204,7.4
+2016,Perak,Female,102,6.0
+2016,Perak,Male,143,7.7
+2016,Perak,Total,245,6.9
+2016,Perlis,Female,11,5.3
+2016,Perlis,Male,15,6.5
+2016,Perlis,Total,26,5.9
+2016,Pulau Pinang,Female,69,6.5
+2016,Pulau Pinang,Male,72,6.4
+2016,Pulau Pinang,Total,141,6.5
+2016,Sabah,Female,135,5.4
+2016,Sabah,Male,163,6.0
+2016,Sabah,Total,298,5.7
+2016,Sarawak,Female,103,5.6
+2016,Sarawak,Male,126,6.4
+2016,Sarawak,Total,229,6.0
+2016,Selangor,Female,292,5.8
+2016,Selangor,Male,351,6.5
+2016,Selangor,Total,643,6.1
+2016,Terengganu,Female,86,6.5
+2016,Terengganu,Male,113,8.0
+2016,Terengganu,Total,199,7.2
+2016,W.P. Kuala Lumpur,Female,74,5.9
+2016,W.P. Kuala Lumpur,Male,85,6.4
+2016,W.P. Kuala Lumpur,Total,159,6.2
+2016,W.P. Labuan,Female,5,5.7
+2016,W.P. Labuan,Male,9,10.2
+2016,W.P. Labuan,Total,14,8.0
+2016,W.P. Putrajaya,Female,8,6.5
+2016,W.P. Putrajaya,Male,13,9.7
+2016,W.P. Putrajaya,Total,21,8.2
+2017,Johor,Female,187,6.4
+2017,Johor,Male,226,7.1
+2017,Johor,Total,413,6.8
+2017,Kedah,Female,109,6.2
+2017,Kedah,Male,106,5.6
+2017,Kedah,Total,215,5.9
+2017,Kelantan,Female,142,7.5
+2017,Kelantan,Male,160,8.0
+2017,Kelantan,Total,302,7.7
+2017,MALAYSIA,Female,1557,6.3
+2017,MALAYSIA,Male,1939,7.4
+2017,MALAYSIA,Total,3496,6.9
+2017,Melaka,Female,40,5.8
+2017,Melaka,Male,55,7.4
+2017,Melaka,Total,95,6.6
+2017,Negeri Sembilan,Female,57,6.6
+2017,Negeri Sembilan,Male,91,9.7
+2017,Negeri Sembilan,Total,148,8.2
+2017,Pahang,Female,82,6.1
+2017,Pahang,Male,123,8.7
+2017,Pahang,Total,205,7.4
+2017,Perak,Female,108,6.4
+2017,Perak,Male,134,7.5
+2017,Perak,Total,242,6.9
+2017,Perlis,Female,10,4.8
+2017,Perlis,Male,15,6.4
+2017,Perlis,Total,25,5.6
+2017,Pulau Pinang,Female,54,5.2
+2017,Pulau Pinang,Male,71,6.4
+2017,Pulau Pinang,Total,125,5.8
+2017,Sabah,Female,205,8.1
+2017,Sabah,Male,297,11.0
+2017,Sabah,Total,502,9.6
+2017,Sarawak,Female,102,5.6
+2017,Sarawak,Male,136,7.0
+2017,Sarawak,Total,238,6.3
+2017,Selangor,Female,291,5.8
+2017,Selangor,Male,329,6.1
+2017,Selangor,Total,620,6.0
+2017,Terengganu,Female,73,5.3
+2017,Terengganu,Male,100,7.1
+2017,Terengganu,Total,173,6.2
+2017,W.P. Kuala Lumpur,Female,75,6.2
+2017,W.P. Kuala Lumpur,Male,85,6.7
+2017,W.P. Kuala Lumpur,Total,160,6.5
+2017,W.P. Labuan,Female,10,12.2
+2017,W.P. Labuan,Male,2,2.3
+2017,W.P. Labuan,Total,12,7.1
+2017,W.P. Putrajaya,Female,12,9.8
+2017,W.P. Putrajaya,Male,9,6.9
+2017,W.P. Putrajaya,Total,21,8.3
+2018,Johor,Female,201,6.8
+2018,Johor,Male,221,7.0
+2018,Johor,Total,422,6.9
+2018,Kedah,Female,93,5.4
+2018,Kedah,Male,136,7.4
+2018,Kedah,Total,229,6.4
+2018,Kelantan,Female,115,6.3
+2018,Kelantan,Male,173,8.7
+2018,Kelantan,Total,288,7.5
+2018,MALAYSIA,Female,1618,6.7
+2018,MALAYSIA,Male,2004,7.7
+2018,MALAYSIA,Total,3622,7.2
+2018,Melaka,Female,39,5.6
+2018,Melaka,Male,71,9.6
+2018,Melaka,Total,110,7.6
+2018,Negeri Sembilan,Female,73,8.2
+2018,Negeri Sembilan,Male,89,9.5
+2018,Negeri Sembilan,Total,162,8.9
+2018,Pahang,Female,88,6.7
+2018,Pahang,Male,109,7.8
+2018,Pahang,Total,197,7.3
+2018,Perak,Female,111,6.8
+2018,Perak,Male,112,6.4
+2018,Perak,Total,223,6.6
+2018,Perlis,Female,25,11.8
+2018,Perlis,Male,14,6.2
+2018,Perlis,Total,39,8.9
+2018,Pulau Pinang,Female,60,6.0
+2018,Pulau Pinang,Male,73,6.8
+2018,Pulau Pinang,Total,133,6.4
+2018,Sabah,Female,237,9.3
+2018,Sabah,Male,297,10.8
+2018,Sabah,Total,534,10.1
+2018,Sarawak,Female,114,6.4
+2018,Sarawak,Male,148,7.8
+2018,Sarawak,Total,262,7.2
+2018,Selangor,Female,300,6.1
+2018,Selangor,Male,362,6.9
+2018,Selangor,Total,662,6.5
+2018,Terengganu,Female,77,5.6
+2018,Terengganu,Male,96,6.6
+2018,Terengganu,Total,173,6.1
+2018,W.P. Kuala Lumpur,Female,68,5.8
+2018,W.P. Kuala Lumpur,Male,82,6.6
+2018,W.P. Kuala Lumpur,Total,150,6.2
+2018,W.P. Labuan,Female,7,9.0
+2018,W.P. Labuan,Male,9,9.9
+2018,W.P. Labuan,Total,16,9.5
+2018,W.P. Putrajaya,Female,10,8.7
+2018,W.P. Putrajaya,Male,12,9.6
+2018,W.P. Putrajaya,Total,22,9.2
