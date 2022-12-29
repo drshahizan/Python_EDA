@@ -18,28 +18,68 @@ This dataset is about the formation of new clusters of Covid-19 reported in Mala
     <th>Description</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
+    <td>Cluster</td>
+    <td>Name of the cluster</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
+    <td>State</td>
+    <td>State that the cluster can be found. The state is labelled as number which reffered as in IC number</td>
   </tr>
   <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
+    <td>District</td>
+    <td>District name the cluster can be found</td>
   </tr>
   <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
+    <td>Date_announced</td>
+    <td>Date when the cluster is found</td>
   </tr>
   <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
+    <td>Date_last_onset</td>
+    <td>Date when the cluster end</td>
   </tr>
   <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
+    <td>Category</td>
+    <td>Category the cluster involves in</td>
+  </tr>
+    <tr>
+    <td>Status</td>
+    <td>Category the cluster involves in</td>
+  </tr>
+    <tr>
+    <td>Cases_new</td>
+    <td>Category the cluster involves in</td>
+  </tr>
+    <tr>
+    <td>Cases_total/td>
+    <td>Category the cluster involves in</td>
+  </tr>
+    <tr>
+    <td>Cases_active</td>
+    <td>Category the cluster involves in</td>
+  </tr>
+    <tr>
+    <td>Tests</td>
+    <td>Category the cluster involves in</td>
+  </tr>
+    <tr>
+    <td>ICU</td>
+    <td>Category the cluster involves in</td>
+  </tr>
+    <tr>
+    <td>Deaths</td>
+    <td>Category the cluster involves in</td>
+  </tr>
+    <tr>
+    <td>Recovered</td>
+    <td>Category the cluster involves in</td>
+  </tr>
+    <tr>
+    <td>Summary_bm</td>
+    <td>Category the cluster involves in</td>
+  </tr>
+    <tr>
+    <td>Summary_bi</td>
+    <td>Category the cluster involves in</td>
   </tr>
 </table>
 
