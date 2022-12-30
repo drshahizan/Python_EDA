@@ -1,8 +1,7 @@
 ## 🏥Capacity and utilisation of Intensive Care Unit (ICU) beds during COVID-19 🚑
 
-Group Name: Meow :octocat:   
-
-Group Members:
+Group Name: Meow 😺   
+Group Members: 
 - MADINA SURAYA BINTI ZHARIN (A20EC0203)
 - ADRINA ASYIQIN BINTI MD ADHA (A20EC0174)
 
