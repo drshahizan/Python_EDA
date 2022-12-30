@@ -94,9 +94,9 @@ Refer to these projects for inspiration:
 
 * [Data Cleaning Challenge: Inconsistent Data Entry](https://www.kaggle.com/code/melanieng/data-cleaning-challenge-inconsistent-data-entry#Get-our-environment-set-up)
 
-## 🌟 Exploratory Data Analysis: Malaysian dataset
+## 🌟 Case Study: Exploratory Data Analysis
 
 
-| Team | Dataset | Colab |  GitHub |
+| Team | Title | Colab |  GitHub |
 | ----- | ----- | ------ | ------ | 
 | Boboiboy | Property Listings in Kuala Lumpur | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1Ta8kvxB4NlMHO204WZtrnfnVToPVr2J5?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/tree/main/Malaysia%20EDA/Boboiboy) |
