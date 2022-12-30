@@ -17,6 +17,12 @@ Dataset taken from Department Of Statistics Malaysia Official Portal<br>
     Year (int64) : The year of death
     State (object) : The location (States in Malaysia) of death
     Number of deaths (float64) : The total number of deaths occured
+    
+ >Challenges that had to be faced when analysing this dataset:
+
+    1. Value for Sabah for year 2001-2013 are not published because it is still being studied. However, at the Malaysia level, data for Sabah are included.
+    2. Only 1 continuous data was present in this dataset, therefore to extract information we had to use every categorical data present and use them in a way to make the continous data meaningful.
+
 
 ### Assignment: Exploratory Data Analysis(EDA)
 
