@@ -1,8 +1,8 @@
-##Capacity and utilisation of Intensive Care Unit (ICU) beds during COVID-19
+## Capacity and utilisation of Intensive Care Unit (ICU) beds during COVID-19
 
 Group Members:
-MADINA SURAYA BINTI ZHARIN (A20EC0203),
-ADRINA ASYIQIN BINTI MD ADHA (A20EC0174)
+- MADINA SURAYA BINTI ZHARIN (A20EC0203),
+- ADRINA ASYIQIN BINTI MD ADHA (A20EC0174)
 
 One of the challenges that the Ministry of Health suffer during the peak season of COVID-19 was managing the Intensive Care Unit (ICU) for critical patients. They always need to make sure that the capacity and the utilisation of ICU were enough. This dataset was found from the MoH (Ministry of Health Malaysia) official Github account which presently focused on COVID-19 data, in collaboration with the COVID-19 Immunisation Task Force.
 
