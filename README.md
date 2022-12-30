@@ -79,7 +79,7 @@ Follow this step-by-step guide to work on your project.
 
 ### Step 6: Make a submission
 
-- Upload your notebook to e-learning.
+- Upload your notebook to github.
 
 
 ### Example Projects
