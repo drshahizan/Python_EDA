@@ -22,21 +22,21 @@ We will do data preprocessing such as: Data cleaning. Then, we will do data proc
 #### Attribute Information:
 | Acronym | Description |
 | --- | --- |
-| **date** |    Date including day, month, and year |
+| **date** |    yyyy-mm-dd format |
 |**state** |   Name of state |
-| **cases_new** | Newly recorded cases |
-| **cases_import** |  Foreigner cases |
-| **cases_recovered** |  Cases recovered from covid |
-| **cases_active** |  Positivve covid patient |
+| **cases_new** | Cases reported in the 24h since the last report |
+| **cases_import** |  Imported cases reported in the 24h since the last report |
+| **cases_recovered** |  Recovered cases reported in the 24h since the last report |
+| **cases_active** |  Patient who have not recovered or died |
 | **cases_cluster** |  Cluster case |
 | **cases_unvax** |  Patient without vaccination |
-| **cases_pvax** |  Patient with first vaccination |
-| **cases_fvax** |  Patient with second vaccination |
-| **cases_boost** |  Patient with booster vaccination |
-| **cases_child** |  Patient under category child |
-| **cases_adolescent** |  Patient under category adolescent |
-| **cases_adult** |  Patient under category adult |
-| **cases_elderly** |  Patient under category elderly |
+| **cases_pvax** |  Patient partially-vaccinated tested positive |
+| **cases_fvax** |  Patient fully-vaccinated tested positive |
+| **cases_boost** |  Patient with booster vaccination tested positive |
+| **cases_child** |  Patient under category child(0-11) |
+| **cases_adolescent** |  Patient under category adolescent(12-17) |
+| **cases_adult** |  Patient under category adult(18-59) |
+| **cases_elderly** |  Patient under category elderly(60+) |
 | **cases_0_4** |  Patient within year 0 to 4 |
 | **cases_5_11** |  Patient within year 5 to 11 |
 | **cases_12_17** |  Patient within year 12 to 17 |
