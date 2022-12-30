@@ -9,7 +9,7 @@ Exploratory data analysis (EDA) involves using graphics and visualizations to ex
 
 ![EDA](https://drive.google.com/uc?export=view&id=1GUl7SVxNv_KUIUrDVa048SyqPUbn9w5M)
 
-## Assignment: Evaluation Criteria
+## 🚀 Case Study: Evaluation Criteria
 
 Your submission will be evaluated using the following criteria:
 
