@@ -7,7 +7,7 @@ Group Members: <b>
 	3. Low Junyi A20EC0071
 </b> 
 	
-<h1>Human Development Indicators In Malaysia </h1>
+<h1>Human Development Indicators In Malaysia 🌐 </h1>
 This project is to stimulate global, regional and national policy-relevant discussions on issues pertinent to human development. The dataset consist of 6 columns and 1598 rows.
 The dataset is obtained from data.world which is the enterprise data catalog for the modern data stack. We have selected this dataset because we would like to know 
 the achievement in key dimensions of human development: a long and healthy life, being knowledgeable and have a decent standard of living in Malaysia. 
