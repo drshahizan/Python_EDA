@@ -11,7 +11,7 @@ src: https://github.com/MoH-Malaysia/covid19-public/blob/main/epidemic/icu.csv
 
 ### About Dataset 📊
 
-This dataset contains 15656 records and 16 columns which are:
+This dataset contains 15656 records and 16 columns and the columns that we used are:
 
 | Field Name | Explanation |
 | ------ | ------ |
