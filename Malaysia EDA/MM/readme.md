@@ -40,7 +40,7 @@ Prof. Madya. Ts. Dr. Mohd Shahizan Bin Othman
   </tr>
     <tr>
     <td>Total Votes Cast</td>
-    <td>Total votes receive by eash state</td>
+    <td>Total votes receive by each state</td>
   </tr>
     <tr>
     <td>% of total Votes</td>
