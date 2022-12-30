@@ -31,5 +31,5 @@ Dataset taken from Department Of Statistics Malaysia Official Portal<br>
 
 | Team | Title | Colab |  GitHub |
 | ----- | ----- | ------ | ------ | 
-| Pixelated | Number of deaths in Malaysia from 2001 to 2018 Open In Colab | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1TvgXI9-qQq-cnI5-RJnxaNOLM4hvBCta?usp=sharing#scrollTo=7F8DQl5dVJJ0) |[![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/tree/main/Malaysia%20EDA/team%2014) |
+| Pixelated | Number of deaths in Malaysia from 2001 to 2018 Open In Colab | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1TvgXI9-qQq-cnI5-RJnxaNOLM4hvBCta?usp=sharing#scrollTo=7F8DQl5dVJJ0) |[![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/tree/main/Malaysia%20EDA/Pixelated) |
 
