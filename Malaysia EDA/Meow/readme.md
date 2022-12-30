@@ -1,4 +1,4 @@
-Title: Capacity and utilisation of Intensive Care Unit (ICU) beds during COVID-19
+##Capacity and utilisation of Intensive Care Unit (ICU) beds during COVID-19
 
 Group Members:
 MADINA SURAYA BINTI ZHARIN (A20EC0203),
