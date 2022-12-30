@@ -1,4 +1,4 @@
-# 🏥Capacity and utilisation of Intensive Care Unit (ICU) beds during COVID-19 🚑
+## 🏥Capacity and utilisation of Intensive Care Unit (ICU) beds during COVID-19 🚑
 
 Group Name: Meow 😺   
 Group Members: 
@@ -9,7 +9,7 @@ One of the challenges that the Ministry of Health suffer during the peak season 
 
 src: https://github.com/MoH-Malaysia/covid19-public/blob/main/epidemic/icu.csv  
 
-## About Dataset 📊
+### About Dataset 📊
 
 This dataset contains 15656 records and 16 columns which are:
 
