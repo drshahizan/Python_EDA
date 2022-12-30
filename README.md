@@ -8,6 +8,10 @@ Exploratory data analysis (EDA) involves using graphics and visualizations to ex
 
 
 ![EDA](https://drive.google.com/uc?export=view&id=1GUl7SVxNv_KUIUrDVa048SyqPUbn9w5M)
+## 📖 Lab
+| No | Title | Colab |  GitHub |
+| ----- | ----- | ------ | ------ | 
+| 1 | Introduction to Exploratory Data Analysis | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
 
 ## 🚀 Case Study: Evaluation Criteria
 
