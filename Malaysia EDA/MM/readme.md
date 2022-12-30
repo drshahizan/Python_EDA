@@ -5,7 +5,7 @@ In 2018, Malaysia had a general election to elect members of the 'Dewan Rakyat' 
 <li>Maizatul Afrina Safiah binti Saiful Azwan [A20EC0204]</li>
 <li>Madihah binti Che Zabri [A20EC0074]</li>
 
-<h2>Submission to:</h2>
+<h2>Submitted to:</h2>
 Prof. Madya. Ts. Dr. Mohd Shahizan Bin Othman
 
 <h2>Column Name and Description</h2>
