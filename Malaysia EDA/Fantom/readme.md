@@ -28,8 +28,8 @@ We will do data preprocessing such as: Data cleaning. Then, we will do data proc
 | **cases_import** |  Imported cases reported in the 24h since the last report |
 | **cases_recovered** |  Recovered cases reported in the 24h since the last report |
 | **cases_active** |  Patient who have not recovered or died |
-| **cases_cluster** |  Cluster case |
-| **cases_unvax** |  Patient without vaccination |
+| **cases_cluster** |  Number of cases attributable to clusters |
+| **cases_unvax** |  Patient without vaccination tested positive |
 | **cases_pvax** |  Patient partially-vaccinated tested positive |
 | **cases_fvax** |  Patient fully-vaccinated tested positive |
 | **cases_boost** |  Patient with booster vaccination tested positive |
