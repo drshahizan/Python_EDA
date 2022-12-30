@@ -9,6 +9,13 @@
 
 <h4 align="center">A group of two students from Data Enginering for High Performance Data Processing course</a>.</h4>
 
+<h3 align="center">
+  S •
+  M •
+  O •
+  L
+</h3>
+
 <p align="center">
   <a>Strong problem-solving skills</a> •
   <a>Motivation and dedication</a> •
@@ -16,7 +23,7 @@
   <a>Logical thinking</a>
 </p>
 
-![Adam (1)](https://user-images.githubusercontent.com/120595244/209939515-6d567aed-4a71-4150-9830-3e288542beca.jpg)
+![Adam (1)](https://user-images.githubusercontent.com/120595244/210052297-791f5280-c5b1-492c-ab6b-de01950a6185.jpg)
 <h2 align="center">
   GROUP MEMBERS
   <br>
