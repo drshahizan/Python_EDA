@@ -13,7 +13,7 @@ src: https://github.com/MoH-Malaysia/covid19-public/blob/main/epidemic/icu.csv
 
 This dataset contains 15656 records and 16 columns which are:
 
-| Fields Name | Explanation |
+| Field Name | Explanation |
 | ------ | ------ |
 | date | yyyy-mm-dd format; data correct as of 2359hrs on that date |
 | state | name of state, with similar qualification on exhaustiveness of date-state combos as PKRC data  |
