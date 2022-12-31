@@ -40,7 +40,7 @@ Exploratory data analysis (EDA) involves using graphics and visualizations to ex
 * [How to Do Data Exploration (step-by-step tutorial on real-life dataset)](https://www.youtube.com/watch?v=OY4eQrekQvs)
 * []()
 
-### Kaggle
+### Kaggle: Notebook
 * [Exploratory Data Analysis (Step by Step)](https://www.kaggle.com/code/prakharrathi25/exploratory-data-analysis-step-by-step)
 * []()
 * []()
