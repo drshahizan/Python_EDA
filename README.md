@@ -79,16 +79,16 @@ The information on this Github is part of the materials for the subject High Per
 * [vharivinay/python-eda-viz](https://github.com/vharivinay/python-eda-viz)
 * [demonpratapdemon/Exploratory-Data-Analysis-EDA-and-PreProcessing](https://github.com/demonpratapdemon/Exploratory-Data-Analysis-EDA-and-PreProcessing)
 * [PacktPublishing/Python-for-Data-Analysis-step-by-step-with-projects-](https://github.com/PacktPublishing/Python-for-Data-Analysis-step-by-step-with-projects-/blob/main/Solution_practice_exercise%2B(eda).ipynb)
-* [Cardio Good Fitness Project](https://github.com/sandyy2505/EDA)
-* [Data analysis of used car database ](https://github.com/ajaymache/data-analysis-using-python)
+* [sandyy2505/Cardio Good Fitness Project](https://github.com/sandyy2505/EDA)
+* [ajaymache/Data analysis of used car database ](https://github.com/ajaymache/data-analysis-using-python)
 
 ## 📖 Lab
 | No | Dataset | Colab |  GitHub |
 | ----- | ----- | ------ | ------ | 
-| 1 | Boston | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1DjKNfvPGkYyHQWpiEdyK4ozm-nXVa43D#scrollTo=nzh3zNvXEOOn) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
-| 2 | Car Features and MSRP | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1E99RyuEAZM8j2dvoxRqV8oWpg3kjqfBg#scrollTo=dB_j6LtTTO5j) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
-| 3 | Housing Dataset | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1p8GVSVIOFFJEcFdZZdbtVd3Rysd5MDyf#scrollTo=SvL9Oi6Jlw_H) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
-| 4 | United Nations Development Corporation | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1bMSLUmU-gSVJh0SF6CVWx1ddM17uBe_n) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| 1 | Boston | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1DjKNfvPGkYyHQWpiEdyK4ozm-nXVa43D#scrollTo=nzh3zNvXEOOn) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/lab/Lab_1_ml_exploratory_data_analysis.ipynb) |
+| 2 | Car Features and MSRP | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1E99RyuEAZM8j2dvoxRqV8oWpg3kjqfBg#scrollTo=dB_j6LtTTO5j) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/lab/Lab_2_Exploratory_Data_Analysis.ipynb) |
+| 3 | Housing Dataset | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1p8GVSVIOFFJEcFdZZdbtVd3Rysd5MDyf#scrollTo=SvL9Oi6Jlw_H) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/lab/Lab_3_Housing_Dataset.ipynb) |
+| 4 | United Nations Development Corporation | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1bMSLUmU-gSVJh0SF6CVWx1ddM17uBe_n) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/lab/lab4.ipynb) |
 
 ## 🚀 Case Study: Intructions
 
