@@ -64,8 +64,9 @@ The information on this Github is part of the materials for the subject High Per
 * [Exploratory Data Analysis (Step by Step)](https://www.kaggle.com/code/prakharrathi25/exploratory-data-analysis-step-by-step)
 * [A Simple Tutorial on Exploratory Data Analysis](https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis)
 * [Intro to Exploratory data analysis (EDA) in Python](https://www.kaggle.com/code/imoore/intro-to-exploratory-data-analysis-eda-in-python)
-* [Exploratory Data Analysis with Pandas](https://www.kaggle.com/code/kashnitsky/topic-1-exploratory-data-analysis-with-pandas)
+* [Topic 1. Exploratory Data Analysis with Pandas](https://www.kaggle.com/code/kashnitsky/topic-1-exploratory-data-analysis-with-pandas)
 * [Detailed exploratory data analysis with python](https://www.kaggle.com/code/ekami66/detailed-exploratory-data-analysis-with-python)
+* [EDA using Python Pandas](https://www.kaggle.com/code/olgaberezovsky/eda-using-python-pandas)
 
 ## 📖 Lab
 | No | Title | Colab |  GitHub |
