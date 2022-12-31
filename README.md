@@ -2,8 +2,12 @@
 The information on this Github is part of the materials for the subject High Performance Data Processing (SECP3133). This folder contains general Exploratory Data Analysis (EDA) information as well as EDA case studies using Malaysian datasets. This case study was created by a [Bachelor of Computer Science (Data Engineering)](https://comp.utm.my/bachelor-of-computer-science-data-engineering/), Universiti Teknologi Malaysia student.
 
 # Exploratory Data Analysis
-Exploratory data analysis (EDA) involves using graphics and visualizations to explore and analyze a data set. The goal is to explore, investigate and learn, as opposed to confirming statistical hypotheses. 
-
+✅️ EDA involves using graphics and visualizations to explore and analyze a data set. The goal is to explore, investigate and learn, as opposed to confirming statistical hypotheses. 
+✅️ EDA is used by data scientists to analyze and explore datasets and summarize the main characteristics of them.
+✅️ EDA makes it easier for data scientists to discover patterns, spot anomalies, test a hypothesis, or check assumptions.
+✅️ EDA is primarily used to provide a better understanding of dataset's variables and their relationships.
+✅️ EDA can also help determine whether the statistical techniques you are considering are appropriate for data analysis.
+✅️ Developed by the American mathematician John Tukey in the 1970s, EDA techniques continue to be a widely used method in the data exploration process today.
 **When do I use it?**: Exploratory data analysis is a powerful way to explore a data set. Even when your goal is to perform planned analyses, EDA can be used for data cleaning, for subgroup analyses or simply for understanding your data better. An important initial step in any data analysis is to plot the data. 
 
 ![EDA](https://drive.google.com/uc?export=view&id=1GUl7SVxNv_KUIUrDVa048SyqPUbn9w5M)
