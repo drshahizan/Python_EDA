@@ -16,9 +16,12 @@ Exploratory data analysis (EDA) involves using graphics and visualizations to ex
 * [r4ds: Exploratory Data Analysis](https://r4ds.had.co.nz/exploratory-data-analysis.html)
 * [careerfoundry:What Is Exploratory Data Analysis?](https://careerfoundry.com/en/blog/data-analytics/exploratory-data-analysis/)
 
-### Code
+### Code & Practice
 * [projectpro:Exploratory Data Analysis in Python-Stop, Drop and Explore](https://www.projectpro.io/article/exploratory-data-analysis-in-python-stop-drop-and-explore/427)
 
+### Videos
+
+### Kaggle
 
 ## 📖 Lab
 | No | Title | Colab |  GitHub |
