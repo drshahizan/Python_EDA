@@ -14,7 +14,17 @@ The information on this Github is part of the materials for the subject High Per
 
 ✅️ Developed by the American mathematician John Tukey in the 1970s, EDA techniques continue to be a widely used method in the data exploration process today.
 
-**When do I use it?**: Exploratory data analysis is a powerful way to explore a data set. Even when your goal is to perform planned analyses, EDA can be used for data cleaning, for subgroup analyses or simply for understanding your data better. An important initial step in any data analysis is to plot the data. 
+## Why is EDA so important in data science?
+
+✅️ The main purpose of EDA is to help you look at the data before making any assumptions. In addition to better understanding the patterns in the data or detecting unusual events, it also helps you find interesting relationships between variables.
+
+✅️ Data scientists can use exploratory analysis to ensure that the results they produce are valid and relevant to desired business outcomes and goals.
+
+✅️ EDA also helps stakeholders by verifying that they are asking the right questions. 
+
+✅️ EDA can help to answer questions about standard deviations, categorical variables, and confidence intervals.
+
+✅️ After the exploratory analysis is completed and the predictions are determined, its features can be used for more complex data analysis or modeling, including machine learning.
 
 ![EDA](https://drive.google.com/uc?export=view&id=1GUl7SVxNv_KUIUrDVa048SyqPUbn9w5M)
 
