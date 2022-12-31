@@ -117,7 +117,6 @@ Follow this step-by-step guide to work on your project.
 - Handle missing, incorrect and invalid data
 - Perform any additional steps (parsing dates, creating additional columns, merging multiple dataset etc.)
 
-
 ### Step 3: Perform exploratory analysis & visualization
 
 - Compute the mean, sum, range and other interesting statistics for numeric columns
@@ -143,26 +142,6 @@ Follow this step-by-step guide to work on your project.
 ### Step 6: Make a submission
 
 - Upload your notebook to github.
-
-
-### Example Projects
-
-Refer to these projects for inspiration:
-
-* [Malaysia Immunisation Progress](https://www.kaggle.com/code/koayhongvin/malaysia-immunisation-progress)
-
-* [Malaysia Crop EDA](https://www.kaggle.com/code/nazihahnajla/malaysia-crop-eda)
-
-* [ASEAN Democracy Index EDA](https://www.kaggle.com/code/aradinka/asean-democracy-index-eda)
-
-* [Men's International Football Analysis](https://www.kaggle.com/code/rittickchakraborty/men-s-international-football-analysis) 
-
-* [Data Science Job Salaries Analysis with Python](https://www.kaggle.com/code/muliasujiastuti/data-science-job-salaries-analysis-with-python)
-
-* [Alteration in Technology and Job Role in 2022
-](https://www.kaggle.com/code/summerakousar/alteration-in-technology-and-job-role-in-2022)
-
-* [Data Cleaning Challenge: Inconsistent Data Entry](https://www.kaggle.com/code/melanieng/data-cleaning-challenge-inconsistent-data-entry#Get-our-environment-set-up)
 
 ## 🌟 Case Study: Exploratory Data Analysis
 
