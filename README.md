@@ -6,8 +6,12 @@ Exploratory data analysis (EDA) involves using graphics and visualizations to ex
 
 **When do I use it?**: Exploratory data analysis is a powerful way to explore a data set. Even when your goal is to perform planned analyses, EDA can be used for data cleaning, for subgroup analyses or simply for understanding your data better. An important initial step in any data analysis is to plot the data. 
 
-
 ![EDA](https://drive.google.com/uc?export=view&id=1GUl7SVxNv_KUIUrDVa048SyqPUbn9w5M)
+
+## 📖 Notes
+* [Good Data Analysis](https://developers.google.com/machine-learning/guides/good-data-analysis)
+* [What is Exploratory Data Analysis?](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15)
+
 ## 📖 Lab
 | No | Title | Colab |  GitHub |
 | ----- | ----- | ------ | ------ | 
