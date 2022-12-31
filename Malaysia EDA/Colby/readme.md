@@ -1,8 +1,8 @@
 Group Name: Colby
 
 Group members: 
-1. Chloe Racquelmae Kennedy 
-2. Lee Cai Xuan 
+1. Chloe Racquelmae Kennedy A20EC0026
+2. Lee Cai Xuan A20EC0062
 
 Malaysia GE-14 Result
 This project is to examine the Malaysian general election result in 2018. The dataset consists of 1647 rows and 12 columns and is acquired from https://www.kaggle.com/. From this dataset, we could investigate the election result in terms of state results by candidate via data preparation, cleaning, and visualization.
