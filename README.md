@@ -15,28 +15,37 @@ Exploratory data analysis (EDA) involves using graphics and visualizations to ex
 * [Wikipedia: Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
 * [r4ds: Exploratory Data Analysis](https://r4ds.had.co.nz/exploratory-data-analysis.html)
 * [careerfoundry:What Is Exploratory Data Analysis?](https://careerfoundry.com/en/blog/data-analytics/exploratory-data-analysis/)
+* [How To Conduct Exploratory Data Analysis in 6 Steps](https://www.indeed.com/career-advice/career-development/how-to-conduct-exploratory-data-analysis)
+* [A Five-Step Guide for Conducting Exploratory Data Analysis](https://shopify.engineering/conducting-exploratory-data-analysis)
+
 
 ### Code & Practice
-* [projectpro:Exploratory Data Analysis in Python-Stop, Drop and Explore](https://www.projectpro.io/article/exploratory-data-analysis-in-python-stop-drop-and-explore/427)
-*[]()
-*[]()
-*[]()
-*[]()
-*[]()
+* [simplilearn: What is Exploratory Data Analysis? Steps and Market Analysis](https://www.simplilearn.com/tutorials/data-analytics-tutorial/exploratory-data-analysis)
+* [Exploratory Data Analysis (EDA): Types, Tools, Process](https://www.knowledgehut.com/blog/data-science/eda-data-science)
+* [projectpro: Exploratory Data Analysis in Python-Stop, Drop and Explore](https://www.projectpro.io/article/exploratory-data-analysis-in-python-stop-drop-and-explore/427)
+* [medium.com: 10 Things to do when conducting your Exploratory Data Analysis (EDA)](https://medium.com/data-folks-indonesia/10-things-to-do-when-conducting-your-exploratory-data-analysis-eda-7e3b2dfbf812)
+* [towardsdatascience.com: An Extensive Step by Step Guide to Exploratory Data Analysis](https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e)
+* []()
+* []()
+* []()
 
 ### Videos
 * [Exploratory Data Analysis Tutorial | What Is EDA | How EDA Works | EDA In Python | Intellipaat](https://www.youtube.com/watch?v=oS12x4GjLjM)
-*[]()
-*[]()
-*[]()
-*[]()
-*[]()
+* [Live Day 1-Live Session On EDA And Feature Engineering- Zomato Dataset](https://www.youtube.com/watch?v=F-X82zhIfBo&t=91s)
+* [Live Day 2-Live Session On EDA And Feature Engineering- Black Friday Dataset](https://www.youtube.com/watch?v=cGez1q4iOFU)
+* [Live Day 3-Live Session On EDA And Feature Engineering- Flight Price Prediction Dataset](https://www.youtube.com/watch?v=v5dqavbyE-I)
+* [Step By Step Process In EDA And Feature Engineering In Data Science Projects](https://www.youtube.com/watch?v=xhB-dmKmzRk)
+* [Exploratory Data Analysis(EDA) of Titanic dataset](https://www.youtube.com/watch?v=Ea_KAcdv1vs)
+* [Exploratory Data Analysis (EDA) Using Python | Python Data Analysis | Python Training | Edureka](https://www.youtube.com/watch?v=-o3AxdVcUtQ)
+* [Exploratory Data Analysis with Pandas Python](https://www.youtube.com/watch?v=xi0vhXFPegw)
+* [How to Do Data Exploration (step-by-step tutorial on real-life dataset)](https://www.youtube.com/watch?v=OY4eQrekQvs)
+* []()
 
 ### Kaggle
-*[]()
-*[]()
-*[]()
-*[]()
+* [Exploratory Data Analysis (Step by Step)](https://www.kaggle.com/code/prakharrathi25/exploratory-data-analysis-step-by-step)
+* []()
+* []()
+* [ ]()
 
 ## 📖 Lab
 | No | Title | Colab |  GitHub |
