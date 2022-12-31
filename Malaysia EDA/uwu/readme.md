@@ -49,9 +49,5 @@ SECP3133-01
     <td>Furnishing</td>
     <td>Whether or not the property comes pre-furnished.</td>
   </tr>
-    <tr>
-    <td>cases_total </td>
-    <td>Number of cases recorded</td>
-  </tr>
     
 </table>
