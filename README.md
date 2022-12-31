@@ -71,6 +71,17 @@ The information on this Github is part of the materials for the subject High Per
 * [Pandas: EDA of Cars Dataset](https://www.kaggle.com/code/danishasif/pandas-eda-of-cars-dataset)
 * [Step-by-step Data Preprocessing & EDA](https://www.kaggle.com/code/agrawaladitya/step-by-step-data-preprocessing-eda)
 
+### Github
+* [PacktPublishing/Hands on Exploratory Data analysis with Python](https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python)
+* [code4kunal/eda-python-examples](https://github.com/code4kunal/eda-python-examples)
+* [SouRitra01/Exploratory-Data-Analysis-EDA-in-Banking-Using-Python](https://github.com/SouRitra01/Exploratory-Data-Analysis-EDA-in-Banking-Python-Project-)
+* [sandipanpaul21/EDA-in-Python](https://github.com/sandipanpaul21/EDA-in-Python)
+* [vharivinay/python-eda-viz](https://github.com/vharivinay/python-eda-viz)
+* [demonpratapdemon/Exploratory-Data-Analysis-EDA-and-PreProcessing](https://github.com/demonpratapdemon/Exploratory-Data-Analysis-EDA-and-PreProcessing)
+* [PacktPublishing/Python-for-Data-Analysis-step-by-step-with-projects-](https://github.com/PacktPublishing/Python-for-Data-Analysis-step-by-step-with-projects-/blob/main/Solution_practice_exercise%2B(eda).ipynb)
+* [Cardio Good Fitness Project](https://github.com/sandyy2505/EDA)
+* [Data analysis of used car database ](https://github.com/ajaymache/data-analysis-using-python)
+
 ## 📖 Lab
 | No | Title | Colab |  GitHub |
 | ----- | ----- | ------ | ------ | 
