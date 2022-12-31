@@ -18,10 +18,25 @@ Exploratory data analysis (EDA) involves using graphics and visualizations to ex
 
 ### Code & Practice
 * [projectpro:Exploratory Data Analysis in Python-Stop, Drop and Explore](https://www.projectpro.io/article/exploratory-data-analysis-in-python-stop-drop-and-explore/427)
+*[]()
+*[]()
+*[]()
+*[]()
+*[]()
 
 ### Videos
+* [Exploratory Data Analysis Tutorial | What Is EDA | How EDA Works | EDA In Python | Intellipaat](https://www.youtube.com/watch?v=oS12x4GjLjM)
+*[]()
+*[]()
+*[]()
+*[]()
+*[]()
 
 ### Kaggle
+*[]()
+*[]()
+*[]()
+*[]()
 
 ## 📖 Lab
 | No | Title | Colab |  GitHub |
