@@ -1,13 +1,12 @@
-# About Us [![GitHub](https://img.shields.io/github/stars/drshahizan/Python_EDA?color=yellowgreen&logo=github)](https://img.shields.io/github/stars/drshahizan/Python_EDA?color=yellowgreen&logo=github)
-
+[![GitHub](https://img.shields.io/github/stars/drshahizan/Python_EDA?color=yellowgreen&logo=github)](https://img.shields.io/github/stars/drshahizan/Python_EDA?color=yellowgreen&logo=github)
 <a href="https://github.com/drshahizan/Python_EDA/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/Python_EDA" alt="Stars Badge"/></a>
 <a href="https://github.com/drshahizan/Python_EDA/network/members"><img src="https://img.shields.io/github/forks/drshahizan/Python_EDA" alt="Forks Badge"/></a>
 <a href="https://github.com/drshahizan/Python_EDA/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/Python_EDA" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/Python_EDA/issues"><img src="https://img.shields.io/github/issues/drshahizan/Python_EDA" alt="Issues Badge"/></a>
 <a href="https://github.com/drshahizan/Python_EDA/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/Python_EDA?color=2b9348"></a>
-<a href="https://github.com/drshahizan/Python_EDA/blob/master/LICENSE"><img src="https://img.shields.io/github/license/drshahizan/Python_EDA?color=2b9348" alt="License Badge"/></a>
 
 Don't forget to hit the :star: if you like this repo.
+# About Us
 
 The information on this Github is part of the materials for the subject High Performance Data Processing (SECP3133). This folder contains general Exploratory Data Analysis (EDA) information as well as EDA case studies using Malaysian datasets. This case study was created by a [Bachelor of Computer Science (Data Engineering)](https://comp.utm.my/bachelor-of-computer-science-data-engineering/), Universiti Teknologi Malaysia student. In addition, my research group also contributed materials and case studies. Thank you to the collaborators who shared their knowledge in this github.
 * [Li Jing](https://github.com/goldboy225)
