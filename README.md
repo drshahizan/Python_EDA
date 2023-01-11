@@ -4,8 +4,7 @@
 <a href="https://github.com/drshahizan/Python_EDA/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/Python_EDA" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/Python_EDA/issues"><img src="https://img.shields.io/github/issues/drshahizan/Python_EDA" alt="Issues Badge"/></a>
 <a href="https://github.com/drshahizan/Python_EDA/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/Python_EDA?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/Python_EDA)
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/Python_EDA)
+
 Don't forget to hit the :star: if you like this repo.
 
 # About Us
@@ -39,7 +38,7 @@ The information on this Github is part of the materials for the subject High Per
 
 ✅️ After the exploratory analysis is completed and the predictions are determined, its features can be used for more complex data analysis or modeling, including machine learning.
 
-![EDA](https://drive.google.com/uc?export=view&id=1GUl7SVxNv_KUIUrDVa048SyqPUbn9w5M)
+<img src="https://github.com/drshahizan/Python_EDA/blob/main/EDA.png"  height="200" />
 
 ## 📖 Notes
 ### Basic Concept
