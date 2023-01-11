@@ -4,7 +4,7 @@
 <a href="https://github.com/drshahizan/Python_EDA/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/Python_EDA" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/Python_EDA/issues"><img src="https://img.shields.io/github/issues/drshahizan/Python_EDA" alt="Issues Badge"/></a>
 <a href="https://github.com/drshahizan/Python_EDA/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/Python_EDA?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/Python_EDA)
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
 
 Don't forget to hit the :star: if you like this repo.
 
