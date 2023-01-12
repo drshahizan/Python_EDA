@@ -14,7 +14,7 @@ The information on this Github is part of the materials for the subject High Per
 * [Li Jing](https://github.com/goldboy225)
 * [Eman Al Jabarti](https://github.com/aljabarti84)
 <p align="center">
-<img src="https://github.com/drshahizan/Python_EDA/blob/main/lab/hpdp1.jpeg"  height="250" />
+<img src="https://github.com/drshahizan/Python_EDA/blob/main/lab/hpdp1.jpeg"  height="200" />
 </p>
 
 # Exploratory Data Analysis
