@@ -13,6 +13,9 @@ Don't forget to hit the :star: if you like this repo.
 The information on this Github is part of the materials for the subject High Performance Data Processing (SECP3133). This folder contains general Exploratory Data Analysis (EDA) information as well as EDA case studies using Malaysian datasets. This case study was created by a [Bachelor of Computer Science (Data Engineering)](https://comp.utm.my/bachelor-of-computer-science-data-engineering/), Universiti Teknologi Malaysia student. In addition, my research group also contributed materials and case studies. Thank you to the collaborators who shared their knowledge in this github.
 * [Li Jing](https://github.com/goldboy225)
 * [Eman Al Jabarti](https://github.com/aljabarti84)
+<p align="center">
+<img src="https://github.com/drshahizan/Python_EDA/blob/main/lab/hpdp1.jpeg"  height="250" />
+</p>
 
 # Exploratory Data Analysis
 ✅️ EDA involves using graphics and visualizations to explore and analyze a data set. The goal is to explore, investigate and learn, as opposed to confirming statistical hypotheses. 
