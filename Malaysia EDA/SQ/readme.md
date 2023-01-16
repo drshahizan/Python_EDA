@@ -6,6 +6,6 @@
  
  # **Title: Number of Cases and Incidents Rate of Communicable Disease by State In Malaysia**
  
- Communicable diseases are illnesses that can be passed from one person to another,
+ Communicable diseases are illnesses that can be passed from one person to another, from an animal to another, from a surface or food,
 
 
