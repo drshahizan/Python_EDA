@@ -45,6 +45,7 @@ The information on this Github is part of the materials for the subject High Per
 <p align="center">
   <img src="https://github.com/drshahizan/Python_EDA/blob/main/EDA.png"  height="200" />
 </p>
+
 ## 📖 Notes
 ### Basic Concept
 * [developers.google: Good Data Analysis](https://developers.google.com/machine-learning/guides/good-data-analysis)
