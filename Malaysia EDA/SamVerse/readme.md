@@ -1,6 +1,6 @@
 # Group Name:
 
-<h3>SamVerse</h3>
+<h4>SamVerse</h4>
 
 # Group Members:
 
