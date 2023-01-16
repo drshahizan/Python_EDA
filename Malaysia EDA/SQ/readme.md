@@ -10,5 +10,8 @@ Communicable diseases are illnesses that can be passed from one person to anothe
  
 This dataset have 2384 records and 5 columns which contains:
 
+| COLUMN NAME              |ABOUT                       |
+|----------------|-------------------------------|
+
 
 
