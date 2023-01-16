@@ -15,7 +15,7 @@ This dataset have 2384 records and 5 columns which contains:
 |Year |Indicates the year of incident rate of communicable disease in Malaysia            | 
 |State |Represents the state where the communicable disease took place          |
 |Communicable Disease | Displays the name of communicable disease|
-|Number |
+|Number | Displays how frequent the communicable disease is found in patients throughout the state and year |
 |Rate |
 
 
