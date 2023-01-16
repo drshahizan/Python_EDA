@@ -16,5 +16,6 @@ This dataset have 2384 records and 5 columns which contains:
 |State |
 |Communicable Disease |
 |Number |
+|Rate |
 
 
