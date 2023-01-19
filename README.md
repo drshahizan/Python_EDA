@@ -18,10 +18,10 @@ The information on this Github is part of the materials for the subject High Per
 </p>
 
 # 📚 Course: High Performance Data Processing 
--   [Python for beginners](https://github.com/drshahizan/python-tutorial)
--   [Exploratory data analysis](https://github.com/drshahizan/Python_EDA)
--   [Big data processing](https://github.com/drshahizan/Python-big-data)
--   [Python Web Framework](https://github.com/drshahizan/python-web)
+- [Python for beginners](https://github.com/drshahizan/python-tutorial)
+- [Web scraping and Python web framework](https://github.com/drshahizan/python-web)
+- [Exploratory data analysis](https://github.com/drshahizan/Python_EDA)
+- [Big data processing](https://github.com/drshahizan/Python-big-data)
 
 # Exploratory Data Analysis
 ✅️ EDA involves using graphics and visualizations to explore and analyze a data set. The goal is to explore, investigate and learn, as opposed to confirming statistical hypotheses. 
