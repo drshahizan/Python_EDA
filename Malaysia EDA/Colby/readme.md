@@ -5,7 +5,7 @@ Group members:
 2. Lee Cai Xuan A20EC0062
 
 Malaysia GE-14 Result
-This project is to examine the Malaysian general election result in 2018. The dataset consists of 1647 rows and 12 columns and is acquired from https://www.kaggle.com/. From this dataset, we could investigate the election result in terms of state results by candidate via data preparation, cleaning, and visualization.
+This project is to examine the Malaysian general election result in 2018. The dataset consists of 1647 rows and 12 columns and is acquired from https://www.kaggle.com/. From this dataset, we could investigate the election result in terms of state results by candidate via data preparation, cleaning, and visualization
 
 Dataset:
 [Election-Results-2018 - State_Results_By_Candidate.csv](https://github.com/drshahizan/Python_EDA/files/10317347/Election-Results-2018.-.State_Results_By_Candidate.csv)
