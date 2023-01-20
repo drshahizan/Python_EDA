@@ -30,7 +30,6 @@ This project is about Malaysia Air Pollution exploratory data analysis. This dat
 
 ## Dataset
 The dataset consists of AQI values of different pollutants for many cities all over the world. This dataset has 12 columns and 23463 rows. 
-
 The dataset can be downloaded from Kaggle: <a href="https://www.kaggle.com/datasets/hasibalmuzdadid/global-air-pollution-dataset">Global air pollution dataset</a>
 
 **global air pollution dataset.csv indicator:**
