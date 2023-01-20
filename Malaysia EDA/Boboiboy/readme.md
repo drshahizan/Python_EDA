@@ -1,8 +1,8 @@
 Group Name : Boboiboy
 
 Group Members:
-1. Goo Ye Jui
-2. Kelvin Ee
+1. Goo Ye Jui A20EC0191
+2. Kelvin Ee A20EC0195
 
 This dataset is a tabular result of scraping a property listing website for properties for sale in Kuala Lumpur, Malaysia. Only the overview page was scraped so individual property details are scarce. 
 
@@ -20,7 +20,7 @@ There are 8 columns and 53.9k records in this dataset:
     4. Bathrooms
     The number of bathrooms in the property.
 
-    5. Car Parks
+    5. Car Parks 
     The number of car parks on the property.
 
     6. Property Type
