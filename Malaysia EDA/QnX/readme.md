@@ -1,5 +1,5 @@
 Team QnX
-1. Lee Jia Xian A20EC0064
+1. Lee Jia Xian A20EC0200
 2. Lee Ming Qi  A20EC0064
 
 Exploratory Data Analysis (EDA) is a crucial step in the data science process that involves analyzing and summarizing a dataset in order to better understand its characteristics and relationships.
