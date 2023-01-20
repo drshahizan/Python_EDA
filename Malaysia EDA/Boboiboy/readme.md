@@ -25,7 +25,7 @@ There are 8 columns and 53.9k records in this dataset:
 
     6. Property Type
     Malaysian properties may fall in one of several property types depending on their characteristics.
-
+ 
     7. Size
     The total size of the property. Note that some properties are listed by their land area and others by the built-up size, i.e. the total living space of the property.
 
