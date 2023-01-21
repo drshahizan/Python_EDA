@@ -50,7 +50,7 @@ Follow this step-by-step guide to work on your project.
 - Wherever you're using a library function from Pandas/Numpy/Matplotlib etc. explain briefly what it does
 
 
-### Step 5: Summarize your inferences & write a 
+### Step 5: Summarize your inferences & write a conclusion
 
 - Write a summary of what you've learned from the analysis
 - Include interesting insights and graphs from previous sections
