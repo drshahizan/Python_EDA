@@ -18,7 +18,7 @@
 
 <p align="center">
   <a>Strong problem-solving skills</a> •
-  <a>Motivation and dedication</a> 
+  <a>Motivation and dedication</a> •
   <a>Organizational skills</a> •
   <a>Logical thinking</a>
 </p>
