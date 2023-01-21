@@ -1,5 +1,3 @@
-# Malaysia State Election 2018 Analysis
-
 # **Malaysia State Election 2018 Analysis**
 
 <table>
