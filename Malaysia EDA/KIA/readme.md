@@ -26,7 +26,7 @@ The dataset is about the state election held in 2018. It is taken from Kaggle an
 3) `Seat Name`: Number of candidate seat name 
 3) `Candidate Name`: Name of candidate 
 4) `Candidate Party`: Name of candidate political party
-5) `Votes for Candidate`: number of individuals in category `x` admitted to hospitals, where `x` can be suspected/probable, COVID-19 positive, or non-COVID
-6) `Total Votes Cast`: number of individuals in category `x` discharged from hospitals
-7) `% of total Votes`: total number of individuals in category `x` in hospitals; this is a stock variable altered by flows from admissions and discharges
-8) `Candidate Win`: total number of individuals in category `x` in hospitals; this is a stock variable altered by flows from admissions and discharges
+5) `Votes for Candidate`: Number of votes received for candidate
+6) `Total Votes Cast`: Total number of votes cast for the same seat ID
+7) `% of total Votes`: Percentage of votes received by candidate from total votes 
+8) `Candidate Win`: Boolean type to show candidate win: 1 = Win while 0 = lost
