@@ -21,9 +21,6 @@ The dataset is about the state election held in 2018. It is taken from Kaggle an
 
 
 ### Dataset Description
-[`hospital.csv`](hospital.csv): Flow of patients to/out of hospitals, with capacity and utilisation.
-
-### Dataset Description
 [`Election-Results-2018.csv`]: State results By candidate 
 
 1) `State`: Name of candidate state 
