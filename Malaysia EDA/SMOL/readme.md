@@ -12,7 +12,7 @@
 <h3 align="center">
   S •
   M •
-  O 
+  O •
   L
 </h3>
 
