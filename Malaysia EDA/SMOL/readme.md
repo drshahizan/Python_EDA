@@ -10,7 +10,7 @@
 <h4 align="center">A group of two students from Data Enginering for High Performance Data Processing course</a>.</h4>
 
 <h3 align="center">
-  S 
+  S •
   M 
   O 
   L
