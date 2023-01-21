@@ -19,3 +19,4 @@ This dataset shows the flow of patients to/out of hospitals, with capacity and u
 6) `discharged_x`: number of individuals in category `x` discharged from hospitals
 7) `hosp_x`: total number of individuals in category `x` in hospitals; this is a stock variable altered by flows from admissions and discharges
 
+ 
