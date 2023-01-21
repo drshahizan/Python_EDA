@@ -11,7 +11,7 @@
 
 <h3 align="center">
   S •
-  M 
+  M •
   O 
   L
 </h3>
