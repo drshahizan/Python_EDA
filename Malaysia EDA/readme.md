@@ -1,4 +1,4 @@
-## 🚀 Case Study: Intructions
+## 🚀 Case Study: Intruction
 
 Your submission will be evaluated using the following criteria:
 
