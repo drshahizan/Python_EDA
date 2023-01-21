@@ -2,7 +2,7 @@
 
 ### Pixelated
 1. Terence Loorthanathan (A20EC0165)
-2. Rishma Fathima Binti Basher (A20E
+2. Rishma Fathima Binti Basher (A20EC
 
 ### Dataset
 Dataset taken from Department Of Statistics Malaysia Official Portal<br>
