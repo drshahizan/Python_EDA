@@ -2,7 +2,7 @@
 
 Your submission will be evaluated using the following criteria:
 
-* Dataset must contain at least 5 columns and 150 rows of data
+* Dataset must contain at least 5 columns and 1500 rows of data
 * You must ask and answer at least 5 questions about the dataset
 * Your submission must include at least 5 visualizations (graphs)
 * Your submission must include explanations using markdown cells, apart from the code.
