@@ -1,6 +1,6 @@
 ## 🚀 Case Study: Intructions
 
-You submission will be evaluated using the following criteria:
+Your submission will be evaluated using the following criteria:
 
 * Dataset must contain at least 5 columns and 1500 rows of data
 * You must ask and answer at least 5 questions about the dataset
