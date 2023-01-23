@@ -23,3 +23,11 @@ This dataset contains 15656 records and 16 columns and the columns that we used 
 | vent_port | total available portable ventilators|
 | icu_x | total number of individuals in category x under intensive care, where x can be suspected/probable(icu_pui), COVID-19 positive(icu_covid), or non-COVID(icu_noncovid); this is a stock variable |
 | vent_x | total number of individuals in category x on mechanical ventilation, where x can be suspected/probable(vent_pui), COVID-19 positive (vent_covid), or non-COVID(vent_noncovid); this is a stock variable |
+
+### Investigation 🔬
+There are five things that we want to prove from this dataset:
+1. Does the amount of ventilator used by covid patient were the highest during the peak season of covid-19?
+2. Which state provides the most amount of ICU bed?
+3. Is there any strong correlation between the ICU and ventilator used by the covid patient?
+4. Listing out the percentage of covid-19 patients in ICU every year.
+5. Listing the amount of records for Sabah.
