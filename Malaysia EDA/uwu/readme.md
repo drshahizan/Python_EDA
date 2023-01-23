@@ -1,7 +1,8 @@
 <h1>Property Listings in Kuala Lumpur</h1>
-This is the tabular result of scraping a property listing website for properties for sale in Kuala Lumpur, Malaysia. Only the overview page was scraped so individual property details are scarce.
 
-We are motivated to do EDA on this dataset because we, ourselves are curious about the insights that can be obtain from this dataset. Since it provides information about the capital city of Malaysia, we are delighted to know more about it especially regarding what influence the price of a property in KL.
+This is the tabular result of scraping a property listing website for properties for sale in Kuala Lumpur, Malaysia. Only the overview page was scraped so individual property details are scarce. The dataset is obtained from [Kaggle](https://www.kaggle.com/datasets/dragonduck/property-listings-in-kuala-lumpur) that contains 8 columns with 53884 rows.
+
+We are motivated to do EDA on this dataset because we, ourselves are curious about the insights that can be obtain from this dataset. Since it provides information about the capital city of Malaysia, we are delighted to know more about it especially regarding what influence the price of a property in KL. 
 
 <h2>Prepared by:</h2>
 <li>Nur Izzah Mardhiah binti Rashidi A20EC0116</li>
