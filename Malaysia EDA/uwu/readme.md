@@ -56,3 +56,29 @@ SECP3133-01
   </tr>
     
 </table>
+
+<h2>Inferences and Conclusion</h2>
+
+   1. We could see that most properties which is marketed in this website is located at KLCC through the bar graph. There are several possible reasons from this             including too expensive price that people could not afford or people do not prefer to stay at the center of the city or the properties built are exceeding the         population.
+   2. However, we do not think that too high price is the main factor for this to happen. This is because if we observe the bar graph that shows mean price based on         location, properties in Taman Duta will be most expensive, yet Taman Duta is not among the highest number of properties marketed in this website.
+   3. Hence, we conclude that there is much more factor influencing the number of properties based on the location in this website. Clearly, not just because of the         price.
+
+***Property price does not mainly influence the number of properties being marketed in a location.***
+
+   1. Next, to compare, land area properties display longer box plot than built-up which means that land area has more dispersed data. Built-ups has median value near       2.5 bathrooms and some values outlies from 5 to 10 bathrooms.
+   2. However, for the land area, the median is located slightly higher than built-up which is nearly 5. The maximum value is much higher and less outliers are shown         compared to built-ups.
+   
+***Hence, the data is realistic as land area commonly have a bigger space for more bathrooms than built-ups.***
+
+<h3>**In general, this dataset is not enough if we would like to determine what exactly influences the market property price.**</h3>
+    
+    
+<h2>References and Future Work</h2>
+
+In the future projects, we would like to search for more dataset and information about the possible factors that affect the property price as well as the reason behind the huge amount of marketed properties in this website.
+
+References:
+
+   1. [Pandas Guide](https://pandas.pydata.org/docs/user_guide/text.html)
+   2. [Data Visualization](https://www.analyticsvidhya.com/blog/2021/02/an-intuitive-guide-to-visualization-in-python/)
+   3. [Dataset](https://www.kaggle.com/datasets/dragonduck/property-listings-in-kuala-lumpur)
