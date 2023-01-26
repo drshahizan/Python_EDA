@@ -25,6 +25,13 @@ This project aims to investigate the flows of foreign direct investment in Malay
 | **Debit RM million** |   Flow of funds from Malaysia |
 | **Net RM million** |  Credit RM million - Debit RM million |
 
-Tools: 🔎
+<b>Tools: 🔎</b>
 - Google Colab
 - Github
+
+<b>Results:</b><br>
+1. The foreign direct investment in the second quarter of 2009 experienced a ***loss of RM 726 million*** probably because there was a global crisis in 2009.
+2. ***Singapore*** invest the most on Malaysia, followed by ***Japan***.
+3. All of the investment by all blocks of countries brought the ***positive effect*** to the economy of Malaysia.
+4. From 2008 to 2022, 2012 is the ***most profitable*** year.
+5. The country which has highest impact towards Malaysia Inventment is ***Japan***, followed by ***United States*** and the third is ***Singapore***.
