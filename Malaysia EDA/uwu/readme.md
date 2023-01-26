@@ -16,7 +16,7 @@ We are motivated to do EDA on this dataset because we, ourselves are curious abo
 Prof. Madya. Ts. Dr. Mohd Shahizan Bin Othman
 SECP3133-01
 
-<h2>Column Name and Description</h2>
+<h2>About Dataset</h2>
 <table>
   <tr>
     <th>Columns</th>
