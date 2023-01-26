@@ -63,14 +63,14 @@ SECP3133-01
    2. However, we do not think that too high price is the main factor for this to happen. This is because if we observe the bar graph that shows mean price based on         location, properties in Taman Duta will be most expensive, yet Taman Duta is not among the highest number of properties marketed in this website.
    3. Hence, we conclude that there is much more factor influencing the number of properties based on the location in this website. Clearly, not just because of the         price.
 
-***Property price does not mainly influence the number of properties being marketed in a location.***
+> Property price does not mainly influence the number of properties being marketed in a location. 
 
    1. Next, to compare, land area properties display longer box plot than built-up which means that land area has more dispersed data. Built-ups has median value near       2.5 bathrooms and some values outlies from 5 to 10 bathrooms.
    2. However, for the land area, the median is located slightly higher than built-up which is nearly 5. The maximum value is much higher and less outliers are shown         compared to built-ups.
    
-***Hence, the data is realistic as land area commonly have a bigger space for more bathrooms than built-ups.***
+> Hence, the data is realistic as land area commonly have a bigger space for more bathrooms than built-ups.
 
-<h3>**In general, this dataset is not enough if we would like to determine what exactly influences the market property price.**</h3>
+***In general, this dataset is not enough if we would like to determine what exactly influences the market property price.***
     
     
 <h2>References and Future Work</h2>
