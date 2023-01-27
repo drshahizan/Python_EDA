@@ -40,3 +40,10 @@ Dataset:
         </tr>
     </tbody>
 </table>
+
+#### Result:
+1. There are 89.3% of male candidates and 10.7% of female candidates in the general election of 2018.
+2. Among the winning candidates, BN has 144 male and 22 female candidates; DAP has 5 male and 1 female candidates; PAS has 87 male and 3 female candidates; PKR has 188 male and 32 female candidates; SOLIDARITI has 2 male and 0 female candidates; Warisan has 18 male and 3 female candidates.
+3. In ANAKNEGERI party, most candidates are businessman.
+4. In Johor, most people participated the voting for election in seat name Skudai.
+5. In Perlis, Beseri area, BN has the most votes with a total of 2879 votes, followed by PAS with 1523 votes and PKR 2463 votes.
