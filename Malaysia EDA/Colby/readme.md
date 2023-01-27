@@ -22,17 +22,14 @@ Dataset:
     <tbody>
         <tr>
             <td rowspan=1>State<td>
-            <td>-</td>
             <td>Name of State in Malaysia</td>
         </tr>
         <tr>
             <td rowspan=1>Seat ID<td>
-            <td>-</td>
             <td>Seat ID Number</td>
         </tr>
         <tr>
             <td rowspan=1>Seat Name<td>
-            <td>-</td>
             <td>Name of Seat</td>
         </tr>
         <tr>
@@ -42,12 +39,10 @@ Dataset:
         </tr>
         <tr>
             <td rowspan=1>Candidate Party<td>
-            <td>-</td>
             <td>Candidate Party in Malaysia</td>
         </tr>
         <tr>
             <td rowspan=1>Votes for Candidate<td>
-            <td>-</td>
             <td>Number of Votes for Candidate</td>
         </tr>
         <tr>
@@ -57,11 +52,10 @@ Dataset:
         </tr>
         <tr>
             <td rowspan=1>% of total Votes<td>
-            <td>-</td>
             <td>Percentage of Total Votes</td>
         </tr>
         <tr>
-            <td rowspan=2>Candidate Win<td>
+            <td rowspan=2>Candidate Win</td>
             <td>1</td>
             <td>Win</td>
         </tr>
