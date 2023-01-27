@@ -34,7 +34,6 @@ Dataset:
         </tr>
         <tr>
             <td rowspan=1>Candidate Name<td>
-            <td>-</td>
             <td>Candidate Name for Each Seat</td>
         </tr>
         <tr>
@@ -47,7 +46,6 @@ Dataset:
         </tr>
         <tr>
             <td rowspan=1>Total Votes Cast<td>
-            <td>-</td>
             <td>Total Number of Votes Cast</td>
         </tr>
         <tr>
