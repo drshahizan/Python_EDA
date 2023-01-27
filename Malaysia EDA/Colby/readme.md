@@ -63,7 +63,6 @@ Dataset:
         </tr>
         <tr>
             <td rowspan=1>Pekerjaan<td>
-            <td>-</td>
             <td>Career</td>
         </tr>
         <tr>
