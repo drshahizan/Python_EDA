@@ -219,10 +219,9 @@ EDA is a vital but time-consuming task in a data project. Here are 10 open-sourc
 - Covers info about missing values, data statistics, correlation etc. 
 
 | Library | Github | Web |
-| :-------------: | :-------------: | ------------- |
+| ------------- | :-------------: | :-------------: |
 | ExploriPy | [:octocat:](https://pypi.org/project/ExploriPy/) | [:earth_asia:](https://pypi.org/project/ExploriPy/) |
-| <img src='png/CAS.png?raw=true' width='21' height='15'> | 🌐 | 🕸️
-
+| SweetViz | [:octocat:](https://pypi.org/project/sweetviz/) | [:earth_asia:](https://pypi.org/project/sweetviz/) |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
