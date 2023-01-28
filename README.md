@@ -173,6 +173,60 @@ EDA is a vital but time-consuming task in a data project. Here are 10 open-sourc
 - Covers info about missing values, data statistics, correlation etc.
 - Plots data feature interactions.
 
+
+
+### AutoViz
+- Supports CSV, TXT, and JSON.
+- Interactive Bokeh charts.
+- Covers info about missing values, data statistics, correlation etc.
+- Presents data cleaning suggestions.
+
+### D-Tale
+Runs common Pandas
+operation with
+no-code.
+Exports code of
+analysis.
+Covers info about missing
+values, data statistics,
+correlation etc.
+Highlights duplicates,
+outliers, etc.
+Integrates with Jupyter
+Notebook.
+
+### dabl
+Primarily provides visualizations.
+Covers wide range of plots.
+Scatter pair plots.
+Histograms.
+Target distribution.
+
+### QuickDA
+Get overview report of dataset.
+Covers info about missing values, data statistics, correlation etc.
+Produces data alerts.
+Plots data feature interactions.
+
+### Datatile
+- Extends Pandas describe().
+- Provides column stats.
+- Column type count.
+- Counts, missing, etc.
+- Column datatype.
+- Mostly statistical information.
+
+### Lux
+- Provides visualization recommendations.
+- Supports EDA on a subset of columns.
+- Integrates with Jupyter Notebook.
+- Exports code of analysis.
+
+### ExploriPy
+- Performs statistical testing.
+- Column type-wise distribution: Continuous, Categorical
+- Covers info about missing values, data statistics, correlation etc.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
 
