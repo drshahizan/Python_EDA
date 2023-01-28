@@ -154,54 +154,52 @@ The information on this Github is part of the materials for the subject High Per
 ## Automated EDA Tools
 EDA is a vital but time-consuming task in a data project. Here are 10 open-source tools that generate an EDA report in seconds.
 
-### SweetViz
+### [SweetViz](https://pypi.org/project/sweetviz/)
 - In-depth EDA report in two lines of code.
 - Covers information about missing values, data statistics, etc.
 - Creates a variety of data visualizations.
 - Integrates with Jupyter Notebook.
 
-### Pandas-Profiling
+### [Pandas-Profiling]()
 - Generate a high-level EDA report of your data in no time.
 - Covers info about missing values, data statistics, correlation etc.
 - Produces data alerts.
 - Plots data feature interactions.
 
-### DataPrep
+### [DataPrep]()
 - Supports Pandas and Dask DataFrames.
 - Interactive Visualizations.
 - 10x Faster than Pandas based tools.
 - Covers info about missing values, data statistics, correlation etc.
 - Plots data feature interactions.
 
-
-
-### AutoViz
+### [AutoViz]()
 - Supports CSV, TXT, and JSON.
 - Interactive Bokeh charts.
 - Covers info about missing values, data statistics, correlation etc.
 - Presents data cleaning suggestions.
 
-### D-Tale
+### [D-Tale]()
 - Runs common Pandas operation with no-code.
 - Exports code of analysis.
 - Covers info about missing values, data statistics, correlation etc.
 - Highlights duplicates, outliers, etc.
 - Integrates with Jupyter Notebook.
 
-### dabl
+### [dabl]()
 - Primarily provides visualizations.
 - Covers wide range of plots.
 - Scatter pair plots.
 - Histograms.
 - Target distribution.
 
-### QuickDA
+### [QuickDA]()
 - Get overview report of dataset.
 - Covers info about missing values, data statistics, correlation etc.
 - Produces data alerts.
 - Plots data feature interactions.
 
-### Datatile
+### [Datatile]()
 - Extends Pandas describe().
 - Provides column stats.
 - Column type count.
@@ -209,13 +207,13 @@ EDA is a vital but time-consuming task in a data project. Here are 10 open-sourc
 - Column datatype.
 - Mostly statistical information.
 
-### Lux
+### [Lux]()
 - Provides visualization recommendations.
 - Supports EDA on a subset of columns.
 - Integrates with Jupyter Notebook.
 - Exports code of analysis.
 
-### ExploriPy
+### [ExploriPy]()
 - Performs statistical testing.
 - Column type-wise distribution: Continuous, Categorical
 - Covers info about missing values, data statistics, correlation etc.
