@@ -182,31 +182,24 @@ EDA is a vital but time-consuming task in a data project. Here are 10 open-sourc
 - Presents data cleaning suggestions.
 
 ### D-Tale
-Runs common Pandas
-operation with
-no-code.
-Exports code of
-analysis.
-Covers info about missing
-values, data statistics,
-correlation etc.
-Highlights duplicates,
-outliers, etc.
-Integrates with Jupyter
-Notebook.
+- Runs common Pandas operation with no-code.
+- Exports code of analysis.
+- Covers info about missing values, data statistics, correlation etc.
+- Highlights duplicates, outliers, etc.
+- Integrates with Jupyter Notebook.
 
 ### dabl
-Primarily provides visualizations.
-Covers wide range of plots.
-Scatter pair plots.
-Histograms.
-Target distribution.
+- Primarily provides visualizations.
+- Covers wide range of plots.
+- Scatter pair plots.
+- Histograms.
+- Target distribution.
 
 ### QuickDA
-Get overview report of dataset.
-Covers info about missing values, data statistics, correlation etc.
-Produces data alerts.
-Plots data feature interactions.
+- Get overview report of dataset.
+- Covers info about missing values, data statistics, correlation etc.
+- Produces data alerts.
+- Plots data feature interactions.
 
 ### Datatile
 - Extends Pandas describe().
