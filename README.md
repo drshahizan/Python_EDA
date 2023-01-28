@@ -143,7 +143,7 @@ The information on this Github is part of the materials for the subject High Per
 
 | Name | Title | Colab |  GitHub |
 | ----- | ----- | ------ | ------ | 
-| Li Jing | ABC | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| Li Jing | ABC | [![Colab](https://img.shields.io/static/v1?label=&message=Colab&labelColor=grey&color=blue&logo=google-colab)](https://) | [![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&labelColor=grey&color=blue&logo=github)](https://) |
 | Saleh Dhekre Saber Saleh | ABC  | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
 | Eman Al Jabarti | ABC  | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
 | Anwar Said Salim Al Talaii | ABC  | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
