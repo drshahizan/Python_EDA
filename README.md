@@ -220,7 +220,7 @@ EDA is a vital but time-consuming task in a data project. Here are 10 open-sourc
 
 | Library | Github | Web |
 | :-------------: | :-------------: | ------------- |
-| <img src='https://github.com/drshahizan/Python_EDA/blob/main/images/WW.png?raw=true' width='21' height='15'> | [:octocat:](https://pypi.org/project/ExploriPy/) | 🌏 |
+| ExploriPy | [:octocat:](https://pypi.org/project/ExploriPy/) | [:earth_asia:](https://pypi.org/project/ExploriPy/) |
 | <img src='png/CAS.png?raw=true' width='21' height='15'> | 🌐 | 🕸️
 
 
