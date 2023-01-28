@@ -216,7 +216,18 @@ EDA is a vital but time-consuming task in a data project. Here are 10 open-sourc
 ### [ExploriPy](https://pypi.org/project/ExploriPy/)
 - Performs statistical testing.
 - Column type-wise distribution: Continuous, Categorical
-- Covers info about missing values, data statistics, correlation etc.
+- Covers info about missing values, data statistics, correlation etc. 
+
+| Flag | Code | Region |
+| :-------------: | :-------------: | ------------- |
+| <img src='png/CAF.png?raw=true' width='21' height='15'> | CAF | Africa
+| <img src='png/CAS.png?raw=true' width='21' height='15'> | CAS | Asia
+| <img src='png/CNA.png?raw=true' width='21' height='15'> | CNA | North America
+| <img src='png/COC.png?raw=true' width='21' height='15'> | COC | Oceania
+| <img src='png/CSA.png?raw=true' width='21' height='15'> | CSA | South America
+| <img src='png/EU.png?raw=true' width='21' height='15'> | EU | European Union
+| <img src='png/WW.png?raw=true' width='21' height='15'> | WW | World
+| <img src='png/LGBT@2x.png?raw=true' width='21' height='15'> | LGBT | Pride
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
