@@ -186,20 +186,20 @@ EDA is a vital but time-consuming task in a data project. Here are 10 open-sourc
 - Highlights duplicates, outliers, etc.
 - Integrates with Jupyter Notebook.
 
-### [dabl]()
+### [dabl](https://pypi.org/project/dabl/)
 - Primarily provides visualizations.
 - Covers wide range of plots.
 - Scatter pair plots.
 - Histograms.
 - Target distribution.
 
-### [QuickDA]()
+### [QuickDA](https://pypi.org/project/quickda/)
 - Get overview report of dataset.
 - Covers info about missing values, data statistics, correlation etc.
 - Produces data alerts.
 - Plots data feature interactions.
 
-### [Datatile]()
+### [Datatile](https://pypi.org/project/datatile/)
 - Extends Pandas describe().
 - Provides column stats.
 - Column type count.
@@ -207,13 +207,13 @@ EDA is a vital but time-consuming task in a data project. Here are 10 open-sourc
 - Column datatype.
 - Mostly statistical information.
 
-### [Lux]()
+### [Lux](https://lux-api.readthedocs.io/en/latest/#:~:text=Lux%20is%20a%20Python%20library,what%20they%20are%20looking%20for.)
 - Provides visualization recommendations.
 - Supports EDA on a subset of columns.
 - Integrates with Jupyter Notebook.
 - Exports code of analysis.
 
-### [ExploriPy]()
+### [ExploriPy](https://pypi.org/project/ExploriPy/)
 - Performs statistical testing.
 - Column type-wise distribution: Continuous, Categorical
 - Covers info about missing values, data statistics, correlation etc.
