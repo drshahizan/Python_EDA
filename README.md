@@ -160,26 +160,26 @@ EDA is a vital but time-consuming task in a data project. Here are 10 open-sourc
 - Creates a variety of data visualizations.
 - Integrates with Jupyter Notebook.
 
-### [Pandas-Profiling]()
+### [Pandas-Profiling](https://pypi.org/project/pandas-profiling/)
 - Generate a high-level EDA report of your data in no time.
 - Covers info about missing values, data statistics, correlation etc.
 - Produces data alerts.
 - Plots data feature interactions.
 
-### [DataPrep]()
+### [DataPrep](https://dataprep.ai/)
 - Supports Pandas and Dask DataFrames.
 - Interactive Visualizations.
 - 10x Faster than Pandas based tools.
 - Covers info about missing values, data statistics, correlation etc.
 - Plots data feature interactions.
 
-### [AutoViz]()
+### [AutoViz](https://pypi.org/project/autoviz/0.0.6/)
 - Supports CSV, TXT, and JSON.
 - Interactive Bokeh charts.
 - Covers info about missing values, data statistics, correlation etc.
 - Presents data cleaning suggestions.
 
-### [D-Tale]()
+### [D-Tale](https://pypi.org/project/dtale/)
 - Runs common Pandas operation with no-code.
 - Exports code of analysis.
 - Covers info about missing values, data statistics, correlation etc.
