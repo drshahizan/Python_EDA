@@ -218,7 +218,7 @@ EDA is a vital but time-consuming task in a data project. Here are 10 open-sourc
 - Column type-wise distribution: Continuous, Categorical
 - Covers info about missing values, data statistics, correlation etc. 
 
-| Flag | Code | Region |
+| Library | Web | Github |
 | :-------------: | :-------------: | ------------- |
 | <img src='https://github.com/drshahizan/Python_EDA/blob/main/images/WW.png?raw=true' width='21' height='15'> | [:octocat:](https://pypi.org/project/ExploriPy/) | Africa
 | <img src='png/CAS.png?raw=true' width='21' height='15'> | 🌐 | Asia
