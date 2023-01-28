@@ -151,6 +151,9 @@ The information on this Github is part of the materials for the subject High Per
 | Shiekhah AL Binali | ABC  | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
 | Li Haopeng | ABC  | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
 
+## Automated EDA Tools
+EDA is a vital but time-consuming task in a data project. Here are 10 open-source tools that generate an EDA report in seconds.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
 
