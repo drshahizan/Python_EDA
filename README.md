@@ -154,6 +154,30 @@ The information on this Github is part of the materials for the subject High Per
 ## Automated EDA Tools
 EDA is a vital but time-consuming task in a data project. Here are 10 open-source tools that generate an EDA report in seconds.
 
+1. SweetViz
+  - In-depth EDA report in two lines of code.
+  - Covers information about missing values, data statistics, etc.
+  - Creates a variety of data visualizations.
+  - Integrates with Jupyter Notebook.
+
+2. Pandas-Profiling
+Generate a high-level EDA report of your data in no time.
+Covers info about missing values, data statistics, correlation etc.
+Produces data alerts.
+Plots data feature interactions.
+
+3. DataPrep
+Supports Pandas and
+Dask DataFrames.
+Interactive Visualizations.
+10x Faster than Pandas
+based tools.
+Covers info about missing
+values, data statistics,
+correlation etc.
+Plots data feature
+interactions.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
 
