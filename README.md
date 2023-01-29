@@ -218,9 +218,12 @@ EDA is a vital but time-consuming task in a data project. Here are 10 open-sourc
 - Column type-wise distribution: Continuous, Categorical
 - Covers info about missing values, data statistics, correlation etc. 
 
-| Library | Github | Web |
-| ------------- | :-------------: | :-------------: |
-| ExploriPy | [:octocat:](https://github.com/exploripy/exploripy) | [🌐](https://pypi.org/project/ExploriPy/) |
+| Library | Description | Web | Github |
+| ------------- | :------------- | :-------------: | :-------------: |
+| ExploriPy | - In-depth EDA report in two lines of code.<br>
+- Covers information about missing values, data statistics, etc.<br>
+- Creates a variety of data visualizations. <br>
+- Integrates with Jupyter Notebook.|[🌐](https://pypi.org/project/ExploriPy/) | [:octocat:](https://github.com/exploripy/exploripy) |
 | SweetViz | [:octocat:](https://pypi.org/project/sweetviz/) | [:earth_asia:](https://pypi.org/project/sweetviz/) |
 
 ## Contribution 🛠️
