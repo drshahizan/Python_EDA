@@ -228,8 +228,9 @@ EDA is a vital but time-consuming task in a data project. Here are 10 open-sourc
 | dabl | - In-depth EDA report in two lines of code.<br> - Covers information about missing values, data statistics, etc.<br> - Creates a variety of data visualizations. <br>- Integrates with Jupyter Notebook.|[🌐](https://pypi.org/project/sweetviz/) | [:octocat:](https://github.com/fbdesignpro/sweetviz) |
 | QuickDA | - In-depth EDA report in two lines of code.<br> - Covers information about missing values, data statistics, etc.<br> - Creates a variety of data visualizations. <br>- Integrates with Jupyter Notebook.|[🌐](https://pypi.org/project/sweetviz/) | [:octocat:](https://github.com/fbdesignpro/sweetviz) |
 | Datatile | - In-depth EDA report in two lines of code.<br> - Covers information about missing values, data statistics, etc.<br> - Creates a variety of data visualizations. <br>- Integrates with Jupyter Notebook.|[🌐](https://pypi.org/project/sweetviz/) | [:octocat:](https://github.com/fbdesignpro/sweetviz) |
-| Datatile | - In-depth EDA report in two lines of code.<br> - Covers information about missing values, data statistics, etc.<br> - Creates a variety of data visualizations. <br>- Integrates with Jupyter Notebook.|[🌐](https://pypi.org/project/sweetviz/) | [:octocat:](https://github.com/fbdesignpro/sweetviz) |
-| Datatile | - In-depth EDA report in two lines of code.<br> - Covers information about missing values, data statistics, etc.<br> - Creates a variety of data visualizations. <br>- Integrates with Jupyter Notebook.|[🌐](https://pypi.org/project/sweetviz/) | [:octocat:](https://github.com/fbdesignpro/sweetviz) |
+| Lux | - In-depth EDA report in two lines of code.<br> - Covers information about missing values, data statistics, etc.<br> - Creates a variety of data visualizations. <br>- Integrates with Jupyter Notebook.|[🌐](https://pypi.org/project/sweetviz/) | [:octocat:](https://github.com/fbdesignpro/sweetviz) |
+| ExploriPy | - Performs statistical testing.<br>- Column type-wise distribution: Continuous, Categorical<br>- Covers info about missing values, data statistics, correlation etc. 
+|[🌐](https://pypi.org/project/sweetviz/) | [:octocat:](https://github.com/fbdesignpro/sweetviz) |
 
 
 ## Contribution 🛠️
