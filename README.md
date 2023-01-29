@@ -220,8 +220,7 @@ EDA is a vital but time-consuming task in a data project. Here are 10 open-sourc
 
 | Library | Description | Web | Github |
 | ------------- | :------------- | :-------------: | :-------------: |
-| ExploriPy | - In-depth EDA report in two lines of code.<br> - Covers information about missing values, data statistics, etc.<br> - Creates a variety of data visualizations. <br>- Integrates with Jupyter Notebook.|[🌐](https://pypi.org/project/ExploriPy/) | [:octocat:](https://github.com/exploripy/exploripy) |
-| SweetViz | [:octocat:](https://pypi.org/project/sweetviz/) | [:earth_asia:](https://pypi.org/project/sweetviz/) |
+| SweetViz | - In-depth EDA report in two lines of code.<br> - Covers information about missing values, data statistics, etc.<br> - Creates a variety of data visualizations. <br>- Integrates with Jupyter Notebook.|[🌐](https://pypi.org/project/sweetviz/) | [:octocat:](https://github.com/fbdesignpro/sweetviz) |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
