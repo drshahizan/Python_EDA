@@ -60,3 +60,9 @@ The dataset can be downloaded from Kaggle: <a href="https://www.kaggle.com/datas
          PM2.5 AQI Value : AQI value of Particulate Matter with a diameter of 2.5 micrometers or less of the city
 
          PM2.5 AQI Category : AQI category of Particulate Matter with a diameter of 2.5 micrometers or less of the city 
+
+
+<h4>Conclusion</h4>
+From the above analysis, the air quality across the vast majority of Malaysia is moderate, or within acceptable limits. However, there may be a risk for some people, particularly those with extreme sensitivities to air pollution. Furthermore, no Malaysian citizen is at high risk because air quality in Malaysian cities does not reach hazardous levels, so no one needs to stay indoors and wear a mask to protect themselves from the pollution.
+
+Looking at the plots for all of the cities above, it is clear that the AQI values in Malaysia are under control, but several cities require immediate action. As a result, there is no such thing as a safe level of air pollution, especially as the AQI approaches 50 and beyond. By learning whether or not the air we breathe is safe and how air pollution can affect our health, we can reduce the negative effects of air pollution on our bodies.
