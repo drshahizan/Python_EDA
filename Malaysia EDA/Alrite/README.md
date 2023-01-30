@@ -17,6 +17,7 @@ We wish to compare the compare the residential property price in Kuala Lumpur.be
 
 - CHONG KAI ZHE A20EC0186
 - RASMIN KAUR SANDHU A19ET0216
+
 --
 # Inference and Conclusion
 
