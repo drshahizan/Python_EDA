@@ -59,4 +59,4 @@ The dataset can be downloaded from Kaggle: <a href="https://www.kaggle.com/datas
 
          PM2.5 AQI Value : AQI value of Particulate Matter with a diameter of 2.5 micrometers or less of the city
 
-         PM2.5 AQI Category : AQI category of Particulate Matter with a diameter of 2.5 micrometers or less of the city
+         PM2.5 AQI Category : AQI category of Particulate Matter with a diameter of 2.5 micrometers or less of the city 
