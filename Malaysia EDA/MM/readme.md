@@ -23,15 +23,6 @@ In 2018, Malaysia had a general election to elect members of the 'Dewan Rakyat' 
     <td>Seat Name</td>
     <td>The name of the seats that are competing for election by states</td>
   </tr>
-  <tr>
-    <td>Candidate Name</td>
-    <td>Name of the candidates who competing for the election</td>
-  </tr>
-  <tr>
-    <td>Candidate Party</td>
-    <td>The party that the candidates represent</td>
-  </tr>
-  <tr>
 </table>
  
 <h2>Column Name and Description</h2>
