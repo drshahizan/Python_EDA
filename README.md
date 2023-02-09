@@ -64,9 +64,11 @@ Exploratory Data Analysis (EDA) is a crucial step in the data science process. I
 5. Plotly: an interactive data visualization library.
 
 In EDA, you might perform tasks such as cleaning the data, handling missing values, transforming variables, generating summary statistics, creating visualizations (e.g. histograms, scatter plots, box plots), and identifying outliers. All of these tasks can be done using the above libraries in Python.
+
 ## 📖 Notes
 ### Basic Concept
 * [developers.google: Good Data Analysis](https://developers.google.com/machine-learning/guides/good-data-analysis)
+* [Datascience using Python: Exploratory_Data_Analysis]()
 * [Towardsdatascience: What is Exploratory Data Analysis?](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15)
 * [Wikipedia: Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
 * [r4ds: Exploratory Data Analysis](https://r4ds.had.co.nz/exploratory-data-analysis.html)
