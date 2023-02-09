@@ -24,6 +24,8 @@ The information on this Github is part of the materials for the subject High Per
 - [Big data processing](https://github.com/drshahizan/Python-big-data)
 
 # Exploratory Data Analysis
+Exploratory Data Analysis (EDA) is a crucial step in the data science process. It involves the visual and statistical examination of a dataset to better understand its characteristics, patterns, and relationships.
+
 ✅️ EDA involves using graphics and visualizations to explore and analyze a data set. The goal is to explore, investigate and learn, as opposed to confirming statistical hypotheses. 
 
 ✅️ EDA is used by data scientists to analyze and explore datasets and summarize the main characteristics of them.
