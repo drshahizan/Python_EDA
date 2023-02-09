@@ -68,7 +68,7 @@ In EDA, you might perform tasks such as cleaning the data, handling missing valu
 ## 📖 Notes
 ### Basic Concept
 * [developers.google: Good Data Analysis](https://developers.google.com/machine-learning/guides/good-data-analysis)
-* [Datascience using Python: Exploratory_Data_Analysis]()
+* [Datascience using Python: Exploratory_Data_Analysis](https://github.com/drshahizan/Python_EDA/blob/main/images/Datascience_using_Python_EDA.pdf)
 * [Towardsdatascience: What is Exploratory Data Analysis?](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15)
 * [Wikipedia: Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
 * [r4ds: Exploratory Data Analysis](https://r4ds.had.co.nz/exploratory-data-analysis.html)
