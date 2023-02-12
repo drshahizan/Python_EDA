@@ -75,6 +75,7 @@ In EDA, you might perform tasks such as cleaning the data, handling missing valu
 * [careerfoundry:What Is Exploratory Data Analysis?](https://careerfoundry.com/en/blog/data-analytics/exploratory-data-analysis/)
 * [How To Conduct Exploratory Data Analysis in 6 Steps](https://www.indeed.com/career-advice/career-development/how-to-conduct-exploratory-data-analysis)
 * [A Five-Step Guide for Conducting Exploratory Data Analysis](https://shopify.engineering/conducting-exploratory-data-analysis)
+* [I asked ChatGPT to do Exploratory Data Analysis with Visualizations](https://youtu.be/787VOGoqBzk)
 
 ### Code & Practice
 * [simplilearn: What is Exploratory Data Analysis? Steps and Market Analysis](https://www.simplilearn.com/tutorials/data-analytics-tutorial/exploratory-data-analysis)
