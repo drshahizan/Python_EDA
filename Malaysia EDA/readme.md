@@ -1,3 +1,12 @@
+<a href="https://github.com/drshahizan/Python_EDA/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/Python_EDA" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/Python_EDA/network/members"><img src="https://img.shields.io/github/forks/drshahizan/Python_EDA" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/Python_EDA/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/Python_EDA" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/Python_EDA/issues"><img src="https://img.shields.io/github/issues/drshahizan/Python_EDA" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/Python_EDA/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/Python_EDA?color=2b9348"></a>
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/Python_EDA)
+
+Don't forget to hit the :star: if you like this repo.
+
 ## 🚀 Case Study: Intructions
 
 Your submission will be evaluated using the following criteria:
@@ -86,3 +95,10 @@ Follow this step-by-step guide to work on your project.
 | SQ | Number of Cases and Incidents Rate of Communicable Disease by State | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1_i4mGTLrXRbNr0J6EDxEEiLkD7AXqWVo#scrollTo=90nIoWQtVJJ3) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/SQ/Number_and_Rate_Incidents_of_Communicable_Disease_by_State.ipynb) |
 | TUK | Number of Government School Pupils by District Education Office and State 2017-2018 | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1r6BEgFqPBOndPoYMQnvEfcVp6hdh2ZyI?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/TUK/TUK_Assignment_EDA.ipynb) |
 | UWU | Property Listings in Kuala Lumpur | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1uXYLArbaXLyIwWJyvCmaa2lAKtBunj0P?usp=sharing#scrollTo=rN1bUu8RVJJ7) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/tree/main/Malaysia%20EDA/uwu) |
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+![](https://komarev.com/ghpvc/?username=drshahizan&label=Views&color=0e75b6&style=flat)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
