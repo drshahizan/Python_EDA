@@ -151,18 +151,6 @@ In EDA, you might perform tasks such as cleaning the data, handling missing valu
 | TUK | Number of Government School Pupils by District Education Office and State 2017-2018 | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1r6BEgFqPBOndPoYMQnvEfcVp6hdh2ZyI?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/TUK/TUK_Assignment_EDA.ipynb) |
 | UWU | Property Listings in Kuala Lumpur | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1uXYLArbaXLyIwWJyvCmaa2lAKtBunj0P?usp=sharing#scrollTo=rN1bUu8RVJJ7) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/tree/main/Malaysia%20EDA/uwu) |
 
-## 🌟 Case Study
-
-| Name | Title | Colab |  GitHub |
-| ----- | ----- | ------ | ------ | 
-| Li Jing | ABC | [![Colab](https://img.shields.io/static/v1?label=&message=Colab&labelColor=grey&color=blue&logo=google-colab)](https://) | [![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&labelColor=grey&color=blue&logo=github)](https://) |
-| Saleh Dhekre Saber Saleh | ABC  | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Colab&labelColor=grey&color=blue&logo=google-colab)](https://) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=GitHub&labelColor=grey&color=blue&logo=github)](https://) |
-| Eman Al Jabarti | ABC  | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Colab&labelColor=grey&color=blue&logo=google-colab)](https://) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=GitHub&labelColor=grey&color=blue&logo=github)](https://) |
-| Anwar Said Salim Al Talaii | ABC  | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Colab&labelColor=grey&color=blue&logo=google-colab)](https://) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=GitHub&labelColor=grey&color=blue&logo=github)](https://) |
-| Zhu Caihua | ABC  | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Colab&labelColor=grey&color=blue&logo=google-colab)](https://) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=GitHub&labelColor=grey&color=blue&logo=github)](https://) |
-| Shiekhah AL Binali | ABC  | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Colab&labelColor=grey&color=blue&logo=google-colab)](https://) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=GitHub&labelColor=grey&color=blue&logo=github)](https://) |
-| Li Haopeng | ABC  | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Colab&labelColor=grey&color=blue&logo=google-colab)](https://) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=GitHub&labelColor=grey&color=blue&logo=github)](https://) |
-
 ## Automated EDA Tools
 EDA is a vital but time-consuming task in a data project. Here are 10 open-source tools that generate an EDA report in seconds.
 
