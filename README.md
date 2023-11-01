@@ -74,9 +74,10 @@ EDA is an iterative process, and the specific techniques and tools used can vary
 
 1. [Pandas](./materials/pandas.md): a library for data manipulation and analysis.
 2. [Numpy](./materials/numpy.md): a library for numerical computing in Python.
-3. [Matplotlib](./materials/matplotlib.md): a plotting library for creating visualizations.
-4. [Seaborn](./materials/seaborn.md): a library based on matplotlib for creating visualizations with a higher-level interface.
-5. [Plotly](./materials/plotly.md): an interactive data visualization library.
+3. [Scikit-learn](./materials/scikit.md): Scikit-learn is a machine learning library, but it also includes tools for data preprocessing, feature selection, and dimensionality reduction, which are essential for EDA.
+4. [Matplotlib](./materials/matplotlib.md): a plotting library for creating visualizations.
+5. [Seaborn](./materials/seaborn.md): a library based on matplotlib for creating visualizations with a higher-level interface.
+6. [Plotly](./materials/plotly.md): an interactive data visualization library.
 
 In EDA, you might perform tasks such as cleaning the data, handling missing values, transforming variables, generating summary statistics, creating visualizations (e.g. histograms, scatter plots, box plots), and identifying outliers. All of these tasks can be done using the above libraries in Python.
 
