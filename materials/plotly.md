@@ -15,92 +15,93 @@ Plotly is a versatile Python library for creating interactive and visually appea
 1. **Importing Plotly:**
    - Import Plotly and its submodules:
 
-   ```python
-   import plotly.express as px
-   import plotly.graph_objects as go
-   ```
+      ```python
+      import plotly.express as px
+      import plotly.graph_objects as go
+      ```
 
 2. **Basic Scatter Plot:**
    - Create a simple scatter plot:
 
-   ```python
-   fig = px.scatter(data_frame, x="x_column", y="y_column")
-   ```
+      ```python
+      fig = px.scatter(data_frame, x="x_column", y="y_column")
+      ```
 
 3. **Line Plot:**
    - Generate a line plot to visualize trends over time or continuous data:
 
-   ```python
-   fig = go.Figure(data=go.Scatter(x=x_values, y=y_values, mode='lines'))
-   ```
+      ```python
+      fig = go.Figure(data=go.Scatter(x=x_values, y=y_values, mode='lines'))
+      ```
 
 4. **Bar Chart:**
    - Create a bar chart for categorical data:
 
-   ```python
-   fig = px.bar(data_frame, x="category_column", y="value_column")
-   ```
+      ```python
+      fig = px.bar(data_frame, x="category_column", y="value_column")
+      ```
 
 5. **Histogram:**
    - Generate a histogram for data distribution:
 
-   ```python
-   fig = px.histogram(data_frame, x="data_column")
-   ```
+      ```python
+      fig = px.histogram(data_frame, x="data_column")
+      ```
 
 6. **Box Plot:**
    - Create a box plot to visualize data quartiles and outliers:
 
-   ```python
-   fig = px.box(data_frame, x="category_column", y="value_column")
-   ```
+      ```python
+      fig = px.box(data_frame, x="category_column", y="value_column")
+      ```
 
 7. **Heatmap:**
    - Display a heatmap for correlation matrices or other 2D data:
 
-   ```python
-   fig = go.Figure(data=go.Heatmap(z=correlation_matrix, x=column_labels, y=column_labels))
-   ```
+      ```python
+      fig = go.Figure(data=go.Heatmap(z=correlation_matrix, x=column_labels, y=column_labels))
+      ```
 
 8. **3D Scatter Plot:**
    - Generate interactive 3D scatter plots:
 
-   ```python
-   fig = px.scatter_3d(data_frame, x="x_column", y="y_column", z="z_column")
-   ```
+      ```python
+      fig = px.scatter_3d(data_frame, x="x_column", y="y_column", z="z_column")
+      ```
 
 9. **Sunburst Chart:**
    - Create hierarchical sunburst charts for visualizing hierarchical data:
 
-   ```python
-   fig = px.sunburst(data_frame, path=["parent", "child"])
-   ```
+      ```python
+      fig = px.sunburst(data_frame, path=["parent", "child"])
+      ```
 
 10. **Customizing Plots:**
     - Customize the appearance of plots with titles, labels, legends, and more:
 
-    ```python
-    fig.update_layout(title="Plot Title")
-    fig.update_xaxes(title_text="X-axis label")
-    fig.update_yaxes(title_text="Y-axis label")
-    ```
+       ```python
+       fig.update_layout(title="Plot Title")
+       fig.update_xaxes(title_text="X-axis label")
+       fig.update_yaxes(title_text="Y-axis label")
+       ```
 
 11. **Subplots:**
     - Create subplots with multiple plots in a single figure:
 
-    ```python
-    from plotly.subplots import make_subplots
+       ```python
+       from plotly.subplots import make_subplots
+   
+       fig = make_subplots(rows=2, cols=2, subplot_titles=("Subplot 1", "Subplot 2", "Subplot 3", "Subplot 4"))
 
-    fig = make_subplots(rows=2, cols=2, subplot_titles=("Subplot 1", "Subplot 2", "Subplot 3", "Subplot 4"))
-
-    fig.add_trace(go.Scatter(x=x1, y=y1), row=1, col=1)
-    fig.add_trace(go.Scatter(x=x2, y=y2), row=1, col=2)
-    fig.add_trace(go.Scatter(x=x3, y=y3), row=2, col=1)
-    fig.add_trace(go.Scatter(x=x4, y=y4), row=2, col=2)
-    ```
+       fig.add_trace(go.Scatter(x=x1, y=y1), row=1, col=1)
+       fig.add_trace(go.Scatter(x=x2, y=y2), row=1, col=2)
+       fig.add_trace(go.Scatter(x=x3, y=y3), row=2, col=1)
+       fig.add_trace(go.Scatter(x=x4, y=y4), row=2, col=2)
+       ```
 
 12. **Interactive Features:**
     - Plotly provides interactivity by default, including zoom, pan, and hover tooltips.
+
 
 Plotly is an excellent choice for EDA when you need to create interactive and visually engaging plots. You can use these Plotly syntax and functions to explore and present your data in a highly interactive way.
 
