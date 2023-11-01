@@ -23,49 +23,49 @@ Pandas is a popular Python library for data manipulation and analysis, and it of
 2. **Data Summary:**
    - Get basic information about the dataset:
 
-   ```python
-   df.info()
-   ```
+      ```python
+      df.info()
+      ```
 
    - Display summary statistics for numerical columns:
 
-   ```python
-   df.describe()
-   ```
+      ```python
+      df.describe()
+      ```
 
    - View the first few rows of the dataset:
 
-   ```python
-   df.head()
-   ```
+      ```python
+      df.head()
+      ```
 
 3. **Data Cleaning and Handling:**
    - Handle missing values:
 
-   ```python
-   df.isna().sum()  # Check for missing values
-   df.dropna()       # Drop rows with missing values
-   df.fillna(value)  # Fill missing values with a specified value
-   ```
+      ```python
+      df.isna().sum()  # Check for missing values
+      df.dropna()       # Drop rows with missing values
+      df.fillna(value)  # Fill missing values with a specified value
+      ```
 
    - Remove duplicates:
 
-   ```python
-   df.drop_duplicates()
-   ```
+      ```python
+      df.drop_duplicates()
+      ```
 
 4. **Data Selection and Slicing:**
    - Select specific columns:
 
-   ```python
-   df['column_name']
-   ```
+      ```python
+      df['column_name']
+      ```
 
    - Select rows based on conditions:
 
-   ```python
-   df[df['column_name'] > 50]
-   ```
+      ```python
+      df[df['column_name'] > 50]
+      ```
 
 5. **Data Visualization:**
    - Create basic visualizations:
