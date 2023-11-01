@@ -8,102 +8,86 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Plotly
+# Scikit-learn
 
-Plotly is a versatile Python library for creating interactive and visually appealing data visualizations. It's particularly well-suited for Exploratory Data Analysis (EDA) when you need interactive plots. Here are some common Plotly syntax and functions suitable for EDA:
+Scikit-learn is a popular machine learning library in Python, but it also provides tools for data preprocessing, feature selection, and dimensionality reduction, which are essential for various aspects of Exploratory Data Analysis (EDA). Here are some common scikit-learn syntax and functions suitable for EDA:
 
-1. **Importing Plotly:**
-   - Import Plotly and its submodules:
+1. **Importing Scikit-learn:**
+   - Import the necessary scikit-learn modules:
 
-      ```python
-      import plotly.express as px
-      import plotly.graph_objects as go
-      ```
+   ```python
+   from sklearn.preprocessing import StandardScaler, LabelEncoder
+   from sklearn.feature_selection import SelectKBest, chi2
+   from sklearn.decomposition import PCA
+   ```
 
-2. **Basic Scatter Plot:**
-   - Create a simple scatter plot:
+2. **Standardization and Scaling:**
+   - Standardize or scale your numerical data to have zero mean and unit variance:
 
-      ```python
-      fig = px.scatter(data_frame, x="x_column", y="y_column")
-      ```
+   ```python
+   scaler = StandardScaler()
+   scaled_data = scaler.fit_transform(X)
+   ```
 
-3. **Line Plot:**
-   - Generate a line plot to visualize trends over time or continuous data:
+3. **Label Encoding:**
+   - Encode categorical labels into numerical values:
 
-      ```python
-      fig = go.Figure(data=go.Scatter(x=x_values, y=y_values, mode='lines'))
-      ```
+   ```python
+   label_encoder = LabelEncoder()
+   encoded_labels = label_encoder.fit_transform(y)
+   ```
 
-4. **Bar Chart:**
-   - Create a bar chart for categorical data:
+4. **Feature Selection:**
+   - Select the most important features using methods like chi-squared or mutual information:
 
-      ```python
-      fig = px.bar(data_frame, x="category_column", y="value_column")
-      ```
+   ```python
+   feature_selector = SelectKBest(score_func=chi2, k=5)
+   selected_features = feature_selector.fit_transform(X, y)
+   ```
 
-5. **Histogram:**
-   - Generate a histogram for data distribution:
+5. **Principal Component Analysis (PCA):**
+   - Reduce the dimensionality of your data using PCA:
 
-      ```python
-      fig = px.histogram(data_frame, x="data_column")
-      ```
+   ```python
+   pca = PCA(n_components=2)
+   reduced_data = pca.fit_transform(X)
+   ```
 
-6. **Box Plot:**
-   - Create a box plot to visualize data quartiles and outliers:
+6. **Dimensionality Reduction:**
+   - Implement other dimensionality reduction techniques such as t-SNE, LLE, or Isomap from scikit-learn's manifold module.
 
-      ```python
-      fig = px.box(data_frame, x="category_column", y="value_column")
-      ```
+   ```python
+   from sklearn.manifold import TSNE
+   tsne = TSNE(n_components=2)
+   reduced_data = tsne.fit_transform(X)
+   ```
 
-7. **Heatmap:**
-   - Display a heatmap for correlation matrices or other 2D data:
+7. **Missing Value Handling:**
+   - Use imputation techniques to handle missing values. Scikit-learn provides methods like `SimpleImputer` and `KNNImputer`.
 
-      ```python
-      fig = go.Figure(data=go.Heatmap(z=correlation_matrix, x=column_labels, y=column_labels))
-      ```
+   ```python
+   from sklearn.impute import SimpleImputer
+   imputer = SimpleImputer(strategy='mean')
+   X_imputed = imputer.fit_transform(X)
+   ```
 
-8. **3D Scatter Plot:**
-   - Generate interactive 3D scatter plots:
+8. **Data Splitting:**
+   - Split the data into training and testing sets for validation and model building:
 
-      ```python
-      fig = px.scatter_3d(data_frame, x="x_column", y="y_column", z="z_column")
-      ```
+   ```python
+   from sklearn.model_selection import train_test_split
+   X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+   ```
 
-9. **Sunburst Chart:**
-   - Create hierarchical sunburst charts for visualizing hierarchical data:
+9. **Statistical Tests:**
+   - Use statistical tests available in scikit-learn, such as `t-test`, `ANOVA`, and `chi-squared test`, to explore relationships and significance of features.
 
-      ```python
-      fig = px.sunburst(data_frame, path=["parent", "child"])
-      ```
+   ```python
+   from sklearn.feature_selection import f_classif
+   f_values, p_values = f_classif(X, y)
+   ```
 
-10. **Customizing Plots:**
-    - Customize the appearance of plots with titles, labels, legends, and more:
-
-       ```python
-       fig.update_layout(title="Plot Title")
-       fig.update_xaxes(title_text="X-axis label")
-       fig.update_yaxes(title_text="Y-axis label")
-       ```
-
-11. **Subplots:**
-    - Create subplots with multiple plots in a single figure:
-
-       ```python
-       from plotly.subplots import make_subplots
-   
-       fig = make_subplots(rows=2, cols=2, subplot_titles=("Subplot 1", "Subplot 2", "Subplot 3", "Subplot 4"))
-
-       fig.add_trace(go.Scatter(x=x1, y=y1), row=1, col=1)
-       fig.add_trace(go.Scatter(x=x2, y=y2), row=1, col=2)
-       fig.add_trace(go.Scatter(x=x3, y=y3), row=2, col=1)
-       fig.add_trace(go.Scatter(x=x4, y=y4), row=2, col=2)
-       ```
-
-12. **Interactive Features:**
-    - Plotly provides interactivity by default, including zoom, pan, and hover tooltips.
-
-
-Plotly is an excellent choice for EDA when you need to create interactive and visually engaging plots. You can use these Plotly syntax and functions to explore and present your data in a highly interactive way.
+Scikit-learn offers a comprehensive set of tools for data preprocessing and dimensionality reduction, which are critical steps in EDA. These functions can help you prepare your data for analysis, visualize it more effectively, and uncover important patterns and relationships between features.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
