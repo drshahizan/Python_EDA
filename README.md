@@ -16,26 +16,42 @@ The information on this Github is part of the materials for the subject High Per
 <img src="https://github.com/drshahizan/Python_EDA/blob/main/lab/hpdp1.jpeg"  height="200" />
 </p>
 
-# 📚 Course: High Performance Data Processing 
-- [Python for beginners](https://github.com/drshahizan/python-tutorial)
-- [Web scraping and Python web framework](https://github.com/drshahizan/python-web)
-- [Exploratory data analysis](https://github.com/drshahizan/Python_EDA)
-- [Big data processing](https://github.com/drshahizan/Python-big-data)
-
 # Exploratory Data Analysis
 Exploratory Data Analysis (EDA) is a crucial step in the data analysis process that involves examining and summarizing a dataset to understand its characteristics, identify patterns, and gain insights into the data. EDA is typically performed before more advanced statistical and machine learning techniques are applied and helps in forming hypotheses, selecting appropriate modeling approaches, and ensuring data quality. Here are some key components and techniques used in EDA:
 
-✅️ EDA involves using graphics and visualizations to explore and analyze a data set. The goal is to explore, investigate and learn, as opposed to confirming statistical hypotheses. 
+Exploratory Data Analysis (EDA) is a crucial step in the data analysis process that involves examining and summarizing a dataset to understand its characteristics, identify patterns, and gain insights into the data. EDA is typically performed before more advanced statistical and machine learning techniques are applied and helps in forming hypotheses, selecting appropriate modeling approaches, and ensuring data quality. Here are some key components and techniques used in EDA:
 
-✅️ EDA is used by data scientists to analyze and explore datasets and summarize the main characteristics of them.
+1. **Data Summary:** Begin by understanding the basic information about the dataset, such as the number of rows and columns, data types, missing values, and summary statistics (mean, median, standard deviation, etc.).
 
-✅️ EDA makes it easier for data scientists to discover patterns, spot anomalies, test a hypothesis, or check assumptions.
+2. **Data Visualization:** Visualizing data through plots and charts can provide a clearer understanding of its distribution and patterns. Common types of visualizations include histograms, box plots, scatter plots, and bar charts.
 
-✅️ EDA is primarily used to provide a better understanding of dataset's variables and their relationships.
+3. **Data Distribution:** Analyze the distribution of variables to determine whether they follow normal, uniform, or other types of distributions. This can impact the choice of statistical tests and modeling techniques.
 
-✅️ EDA can also help determine whether the statistical techniques you are considering are appropriate for data analysis.
+4. **Correlation Analysis:** Explore the relationships between variables using correlation matrices, scatter plots, and other correlation measures. This helps identify potential dependencies and multicollinearity.
 
-✅️ Developed by the American mathematician John Tukey in the 1970s, EDA techniques continue to be a widely used method in the data exploration process today.
+5. **Outlier Detection:** Identify and handle outliers in the data. Outliers can significantly affect statistical measures and model performance.
+
+6. **Categorical Variables:** Examine the distribution of categorical variables through frequency tables, bar plots, and pie charts. This helps understand the composition of categorical data.
+
+7. **Data Transformation:** Apply transformations (e.g., log transformation, standardization) to make the data more suitable for analysis, especially if it doesn't meet assumptions of statistical methods.
+
+8. **Feature Engineering:** Create new variables or features that might be more informative or relevant for the analysis. This could involve aggregating, combining, or extracting information from existing variables.
+
+9. **Missing Data Handling:** Deal with missing data, either by imputing missing values or excluding incomplete records. The choice of method depends on the nature of the data and the problem at hand.
+
+10. **Hypothesis Testing:** If relevant, perform hypothesis tests to determine whether observed differences or relationships in the data are statistically significant.
+
+11. **Data Transformation:** Consider scaling or encoding categorical variables for modeling. This can include one-hot encoding, label encoding, or other techniques.
+
+12. **Dimensionality Reduction:** Use techniques like Principal Component Analysis (PCA) or t-Distributed Stochastic Neighbor Embedding (t-SNE) to reduce the dimensionality of the data while preserving important information.
+
+13. **Time Series Analysis:** For time series data, analyze trends, seasonality, and autocorrelation patterns. Techniques like autocorrelation plots and decomposition can be helpful.
+
+14. **Geospatial Analysis:** When dealing with geographic data, use maps, geospatial plots, and spatial statistics to understand spatial patterns and relationships.
+
+15. **Text Analysis:** If the dataset contains text data, perform text mining and sentiment analysis to extract insights from the textual content.
+
+EDA is an iterative process, and the specific techniques and tools used can vary depending on the nature of the data and the objectives of the analysis. It plays a crucial role in gaining an initial understanding of the data, guiding subsequent analysis, and making informed decisions about the next steps in a data science or analytical project.
 
 ## Why is EDA so important in data science?
 
