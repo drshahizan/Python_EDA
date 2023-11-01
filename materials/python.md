@@ -70,67 +70,67 @@ Pandas is a popular Python library for data manipulation and analysis, and it of
 5. **Data Visualization:**
    - Create basic visualizations:
 
-   ```python
-   import matplotlib.pyplot as plt
-   df['column_name'].plot(kind='hist')
-   plt.show()
-   ```
+      ```python
+      import matplotlib.pyplot as plt
+      df['column_name'].plot(kind='hist')
+      plt.show()
+      ```
 
    - Pair plots for exploring relationships between multiple variables:
 
-   ```python
-   import seaborn as sns
-   sns.pairplot(df)
-   ```
+      ```python
+      import seaborn as sns
+      sns.pairplot(df)
+      ```
 
 6. **Grouping and Aggregation:**
    - Group data by a column and calculate statistics:
 
-   ```python
-   df.groupby('category_column').mean()
-   ```
+      ```python
+      df.groupby('category_column').mean()
+      ```
 
 7. **Correlation Analysis:**
    - Compute the correlation matrix:
 
-   ```python
-   df.corr()
-   ```
+      ```python
+      df.corr()
+      ```
 
 8. **Outlier Detection:**
    - Identify outliers using z-scores:
 
-   ```python
-   from scipy import stats
-   z_scores = np.abs(stats.zscore(df['column_name'])
-   ```
+      ```python
+      from scipy import stats
+      z_scores = np.abs(stats.zscore(df['column_name'])
+      ```
 
 9. **Data Transformation:**
    - Apply functions to columns:
 
-   ```python
-   df['column_name'] = df['column_name'].apply(function)
-   ```
+      ```python
+      df['column_name'] = df['column_name'].apply(function)
+      ```
 
    - Apply transformations (e.g., log transformation):
 
-   ```python
-   df['column_name'] = np.log(df['column_name'])
-   ```
+      ```python
+      df['column_name'] = np.log(df['column_name'])
+      ```
 
 10. **Categorical Variables:**
     - Get frequency counts of unique values:
 
-    ```python
-    df['category_column'].value_counts()
-    ```
+       ```python
+       df['category_column'].value_counts()
+       ```
 
 11. **Data Export:**
     - Save the modified DataFrame to a new file:
 
-    ```python
-    df.to_csv('new_data.csv', index=False)
-    ```
+       ```python
+       df.to_csv('new_data.csv', index=False)
+       ```
 
 These are some of the common pandas syntax and functions you can use for EDA. Depending on your specific dataset and analysis goals, you may need to use additional pandas functions and techniques to explore and analyze your data effectively.
 
