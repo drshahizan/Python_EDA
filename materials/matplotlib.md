@@ -15,94 +15,94 @@ Matplotlib is a popular Python library for creating various types of plots and c
 1. **Importing Matplotlib:**
    - Import Matplotlib's `pyplot` module:
 
-   ```python
-   import matplotlib.pyplot as plt
-   ```
+      ```python
+      import matplotlib.pyplot as plt
+      ```
 
 2. **Basic Plot:**
    - Create a simple line plot:
 
-   ```python
-   plt.plot(x, y)
-   ```
+      ```python
+      plt.plot(x, y)
+      ```
 
 3. **Scatter Plot:**
    - Create a scatter plot to visualize relationships:
 
-   ```python
-   plt.scatter(x, y)
-   ```
+      ```python
+      plt.scatter(x, y)
+      ```
 
 4. **Bar Chart:**
    - Generate a bar chart for categorical data:
 
-   ```python
-   plt.bar(categories, values)
-   ```
+      ```python
+      plt.bar(categories, values)
+      ```
 
 5. **Histogram:**
    - Create a histogram to visualize data distribution:
 
-   ```python
-   plt.hist(data, bins=10)
-   ```
+      ```python
+      plt.hist(data, bins=10)
+      ```
 
 6. **Box Plot:**
    - Generate a box plot to display data quartiles and outliers:
 
-   ```python
-   plt.boxplot(data)
-   ```
+      ```python
+      plt.boxplot(data)
+      ```
 
 7. **Pie Chart:**
    - Create a pie chart to represent data proportions:
 
-   ```python
-   plt.pie(sizes, labels=labels, autopct='%1.1f%%')
-   ```
+      ```python
+      plt.pie(sizes, labels=labels, autopct='%1.1f%%')
+      ```
 
 8. **Heatmap:**
    - Display a heatmap for correlation matrices:
 
-   ```python
-   plt.imshow(correlation_matrix, cmap='coolwarm')
-   plt.colorbar()
-   ```
+      ```python
+      plt.imshow(correlation_matrix, cmap='coolwarm')
+      plt.colorbar()
+      ```
 
 9. **Customizing Plots:**
    - Customize plot labels, titles, legends, and colors:
 
-   ```python
-   plt.xlabel('X-axis label')
-   plt.ylabel('Y-axis label')
-   plt.title('Plot Title')
-   plt.legend(['Legend 1', 'Legend 2'])
-   plt.color='blue'
-   ```
+      ```python
+      plt.xlabel('X-axis label')
+      plt.ylabel('Y-axis label')
+      plt.title('Plot Title')
+      plt.legend(['Legend 1', 'Legend 2'])
+      plt.color='blue'
+      ```
 
 10. **Subplots:**
     - Create multiple subplots within a single figure:
 
-    ```python
-    plt.subplot(2, 2, 1)  # 2x2 grid, first subplot
-    plt.plot(x1, y1)
-    plt.subplot(2, 2, 2)  # 2x2 grid, second subplot
-    plt.plot(x2, y2)
-    ```
+       ```python
+       plt.subplot(2, 2, 1)  # 2x2 grid, first subplot
+       plt.plot(x1, y1)
+       plt.subplot(2, 2, 2)  # 2x2 grid, second subplot
+       plt.plot(x2, y2)
+       ```
 
 11. **Saving Plots:**
     - Save plots as image files (e.g., PNG, SVG):
 
-    ```python
-    plt.savefig('plot.png')
-    ```
+       ```python
+       plt.savefig('plot.png')
+       ```
 
 12. **Displaying Plots:**
     - Display the plots in the Jupyter Notebook or Python script:
 
-    ```python
-    plt.show()
-    ```
+       ```python
+       plt.show()
+       ```
 
 Matplotlib offers a wide range of customization and plot types, making it a versatile tool for visualizing and exploring data during the EDA process. You can use these Matplotlib syntax and functions to create various types of plots and gain insights into your dataset.
 
