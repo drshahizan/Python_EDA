@@ -15,10 +15,10 @@ Pandas is a popular Python library for data manipulation and analysis, and it of
 1. **Loading Data:**
    - Read data from various file formats (e.g., CSV, Excel, SQL database):
 
-   ```python
-   import pandas as pd
-   df = pd.read_csv('data.csv')
-   ```
+      ```python
+      import pandas as pd
+      df = pd.read_csv('data.csv')
+      ```
 
 2. **Data Summary:**
    - Get basic information about the dataset:
