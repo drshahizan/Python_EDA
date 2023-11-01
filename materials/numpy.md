@@ -8,131 +8,104 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Pandas
+# NumPy
 
-Pandas is a popular Python library for data manipulation and analysis, and it offers a wide range of functionalities that are particularly useful for conducting Exploratory Data Analysis (EDA). Here are some common pandas syntax and functions suitable for EDA:
+NumPy is a fundamental library in Python for numerical and array operations. While it's often used in conjunction with pandas for EDA, it can also be directly applied for specific tasks within EDA. Here are some common NumPy syntax and functions suitable for EDA:
 
-1. **Loading Data:**
-   - Read data from various file formats (e.g., CSV, Excel, SQL database):
+1. **Basic NumPy Operations:**
+   - Import NumPy:
 
-      ```python
-      import pandas as pd
-      df = pd.read_csv('data.csv')
-      ```
+   ```python
+   import numpy as np
+   ```
 
-2. **Data Summary:**
-   - Get basic information about the dataset:
+2. **Creating NumPy Arrays:**
+   - Create a NumPy array from a Python list:
 
-      ```python
-      df.info()
-      ```
+   ```python
+   numpy_array = np.array([1, 2, 3, 4, 5])
+   ```
 
-   - Display summary statistics for numerical columns:
+3. **Array Shape and Dimensions:**
+   - Get the shape and dimensions of a NumPy array:
 
-      ```python
-      df.describe()
-      ```
+   ```python
+   numpy_array.shape
+   numpy_array.ndim
+   ```
 
-   - View the first few rows of the dataset:
+4. **Array Indexing and Slicing:**
+   - Access elements and slices of a NumPy array:
 
-      ```python
-      df.head()
-      ```
+   ```python
+   numpy_array[2]  # Access element at index 2
+   numpy_array[1:4]  # Slice from index 1 to 3
+   ```
 
-3. **Data Cleaning and Handling:**
-   - Handle missing values:
+5. **Array Operations:**
+   - Perform element-wise operations on arrays:
 
-      ```python
-      df.isna().sum()  # Check for missing values
-      df.dropna()       # Drop rows with missing values
-      df.fillna(value)  # Fill missing values with a specified value
-      ```
+   ```python
+   numpy_array + 2  # Add 2 to each element
+   numpy_array * 3  # Multiply each element by 3
+   ```
 
-   - Remove duplicates:
+6. **Array Aggregation:**
+   - Calculate statistics on arrays:
 
-      ```python
-      df.drop_duplicates()
-      ```
+   ```python
+   np.mean(numpy_array)  # Mean
+   np.median(numpy_array)  # Median
+   np.std(numpy_array)  # Standard deviation
+   ```
 
-4. **Data Selection and Slicing:**
-   - Select specific columns:
+7. **Array Concatenation and Stacking:**
+   - Combine multiple arrays:
 
-      ```python
-      df['column_name']
-      ```
+   ```python
+   np.concatenate([array1, array2])
+   np.vstack([array1, array2])  # Vertically stack arrays
+   np.hstack([array1, array2])  # Horizontally stack arrays
+   ```
 
-   - Select rows based on conditions:
+8. **Array Filtering:**
+   - Filter elements based on a condition:
 
-      ```python
-      df[df['column_name'] > 50]
-      ```
+   ```python
+   numpy_array[numpy_array > 3]
+   ```
 
-5. **Data Visualization:**
-   - Create basic visualizations:
+9. **Random Number Generation:**
+   - Generate random numbers or arrays:
 
-      ```python
-      import matplotlib.pyplot as plt
-      df['column_name'].plot(kind='hist')
-      plt.show()
-      ```
+   ```python
+   np.random.rand(3, 3)  # Generate a 3x3 array of random values between 0 and 1
+   ```
 
-   - Pair plots for exploring relationships between multiple variables:
+10. **Reshaping Arrays:**
+    - Change the shape of an array:
 
-      ```python
-      import seaborn as sns
-      sns.pairplot(df)
-      ```
+    ```python
+    numpy_array.reshape((2, 3))
+    ```
 
-6. **Grouping and Aggregation:**
-   - Group data by a column and calculate statistics:
+11. **Missing Data Handling:**
+    - Handle missing values in arrays:
 
-      ```python
-      df.groupby('category_column').mean()
-      ```
+    ```python
+    numpy_array[numpy.isnan(numpy_array)]  # Detect missing values
+    numpy_array[~numpy.isnan(numpy_array)]  # Remove missing values
+    ```
 
-7. **Correlation Analysis:**
-   - Compute the correlation matrix:
+12. **Statistical Tests:**
+    - Conduct statistical tests on arrays for hypothesis testing:
 
-      ```python
-      df.corr()
-      ```
+    ```python
+    from scipy import stats
+    t_stat, p_value = stats.ttest_ind(array1, array2)
+    ```
 
-8. **Outlier Detection:**
-   - Identify outliers using z-scores:
-
-      ```python
-      from scipy import stats
-      z_scores = np.abs(stats.zscore(df['column_name'])
-      ```
-
-9. **Data Transformation:**
-   - Apply functions to columns:
-
-      ```python
-      df['column_name'] = df['column_name'].apply(function)
-      ```
-
-   - Apply transformations (e.g., log transformation):
-
-      ```python
-      df['column_name'] = np.log(df['column_name'])
-      ```
-
-10. **Categorical Variables:**
-    - Get frequency counts of unique values:
-
-       ```python
-       df['category_column'].value_counts()
-       ```
-
-11. **Data Export:**
-    - Save the modified DataFrame to a new file:
-
-       ```python
-       df.to_csv('new_data.csv', index=False)
-       ```
-
-These are some of the common pandas syntax and functions you can use for EDA. Depending on your specific dataset and analysis goals, you may need to use additional pandas functions and techniques to explore and analyze your data effectively.
+NumPy is a powerful library for numerical operations and array manipulation, making it a valuable tool for various tasks in EDA, especially when dealing with numerical data or conducting statistical tests. It is often used alongside pandas for data analysis and manipulation in EDA workflows.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
