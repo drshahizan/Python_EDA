@@ -134,6 +134,22 @@ In EDA, you might perform tasks such as cleaning the data, handling missing valu
 * [sandyy2505/Cardio Good Fitness Project](https://github.com/sandyy2505/EDA)
 * [ajaymache/Data analysis of used car database ](https://github.com/ajaymache/data-analysis-using-python)
 
+
+
+| No. | Repository Name | Description |
+|-----|-----------------|-------------|
+| 1   | [PacktPublishing/Hands on Exploratory Data analysis with Python](https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python) | This repository is likely associated with a book or course from Packt Publishing, focusing on hands-on exploratory data analysis with Python. It may contain code examples and materials for learning EDA. |
+| 2   | [code4kunal/eda-python-examples](https://github.com/code4kunal/eda-python-examples) | This repository likely contains Python examples and code snippets for exploratory data analysis (EDA). It may serve as a resource for those looking to learn EDA techniques with Python. |
+| 3   | [SouRitra01/Exploratory-Data-Analysis-EDA-in-Banking-Using-Python](https://github.com/SouRitra01/Exploratory-Data-Analysis-EDA-in-Banking-Python-Project-) | This repository appears to be focused on conducting exploratory data analysis (EDA) in the context of banking using Python. It may contain datasets and code for EDA in the banking domain. |
+| 4   | [sandipanpaul21/EDA-in-Python](https://github.com/sandipanpaul21/EDA-in-Python) | This repository is likely dedicated to exploratory data analysis (EDA) in Python. It may contain Python scripts, Jupyter notebooks, and related materials for EDA projects. |
+| 5   | [vharivinay/python-eda-viz](https://github.com/vharivinay/python-eda-viz) | This repository may be focused on Python-based exploratory data analysis and data visualization. It could provide code and examples for creating data visualizations during EDA. |
+| 6   | [demonpratapdemon/Exploratory-Data-Analysis-EDA-and-PreProcessing](https://github.com/demonpratapdemon/Exploratory-Data-Analysis-EDA-and-PreProcessing) | This repository seems to cover both exploratory data analysis (EDA) and data preprocessing in Python. It may contain code and resources for these data preparation tasks. |
+| 7   | [PacktPublishing/Python-for-Data-Analysis-step-by-step-with-projects-](https://github.com/PacktPublishing/Python-for-Data-Analysis-step-by-step-with-projects-/blob/main/Solution_practice_exercise%2B(eda).ipynb) | This repository is likely associated with a book or course from Packt Publishing, focusing on Python for data analysis with step-by-step projects. It may include code and project materials. |
+| 8   | [sandyy2505/Cardio Good Fitness Project](https://github.com/sandyy2505/EDA) | This repository may contain code and data related to a fitness project, possibly involving data analysis and visualization in the context of cardio fitness. |
+| 9   | [ajaymache/Data analysis of used car database](https://github.com/ajaymache/data-analysis-using-python) | This repository is likely focused on data analysis of a used car database. It may provide Python code and data for analyzing and exploring information related to used cars. |
+
+The "No." column provides a unique identifier for each repository in the list.
+
 ## 📖 Lab
 | No | Dataset | Colab |  GitHub |
 | ----- | ----- | ------ | ------ | 
