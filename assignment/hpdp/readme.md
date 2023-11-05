@@ -53,6 +53,8 @@ Your submission will be evaluated using the following criteria:
 
 Follow this step-by-step guide to work on your project.
 
+📖 [**Document template**](../Asignment_EDA.ipynb)
+
 ### Step 1: Select a real-world dataset 
 
 - The Malaysian dataset must be used for your case study.
