@@ -146,29 +146,28 @@ Ensure that your case study is well-organized, well-documented, and provides a c
 
 | No | Group |  File | Dataset | EDA Tools 1 | EDA Tools 2 | EDA Tools 3 | 
 | -----: |  ------ | :-----: |  ----- |  ----- | ----- | ----- | 
-| 0. | Sample  |  <a href="submission/ass1/Sample/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
-| 1. |  F4 |  <a href="submission/ass1/F4/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
-| 2. |  Truth Archive |  <a href="submission/ass1/Truth_Archive" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
-| 3. |  RAM |  <a href="submission/ass1/" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
-| 4. |  Avengers |  <a href="submission/ass1/" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
-| 5. |  Ayam Rendang |  <a href="submission/ass1/" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
-| 6. | KicapSambal | <a href="submission/ass1/KicapSambal/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a>
-| 7. | Theboys | <a href="submission/ass1/TheBoys/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a>
+| 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
+| 1. | F4 |  <a href="./F4/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
+| 2. | Truth Archive |  <a href="./Truth_Archive" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
+| 3. | RAM |  <a href="./RAM/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
+| 4. | Avengers |  <a href="./Avengers/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
+| 5. | Ayam Rendang |  <a href="./AyamRendang/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
+| 6. | KicapSambal | <a href="./KicapSambal/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a>
+| 7. | Theboys | <a href="./TheBoys/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a>
 
 ### 3. Academic Integrity
 🚫 Uphold the highest standards of academic integrity. Any candidate suspected of cheating in the assignment will face disciplinary action, which may include suspension or expulsion from the University. Moreover, any materials or devices found to be in violation of examination rules and regulations will be confiscated.
 
 ### 4. Submission Requirements
-📝 Prepare a comprehensive document that outlines the step-by-step process for creating the case study. This document should include details about the formulas used. Additionally, you must submit a Google Sheets file containing the results of the case study's execution.
-
-The deadline for submission is **October 26, 2023, at 3:30 PM**. Late submissions will not be accepted and will be disregarded.
+📝 Prepare a comprehensive document that outlines the step-by-step process for creating the case study. 
+The deadline for submission is **November 12, 2023, at 5:00 PM**. Late submissions will not be accepted and will be disregarded.
 
 ## File and Folder Structure 
 
-You must place your file in the submission folder. Within the [`submission/ass2/`](./submission/ass2/) folder, create a folder called your group. Name the default file as `readme.md`. You can refer to the [documentation template here](./submission/ass2/Sample/readme.md). Suggested folder structure for this project:
+You must place your file in the submission folder. Within the [`bdm/`](https://github.com/drshahizan/Python_EDA/edit/main/assignment/bdm) folder, create a folder called your group. Name the default file as `readme.md`. You can refer to the [documentation template here](https://github.com/drshahizan/Python_EDA/blob/main/assignment/Assignment_EDA.ipynb). Suggested folder structure for this project:
 
 ```html
-assignment/your_group/
+bdm/your_group/
 ├── 📁 case_study1/
 │   ├── 📄 readme.md
 │   └── 📄 cs1.ipynb
