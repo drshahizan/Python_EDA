@@ -149,14 +149,14 @@ Ensure that your case study is well-organized, well-documented, and provides a c
 | 2. | ohSheet |  <a href="submission/ass2/ohSheet/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 | 3. |  GPS |  <a href="submission/ass2/GPS/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 | 4. | sheemart |  <a href="submission/ass2/sheemart/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
-| 5. | ATG |  <a href="submission/ass2/ohSheet/read.me" ><img src="../../imagesanswer.png" width="24px" height="24px" ></a> | 
+| 5. | ATG |  <a href="submission/ass2/ohSheet/read.me" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 | 6. | KHUCHIN |  <a href="submission/ass2/KHUCHIN/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
 | 7. | GanTheGang |  <a href="submission/ass2/ganthegang/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
 | 8. | ATONG |  <a href="submission/ass2/ATONG/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
 | 9. | 3H |  <a href="submission/ass2/3H/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
 | 10. | HANY |  <a href="submission/ass2/HANY/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
 | 11. | ByteNav |  <a href="submission/ass2/ByteNav/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
-| 12. | SEK KITO  |  <a href="https://github.com/drshahizan/HPDP/tree/main/assignment/submission/ass2/SEK%20KITO/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 12. | SEK KITO  |  <a href="https://github.com/drshahizan/HPDP/tree/main/assignment/submission/ass2/SEK%20KITO/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 
 ### 3. Academic Integrity
 🚫 Uphold the highest standards of academic integrity. Any candidate suspected of cheating in the assignment will face disciplinary action, which may include suspension or expulsion from the University. Moreover, any materials or devices found to be in violation of examination rules and regulations will be confiscated.
