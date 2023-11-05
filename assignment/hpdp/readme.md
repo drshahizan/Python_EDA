@@ -146,19 +146,19 @@ Ensure that your case study is well-organized, well-documented, and provides a c
 
 | No | Group |  File | Dataset | EDA Tools 1 | EDA Tools 2 | EDA Tools 3 | 
 | -----: |  ------ | :-----: |  ----- |  ----- | ----- | ----- | 
-| 0. | Sample  |  <a href="submission/ass2/Sample/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
-| 1. | DEADPOOL | <a href="submission/ass2/DEADPOOL/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |  
-| 2. | ohSheet |  <a href="submission/ass2/ohSheet/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
-| 3. |  GPS |  <a href="submission/ass2/GPS/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
-| 4. | sheemart |  <a href="submission/ass2/sheemart/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
-| 5. | ATG |  <a href="submission/ass2/ohSheet/read.me" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
-| 6. | KHUCHIN |  <a href="submission/ass2/KHUCHIN/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
-| 7. | GanTheGang |  <a href="submission/ass2/ganthegang/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
-| 8. | ATONG |  <a href="submission/ass2/ATONG/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
-| 9. | 3H |  <a href="submission/ass2/3H/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
-| 10. | HANY |  <a href="submission/ass2/HANY/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
-| 11. | ByteNav |  <a href="submission/ass2/ByteNav/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
-| 12. | SEK KITO  |  <a href="https://github.com/drshahizan/HPDP/tree/main/assignment/submission/ass2/SEK%20KITO/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
+| 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
+| 1. | DEADPOOL | <a href="./DEADPOOL/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |  
+| 2. | ohSheet |  <a href="./ohSheet/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
+| 3. |  GPS |  <a href="./GPS/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
+| 4. | sheemart |  <a href="./sheemart/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
+| 5. | ATG |  <a href="./ohSheet/read.me" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
+| 6. | KHUCHIN |  <a href="./KHUCHIN/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
+| 7. | GanTheGang |  <a href="./ganthegang/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
+| 8. | ATONG |  <a href="./ATONG/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
+| 9. | 3H |  <a href="./3H/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
+| 10. | HANY |  <a href="./HANY/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
+| 11. | ByteNav |  <a href="./ByteNav/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
+| 12. | SEK KITO  |  <a href="./SEK%20KITO/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 
 ### 3. Academic Integrity
 🚫 Uphold the highest standards of academic integrity. Any candidate suspected of cheating in the assignment will face disciplinary action, which may include suspension or expulsion from the University. Moreover, any materials or devices found to be in violation of examination rules and regulations will be confiscated.
@@ -169,10 +169,10 @@ The deadline for submission is **November 12, 2023, at 5:00 PM**. Late submissio
 
 ## File and Folder Structure 
 
-You must place your file in the submission folder. Within the [`submission/ass2/`](./submission/ass2/) folder, create a folder called your group. Name the default file as `readme.md`. You can refer to the [documentation template here](./submission/ass2/Sample/readme.md). Suggested folder structure for this project:
+You must place your file in the submission folder. Within the [`hpdp/`](https://github.com/drshahizan/Python_EDA/edit/main/assignment/hpdp) folder, create a folder called your group. Name the default file as `readme.md`. You can refer to the [documentation template here](https://github.com/drshahizan/Python_EDA/blob/main/assignment/Assignment_EDA.ipynb). Suggested folder structure for this project:
 
 ```html
-assignment/your_group/
+hpdp/your_group/
 ├── 📁 case_study1/
 │   ├── 📄 readme.md
 │   └── 📄 cs1.ipynb
