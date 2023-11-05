@@ -7,7 +7,41 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## 🚀 Case Study: Intructions
+# Assignment 2: Exploratory Data Analysis
+
+<p align="left">
+<img src="https://editor.analyticsvidhya.com/uploads/61798ti2.png"  height="300" />
+</p>
+
+An Exploratory Data Analysis (EDA) assignment is a task given to students or data analysts to explore and understand a dataset before performing more advanced statistical or machine learning analyses. EDA is a critical initial step in the data analysis process, and it involves summarizing, visualizing, and making sense of the data to gain insights and identify patterns. Here's a description of what an EDA assignment typically involves:
+
+1. **Data Collection**: The first step in EDA is to obtain the dataset. The dataset may be provided to students, or they may be required to source it from publicly available data repositories or collect their own data.
+
+2. **Data Cleaning**: Before any analysis can begin, students need to clean the data. This involves handling missing values, removing duplicates, and addressing any outliers or anomalies in the data. This step ensures that the data is reliable and ready for analysis.
+
+3. **Data Summary**: Students are usually asked to provide a summary of the dataset, which may include basic statistics such as mean, median, standard deviation, and percentiles for numerical variables. For categorical variables, they may list unique categories and their frequencies.
+
+4. **Data Visualization**: Visualization is a key component of EDA. Students are typically required to create various plots and charts to visualize the data's distribution and relationships. This can include histograms, scatter plots, bar charts, box plots, and more.
+
+5. **Correlation Analysis**: Students may need to explore the relationships between variables in the dataset. They can calculate correlation coefficients to identify potential associations between variables.
+
+6. **Hypothesis Testing**: Some EDA assignments may involve testing hypotheses about the data. Students may need to conduct statistical tests to determine if certain assumptions or hypotheses hold true for the dataset.
+
+7. **Pattern Identification**: EDA often focuses on identifying interesting patterns or trends within the data. Students may be asked to look for clusters, trends, or anomalies that can provide valuable insights.
+
+8. **Narrative and Interpretation**: After conducting the above analyses, students are typically expected to write a narrative that explains their findings and interpretations. They should provide insights into what the data reveals and its potential implications.
+
+9. **Visualization and Reporting**: Students may be asked to create a report or presentation summarizing their EDA process and findings. This report should include clear visualizations and well-structured explanations.
+
+10. **Reproducibility**: EDA assignments often emphasize the importance of reproducibility. Students may be required to document their data cleaning, analysis, and visualization processes in a way that others can replicate their work.
+
+11. **Challenges and Limitations**: Students may also be asked to discuss the challenges they encountered during the EDA process and the limitations of their analysis. This demonstrates critical thinking and a deeper understanding of the data.
+
+EDA assignments are essential for developing data analysis skills and gaining a deeper understanding of a dataset's characteristics. They provide valuable insights that can inform further data-driven decision-making processes.
+
+## 📚 Case Study 1
+
+### Project Description
 
 Your submission will be evaluated using the following criteria:
 
@@ -70,32 +104,86 @@ Follow this step-by-step guide to work on your project.
 
 - Upload your notebook to github.
 
-## 🌟 Case Study: Exploratory Data Analysis
+## 📚 Case Study 2: Automated EDA Tools
 
-| Team | Title | Colab |  GitHub |
-| ----- | ----- | ------ | ------ | 
-| 404 Error | Property in Kuala Lumpur | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1Lyfzd--JSeeYMgLcyJhAWK9Zj01UWRAG) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/404%20Error/404_Error_Assignment_Pandas.ipynb) |
-| Alrite | The Exportation of Plantation in Sarawak  | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1Hb54DkyUD0bTf5Id9YDp8UgKptd1rKAc?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/Alrite/Grp_Alrite_Assignment.ipynb) |
-| BEFE | Covid-19 Clusters in Malaysia | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/12cQW38YqpCOB5ZyUKcUKW3BpD9zeGOuB?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/BEFE/Assignment_Pandas_Clusters.ipynb) |
-| Boboiboy | Property Listings in Kuala Lumpur | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1Ta8kvxB4NlMHO204WZtrnfnVToPVr2J5?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/Boboiboy/Group_4_Assignment_Pandas.ipynb) |
-| COLBY | Malaysia GE-14 Result | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1sA5ZlyFjl-fTxqZqnFyA2-CigYMfkvAi?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/Colby/Assignment_Pandas_Colby.ipynb) |
-| FANTOM | Daily recorded COVID-19 cases at state level In Malaysia | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/github/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/Fantom/Assignment_pandas_Group_Fantom.ipynb)| [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/Fantom/Assignment_pandas_Group_Fantom.ipynb) |
-| HAHA | Foreign Direct Investment In Malaysia | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1vIqufdcKSzCjetkUtgbwsNbVWBRr2Onp?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/Haha/Assignment_Pandas_Haha.ipynb) |
-| HD | Guna Tanah Tampin 2021 | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1G-Zeywt0X64DVoCrdznRYCVgthij8esy?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/HD/EDA_Assignment.ipynb) |
-| KIA | Malaysia State Election 2018 | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1mpxQwfeCGxnpV02vEkupXp997Habi9Nr?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/KIA/KIA_Assignment_EDA.ipynb) |
-| LAB | Malaysia Air Pollution Analysis | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1ajtdXCDlT3FCU_CzaiwGr8XjSJeeJUlY?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/Lab/Assignment_Pandas_Group_Lab.ipynb) |
-| MAAM | Malaysia Hospital Patient Movement Analysis | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/github/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/MAAM/MAAM_Assignment_EDA.ipynb) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/MAAM/MAAM_Assignment_EDA.ipynb) |
-| MEOW | Capacity and utilisation of Intensive Care Unit (ICU) beds during COVID-19 | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1imRDRyz1nn9-8JSRDA0t-x0ygD4ENXoa?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/Meow/Assignment_Pandas_GroupMeow.ipynb) |
-| MM | Malaysia's 14th State Election Result | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1ZZXncv53HIIRC1XH-aTMqxyDZQLs9agZ?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/MM/MM_Assignment_Pandas.ipynb) |
-| PIXALATED | Number of deaths in Malaysia from 2001 to 2018 | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1TvgXI9-qQq-cnI5-RJnxaNOLM4hvBCta?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/Pixelated/Pixelated_Assignment_Pandas.ipynb) |
-| POTATO | Death by state, sex and age group Malaysia 2001-2018 | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/13p5O0y8FtHhh7kz58oMNUj-07s5ayBzz?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/Potato/Group_Potato_Msia_Death_Stats.ipynb) |
-| QnX | Real Estate Kuala Lumpur Malaysia | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1Fh9Ab1ytQxevmWINYOcTrAkLxkQsZarm?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/QnX/Assignment_Pandas_QnX.ipynb) |
-| SAMVERSE | Restaurant Rating in Malaysia | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1HhipUNJ5Q-0xkD9W3qc0HAeeLw3_77Ek) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/SamVerse/Assignment_EDA_Aiman_Hafizi_%26_Luqman_Ariff.ipynb) |
-| SMOL | Population in Malaysia from 2010-2019 | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1yyTEXhRZc32t6v8OZaldbK4-NsBGYk2A?usp=sharing ) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/SMOL/SMOL_EDA_Assignment.ipynb) |
-| SQ | Number of Cases and Incidents Rate of Communicable Disease by State | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1_i4mGTLrXRbNr0J6EDxEEiLkD7AXqWVo#scrollTo=90nIoWQtVJJ3) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/SQ/Number_and_Rate_Incidents_of_Communicable_Disease_by_State.ipynb) |
-| TUK | Number of Government School Pupils by District Education Office and State 2017-2018 | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1r6BEgFqPBOndPoYMQnvEfcVp6hdh2ZyI?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/TUK/TUK_Assignment_EDA.ipynb) |
-| UWU | Property Listings in Kuala Lumpur | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1uXYLArbaXLyIwWJyvCmaa2lAKtBunj0P?usp=sharing#scrollTo=rN1bUu8RVJJ7) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/tree/main/Malaysia%20EDA/uwu) |
+In this case study, you will study two types of **Automated Exploratory Data Analysis (EDA) Tools**. You are required to choose two such tools and demonstrate how they can be implemented step by step using a **Malaysian dataset**. Additionally, you will summarize the **pros and cons** of the **Automated EDA Tools** used. Here are the instructions to guide you through this case study:
 
+1. **Selecting Automated EDA Tools**:
+   - Research and select two different **Automated EDA Tools** that you would like to study. These tools are designed to automate the process of data exploration and visualization.
+   - Ensure that the selected tools are suitable for analyzing data from a **Malaysian dataset**.
+
+2. **Malaysian Dataset**:
+   - Choose an appropriate **Malaysian dataset** for this case study. It could be related to any domain or topic of your choice (e.g., healthcare, finance, demographics, etc.).
+
+3. **Data Preparation**:
+   - Collect and load the **Malaysian dataset** into a format compatible with the selected **EDA tools**.
+   - Make sure the data is clean and ready for analysis. Perform data preprocessing tasks if necessary.
+
+4. **Implementation of Automated EDA Tools**:
+   - Provide a detailed step-by-step guide for implementing each of the selected **Automated EDA Tools**. Include screenshots and explanations where necessary.
+   - Cover the following aspects for each tool:
+     a. How to load the dataset into the tool.
+     b. How to generate basic statistics and visualizations.
+     c. How to explore relationships and patterns in the data.
+     d. Any unique features or capabilities of each tool that you find noteworthy.
+
+5. **Pros and Cons Analysis**:
+   - After implementing both **EDA tools**, summarize the **pros and cons** of each tool based on your experience and observations. Consider factors such as ease of use, comprehensiveness, visualization capabilities, and any limitations.
+   - Include your insights on how each tool performed in the context of the **Malaysian dataset** you chose.
+
+6. **Conclusion**:
+   - Conclude your case study by summarizing the key findings and insights from your analysis.
+   - Provide recommendations or insights on when each tool may be more suitable or preferable based on the specific needs of EDA projects.
+
+7. **References**:
+   - Include a list of references and citations for any sources or documentation you used in your case study.
+
+Ensure that your case study is well-organized, well-documented, and provides a clear understanding of how the selected **Automated EDA Tools** work and their applicability to **Malaysian datasets**. Use clear and concise language to convey your findings and conclusions.
+
+### 2. Team Collaboration
+🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1vLDgDAu2ai9rAOIKUfE1xUfTEvK2ikpXJ_1F-Xqtk_c/edit?pli=1#gid=834124190). Please update your group information:
+
+| No | Group |  File | Dataset | EDA Tools 1 | EDA Tools 2 | 
+| -----: |  ------ | :-----: |  ----- |  ----- | ----- | 
+| 0. | Sample  |  <a href="submission/ass2/Sample/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 1. | DEADPOOL | <a href="submission/ass2/DEADPOOL/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> |  
+| 2. | ohSheet |  <a href="submission/ass2/ohSheet/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 3. |  GPS |  <a href="submission/ass2/GPS/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 4. | sheemart |  <a href="submission/ass2/sheemart/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 5. | ATG |  <a href="submission/ass2/ohSheet/read.me" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 6. | KHUCHIN |  <a href="submission/ass2/KHUCHIN/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| 7. | GanTheGang |  <a href="submission/ass2/ganthegang/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| 8. | ATONG |  <a href="submission/ass2/ATONG/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| 9. | 3H |  <a href="submission/ass2/3H/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| 10. | HANY |  <a href="submission/ass2/HANY/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| 11. | ByteNav |  <a href="submission/ass2/ByteNav/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| 12. | SEK KITO  |  <a href="https://github.com/drshahizan/HPDP/tree/main/assignment/submission/ass2/SEK%20KITO/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+
+### 3. Academic Integrity
+🚫 Uphold the highest standards of academic integrity. Any candidate suspected of cheating in the assignment will face disciplinary action, which may include suspension or expulsion from the University. Moreover, any materials or devices found to be in violation of examination rules and regulations will be confiscated.
+
+### 4. Submission Requirements
+📝 Prepare a comprehensive document that outlines the step-by-step process for creating the case study. This document should include details about the formulas used. Additionally, you must submit a Google Sheets file containing the results of the case study's execution.
+
+The deadline for submission is **October 26, 2023, at 3:30 PM**. Late submissions will not be accepted and will be disregarded.
+
+## File and Folder Structure 
+
+You must place your file in the submission folder. Within the [`submission/ass2/`](./submission/ass2/) folder, create a folder called your group. Name the default file as `readme.md`. You can refer to the [documentation template here](./submission/ass2/Sample/readme.md). Suggested folder structure for this project:
+
+```html
+assignment/your_group/
+├── 📁 case_study1/
+│   ├── 📄 readme.md
+│   └── 📄 cs1.ipynb
+├── 📁 case_study2a/
+│   ├── 📄 readme.md
+│   └── 📄 cs1.ipynb
+└── 📁 case_study2a/
+    ├── 📄 readme.md
+    └── 📄 cs2.ipynb
+
+```
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
 
