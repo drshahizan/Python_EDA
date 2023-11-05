@@ -167,7 +167,7 @@ The deadline for submission is **November 12, 2023, at 5:00 PM**. Late submissio
 You must place your file in the submission folder. Within the [`bdm/`](https://github.com/drshahizan/Python_EDA/edit/main/assignment/bdm) folder, create a folder called your group. Name the default file as `readme.md`. You can refer to the [documentation template here](https://github.com/drshahizan/Python_EDA/blob/main/assignment/Assignment_EDA.ipynb). Suggested folder structure for this project:
 
 ```html
-assignment/your_group/
+bdm/your_group/
 ├── 📁 case_study1/
 │   ├── 📄 readme.md
 │   └── 📄 cs1.ipynb
