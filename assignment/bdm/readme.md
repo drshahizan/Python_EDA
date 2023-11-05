@@ -142,7 +142,7 @@ In this case study, you will study three types of **Automated Exploratory Data A
 Ensure that your case study is well-organized, well-documented, and provides a clear understanding of how the selected **Automated EDA Tools** work and their applicability to **Malaysian datasets**. Use clear and concise language to convey your findings and conclusions.
 
 ### 2. Team Collaboration
-🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1WJWrzrGmfC0z5CmTYCGmlkKa7_byYOoxlU0MTg7pRrk/edit#gid=1112504187). Please update your group information:
+🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1WJWrzrGmfC0z5CmTYCGmlkKa7_byYOoxlU0MTg7pRrk/edit#gid=515020315). Please update your group information:
 
 | No | Group |  File | Dataset | EDA Tools 1 | EDA Tools 2 | EDA Tools 3 | 
 | -----: |  ------ | :-----: |  ----- |  ----- | ----- | ----- | 
