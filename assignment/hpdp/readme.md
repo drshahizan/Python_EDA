@@ -92,7 +92,6 @@ Follow this step-by-step guide to work on your project.
 - Create new columns, merge multiple dataset and perform grouping/aggregation wherever necessary
 - Wherever you're using a library function from Pandas/Numpy/Matplotlib etc. explain briefly what it does
 
-
 ### Step 5: Summarize your inferences & write a conclusion
 
 - Write a summary of what you've learned from the analysis
@@ -106,7 +105,7 @@ Follow this step-by-step guide to work on your project.
 
 ## 📚 Case Study 2: Automated EDA Tools
 
-In this case study, you will study two types of **Automated Exploratory Data Analysis (EDA) Tools**. You are required to choose two such tools and demonstrate how they can be implemented step by step using a **Malaysian dataset**. Additionally, you will summarize the **pros and cons** of the **Automated EDA Tools** used. Here are the instructions to guide you through this case study:
+In this case study, you will study three types of **Automated Exploratory Data Analysis (EDA) Tools**. You are required to choose three such tools and demonstrate how they can be implemented step by step using a **Malaysian dataset**. Additionally, you will summarize the **pros and cons** of the **Automated EDA Tools** used. Here are the instructions to guide you through this case study:
 
 1. **Selecting Automated EDA Tools**:
    - Research and select two different **Automated EDA Tools** that you would like to study. These tools are designed to automate the process of data exploration and visualization.
