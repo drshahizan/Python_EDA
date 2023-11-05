@@ -11,9 +11,9 @@ Don't forget to hit the :star: if you like this repo.
 
 Your submission will be evaluated using the following criteria:
 
-* Dataset must contain at least 5 columns and 1500 rows of data
-* You must ask and answer at least 5 questions about the dataset
-* Your submission must include at least 5 visualizations (graphs)
+* Dataset must contain at least 5 columns and 10,000 rows of data
+* You must ask and answer at least 10 questions about the dataset
+* Your submission must include at least 10 visualizations (graphs)
 * Your submission must include explanations using markdown cells, apart from the code.
 * Your work must not be plagiarized i.e. copy-pasted from somewhere else.
 
@@ -53,7 +53,7 @@ Follow this step-by-step guide to work on your project.
 
 ### Step 4: Ask & answer questions about the data
 
-- Ask at least 4 interesting questions about your dataset
+- Ask at least 10 interesting questions about your dataset
 - Answer the questions either by computing the results using Numpy/Pandas or by plotting graphs using Matplotlib/Seaborn
 - Create new columns, merge multiple dataset and perform grouping/aggregation wherever necessary
 - Wherever you're using a library function from Pandas/Numpy/Matplotlib etc. explain briefly what it does
