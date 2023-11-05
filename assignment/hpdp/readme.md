@@ -121,10 +121,10 @@ In this case study, you will study three types of **Automated Exploratory Data A
 4. **Implementation of Automated EDA Tools**:
    - Provide a detailed step-by-step guide for implementing each of the selected **Automated EDA Tools**. Include screenshots and explanations where necessary.
    - Cover the following aspects for each tool:
-     a. How to load the dataset into the tool.
-     b. How to generate basic statistics and visualizations.
-     c. How to explore relationships and patterns in the data.
-     d. Any unique features or capabilities of each tool that you find noteworthy.
+     <br>a. How to load the dataset into the tool.
+     <br>b. How to generate basic statistics and visualizations.
+     <br>c. How to explore relationships and patterns in the data.
+     <br>d. Any unique features or capabilities of each tool that you find noteworthy.
 
 5. **Pros and Cons Analysis**:
    - After implementing both **EDA tools**, summarize the **pros and cons** of each tool based on your experience and observations. Consider factors such as ease of use, comprehensiveness, visualization capabilities, and any limitations.
@@ -177,10 +177,13 @@ assignment/your_group/
 │   └── 📄 cs1.ipynb
 ├── 📁 case_study2a/
 │   ├── 📄 readme.md
-│   └── 📄 cs1.ipynb
-└── 📁 case_study2a/
+│   └── 📄 cs2a.ipynb
+├── 📁 case_study2b/
+│   ├── 📄 readme.md
+│   └── 📄 cs2b.ipynb
+└── 📁 case_study2c/
     ├── 📄 readme.md
-    └── 📄 cs2.ipynb
+    └── 📄 cs2c.ipynb
 
 ```
 ## Contribution 🛠️
