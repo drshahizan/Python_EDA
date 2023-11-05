@@ -142,23 +142,18 @@ In this case study, you will study three types of **Automated Exploratory Data A
 Ensure that your case study is well-organized, well-documented, and provides a clear understanding of how the selected **Automated EDA Tools** work and their applicability to **Malaysian datasets**. Use clear and concise language to convey your findings and conclusions.
 
 ### 2. Team Collaboration
-🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1vLDgDAu2ai9rAOIKUfE1xUfTEvK2ikpXJ_1F-Xqtk_c/edit?pli=1#gid=834124190). Please update your group information:
+🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1WJWrzrGmfC0z5CmTYCGmlkKa7_byYOoxlU0MTg7pRrk/edit#gid=1112504187). Please update your group information:
 
 | No | Group |  File | Dataset | EDA Tools 1 | EDA Tools 2 | EDA Tools 3 | 
 | -----: |  ------ | :-----: |  ----- |  ----- | ----- | ----- | 
-| 0. | Sample  |  <a href="submission/ass2/Sample/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
-| 1. | DEADPOOL | <a href="submission/ass2/DEADPOOL/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |  
-| 2. | ohSheet |  <a href="submission/ass2/ohSheet/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
-| 3. |  GPS |  <a href="submission/ass2/GPS/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
-| 4. | sheemart |  <a href="submission/ass2/sheemart/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
-| 5. | ATG |  <a href="submission/ass2/ohSheet/read.me" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
-| 6. | KHUCHIN |  <a href="submission/ass2/KHUCHIN/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
-| 7. | GanTheGang |  <a href="submission/ass2/ganthegang/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
-| 8. | ATONG |  <a href="submission/ass2/ATONG/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
-| 9. | 3H |  <a href="submission/ass2/3H/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
-| 10. | HANY |  <a href="submission/ass2/HANY/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
-| 11. | ByteNav |  <a href="submission/ass2/ByteNav/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
-| 12. | SEK KITO  |  <a href="https://github.com/drshahizan/HPDP/tree/main/assignment/submission/ass2/SEK%20KITO/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
+| 0. | Sample  |  <a href="submission/ass1/Sample/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 1. |  F4 |  <a href="submission/ass1/F4/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 2. |  Truth Archive |  <a href="submission/ass1/Truth_Archive" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 3. |  RAM |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 4. |  Avengers |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 5. |  Ayam Rendang |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| 6. | KicapSambal | <a href="submission/ass1/KicapSambal/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a>
+| 7. | Theboys | <a href="submission/ass1/TheBoys/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a>
 
 ### 3. Academic Integrity
 🚫 Uphold the highest standards of academic integrity. Any candidate suspected of cheating in the assignment will face disciplinary action, which may include suspension or expulsion from the University. Moreover, any materials or devices found to be in violation of examination rules and regulations will be confiscated.
