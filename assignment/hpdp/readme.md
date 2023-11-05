@@ -24,11 +24,11 @@ Follow this step-by-step guide to work on your project.
 - The Malaysian dataset must be used for your case study.
 - The dataset is available at:
   * [Portal Data Terbuka Malaysia](https://www.data.gov.my/data/ms_MY/dataset)
-  * [Department of Statistics Malaysia](https://www.dosm.gov.my/v1/index.php?r=column3/accordion&menu_id=amZNeW9vTXRydTFwTXAxSmdDL1J4dz09)
+  * [Department of Statistics Malaysia](https://open.dosm.gov.my/)
   * [data.world](https://data.world/datasets/malaysia)
   * [Dataportal.asia](https://dataportal.asia/dataset?vocab_economy_names=Malaysia)
-  *[knoema](https://knoema.com/atlas/Malaysia/datasets)
-  *[The World Bank](https://data.worldbank.org/country/MY)
+  * [knoema](https://knoema.com/atlas/Malaysia/datasets)
+  * [The World Bank](https://data.worldbank.org/country/MY)
   * [Dataset Search - Google](https://datasetsearch.research.google.com/)
   * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)
   * [Kaggle datasets](https://www.kaggle.com/datasets)
