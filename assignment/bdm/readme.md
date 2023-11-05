@@ -146,7 +146,7 @@ Ensure that your case study is well-organized, well-documented, and provides a c
 
 | No | Group |  File | Dataset | EDA Tools 1 | EDA Tools 2 | EDA Tools 3 | 
 | -----: |  ------ | :-----: |  ----- |  ----- | ----- | ----- | 
-| 0. | Sample  |  <a href="submission/ass1/Sample/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
+| 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 | 1. |  F4 |  <a href="submission/ass1/F4/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 | 2. |  Truth Archive |  <a href="submission/ass1/Truth_Archive" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 | 3. |  RAM |  <a href="submission/ass1/" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
