@@ -114,7 +114,7 @@ In this case study, you will study three types of **Automated Exploratory Data A
    - Ensure that the selected tools are suitable for analyzing data from a **Malaysian dataset**.
 
 2. **Malaysian Dataset**:
-   - Choose an appropriate **Malaysian dataset** for this case study. It could be related to any domain or topic of your choice (e.g., healthcare, finance, demographics, etc.).
+   - Please utilise the Malaysian dataset as in Case Study 1.
 
 3. **Data Preparation**:
    - Collect and load the **Malaysian dataset** into a format compatible with the selected **EDA tools**.
