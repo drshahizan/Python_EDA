@@ -155,7 +155,7 @@ Ensure that your case study is well-organized, well-documented, and provides a c
 | 6. | KHUCHIN |  <a href="./KHUCHIN/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
 | 7. | GanTheGang |  <a href="./ganthegang/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
 | 8. | ATONG |  <a href="./ATONG/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |[Population District 2020-2023](https://data.gov.my/data-catalogue/population_population_district_0) | SweetViz | DataPrep | ExploriPy |
-| 9. | 3H |  <a href="./3H/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
+| 9. | 3H |  <a href="./3H/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | | AutoViz | Data-Tail | Lux |
 | 10. | HANY |  <a href="./HANY/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | producer-prices_mys.csv | Pandas-Profiling | SweetViz | Lux |
 | 11. | ByteNav |  <a href="./ByteNav/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
 | 12. | SEK KITO  |  <a href="./SEK%20KITO/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
