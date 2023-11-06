@@ -160,7 +160,7 @@ Ensure that your case study is well-organized, well-documented, and provides a c
 | 11. | ByteNav |  <a href="./ByteNav/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
 | 12. | SEK KITO  |  <a href="./SEK%20KITO/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 | 13. | ZProMax  |  <a href="./SEK%20KITO/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
-
+| 14. | CAFE KDSE |  <a href="https://github.com/drshahizan/Python_EDA/tree/main/assignment/hpdp/ATG" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |[Value of Agricultural Production](https://www.fao.org/faostat/en/#data/QV) | SweetViz | DataTile | Lux |
 ### 3. Academic Integrity
 🚫 Uphold the highest standards of academic integrity. Any candidate suspected of cheating in the assignment will face disciplinary action, which may include suspension or expulsion from the University. Moreover, any materials or devices found to be in violation of examination rules and regulations will be confiscated.
 
