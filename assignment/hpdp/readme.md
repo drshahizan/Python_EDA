@@ -152,7 +152,7 @@ Ensure that your case study is well-organized, well-documented, and provides a c
 | 3. |  GPS |  <a href="./GPS/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 | 4. | sheemart |  <a href="./sheemart/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 | 5. | ATG |  <a href="./ohSheet/read.me" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
-| 6. | KHUCHIN |  <a href="./KHUCHIN/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
+| 6. | KHUCHIN |  <a href="./KHUCHIN/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | Crops and livestock products 
 | 7. | GanTheGang |  <a href="./ganthegang/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
 | 8. | ATONG |  <a href="https://github.com/drshahizan/Python_EDA/tree/main/assignment/hpdp/ATG" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |[Population District 2020-2023](https://data.gov.my/data-catalogue/population_population_district_0) | SweetViz | DataPrep | ExploriPy |
 | 9. | 3H |  <a href="./3H/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | | AutoViz | Data-Tail | Lux |
