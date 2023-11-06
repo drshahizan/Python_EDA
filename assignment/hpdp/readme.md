@@ -149,7 +149,7 @@ Ensure that your case study is well-organized, well-documented, and provides a c
 | 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 | 1. | DEADPOOL |  <a href="./DEADPOOL/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | donations_state.csv | Exploripy | AutoViz | DataPrep |
 | 2. | Pergolakan |  <a href="./Pergolakan/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
-| 3. |  GPS |  <a href="./GPS/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
+| 3. |  SYNA |  <a href="./SYNA/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 | 4. | sheemart |  <a href="./sheemart/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 | 5. | ATG |  <a href="./ohSheet/read.me" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 | 6. | KHUCHIN |  <a href="./KHUCHIN/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | [Crops and livestock products Malaysia](https://www.fao.org/faostat/en/#data/QCL) | dabl | QuickDA | ExploriPy |  
