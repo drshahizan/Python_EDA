@@ -147,7 +147,7 @@ Ensure that your case study is well-organized, well-documented, and provides a c
 | No | Group |  File | Dataset | EDA Tools 1 | EDA Tools 2 | EDA Tools 3 | 
 | -----: |  ------ | :-----: |  ----- |  ----- | ----- | ----- | 
 | 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
-| 1. | DEADPOOL | <a href="./DEADPOOL/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |  
+| 1. | DEADPOOL |  <a href="./DEADPOOL/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | donations_state.csv | Exploripy | AutoViz | DataPrep |
 | 2. | Pergolakan |  <a href="./Pergolakan/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 | 3. |  GPS |  <a href="./GPS/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 | 4. | sheemart |  <a href="./sheemart/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
