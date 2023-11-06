@@ -155,7 +155,7 @@ Ensure that your case study is well-organized, well-documented, and provides a c
 | 6. | KHUCHIN |  <a href="./KHUCHIN/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | [Crops and livestock products Malaysia](https://www.fao.org/faostat/en/#data/QCL) | dabl | QuickDA | ExploriPy |  
 | 7. | BERUK |  <a href="./BERUK/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | [Covid Cases Per State](https://github.com/MoH-Malaysia/covid19-public/blob/main/epidemic/cases_state.csv) | sweetViz | pandas-profiling | D-tale |
 | 8. | ATONG |  <a href="https://github.com/drshahizan/Python_EDA/tree/main/assignment/hpdp/ATG" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |[Population District 2020-2023](https://data.gov.my/data-catalogue/population_population_district_0) | SweetViz | DataPrep | ExploriPy |
-| 9. | 3H |  <a href="./3H/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | | AutoViz | Data-Tail | Lux |
+| 9. | 3H |  <a href="./3H/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | | AutoViz | DataPrep | Lux |
 | 10. | HANY |  <a href="./HANY/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | [Producer Prices](https://data.humdata.org/dataset/8147f617-b323-40ea-a03f-5c21db2c62bb/resource/69b1b7b8-701a-44bf-816b-6a07b78fbc77/download/producer-prices_mys.csv) | Pandas-Profiling | SweetViz | Lux |
 | 11. | ByteNav |  <a href="./ByteNav/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
 | 12. | SEK KITO  |  <a href="./SEK%20KITO/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
