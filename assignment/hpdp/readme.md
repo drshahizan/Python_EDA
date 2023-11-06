@@ -152,7 +152,7 @@ Ensure that your case study is well-organized, well-documented, and provides a c
 | 3. |  GPS |  <a href="./GPS/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 | 4. | sheemart |  <a href="./sheemart/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 | 5. | ATG |  <a href="./ohSheet/read.me" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
-| 6. | KHUCHIN |  <a href="./KHUCHIN/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | [Crops and livestock products Malaysia](https://www.fao.org/faostat/en/#data/QCL)  
+| 6. | KHUCHIN |  <a href="./KHUCHIN/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | [Crops and livestock products Malaysia](https://www.fao.org/faostat/en/#data/QCL) | dabl | QuickDA | ExploriPy |  
 | 7. | BERUK |  <a href="./BERUK/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 📃<a href="https://storage.dosm.gov.my/population/population_state.parquet" > | sweetViz | pandas-profiling | D-tale |
 | 8. | ATONG |  <a href="https://github.com/drshahizan/Python_EDA/tree/main/assignment/hpdp/ATG" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |[Population District 2020-2023](https://data.gov.my/data-catalogue/population_population_district_0) | SweetViz | DataPrep | ExploriPy |
 | 9. | 3H |  <a href="./3H/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | | AutoViz | Data-Tail | Lux |
