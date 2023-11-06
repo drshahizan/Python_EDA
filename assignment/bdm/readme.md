@@ -150,7 +150,7 @@ Ensure that your case study is well-organized, well-documented, and provides a c
 | 1. | F4 |  <a href="./F4/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | Rental Pricing Dataset, Malaysia | DataPrep	| AutoViz	| QuickDA |
 | 2. | Truth Archive |  <a href="./Truth_Archive" ><img src="../../images/answer.png" width="24px" height="24px" >|Population Table: Administrative Districts</a> | 
 | 3. | RAM |  <a href="./RAM/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
-| 4. | Avengers |  <a href="./Avengers/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
+| 4. | Avengers |  <a href="./Avengers/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | Malaysia's News Tweets | SweetViz	| Pandas-Profiling	| AutoViz |
 | 5. | Ayam Rendang |  <a href="./AyamRendang/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
 | 6. | KicapSambal | <a href="./KicapSambal/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a>
 | 7. | Theboys | <a href="./TheBoys/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a>
