@@ -156,7 +156,7 @@ Ensure that your case study is well-organized, well-documented, and provides a c
 | 7. | GanTheGang |  <a href="./ganthegang/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
 | 8. | ATONG |  <a href="./ATONG/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
 | 9. | 3H |  <a href="./3H/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
-| 10. | HANY |  <a href="./HANY/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
+| 10. | HANY |  <a href="./HANY/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | Pandas-Profiling |
 | 11. | ByteNav |  <a href="./ByteNav/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
 | 12. | SEK KITO  |  <a href="./SEK%20KITO/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 
