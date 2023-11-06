@@ -153,7 +153,7 @@ Ensure that your case study is well-organized, well-documented, and provides a c
 | 4. | sheemart |  <a href="./sheemart/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 | 5. | ATG |  <a href="./ohSheet/read.me" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 | 6. | KHUCHIN |  <a href="./KHUCHIN/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | [Crops and livestock products Malaysia](https://www.fao.org/faostat/en/#data/QCL)  
-| 7. | GanTheGang |  <a href="./ganthegang/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
+| 7. | BERUK |  <a href="./BERUK/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> || 📃<a href="https://storage.dosm.gov.my/population/population_state.parquet" > | sweetViz | pandas-profiling | D-tale |
 | 8. | ATONG |  <a href="https://github.com/drshahizan/Python_EDA/tree/main/assignment/hpdp/ATG" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |[Population District 2020-2023](https://data.gov.my/data-catalogue/population_population_district_0) | SweetViz | DataPrep | ExploriPy |
 | 9. | 3H |  <a href="./3H/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | | AutoViz | Data-Tail | Lux |
 | 10. | HANY |  <a href="./HANY/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | [Producer Prices](https://data.humdata.org/dataset/8147f617-b323-40ea-a03f-5c21db2c62bb/resource/69b1b7b8-701a-44bf-816b-6a07b78fbc77/download/producer-prices_mys.csv) | Pandas-Profiling | SweetViz | Lux |
