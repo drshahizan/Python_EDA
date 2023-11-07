@@ -149,7 +149,7 @@ Ensure that your case study is well-organized, well-documented, and provides a c
 | 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 | 1. | F4 |  <a href="./F4/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | Rental Pricing Dataset, Malaysia | DataPrep	| AutoViz	| QuickDA |
 | 2. | Truth Archive |  <a href="./Truth_Archive" ><img src="../../images/answer.png" width="24px" height="24px" >|Population Table: Administrative Districts</a> | 
-| 3. | RAM |  <a href="./RAM/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
+| 3. | RAM |  <a href="./RAM/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | Air Pollution Index (API) in Malaysia |Pandas-Profiling|DataPrep|SweetViz
 | 4. | Avengers |  <a href="./Avengers/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | Malaysia's News Tweets | SweetViz	| Pandas-Profiling	| AutoViz |
 | 5. | Ayam Rendang |  <a href="./AyamRendang/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
 | 6. | KicapSambal | <a href="./KicapSambal/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | Property Listings in Kuala Lumpur | 	| 	| SweetViz |
