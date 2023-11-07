@@ -152,7 +152,7 @@ Ensure that your case study is well-organized, well-documented, and provides a c
 | 3. | RAM |  <a href="./RAM/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | Air Pollution Index (API) in Malaysia |Pandas-Profiling|DataPrep|SweetViz
 | 4. | Avengers |  <a href="./Avengers/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | Malaysia's News Tweets | SweetViz	| Pandas-Profiling	| AutoViz |
 | 5. | Ayam Rendang |  <a href="./Ayam Rendang" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | Apartment in Kuala Lumpur & Selangor, Malaysia | Pandas-Profiling | SweetViz | DataPrep |
-| 6. | KicapSambal | <a href="./KicapSambal/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | Property Listings in Kuala Lumpur | 	| 	| SweetViz |
+| 6. | KicapSambal | <a href="./KicapSambal/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | Property Listings in Kuala Lumpur | 	|Pandas-Profiling| SweetViz |
 | 7. | Theboys | <a href="./TheBoys/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a>
 
 ### 3. Academic Integrity
