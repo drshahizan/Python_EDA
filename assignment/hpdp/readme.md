@@ -149,7 +149,7 @@ Ensure that your case study is well-organized, well-documented, and provides a c
 | 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 | 1. | DEADPOOL |  <a href="./DEADPOOL/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | donations_state.csv | Exploripy | AutoViz | DataPrep |
 | 2. | Pergolakan |  <a href="./Pergolakan/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
-| 3. |  SYNA |  <a href="./SYNA/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
+| 3. |  SYNA |  <a href="./SYNA/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | [Covid-19 Vaccination in School of Malaysia](https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/vaccination/vax_school.csv) | Autoviz | Pandas-profiling | DataPrep |
 | 4. | sheemart |  <a href="./sheemart/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 | 5. | KHUCHIN |  <a href="./KHUCHIN/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | [Crops and livestock products Malaysia](https://www.fao.org/faostat/en/#data/QCL) | dabl | QuickDA | ExploriPy |  
 | 6. | BERUK |  <a href="./BERUK/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | [Covid Cases Per State](https://github.com/MoH-Malaysia/covid19-public/blob/main/epidemic/cases_state.csv) | sweetViz | pandas-profiling | D-tale |
