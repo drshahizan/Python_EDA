@@ -17,10 +17,10 @@
 | KEE SHIN PEARL             | A21EC0190  |Case Study |
 
 ### 📂 Folder content:
-* [📖 Answer]()
-* [📖 Answer]()
-* [📖 Answer]()
-* [📖 Answer]()
+* [📖 Answer](https://github.com/drshahizan/Python_EDA/tree/main/assignment/hpdp/DEADPOOL%20/case_study1)
+* [📖 Answer](https://github.com/drshahizan/Python_EDA/tree/main/assignment/hpdp/DEADPOOL%20/case_study2a)
+* [📖 Answer](https://github.com/drshahizan/Python_EDA/tree/main/assignment/hpdp/DEADPOOL%20/case_study2b)
+* [📖 Answer](https://github.com/drshahizan/Python_EDA/tree/main/assignment/hpdp/DEADPOOL%20/case_study2c)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/HPDP/issues) for any improvements, suggestions or errors in the content.
