@@ -147,7 +147,7 @@ Ensure that your case study is well-organized, well-documented, and provides a c
 | No | Group |  File | Dataset | EDA Tools 1 | EDA Tools 2 | EDA Tools 3 | 
 | -----: |  ------ | :-----: |  ----- |  ----- | ----- | ----- | 
 | 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
-| 1. | F4 |  <a href="./F4/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | Rental Pricing Dataset, Malaysia | DataPrep	| [AutoViz](./F4/case_study2b/case_study2b.ipynb)	| [SweetVitz](./F4/case_study2c/CS2C_F4(Sweetvitz).ipynb) |
+| 1. | F4 |  <a href="./F4" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | Rental Pricing Dataset, Malaysia | DataPrep	| [AutoViz](./F4/case_study2b/case_study2b.ipynb)	| [SweetVitz](./F4/case_study2c/CS2C_F4(Sweetvitz).ipynb) |
 | 2. | Truth Archive |  <a href="./Truth_Archive" ><img src="../../images/answer.png" width="24px" height="24px" >|Population Table: Administrative Districts</a> | Pandas-Profiling |Sweetviz|DataPrep|
 | 3. | RAM |  <a href="./RAM/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | Air Pollution Index (API) in Malaysia |Pandas-Profiling|DataPrep|SweetViz
 | 4. | Avengers |  <a href="./Avengers/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | Malaysia Restaurant Review  | SweetViz	| Pandas-Profiling	| AutoViz |
