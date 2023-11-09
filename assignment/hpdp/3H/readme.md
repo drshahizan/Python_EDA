@@ -12,13 +12,13 @@
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
 | NG ZI XING | A21EC0213 | Case Study 1  
-| MOHAMAD AZRI HADIF BIN MOHAMMAD RIZAL | A21EC0054 | Case Study 1a
-| ALIEYA ZAWANIE BINTI A ZAINI | A21EC0156 | Case Study 1b
-| IZZAT HAQEEMI BIN HAIRUDIN | A21EC0033 | Case Study 1c
+| MOHAMAD AZRI HADIF BIN MOHAMMAD RIZAL | A21EC0054 | Case Study 2a
+| ALIEYA ZAWANIE BINTI A ZAINI | A21EC0156 | Case Study 2b
+| IZZAT HAQEEMI BIN HAIRUDIN | A21EC0033 | Case Study 2c
 
 ### 📂 Folder content:
 * [📖 Answer]()
-* [📖 Answer]([3H](https://colab.research.google.com/drive/1nYwdt8_jy3ORcI__yYOZF2m5ACprCJDx?usp=sharing))
+* [📖 Answer Case Study 2a](assignment/hpdp/3H/case_study2a/3H_Assignment2a.ipynb)
 * [📖 Answer]()
 * [📖 Answer]()
 
