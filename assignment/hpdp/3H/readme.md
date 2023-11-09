@@ -18,7 +18,7 @@
 
 ### 📂 Folder content:
 * [📖 Answer]()
-* [📖 Answer Case Study 2a](assignment/hpdp/3H/case_study2a/3H_Assignment2a.ipynb)
+* [📖 Answer Case Study 2a](case_study2a/3H_Assignment2a.ipynb)
 * [📖 Answer]()
 * [📖 Answer]()
 
