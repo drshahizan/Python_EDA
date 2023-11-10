@@ -56,7 +56,25 @@ if you are using jupyter notebook, the page will be opened in the output column.
 </p>
 
 ## b. How to generate basic statistics and visualizations.
-D-tale provide some basic statistic and visualization on the data of the 
+D-tale provide some basic statistic and visualization on the data of each column. To use this function, follow the following steps : 
+
+### Select a column, right-click and select Describe (column analysis)
+<p align="center">
+    <img src="https://github.com/drshahizan/Python_EDA/blob/68eb59807192021d56d8963aa0b944a32804b6ec/assignment/hpdp/BERUK/case_study2c/img/Describe.png" width=800>
+</p>
+
+the output should be something like this
+<p align="center">
+    <img src="https://github.com/drshahizan/Python_EDA/blob/68eb59807192021d56d8963aa0b944a32804b6ec/assignment/hpdp/BERUK/case_study2c/img/Screenshot 2023-11-10 171351.png" width=800>
+</p>
+
+as you can see, this feature describe basic statistical feature of the column such as mean, median, mode, the quartiles and it also record all missing values that the column have, and also list all the outliers
+
+if you select histogram function on the top bar, there will be a histogram shown that shows the relationship between the values and bin, with a KDE graph
+
+<p align="center">
+    <img src="https://github.com/drshahizan/Python_EDA/blob/68eb59807192021d56d8963aa0b944a32804b6ec/assignment/hpdp/BERUK/case_study2c/img/Describe (1).png" width=800>
+</p>
 
 ## c. How to explore relationships and patterns in the data.
 ## d. Unique features and capabilities of D-Tale .
