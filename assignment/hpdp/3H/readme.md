@@ -17,7 +17,7 @@
 | IZZAT HAQEEMI BIN HAIRUDIN | A21EC0033 | Case Study 2c
 
 ### 📂 Folder content:
-* [📖 Answer Case Study 1a]()
+* [📖 Answer Case Study 1a](https://github.com/drshahizan/Python_EDA/blob/main/assignment/hpdp/3H/case_study1/Assignment_EDA_caseStudy1.ipynb)
 * [📖 Answer Case Study 2a](case_study2a/3H_Assignment2a.ipynb)
 * [📖 Answer]()
 * [📖 Answer]()
