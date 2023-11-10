@@ -52,7 +52,7 @@ the data displayed should be based on the data you used.
 if you are using jupyter notebook, the page will be opened in the output column. to open it in new tab, click the dtale loog and select ' 'open in new tab' 
 
 <p align="center">
-    <img src="https://github.com/drshahizan/Python_EDA/blob/68eb59807192021d56d8963aa0b944a32804b6ec/assignment/hpdp/BERUK/case_study2c/img/Describe%20(5).png" width=800>
+    <img src="https://github.com/drshahizan/Python_EDA/blob/68eb59807192021d56d8963aa0b944a32804b6ec/assignment/hpdp/BERUK/case_study2c/img/Describe (5).png" width=800>
 </p>
 
 ## b. How to generate basic statistics and visualizations.
