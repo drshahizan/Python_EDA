@@ -17,10 +17,10 @@
 | NADIA SYAFIQAH BINTI ZULKIPLI | A21EC0098 | Case Study 2c
 
 ### 📂 Folder content:
-* [📖 Answer]()
-* [📖 Answer]()
-* [📖 Answer]()
-* [📖 Answer]()
+* [📖 Case Study 1]()
+* [📖 Case Study 2a]()
+* [📖 Case Study 2b]()
+* [📖 Case Study 2c]()
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/HPDP/issues) for any improvements, suggestions or errors in the content.
