@@ -7,6 +7,7 @@
 
 # Assignment 2: Exploratory Data Analysis 
 
+### Group Name: HANY
 ### Group Members
 
 | Name                                     | Matrix Number | Task |
