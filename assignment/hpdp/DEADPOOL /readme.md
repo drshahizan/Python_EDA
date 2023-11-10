@@ -11,10 +11,10 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| MUHAMMAD IZZUDDIN BIN SHABRIN |A21EC0083  |Case Study     | 
-| UMAR HAZIQ BIN MUHAMAD NORHISHAM | A21EC0235     | Case Study |
-| MUHAMMAD AMIR JAMIL BIN JAMLUS | A21EC0202   |Case Study |
-| KEE SHIN PEARL             | A21EC0190  |Case Study |
+| MUHAMMAD AMIR JAMIL BIN JAMLUS | A21EC0202   |Case Study 1 |
+| UMAR HAZIQ BIN MUHAMAD NORHISHAM | A21EC0235     | Case Study 2a |
+| MUHAMMAD IZZUDDIN BIN SHABRIN |A21EC0083  |Case Study 2b    | 
+| KEE SHIN PEARL             | A21EC0190  |Case Study 2c |
 
 ### 📂 Folder content:
 * [📖 Answer](https://github.com/drshahizan/Python_EDA/tree/main/assignment/hpdp/DEADPOOL%20/case_study1)
