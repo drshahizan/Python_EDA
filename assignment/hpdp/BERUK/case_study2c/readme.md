@@ -57,5 +57,5 @@ if you are using jupyter notebook, the page will be opened in the output column.
 
 ## b. How to generate basic statistics and visualizations.
 ## c. How to explore relationships and patterns in the data.
-## d. Any unique features or capabilities of each tool that you find noteworthy.
+## d. Unique features and capabilities of D-Tale .
 
