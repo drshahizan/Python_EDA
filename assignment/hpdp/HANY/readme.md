@@ -5,16 +5,16 @@
 <a href="https://github.com/drshahizan/HPDP/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/HPDP?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FHPDP&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# EDA
+# Assignment 2: Exploratory Data Analysis using Python
 
 ### Group Members
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
 | LIEW YVONNE | A21EC0045 | Case Study 1  
-| MUHAMMAD HARITH HAKIM BIN OTHMAN | A21EC0205 | Case Study 1a
-| ALYA BALQISS BINTI AZAHAR | A21EC0158 | Case Study 1b
-| NADIA SYAFIQAH BINTI ZULKIPLI | A21EC0098 | Case Study 1c
+| MUHAMMAD HARITH HAKIM BIN OTHMAN | A21EC0205 | Case Study 2a
+| ALYA BALQISS BINTI AZAHAR | A21EC0158 | Case Study 2b
+| NADIA SYAFIQAH BINTI ZULKIPLI | A21EC0098 | Case Study 2c
 
 ### 📂 Folder content:
 * [📖 Answer]()
