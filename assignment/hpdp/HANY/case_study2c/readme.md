@@ -81,11 +81,34 @@ Output:
 - Navigate between pages by selecting the page number located at the bottom right of the DataFrame.
   <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/622f1ec8-4530-4a53-80d9-1ef5fba8fbf0" width="300"></div>
 - The option to specify the number of displayed records per page, with choices of 10, 25, 50, or 100, is available at the bottom left of the DataFrame.
-   <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/209fdd43-27d2-4a96-aea4-9677c13f2f04" width="300"></div><br>
+  <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/209fdd43-27d2-4a96-aea4-9677c13f2f04" width="300"></div><br>
 
 **4.2.3 Chart Recommendations**
 - To access chart recommendations, select the chart icon situated to the right of the DataFrame.
+  <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/9d3addc4-e025-4194-912b-96c8084c9b73" width="300"></div>
 - A variety of charts will be presented for the user's selection.
+  <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/d8ac2313-7a33-4fd4-a93f-d838bb944130" width="500"></div>
+
 - Once a chart is chosen, a corresponding block of code is generated automatically for displaying the selected chart.
 - Example:
-     
+  <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/5da94747-f831-40a3-9dd1-1c8492f06579" width="600"></div><br>
+
+## 5. Explore Relationships and Patterns
+Utilise Lux by exploring its functions to create relationships and patterns with targeted variables.
+
+### 5.1 Visualisation List
+One way to explore the relarionships is by using the **Vis class**.
+<div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/3ad7b7ed-71c0-44e4-b271-523cfabcb5db" width="300"></div><br>
+
+- This code creates an individual visualisation focusing on the "state" of Johor and the "hosp_noncovid" column in the DataFrame.<br>
+
+Another way to explore relationships is by using the **VisList class**.
+<div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/f8dde494-db35-441e-980d-8a80d1b73f2d" width="900"></div><br>
+
+- This code generates a list of visualizations, exploring the relationship between "state" and "admitted_total" with a focus on filtering based on the "state" column.<br>
+  
+### 5.2 Grouped Statistics
+Explore grouped statistics using the **groupby** method.
+<div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/85a3147e-1606-482d-aeff-7069c29d6e61" width="900"></div><br>
+
+- This code example groups the DataFrame by the "state" column and calculates the mean for each group.
