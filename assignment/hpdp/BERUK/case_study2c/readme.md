@@ -117,3 +117,10 @@ The output will be displayed in the same page.
 
 ## d. Unique features and capabilities of D-Tale .
 
+D-Tale is such a convenient EDA tools as it is based on drag-and-drop actions, which simplify our works. However, D-tale also provide a way to translate the action did in the tools into python code using "Code export" function
+
+<p align="center">
+    <img src="https://github.com/drshahizan/Python_EDA/blob/68eb59807192021d56d8963aa0b944a32804b6ec/assignment/hpdp/BERUK/case_study2c/img/Describe (6).png" width=800>
+</p>
+
+the code can be run in your python compiler after you adjust the variables name in the code
