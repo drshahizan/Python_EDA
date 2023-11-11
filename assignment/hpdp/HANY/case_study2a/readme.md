@@ -1,4 +1,4 @@
-## Pandas-Profiling Automated EDA for exploratory Analysis
+## Pandas-Profiling Automated EDA for Dataset Analysis
 
 ![image](https://github.com/drshahizan/Python_EDA/assets/118237681/dc632518-2ae2-4f52-9015-62a5b04c1a89)
 
