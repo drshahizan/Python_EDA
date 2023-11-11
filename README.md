@@ -170,6 +170,7 @@ EDA is a vital but time-consuming task in a data project. Here are 10 open-sourc
 | ExploriPy | - Performs statistical testing.<br>- Column type-wise distribution: Continuous, Categorical<br>- Covers info about missing values, data statistics, correlation etc. |[🌐](https://pypi.org/project/ExploriPy/) | [:octocat:](https://github.com/exploripy/exploripy) |
 
 ## Big data EDA
+Big Data refers to the vast and complex datasets that exceed the capabilities of traditional data processing tools. It is characterized by the three V's: volume (large amounts of data), velocity (rapid data generation), and variety (different data types). Exploratory Data Analysis (EDA), on the other hand, is a data analysis approach that involves summarizing, visualizing, and understanding the key characteristics of a dataset to uncover insights and patterns. In the context of Big Data, EDA plays a crucial role in making the data more manageable by identifying relevant subsets, trends, and anomalies, enabling data scientists to extract meaningful information and inform decision-making processes.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
