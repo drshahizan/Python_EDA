@@ -106,6 +106,8 @@ By implementing these strategies, organizations can harness the power of EDA to 
 ### Basic Concept
 * [Exploratory Data Analysis of 7 Million Companies using Python](https://towardsdatascience.com/what-is-feature-engineering-importance-tools-and-techniques-for-machine-learning-2080b0269f10)
 * [Exploratory data analysis, feature engineering, and operationalizing your data flow into your ML pipeline with Amazon SageMaker Data Wrangler](https://aws.amazon.com/blogs/machine-learning/exploratory-data-analysis-feature-engineering-and-operationalizing-your-data-flow-into-your-ml-pipeline-with-amazon-sagemaker-data-wrangler/)
+* [Advanced exploratory data analysis (EDA)](https://miykael.github.io/blog/2022/advanced_eda/)
+
 
 
 ## Conclusion
