@@ -7,7 +7,7 @@
 
 🌟 Hit star button to save this repo in your profile
 
-## Big data EDA
+## Big Data: The Vital Role of Exploratory Data Analysis (EDA)
 **Big Data** encompasses extremely large and complex datasets, often with sizes that traditional data processing tools struggle to handle. The three primary characteristics that define Big Data are:
 
 - **Volume**: This refers to the sheer quantity of data generated and collected. Big Data often involves terabytes, petabytes, or even exabytes of information, such as social media posts, sensor data, or financial transactions.
