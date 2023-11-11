@@ -14,8 +14,8 @@
 | :---------------------------------------- | :-------------: | ------------- |
 | LIEW YVONNE | A21EC0045 | Case Study 1  
 | MUHAMMAD HARITH HAKIM BIN OTHMAN | A21EC0205 | Case Study 2a
-| ALYA BALQISS BINTI AZAHAR | A21EC0158 | Case Study 2b
-| NADIA SYAFIQAH BINTI ZULKIPLI | A21EC0098 | Case Study 2c
+| NADIA SYAFIQAH BINTI ZULKIPLI | A21EC0098 | Case Study 2b
+| ALYA BALQISS BINTI AZAHAR | A21EC0158 | Case Study 2c
 
 ### 📂 Folder content:
 * [📖 Case Study 1](./case_study1/readme.md)
