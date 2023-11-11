@@ -1,5 +1,5 @@
 # Assignment 2 - Case Study 2a - SweetViz
-<a href="assignment/hpdp/Pergolakan/case_study2a/Assignment_2_Case_Study_2a.ipynb"
+<a href="/Assignment_2_Case_Study_2a.ipynb"
 target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 TODO - Write some introduction about your project here: describe the dataset, where you got it from, what you're trying to do with it, and which tools & techniques you're using. Please provide your group member name and their matrix number.
