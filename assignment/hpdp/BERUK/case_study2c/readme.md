@@ -127,6 +127,16 @@ The code can only be run in the same python compiler you used to generate the D-
 
 ## E. Pro and Cons analysis of D-tale
 
-|        Pro       |       Cons     |
-| ---------------: |  ------------- |
-| 
+|        Pro       |       desc    |
+| ---------------  |  ------------- |
+| Automated and instinctive | The user interface are instinctive to new user and most data analytic process can be automated|
+| Flexible visualization | Wide range of flexibility in generating informative visualization and data story telling |
+|Optimized data processing | capable of handling and managing data pre - processing such as handling missing values and basic statistic process such as generating mean,median,mode,data range,etc.|
+
+|       Cons       |       desc    |
+| ---------------  |  ------------- |
+| High resource consumption | use high computational resources to execute the specified task which may impact the performance of software|
+| Time Consumption for large dataset | large dateset take longer time to be process and the duration may be significant |
+|Require high python understanding| the code exported from D-tale are not beginner friendly, and required a certain degree of python mastery to be fixed |
+
+## Conclusion
