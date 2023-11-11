@@ -160,3 +160,10 @@ Another finding we discovered is that selangor has the highest active cases reco
 These finding suggest that Selangor has the highest infection rate and possible the most critical red zone compare to others
 
 ### Recommendation and insight regarding D-tale
+
+To conclude this report, I strongly suggest people to use D-tale once they have grasp the basic concept of Exploratory Data Analysis, and have some basic understanding on data analysis and statistic. D-Tale is a tool to help optimise the process, and we are still required to understand what the output signifies and how to properly use all necessary data. Other than that, D-Tale is an excellent EDA tools to be used as a explore a dataset as a starting point for data scientist.
+
+## Referance
+1. [man-group/dtale](https://github.com/man-group/dtale)
+2. [Krish Naik : D-Tale The Best Library To Perform Exploratory Data Analysis Using Single Line Of Code🔥🔥🔥🔥](https://www.youtube.com/watch?v=xSXGcuiEzUc)
+3. [man-group/dtale](https://pypi.org/project/dtale/)
