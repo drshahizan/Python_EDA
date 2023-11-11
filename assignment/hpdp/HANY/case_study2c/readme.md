@@ -17,4 +17,75 @@
 |NADIA SYAFIQAH BINTI ZULKIPLI|A21EC0098      | CS2B   |
 | ALYA BALQISS BINTI AZAHAR              |A21EC0158      | CS2C    |
 
-# Lux
+# 📚 Case Study 2c: Automated EDA Tools (Lux)
+## 1. Download the dataset
+Download the Malaysian dataset named "hospital.csv" from the following URL:<br>
+   https://github.com/MoH-Malaysia/covid19-public/blob/main/epidemic/hospital.csv
+  <div align="center"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/30164b12-dd5a-41ed-be36-d04b43d5368b" width="800"></div>
+  <div align="center">Sample of dataset</div><br>
+ 
+
+## 2. Install Lux
+Install the automated Exploratory Data Analysis (EDA) tool Lux by using the following code:
+ <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/99cbe226-c6da-4c2e-b001-aa42ba52934b" width="300"></div><br>
+
+## 3. Load the dataset
+ **3.1 Import necessary libraries**
+ <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/2e56c2b5-f1b2-4e67-a637-c61a50420736" width="300"></div>
+ 
+ - **lux**: This library is for interactive visualizations and exploratory data analysis (EDA).
+ - **pandas**: A powerful data manipulation and analysis library in Python.
+    
+**3.2. Enable custom widget manager in Google Colab**
+    <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/5709ce11-11ee-414b-bf06-993cfdfe2c57" width="450"></div>
+  This enables the custom widget manager in Google Colab. Widgets are interactive elements that can be used to enhance the user interface when working with data.
+
+ **3.3. Load the dataset**
+ <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/c022fa7c-9577-4ed2-b696-b4ba3a3e6f11" width="900"></div>
+ 
+   This is a pandas function used to read data from a CSV (Comma-Separated Values) file and load it into a pandas DataFrame.
+   It assigns the loaded dataset to a variable named **"df"**
+    
+ **3.4 Data Manipulation**
+    <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/b8b00b6c-5e5a-4e5f-86c3-5df6ea086eb9" width="550"></div>
+    
+  This step called "Converting a Column to Datetime." Specifically, it converts the 'date' column in the DataFrame (df) from its current data type to the datetime data type. It is essential to prevent temporal errors.
+  - **df['date']**: Selects the 'date' column from the DataFrame df.
+  - **pd.to_datetime()**: Pandas function that converts the argument to datetime.
+  - **format='%Y-%m-%d'**: Sets the format of date column to year-month-day (e.g., '2023-11-11').
+<br>
+
+## 4. Generate Statistics and Visualisations
+### 4.1 Display the dataframe
+
+<div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/282d4415-cb2f-4344-bb2f-91af855cc9ff" width="150"></div>
+Output:
+<div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/531d3335-8bfc-437e-b0fd-ab3af7b5296b" width="1000"></div><br>
+
+### 4.2 Visualisations
+**4.2.1 Automatic visualisations**
+- Press Toggle Pandas/Lux located on the top left of the Dataframe to automate visualisations.
+  <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/33d0a468-f54d-4664-a01f-805cd42a6b70" width="500"></div>
+- Output:
+  <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/5b7122e7-ad7e-4b24-9183-60751331d03a" width="1000"></div><br>
+
+**4.2.2 Interactive Table**
+- To convert the Dataframe into an interactive table, press the table icon on the right of the Dataframe.
+  <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/7668babf-2ef0-48ff-87ac-f9bd93c0b2dd" width="400"></div>
+- Output:
+  <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/9360a7c4-6ea0-4b71-9d71-77ff7837480e" width="900"></div>
+- There is a filter option that accepts index as input to narrow down the targeted data points.
+  <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/a1b12b7a-f6c5-4e7a-b9af-f97c436e3e71" width="300"></div>
+- Output:
+  <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/2028329c-521f-4aa4-a5d4-b9c3f04ca96d" width="900"></div>
+- Navigate between pages by selecting the page number located at the bottom right of the DataFrame.
+  <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/622f1ec8-4530-4a53-80d9-1ef5fba8fbf0" width="300"></div>
+- The option to specify the number of displayed records per page, with choices of 10, 25, 50, or 100, is available at the bottom left of the DataFrame.
+   <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/209fdd43-27d2-4a96-aea4-9677c13f2f04" width="300"></div><br>
+
+**4.2.3 Chart Recommendations**
+- To access chart recommendations, select the chart icon situated to the right of the DataFrame.
+- A variety of charts will be presented for the user's selection.
+- Once a chart is chosen, a corresponding block of code is generated automatically for displaying the selected chart.
+- Example:
+     
