@@ -108,7 +108,63 @@ Another way to explore relationships is by using the **VisList class**.
 - This code generates a list of visualizations, exploring the relationship between "state" and "admitted_total" with a focus on filtering based on the "state" column.<br>
   
 ### 5.2 Grouped Statistics
-Explore grouped statistics using the **groupby** method.
-<div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/85a3147e-1606-482d-aeff-7069c29d6e61" width="900"></div><br>
-
+An example of analysing grouped statisticsis by using the **groupby** method.
 - This code example groups the DataFrame by the "state" column and calculates the mean for each group.
+  <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/85a3147e-1606-482d-aeff-7069c29d6e61" width="900"></div><br>
+  <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/eff2ea91-b637-45cf-a6c6-269d89e9eb46" width="900"></div><br>
+
+In Lux, the **"Enhance"** and **"Generalize"** options are features designed to assist users in the exploratory data analysis process.
+- **Enhance:**
+  - focused on providing additional insights and details related to a specific aspect of the data.
+  - offers relevant visualizations or statistical measures that are specifically tailored to selected attributes.
+- **Generalize:**
+  - provide a broader overview or summary of the entire dataset.
+  - helps users to understand general patterns, trends, or key statistics without necessarily focusing on a specific attribute.
+
+### 5.3 Specification
+An **"intent"** is a way to specify targeted attributes and analyse their relationship. It also guides Lux in generating relevant visualizations and insights.
+<div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/1968605d-a2c0-404a-ba20-353144b720cf" width="500"></div>
+
+- It sets the intent for the DataFrame df to focus on specific attributes. In this example, it focuses on **"admitted_covid"** and **"discharged_covid".**
+- Output:
+  <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/dee4d034-32db-4051-a048-2f8c580e6415" width="900"></div>
+- The **"Filter"** option filters and generates the charts accordingly. In this case, it filters the data on **"admitted_covid"** and **"discharged_covid"** by **"state"**.
+- The **"Generalize"** option produces a summary on the targeted attributes. In this case, it illustrates the number of records of **"admitted_covid"** and **"discharged_covid"**.
+
+### 5.4 Export
+There is function to extract a visualization from a Lux DataFrame.
+<div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/da4f773c-ab90-4fb9-9996-f77929a1cf32" width="900"></div>
+
+- Select a chart from the Dataframe for export.
+- Click the icon at the top-right of the widget. A blue order with a check mark will appear once a chart is selected.
+- Execute the following code to extract the chosen chart.
+  <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/653b604d-3111-4264-99c4-ae32f1f82054" width="300"></div>
+- The exported attribute typically stores a list of visualizations generated during the exploration process.
+- **[0]** indicates that the first visualization from the list is retrieved. Lux stores visualizations as a list, and this indexing selects a specific visualization.
+- This code allows users to access and work with a specific visualisation that was generated. It's useful for users to manipulate or analyse a particular visualisation in more detail or incorporate it into a custom analysis or report.
+- The extracted visualization is then assigned to the variable vis.
+- Output:
+  <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/a1aa4941-0047-4e36-a200-338b4467382c" width="300"></div>
+
+## 6. Unique Features
+The distinctive features of Lux have been highlighted earlier, encompassing the interactive table, chart recommendations, and the export function.
+
+- **Interactive Table**
+   - Lux transforms the loaded DataFrame into an interactive table, providing a dynamic and user-friendly interface for exploring data.
+   - Enables users to interactively sift through and visualize data directly within the notebook environment.
+   - It allows users to explore their data by filtering, sorting, and selecting subsets of the data, saving time and effort compared to manually exploring the data.
+     
+- **Chart Recommendations**
+   - Lux offers automated chart recommendations based on the selected attributes based on the user's intent, streamlining the process of visual exploration.
+   - Saves time by automatically suggesting relevant visualizations, aiding users in identifying relationships, patterns and trends.
+   - It automatically fills in the missing details and determines appropriate visualization mappings.
+     
+- **Export Function**
+   - Lux also provides an export function to save, share, and utilise selected visualisations generated during data analysis.
+   - Allows users to capture and integrate specific visualisations into reports or presentations.
+     
+## 7. Pros and Cons of Lux
+
+## 8. References
+
+
