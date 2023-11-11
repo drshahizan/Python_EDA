@@ -104,7 +104,7 @@ By implementing these strategies, organizations can harness the power of EDA to 
 
 ## 📖 Notes
 ### Basic Concept
-* [Exploratory Data Analysis of 7 Million Companies using Python]()
+* [Exploratory Data Analysis of 7 Million Companies using Python](EDA_7millions.pdf)
 
 
 ## Conclusion
