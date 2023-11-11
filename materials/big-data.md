@@ -102,6 +102,11 @@ To overcome the challenges of exploring Big Data using Exploratory Data Analysis
 
 By implementing these strategies, organizations can harness the power of EDA to navigate the challenges of exploring Big Data, making it more manageable and enabling the extraction of valuable insights for informed decision-making.
 
+## 📖 Notes
+### Basic Concept
+* [Exploratory Data Analysis of 7 Million Companies using Python]()
+
+
 ## Conclusion
 
 In the world of Big Data, where data is vast, dynamic, and diverse, **Exploratory Data Analysis (EDA)** emerges as an indispensable tool. It helps unravel the complexities of Big Data by offering a deeper understanding of the data, enabling data scientists and analysts to make sense of this abundance, derive valuable insights, and inform data-driven decision-making processes. EDA is the compass that guides the exploration of Big Data, helping organizations harness the potential hidden within this data deluge.
