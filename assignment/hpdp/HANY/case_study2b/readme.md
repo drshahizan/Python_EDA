@@ -16,3 +16,6 @@
 | MUHAMMAD HARITH HAKIM BIN OTHMAN              | A21EC0205     | CS2A    |
 |NADIA SYAFIQAH BINTI ZULKIPLI|A21EC0098      | CS2B   |
 | ALYA BALQISS BINTI AZAHAR              |A21EC0158      | CS2C    |
+
+## 📚 Case Study 2: Automated EDA Tools (SweetViz)
+This is a step-by-step guide for implementing SweetViz's **Automated EDA Tools** for [healthcare dataset](https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/hospital.csv]
