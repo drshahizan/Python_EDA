@@ -7,7 +7,7 @@
 
 🌟 Hit star button to save this repo in your profile
 
-## Big Data: The Vital Role of Exploratory Data Analysis (EDA)
+# Big Data: The Vital Role of Exploratory Data Analysis (EDA)
 
 In the era of massive data proliferation, the management and analysis of Big Data have become increasingly important. The term "Big Data" refers to datasets that are not only large in volume but are also characterized by high velocity and variety. To make sense of this abundance of data, **Exploratory Data Analysis (EDA)** plays a pivotal role. This article delves into the critical significance of EDA in the context of Big Data and explores the various aspects of its implementation.
 
