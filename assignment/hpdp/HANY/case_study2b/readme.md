@@ -19,3 +19,5 @@
 
 ## 📚 Case Study 2: Automated EDA Tools (SweetViz)
 This is a step-by-step guide for implementing SweetViz's **Automated EDA Tools** based on the covid-19 [hospital dataset](https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/hospital.csv).
+
+## 1. Load the dataset into the tool
