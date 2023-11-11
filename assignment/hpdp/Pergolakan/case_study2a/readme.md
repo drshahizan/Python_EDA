@@ -124,7 +124,7 @@ report.show_html('SweetViz_Report.html') #show report
 
 To get the generated report of SweetViz, we can go to the files on the google colab
 <p align="center">
-    <img src="https://github.com/drshahizan/Python_EDA/blob/4871d9e0bbcfc53b0ef7ae24f80d8fdbf7776bcb/assignment/hpdp/BERUK/case_study2c/img/dtale.png" width=500>
+    <img src="https://raw.githubusercontent.com/drshahizan/Python_EDA/main/assignment/hpdp/Pergolakan/case_study2a/SweetViz1.png" width=1000>
 </p>
 
 Download the SweetViz_Report.html then, open the html file. 
