@@ -169,6 +169,8 @@ EDA is a vital but time-consuming task in a data project. Here are 10 open-sourc
 | Lux | - Provides visualization recommendations.<br>- Supports EDA on a subset of columns.<br>- Integrates with Jupyter Notebook.<br>- Exports code of analysis.|[🌐](https://lux-api.readthedocs.io/en/latest/#:~:text=Lux%20is%20a%20Python%20library,what%20they%20are%20looking%20for.) | [:octocat:](https://github.com/lux-org/lux) |
 | ExploriPy | - Performs statistical testing.<br>- Column type-wise distribution: Continuous, Categorical<br>- Covers info about missing values, data statistics, correlation etc. |[🌐](https://pypi.org/project/ExploriPy/) | [:octocat:](https://github.com/exploripy/exploripy) |
 
+## Big data EDA
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
 
