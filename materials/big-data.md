@@ -108,6 +108,7 @@ By implementing these strategies, organizations can harness the power of EDA to 
 * [Exploratory data analysis, feature engineering, and operationalizing your data flow into your ML pipeline with Amazon SageMaker Data Wrangler](https://aws.amazon.com/blogs/machine-learning/exploratory-data-analysis-feature-engineering-and-operationalizing-your-data-flow-into-your-ml-pipeline-with-amazon-sagemaker-data-wrangler/)
 * [Advanced exploratory data analysis (EDA)](https://miykael.github.io/blog/2022/advanced_eda/)
 * [How to perform EDA and data modeling on audio data](https://miykael.github.io/blog/2022/audio_eda_and_modeling/)
+* [Exploratory Data Analysis on Large Data Sets: The Example of Salary Variation in Spanish Social Security Data](https://docs.iza.org/dp13459.pdf)
 
 
 
