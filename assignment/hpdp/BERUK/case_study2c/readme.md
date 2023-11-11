@@ -140,3 +140,23 @@ The code can only be run in the same python compiler you used to generate the D-
 |Require high python understanding| the code exported from D-tale are not beginner friendly, and required a certain degree of python mastery to be fixed |
 
 ## Conclusion
+
+### Findings about dataset
+
+Based on the analysis made on [Covid Cases Per State](https://github.com/MoH-Malaysia/covid19-public/blob/main/epidemic/cases_state.csv) , below are a few findings that we found
+
+<p align="center">
+    <img src="https://github.com/drshahizan/Python_EDA/blob/13acf8d502bfd643a13c094d6eefd6a9b6fda5a1/assignment/hpdp/BERUK/case_study2c/img/Screenshot%202023-11-11%20234012.png" width=800>
+</p>
+
+Based on the graph above, there are a few things that we have found that during Covid pandemic, it has been found that active cases increase significantly day by day and reach the highest value recorded is on 2nd April 2022 which is 103,574 cases in Selangor.
+
+<p align="center">
+    <img src="https://github.com/drshahizan/Python_EDA/blob/ca89707eed35c336b38d84aa26bf936c709b767e/assignment/hpdp/BERUK/case_study2c/img/Screenshot%202023-11-12%20000040.png" width=800>
+</p>
+
+Another finding we discovered is that selangor has the highest active cases recorded and with a smaller ratio of case recoverd compared to the rest of the states.
+
+These finding suggest that Selangor has the highest infection rate and possible the most critical red zone compare to others
+
+### Recommendation and insight regarding D-tale
