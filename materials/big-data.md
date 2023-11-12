@@ -110,6 +110,7 @@ By implementing these strategies, organizations can harness the power of EDA to 
 * [Advanced exploratory data analysis (EDA)](https://miykael.github.io/blog/2022/advanced_eda/)
 * [How to perform EDA and data modeling on audio data](https://miykael.github.io/blog/2022/audio_eda_and_modeling/)
 * [Exploratory Data Analysis on Large Data Sets: The Example of Salary Variation in Spanish Social Security Data](https://docs.iza.org/dp13459.pdf)
+* [How to Work with BIG Datasets on 16G RAM (+Dask)](https://www.kaggle.com/code/yuliagm/how-to-work-with-big-datasets-on-16g-ram-dask)
 
 
 
