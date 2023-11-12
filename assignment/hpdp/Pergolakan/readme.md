@@ -13,10 +13,10 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-|Mikhail Bin Yaasin              |   A21EC0053   |     |
-|Muhammad Farhan Bin Ibrahim             | A21EC0072     |    |
-|Muhammad Fikri Bin Sharunazim              |  A21EC0075    |      |
-| Muhammad Adam Fahmi Bin Mohd Taufiq              |  A21EC0061    |      |
+|Mikhail Bin Yaasin              |   A21EC0053   |    case_study1 |
+|Muhammad Farhan Bin Ibrahim             | A21EC0072     |   case_study2c  |
+|Muhammad Fikri Bin Sharunazim              |  A21EC0075    |   case_study2b    |
+| Muhammad Adam Fahmi Bin Mohd Taufiq              |  A21EC0061    |    case_study2a   |
 
 ### 📂 Folder content:
 * [📖 Case Study1](case_study1)
