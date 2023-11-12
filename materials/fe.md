@@ -135,7 +135,7 @@ These automated feature engineering tools can significantly expedite the process
 * [Automate feature engineering pipelines with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/automate-feature-engineering-pipelines-with-amazon-sagemaker/)
 
 ## 📖 Lab
-| No | Title   |  Kaggle |
+| No | Title   |  File |
 | -----: | -----  | ------ | 
 | 1. | Exploratory Data Analysis of 7 Million Companies |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/zelalemgetahun/eda-of-7-million-company-dataset) |
 | 2. | AMEX EDA |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/ambrosm/amex-eda-which-makes-sense/notebook) |
