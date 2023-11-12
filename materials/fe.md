@@ -110,13 +110,28 @@ When performing feature engineering, consider the following **best practices**:
 
 Feature engineering is a **creative and data-driven process** that plays a crucial role in the success of data science projects. By carefully selecting, creating, and transforming features, data scientists can unlock the hidden patterns in data, leading to more **accurate** and **robust** machine learning models.
 
+## Automated Feature Engineering Tools for Data Science and Machine Learning
+Automated Feature Engineering tools are software and libraries designed to assist data scientists and machine learning practitioners in the process of feature engineering. These tools automate various aspects of feature creation and selection, making it easier and more efficient to work with large and complex datasets.
+
+Certainly, here's a table summarizing popular automated feature engineering tools with columns for the tools, descriptions, key features, links to their official websites, and links to their GitHub repositories:
+
+| Tool                               | Description | Key Features | Official Website | GitHub Repository |
+|------------------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|---------------------------------------------|---------------------------------------------|
+| **Featuretools**                   | Featuretools is an open-source Python library for automated feature engineering from structured data. It handles complex data relationships and creates feature matrices for machine learning.                                                                  | - Automated feature engineering<br>- Complex data relationships<br>- Feature matrix creation | [Official Website](https://www.featuretools.com/) | [GitHub Repository](https://github.com/alteryx/featuretools) |
+| **TPOT (Tree-Based Pipeline Optimization Tool)** | TPOT is an open-source Python library that automates the entire machine learning pipeline, including feature engineering, algorithm selection, and hyperparameter optimization. It uses genetic programming to evolve and optimize machine learning pipelines.                                           | - Automated ML pipeline optimization<br>- Genetic programming<br>- Hyperparameter tuning | [Official Website](http://epistasislab.github.io/tpot/) | [GitHub Repository](https://github.com/EpistasisLab/tpot) |
+| **AutoML Tools (e.g., H2O.ai, AutoML by Google Cloud, DataRobot)** | AutoML platforms like H2O.ai, AutoML by Google Cloud, and DataRobot offer automated feature engineering as part of their comprehensive suite of tools. These platforms streamline the entire machine learning workflow, from data preprocessing to model selection.                         | - End-to-end automation<br>- Comprehensive ML workflow<br>- Model selection and tuning | [H2O.ai](https://www.h2o.ai/), [AutoML by Google Cloud](https://cloud.google.com/automl), [DataRobot](https://www.datarobot.com/) | [H2O.ai GitHub](https://github.com/h2oai), [AutoML by Google Cloud GitHub](https://github.com/googleapis/python-automl), [DataRobot GitHub](https://github.com/datarobot) |
+| **tsfresh (Time Series Feature Extraction on Basis of Scalable Hypothesis tests)** | tsfresh is a Python library specifically designed for automated feature extraction from time series data. It conducts statistical tests and transformations to generate a comprehensive set of features from time series sequences.                                | - Automated time series feature extraction<br>- Statistical tests and transformations | [Official Website](https://tsfresh.readthedocs.io/en/latest/) | [GitHub Repository](https://github.com/blue-yonder/tsfresh) |
+| **Feature Engineering for Time Series (FEAST)** | FEAST is an open-source Python library specializing in feature engineering for time series data. It automates the process of creating features based on various statistical and domain-specific methods.                                             | - Automated time series feature generation<br>- Support for various feature types<br>- Integration with ML pipelines | [Official Website](https://feast.dev/) | [GitHub Repository](https://github.com/feast-dev/feast) |
+| **TransmogrifAI**                   | TransmogrifAI is an open-source AutoML library developed by Salesforce. It automates feature engineering and machine learning pipeline creation, particularly suitable for tabular data. It integrates with Apache Spark for scalability.| - Automated feature engineering for structured data<br>- Integration with Apache Spark<br>- Automated feature transformation and selection | [Official Website](https://transmogrif.ai/) | [GitHub Repository](https://github.com/salesforce/TransmogrifAI) |
+
+These automated feature engineering tools can significantly expedite the process of preparing data for machine learning and are particularly helpful for handling complex data structures and large datasets. You can find more detailed information on each tool by visiting their official websites or exploring their GitHub repositories.
+
+
 ## 📖 Notes
 ### Basic Concept
 * [Introduction to Feature Engineering – Everything You Need to Know!](https://www.analyticsvidhya.com/blog/2021/10/a-beginners-guide-to-feature-engineering-everything-you-need-to-know/)
 * [Feature Engineering — Automation and Evaluation — Part 1](https://medium.com/ki-labs-engineering/feature-engineering-automation-and-evaluation-part-1-a34fb42e0bd4)
 * [Step by Step process of Feature Engineering for Machine Learning Algorithms in Data Science](https://www.analyticsvidhya.com/blog/2021/03/step-by-step-process-of-feature-engineering-for-machine-learning-algorithms-in-data-science/)
-
-
 
 ## 📖 Lab
 | No | Title   |  Kaggle |
