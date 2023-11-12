@@ -153,7 +153,7 @@ Ensure that your case study is well-organized, well-documented, and provides a c
 | 4. | Avengers |  <a href="./Avengers/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | Malaysia Restaurant Review  | SweetViz	| Pandas-Profiling	| AutoViz |
 | 5. | Ayam Rendang |  <a href="./Ayam Rendang" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | High-Rise Houses Rental Surrounding Kuala Lumpur and Selangor, Malaysia  | Pandas-Profiling | SweetViz | DataPrep|
 | 6. | KicapSambal | <a href="./KicapSambal/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | Property Listings in Kuala Lumpur | DataPrep |Pandas-Profiling| SweetViz |
-| 7. | Theboys | <a href="./TheBoys/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | Covid-19 death cases in Malaysia| Datatile | DataPrep | D-tale|
+| 7. | Theboys | <a href="./TheBoys/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | [Covid-19 death cases in Malaysia]| [SweetViz]() | [DataPrep] | [Pandas-Profiling]|
 
 ### 3. Academic Integrity
 🚫 Uphold the highest standards of academic integrity. Any candidate suspected of cheating in the assignment will face disciplinary action, which may include suspension or expulsion from the University. Moreover, any materials or devices found to be in violation of examination rules and regulations will be confiscated.
