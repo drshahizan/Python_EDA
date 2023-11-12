@@ -19,10 +19,10 @@ The objective of this assignment is to perform Exploratory Data Analysis (EDA) o
 - Choose a large dataset that aligns with your interests or the project's requirements. It should be substantial in size to make use of big data tools and techniques. You can obtain datasets from various sources, such as public data repositories, Kaggle, government websites, or your project dataset.
 
 ### 2. Data Acquisition
-- Obtain the selected dataset in a format that can be processed using big data tools. Common formats include CSV, Parquet, JSON, or databases compatible with big data frameworks like Hadoop or Spark.
+- Obtain the selected dataset in a format that can be processed using big data tools. Common formats include CSV, Parquet, JSON, or databases compatible with big data frameworks. 
 
 ### 3. Setting Up the Environment
-- Make sure you have access to a big data environment. You may use Hadoop, Apache Spark, or other big data platforms. Install the necessary tools and libraries.
+- Make sure you have access to a big data environment. Install the necessary tools and libraries.
 
 ### 4. Data Preprocessing
 - If required, clean the dataset by handling missing values, removing duplicates, and addressing any data quality issues.
