@@ -114,7 +114,7 @@ report = sv.analyze(df)
 
 Then, we can explore pattern and demographic info from SweetViz tool, we run
 ```
-report.show_html('SweetViz_Report.html') #show report
+report.show_html('SweetViz_Report.html') #to show report
 ```
 
 To get the generated report of SweetViz, we can go to the files on the google colab
@@ -122,7 +122,7 @@ To get the generated report of SweetViz, we can go to the files on the google co
     <img src="https://raw.githubusercontent.com/drshahizan/Python_EDA/main/assignment/hpdp/Pergolakan/case_study2a/SweetViz1.png" width=1500>
 </p>
 
-Download the SweetViz_Report.html then, open the html file, or you can just download [here](<a href="SweetViz_Report.html" download>)</a>
+Download the SweetViz_Report.html then, open the html file, or you can just download <a href="SweetViz_Report.html" download="SweetViz Report">here</a>
 ---
 ## Insight SweetViz on **Malaysian COVID-19 Dataset**
 
