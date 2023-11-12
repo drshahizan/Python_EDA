@@ -34,23 +34,18 @@ The primary objective of analyzing this dataset is to gain insights into the COV
 
 ## Tools and Techniques
 
-To explore the dataset, you can use the following tools and techniques:
-
 - **Python Libraries**: Pandas, NumPy, and Matplotlib/Seaborn for data manipulation, exploration, and visualization.
 - **Jupyter Notebooks**: To document analyses, visualize data, and share insights.
-- **Statistical Methods**: Descriptive statistics, time series analysis, and regression modeling.
+- **Statistical Methods**: Descriptive statistics, time series analysis, and regression modelling.
 - **Geospatial Analysis**: If geographical data (such as state or district-level) is involved.
 
-Additionally, machine learning techniques can be applied for predictive modeling or clustering if needed.
+Additionally, machine learning techniques can be applied for predictive modelling or clustering if needed.
 
 For more details, you can explore the official COVID-19 dataset repository maintained by MoH-Malaysia.
 
 ---
 
 ## Downloading the Dataset
-
-**TODO** - add some explanation here
-   
 
 ### Links of Dataset  
 Cases by State: https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/cases_state.csv  
