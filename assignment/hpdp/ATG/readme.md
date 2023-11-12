@@ -22,7 +22,7 @@
 * [💻 Case Study 1](https://github.com/drshahizan/Python_EDA/blob/main/assignment/hpdp/ATG/case_study1/casestudy1.ipynb)
 * [💻 Case Study 2a](https://github.com/drshahizan/Python_EDA/blob/main/assignment/hpdp/ATG/case_study2a/cs2a.ipynb)
 * [💻 Case Study 2b](https://github.com/drshahizan/Python_EDA/blob/main/assignment/hpdp/ATG/case_study2b/Case_Study2b_DataPrep.ipynb)
-* [💻 Case Study 2c](https://github.com/drshahizan/Python_EDA/tree/main/assignment/hpdp/ATG/case_study2c)
+* [💻 Case Study 2c](https://github.com/drshahizan/Python_EDA/blob/main/assignment/hpdp/ATG/case_study2c/case_study_2c.ipynb)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/HPDP/issues) for any improvements, suggestions or errors in the content.
