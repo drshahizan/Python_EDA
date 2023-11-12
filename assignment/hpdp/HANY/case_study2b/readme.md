@@ -20,4 +20,59 @@
 ## 📚 Case Study 2: Automated EDA Tools (SweetViz)
 This is a step-by-step guide for implementing SweetViz's **Automated EDA Tools** based on the covid-19 [hospital dataset](https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/hospital.csv).
 
-## 1. Load the dataset into the tool
+## 1. Installation 
+The installation of SweetViz is as follows:
+*   The best way to install SweetViz is to use pip.
+```
+pip install sweetviz
+```
+
+## 2. Load the dataset into the tool
+### 2.1 Import the necessary libraries
+```
+import pandas as pd
+import sweetviz as sv
+```
+
+### 2.2 Load chosen dataset into Google Colab
+```
+url = 'https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/hospital.csv'
+df = pd.read_csv(url)
+```
+
+### 2.3 Display dataframe
+```
+df #to display dataframe
+```
+
+### 2.4 Handling Missing Values
+Before performing an analysis, ensure that the data is clean and ready for use.
+*   To check for the missing values: 
+```
+df.isnull().sum() 
+```
+
+### 2.5 Duplicate Rows
+*   To check for and remove duplicate rows if necessary: 
+```
+df.duplicated().sum()
+```
+
+## 3. Generate basic statistics and visualizations
+*   To create the report and analyze the data, simply use **analyze()** function:
+```
+report = sv.analyze(df)
+```
+
+## 4. Explore the relationships and pattern in the data
+*   Once the report have been created, simply pass it into the **show_html()** functions.
+*   Open the SweetViz html report to explore the relationships and patterns.
+```
+report.show_html('SweetViz_Report.html')
+```
+
+*   Explore the correlations.
+```
+report_correlation = sv.analyze(df, pairwise_analysis='on')
+report_correlation.show_html('Correlation_Report.html')
+```
