@@ -20,7 +20,7 @@
 * [📖 Answer Case Study 1](https://github.com/drshahizan/Python_EDA/tree/main/assignment/hpdp/CapKetereh/case_study1)
 * [📖 Answer Case Study 2a](https://github.com/drshahizan/Python_EDA/blob/main/assignment/hpdp/CapKetereh/case_study2a/cs2a.ipynb)
 * [📖 Answer Case Study 2b](https://github.com/drshahizan/Python_EDA/blob/main/assignment/hpdp/CapKetereh/case_study2b/cs2b.ipynb)
-* [📖 Answer Case Study 2c]()
+* [📖 Answer Case Study 2c](https://github.com/drshahizan/Python_EDA/blob/main/assignment/hpdp/CapKetereh/case_study2b/cs2c.ipynb)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/HPDP/issues) for any improvements, suggestions or errors in the content.
