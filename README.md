@@ -172,6 +172,9 @@ EDA is a vital but time-consuming task in a data project. Here are 10 open-sourc
 ## [Big Data: The Vital Role of Exploratory Data Analysis (EDA)](./materials/big-data.md)
 **Big Data** refers to the vast and complex datasets that exceed the capabilities of traditional data processing tools. It is characterized by the three **V's**: **volume** (large amounts of data), **velocity** (rapid data generation), and **variety** (different data types). **Exploratory Data Analysis (EDA)**, on the other hand, is a data analysis approach that involves summarizing, visualizing, and understanding the key characteristics of a dataset to uncover insights and patterns. In the context of **Big Data**, **EDA** plays a crucial role in making the data more manageable by identifying relevant subsets, trends, and anomalies, enabling data scientists to extract meaningful information and inform decision-making processes.
 
+## [Feature Engineering](./materials/fe.md)
+**Feature engineering** in data science is the process of selecting, transforming, and creating relevant **attributes** or **variables** from raw data to improve the performance of **machine learning models**. It involves identifying **patterns**, **relationships**, and meaningful **information** within the data, and then designing or modifying features to enhance the model's ability to make accurate **predictions** or **classifications**. Effective feature engineering can lead to increased model **accuracy**, reduced **overfitting**, and a better understanding of the underlying data, making it a critical step in the data **preprocessing** pipeline for **machine learning** tasks.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
 
