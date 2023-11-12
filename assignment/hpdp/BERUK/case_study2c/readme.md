@@ -157,7 +157,7 @@ Based on the graph above, there are a few things that we have found that during 
 
 Another finding we discovered is that selangor has the highest active cases recorded and with a smaller ratio of case recoverd compared to the rest of the states.
 
-These finding suggest that Selangor has the highest infection rate and possible the most critical red zone compare to others
+These finding suggest that Selangor has the highest infection rate and possibly the most critical red zone compare to others
 
 ### Recommendation and insight regarding D-tale
 
