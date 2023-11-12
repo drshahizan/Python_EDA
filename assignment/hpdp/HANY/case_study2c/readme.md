@@ -18,6 +18,17 @@
 | ALYA BALQISS BINTI AZAHAR              |A21EC0158      | CS2C    |
 
 # 📚 Case Study 2c: Automated EDA Tools (Lux)
+
+## Table of Contents
+1. [Download the dataset](#1-download-the-dataset)
+2. [Install Lux](#2-install-lux)
+3. [Load the dataset](#3-load-the-dataset)
+4. [Generate Statistics and Visualisations](#4-generate-statistics-and-visualisations)
+5. [Explore Relationships and Patterns](#5-explore-relationships-and-patterns)
+6. [Unique Features](#6-unique-features)
+7. [Pros and Cons of Lux](#7-pros-and-cons-of-lux)
+8. [References](#8-references)
+   
 ## 1. Download the dataset
 Download the Malaysian dataset named "hospital.csv" from the following URL:<br>
    https://github.com/MoH-Malaysia/covid19-public/blob/main/epidemic/hospital.csv
@@ -67,7 +78,8 @@ Output:
 - Press Toggle Pandas/Lux located on the top left of the Dataframe to automate visualisations.
   <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/33d0a468-f54d-4664-a01f-805cd42a6b70" width="500"></div>
 - Output:
-  <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/5b7122e7-ad7e-4b24-9183-60751331d03a" width="1000"></div><br>
+  <div align="left"><img src="https://github.com/drshahizan/Python_EDA/assets/121602362/5b7122e7-ad7e-4b24-9183-60751331d03a" width="1000"></div>
+-  Multiple visualization options are available, including **Correlation**, **Distribution**, **Temporal**, and **Geographical** charts. Each of these options generates visual representations related to variables illustrating their relationships.<br>
 
 **4.2.2 Interactive Table**
 - To convert the Dataframe into an interactive table, press the table icon on the right of the Dataframe.
@@ -164,7 +176,29 @@ The distinctive features of Lux have been highlighted earlier, encompassing the 
    - Allows users to capture and integrate specific visualisations into reports or presentations.
      
 ## 7. Pros and Cons of Lux
+## Pros and Cons of Lux
+### Pros
+- **Interactive exploration**
+  - Provides an interactive environment that allows users to explore and analyse data dynamically.
+- **Automated visualisation**
+  - Enables users discover insights regarding the dataset by automatically generating visualisations based on the user's intent, saving time for users as well as guiding them towards relevant visualisations.
+- **Identify patterns and relationships**
+  - Assists users in identifying patterns and relationships in their dataset by automatically generating and recommending visualisations.
+- **Simplifies data analysis process**
+  - Lux enables users to directly use the pandas dataframe and does not require any changes to the existing syntax, providing effortless entry to data analysis.
+
+### Cons
+- **Customization Limitations**
+  - The automated recommendations or generated visualisations might not capture highly specific analysis requirements as the customisation options are limited.
+- **Dependency on Pandas, Python, or Jupyter notebooks**
+  - Lux relies on the Pandas DataFrame structure, Python, and Jupyter notebooks, so users who lack familiarity might face challenges incorporating Lux into their workflow.
+- **Resource Intensiveness**
+  - Not suitable for extremely large datasets that require additional resources than what is available, potentially slowing the performance.
+- **Potential Overemphasis on Automation**
+  - Automated features that Lux provides could lead to overemphasis on certain visualisations, potentially overlooking insights that might be apparent or useful.
 
 ## 8. References
-
-
+- [Introduction to Lux](https://aitechtrend.com/exploring-data-made-easy-an-introduction-to-lux-the-python-api-for-automated-eda/)
+- [Lux Installation and Guide](https://colab.research.google.com/github/Data-Centric-AI-Community/awesome-data-centric-ai/blob/master/medium/data-profiling-tools/notebooks/lux_demo.ipynb)
+- [Everything about Lux](https://www.almabetter.com/bytes/articles/everything-about-lux-a-python-library)
+- [Constructing Vis and VisList](https://lux-api.readthedocs.io/en/latest/source/guide/vis.html)
