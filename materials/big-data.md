@@ -105,13 +105,18 @@ By implementing these strategies, organizations can harness the power of EDA to 
 ## 📖 Notes
 ### Basic Concept
 * [Exploratory Data Analysis of 7 Million Companies using Python](https://towardsdatascience.com/what-is-feature-engineering-importance-tools-and-techniques-for-machine-learning-2080b0269f10)
-* [EDA of 7+ million company dataset](https://www.kaggle.com/code/zelalemgetahun/eda-of-7-million-company-dataset)
 * [Exploratory data analysis, feature engineering, and operationalizing your data flow into your ML pipeline with Amazon SageMaker Data Wrangler](https://aws.amazon.com/blogs/machine-learning/exploratory-data-analysis-feature-engineering-and-operationalizing-your-data-flow-into-your-ml-pipeline-with-amazon-sagemaker-data-wrangler/)
 * [Advanced exploratory data analysis (EDA)](https://miykael.github.io/blog/2022/advanced_eda/)
 * [How to perform EDA and data modeling on audio data](https://miykael.github.io/blog/2022/audio_eda_and_modeling/)
 * [Exploratory Data Analysis on Large Data Sets: The Example of Salary Variation in Spanish Social Security Data](https://docs.iza.org/dp13459.pdf)
-* [How to Work with BIG Datasets on 16G RAM (+Dask)](https://www.kaggle.com/code/yuliagm/how-to-work-with-big-datasets-on-16g-ram-dask)
 
+## 📖 Lab
+| No | Dataset | Colab |  GitHub |
+| ----- | ----- | ------ | ------ | 
+| 1 | Boston | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1DjKNfvPGkYyHQWpiEdyK4ozm-nXVa43D#scrollTo=nzh3zNvXEOOn) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/lab/Lab_1_ml_exploratory_data_analysis.ipynb) |
+* [How to Work with BIG Datasets on 16G RAM (+Dask)](https://www.kaggle.com/code/yuliagm/how-to-work-with-big-datasets-on-16g-ram-dask)
+* [EDA of 7+ million company dataset](https://www.kaggle.com/code/zelalemgetahun/eda-of-7-million-company-dataset)
+* [AMEX EDA which makes sense](https://www.kaggle.com/code/ambrosm/amex-eda-which-makes-sense/notebook)
 
 
 ## Conclusion
