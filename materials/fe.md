@@ -18,6 +18,10 @@ Feature engineering is a **crucial step** in the data science and machine learni
 
 ## Why is Feature Engineering Important?
 
+<p align="center">
+<img src="https://elitedatascience.com/wp-content/uploads/2018/05/What-Goes-Into-a-Successful-Model.jpg"  height="200" />
+</p>
+
 Feature engineering is important for several reasons:
 
 1. **Improving Model Performance**: Well-engineered features can **significantly enhance the performance** of machine learning models by providing them with **relevant and informative input**.
