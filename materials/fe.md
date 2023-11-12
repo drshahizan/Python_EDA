@@ -135,6 +135,12 @@ These automated feature engineering tools can significantly expedite the process
 * [Step by Step process of Feature Engineering for Machine Learning Algorithms in Data Science](https://www.analyticsvidhya.com/blog/2021/03/step-by-step-process-of-feature-engineering-for-machine-learning-algorithms-in-data-science/)
 * [Automate feature engineering pipelines with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/automate-feature-engineering-pipelines-with-amazon-sagemaker/)
 
+### Videos
+* [Step By Step Process In EDA And Feature Engineering In Data Science Projects](https://youtu.be/xhB-dmKmzRk?si=TDuYpCxJNx1HtwiH)
+* [Feature Engineering Full Course - in 1 Hour | Beginner Level](https://youtu.be/uu8um0JmYA8?si=JdPEJqyGt1hAD7a0)
+* [Feature Engineering Techniques For Machine Learning in Python](https://youtu.be/GduT2ZCc26E?si=DjNAL3CsxOXp6M7x)
+
+
 ## 📖 Lab
 | No | Title   |  File |
 | -----: | -----  | ------ | 
@@ -142,6 +148,8 @@ These automated feature engineering tools can significantly expedite the process
 | 2. | EDA, feature engineering and everything |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/artgor/eda-feature-engineering-and-everything) |
 | 3. | Feature Engineering for House Prices |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/ryanholbrook/feature-engineering-for-house-prices) |
 | 4. | Effective Feature Engineering |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/rejasupotaro/effective-feature-engineering) |
+| 5. | Feature Engineering Techniques for Training Machine Learning Models | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1-H8ZfuemZAW_imWCVJPj_syfrZOnPAyT?usp=sharing) |
+| 6. | Feature Engineering: Preprocessing for Machine Learning in Python | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/github/goodboychan/chans_jupyter/blob/main/_notebooks/2020-07-09-04-Feature-Engineering.ipynb) |
 
 
 ## Contribution 🛠️
