@@ -112,7 +112,7 @@ By implementing these strategies, organizations can harness the power of EDA to 
 ## 📖 Lab
 | No | Title   |  Kaggle |
 | -----: | -----  | ------ | 
-| 1. | Exploratory Data Analysis of 7 Million Companies using Python |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/zelalemgetahun/eda-of-7-million-company-dataset) |
+| 1. | Exploratory Data Analysis of 7 Million Companies |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/zelalemgetahun/eda-of-7-million-company-dataset) |
 | 2. | AMEX EDA |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/ambrosm/amex-eda-which-makes-sense/notebook) |
 | 3. | How to Work with BIG Datasets on 16G RAM (+Dask) |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/yuliagm/how-to-work-with-big-datasets-on-16g-ram-dask) |
 | 4. | Cleaning and Analyzing the kiva dataset |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/omaymaali/cleaning-data-eda/notebook) |
