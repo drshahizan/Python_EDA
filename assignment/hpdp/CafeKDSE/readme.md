@@ -20,7 +20,7 @@
 ### 📂 Folder content:
 * [📖 Case Study 1](./case_study1)
 * [📖 Case Study 2a](./case_study2a)
-* [📖 Case Study 2b]([./case_study2b](https://github.com/drshahizan/Python_EDA/blob/main/assignment/hpdp/CafeKDSE/case_study2b/Study_Case_2b.ipynb)])
+* [📖 Case Study 2b](https://github.com/drshahizan/Python_EDA/blob/main/assignment/hpdp/CafeKDSE/case_study2b/Study_Case_2b.ipynb)
 * [📖 Case Study 2c](./case_study2c)
 
 ## Contribution 🛠️
