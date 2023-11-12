@@ -86,13 +86,14 @@ report.show_html('SweetViz_Report.html')
 **Figure 2: The generated report of SweetViz EDA Tool.** 
 </div>
 
-*   Explore the correlations.
+*   Explore the Correlations/Association analysis.
 ```
 report_correlation = sv.analyze(df, pairwise_analysis='on')
 report_correlation.show_html('Correlation_Report.html')
 ```
+A major source of insight and unique features of SweetViz' association graph and analysis is that it unifies in a single graph:
 
-  1. To  analysis the correlations, click **ASSOCIATIONS** button on top of the report.
+  1. To  analyse the associations, click **ASSOCIATIONS** button on top of the report.
 <div align="center">
   
 ![c1](https://github.com/drshahizan/Python_EDA/assets/87573002/06d5a11c-a391-46cc-b4be-fbbf19a568f9)
@@ -104,5 +105,9 @@ report_correlation.show_html('Correlation_Report.html')
   
 ![c4](https://github.com/drshahizan/Python_EDA/assets/87573002/2d3deb86-50b1-4c60-a4d3-e908e4debbc7)
 
-**Figure 4: The generated correlation graph.**
+**Figure 4**
 </div>
+
+Note: Squares represent categorical-featured-related variables and circles represent numerical-numerical correlations. Note that the trivial diagonal is kept empty, for clarity. 
+
+Categorical-categorical associations (provided by the squares showing the uncertainty coefficient) are assymmetrical which means each row represents how much the row title (on the left) gives information on each column.
