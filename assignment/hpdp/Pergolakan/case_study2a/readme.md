@@ -119,7 +119,7 @@ report.show_html('SweetViz_Report.html') #show report
 
 To get the generated report of SweetViz, we can go to the files on the google colab
 <p align="center">
-    <img src="https://raw.githubusercontent.com/drshahizan/Python_EDA/main/assignment/hpdp/Pergolakan/case_study2a/SweetViz1.png" width=1000>
+    <img src="https://raw.githubusercontent.com/drshahizan/Python_EDA/main/assignment/hpdp/Pergolakan/case_study2a/SweetViz1.png" width=1500>
 </p>
 
 Download the SweetViz_Report.html then, open the html file. 
@@ -129,12 +129,12 @@ Download the SweetViz_Report.html then, open the html file.
 
 EDA on SweetViz will display rich visualisations, for example:
 <p align="center">
-    <img src="https://raw.githubusercontent.com/drshahizan/Python_EDA/main/assignment/hpdp/Pergolakan/case_study2a/SweetViz2.png" width=1000>
+    <img src="https://raw.githubusercontent.com/drshahizan/Python_EDA/main/assignment/hpdp/Pergolakan/case_study2a/SweetViz2.png" width=1500>
 </p>
 
 To check the association of our data, click the association button inside the DataFrame box
 <p align="center">
-    <img src="https://raw.githubusercontent.com/drshahizan/Python_EDA/main/assignment/hpdp/Pergolakan/case_study2a/SweetViz3.png" width=1000>
+    <img src="https://raw.githubusercontent.com/drshahizan/Python_EDA/main/assignment/hpdp/Pergolakan/case_study2a/SweetViz3.png" width=1500>
 </p>
 
 ---
