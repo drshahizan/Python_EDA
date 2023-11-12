@@ -2,7 +2,6 @@
 <a href="Pergolakan_Assignment_2_Case_Study_2a.ipynb"
    target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="CASE_STUDE 2a"/></a>
 
-TODO - Write some introduction about your project here: describe the dataset, where you got it from, what you're trying to do with it, and which tools & techniques you're using. Please provide your group member name and their matrix number.
 
 |    Name           |           Matric Number       |                      
 |-------------------|-------------------------------|
