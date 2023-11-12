@@ -1,4 +1,4 @@
-![image](https://github.com/drshahizan/Python_EDA/assets/106945297/0209be6e-2eb0-4456-bc7a-561dc95706e7)# Assignment 2 - Case Study 2a - SweetViz
+# Assignment 2 - Case Study 2a - SweetViz
 <a href="Assignment_2_Case_Study_2a.ipynb"
    target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="CASE_STUDE 2a"/></a>
 
