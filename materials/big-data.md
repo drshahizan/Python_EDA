@@ -114,6 +114,7 @@ By implementing these strategies, organizations can harness the power of EDA to 
 | No | Dataset | Colab |  GitHub |
 | ----- | ----- | ------ | ------ | 
 | 1 | Boston | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1DjKNfvPGkYyHQWpiEdyK4ozm-nXVa43D#scrollTo=nzh3zNvXEOOn) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/lab/Lab_1_ml_exploratory_data_analysis.ipynb) |
+| 1 | Boston | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1DjKNfvPGkYyHQWpiEdyK4ozm-nXVa43D#scrollTo=nzh3zNvXEOOn) | [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://github.com/drshahizan/Python_EDA/blob/main/lab/Lab_1_ml_exploratory_data_analysis.ipynb) |
 * [How to Work with BIG Datasets on 16G RAM (+Dask)](https://www.kaggle.com/code/yuliagm/how-to-work-with-big-datasets-on-16g-ram-dask)
 * [EDA of 7+ million company dataset](https://www.kaggle.com/code/zelalemgetahun/eda-of-7-million-company-dataset)
 * [AMEX EDA which makes sense](https://www.kaggle.com/code/ambrosm/amex-eda-which-makes-sense/notebook)
