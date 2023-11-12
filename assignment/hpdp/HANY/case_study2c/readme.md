@@ -180,8 +180,10 @@ The distinctive features of Lux have been highlighted earlier, encompassing the 
 ## 7. Conclusion
 Upon analyzing this dataset,there is a notable trends that can be concluded.
 
-* Decrease in the number of patients admitted and discharged across all categories, particularly during the peak of the COVID-19 pandemic in 2022. 
-* Decline in the availability of hospital beds. 
+- Decrease in the number of patients admitted and discharged across all categories, particularly during the peak of the COVID-19 pandemic in 2022. 
+- Decline in the availability of hospital beds.
+- The is a positive correlation between the attributes 'beds' and 'beds_noncrit' indicating that as the number of total beds ('beds') increases, there is a corresponding increase in the number of non-critical care beds('beds_noncrit').
+- There positive correlation between the attributes 'admitted_covid' and 'discharged_covid' across all states suggests a relationship where an increase in the number of COVID-19 admissions ('admitted_covid') corresponds to an increase number of COVID-19 discharges ('discharged_covid').
 
 Additionally, it is important to note that while the dataset contains valuable insights, the geographical chart functionality appears limited, automatically defaulting to the United States instead of offering a representation specific to Malaysia, a limitation to using Lux.<br>
      
