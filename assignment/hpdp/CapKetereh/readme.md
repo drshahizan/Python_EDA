@@ -17,7 +17,7 @@
 | WAN AMIRUL HAFIQ BIN WAN HUZAINI | A21EC0141 | Case Study 2
 
 ### 📂 Folder content:
-* [📖 Answer]()
+* [📖 Answer Case Study 1]()
 * [📖 Answer]()
 * [📖 Answer]()
 * [📖 Answer]()
