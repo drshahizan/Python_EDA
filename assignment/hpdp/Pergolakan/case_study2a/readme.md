@@ -1,4 +1,4 @@
-# Assignment 2 - Case Study 2a - SweetViz
+![image](https://github.com/drshahizan/Python_EDA/assets/106945297/0209be6e-2eb0-4456-bc7a-561dc95706e7)# Assignment 2 - Case Study 2a - SweetViz
 <a href="Assignment_2_Case_Study_2a.ipynb"
    target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="CASE_STUDE 2a"/></a>
 
@@ -127,6 +127,15 @@ Download the SweetViz_Report.html then, open the html file.
 ---
 ## Insight SweetViz on **Malaysian COVID-19 Dataset**
 
+EDA on SweetViz will display rich visualisations, for example:
+<p align="center">
+    <img src="https://raw.githubusercontent.com/drshahizan/Python_EDA/main/assignment/hpdp/Pergolakan/case_study2a/SweetViz2.png" width=1000>
+</p>
+
+To check the association of our data, click the association button inside the DataFrame box
+<p align="center">
+    <img src="https://raw.githubusercontent.com/drshahizan/Python_EDA/main/assignment/hpdp/Pergolakan/case_study2a/SweetViz3.png" width=1000>
+</p>
 
 ---
 ## Pro and Cons Analysis
