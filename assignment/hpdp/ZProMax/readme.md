@@ -17,10 +17,10 @@
 
 
 ### 📂 Folder content:
-* [📖 Answer]()
-* [📖 Answer]()
-* [📖 Answer]()
-* [📖 Answer]()
+* [📖 Answer cs1](https://github.com/drshahizan/Python_EDA/blob/main/assignment/hpdp/ZProMax/case_study1/cs1.ipynb)
+* [📖 Answer cs2a](https://github.com/drshahizan/Python_EDA/blob/main/assignment/hpdp/ZProMax/case_study2a/cs2a.ipynb)
+* [📖 Answer cs2b](https://github.com/drshahizan/Python_EDA/blob/main/assignment/hpdp/ZProMax/case_study2b/cs2b.ipynb)
+* [📖 Answer cs2c](https://github.com/drshahizan/Python_EDA/blob/main/assignment/hpdp/ZProMax/case_study2c/cs2c.ipynb)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/HPDP/issues) for any improvements, suggestions or errors in the content.
