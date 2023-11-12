@@ -12,9 +12,9 @@
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
 | IKMAL BIN KHAIRULEZUAN | A21EC0186 |  Case Study 1
-| NUR KHUZAIRIE ZAKWAN BIN MOHD ZAMRI | A21EC0112 | 
+| NUR KHUZAIRIE ZAKWAN BIN MOHD ZAMRI | A21EC0112 | Case Study 2
 | NUR SHUHADA SAFIAH BINTI AYOB | A21EC0114 | Case Study 1
-| WAN AMIRUL HAFIQ BIN WAN HUZAINI | A21EC0141 |
+| WAN AMIRUL HAFIQ BIN WAN HUZAINI | A21EC0141 | Case Study 2
 
 ### 📂 Folder content:
 * [📖 Answer]()
