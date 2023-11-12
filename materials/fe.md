@@ -138,10 +138,10 @@ These automated feature engineering tools can significantly expedite the process
 ## 📖 Lab
 | No | Title   |  File |
 | -----: | -----  | ------ | 
-| 1. | Exploratory Data Analysis of 7 Million Companies |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/zelalemgetahun/eda-of-7-million-company-dataset) |
-| 2. | AMEX EDA |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/ambrosm/amex-eda-which-makes-sense/notebook) |
-| 3. | How to Work with BIG Datasets on 16G RAM (+Dask) |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/yuliagm/how-to-work-with-big-datasets-on-16g-ram-dask) |
-| 4. | Cleaning and Analyzing the kiva dataset |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/omaymaali/cleaning-data-eda/notebook) |
+| 1. | Titanic - Advanced Feature Engineering Tutorial |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/gunesevitan/titanic-advanced-feature-engineering-tutorial) |
+| 2. | EDA, feature engineering and everything |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/artgor/eda-feature-engineering-and-everything) |
+| 3. | Feature Engineering for House Prices |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/ryanholbrook/feature-engineering-for-house-prices) |
+| 4. | Effective Feature Engineering |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/rejasupotaro/effective-feature-engineering) |
 
 
 ## Contribution 🛠️
