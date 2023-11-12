@@ -18,6 +18,7 @@
 | ALYA BALQISS BINTI AZAHAR              |A21EC0158      | CS2C    |
 
 # 📚 Case Study 2c: Automated EDA Tools (Lux)
+This case study utilises Lux, a robust EDA tool, to discover patterns in a dataset centered around hospital patients. The dataset includes information such as number of hospital bed, admissions, and discharges categorized by several criteria, geographical distribution across states, and other vital metrics. The goal is to extract meaningful patterns and relationships within the hospital data, shedding light on utilisation of Lux regarding healthcare trends.
 
 ## Table of Contents
 1. [Download the dataset](#1-download-the-dataset)
