@@ -18,10 +18,10 @@
 | ALYA BALQISS BINTI AZAHAR | A21EC0158 | Case Study 2c
 
 ### 📂 Folder content:
-* [📖 Case Study 1](./case_study1/readme.md)
-* [📖 Case Study 2a](./case_study2a/readme.md)
-* [📖 Case Study 2b](./case_study2b/readme.md)
-* [📖 Case Study 2c](./case_study2c/readme.md)
+* [📖 Case Study 1](./case_study1)
+* [📖 Case Study 2a](./case_study2a)
+* [📖 Case Study 2b](./case_study2b)
+* [📖 Case Study 2c](./case_study2c)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/HPDP/issues) for any improvements, suggestions or errors in the content.
