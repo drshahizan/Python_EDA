@@ -28,31 +28,31 @@ pip install sweetviz
 ```
 
 ## 2. Load the dataset into the tool
-### 2.1 Import the necessary libraries
+  ### 2.1 Import the necessary libraries
 ```
 import pandas as pd
 import sweetviz as sv
 ```
 
-### 2.2 Load chosen dataset into Google Colab
+  ### 2.2 Load chosen dataset into Google Colab
 ```
 url = 'https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/hospital.csv'
 df = pd.read_csv(url)
 ```
 
-### 2.3 Display dataframe
+  ### 2.3 Display dataframe
 ```
 df #to display dataframe
 ```
 
-### 2.4 Handling Missing Values
+  ### 2.4 Handling Missing Values
 Before performing an analysis, ensure that the data is clean and ready for use.
 *   To check for the missing values: 
 ```
 df.isnull().sum() 
 ```
 
-### 2.5 Duplicate Rows
+  ### 2.5 Duplicate Rows
 *   To check for and remove duplicate rows if necessary: 
 ```
 df.duplicated().sum()
