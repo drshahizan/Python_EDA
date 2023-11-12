@@ -105,6 +105,20 @@ When performing feature engineering, consider the following **best practices**:
 
 Feature engineering is a **creative and data-driven process** that plays a crucial role in the success of data science projects. By carefully selecting, creating, and transforming features, data scientists can unlock the hidden patterns in data, leading to more **accurate** and **robust** machine learning models.
 
+## 📖 Notes
+### Basic Concept
+* [Introduction to Feature Engineering – Everything You Need to Know!](https://www.analyticsvidhya.com/blog/2021/10/a-beginners-guide-to-feature-engineering-everything-you-need-to-know/)
+
+
+## 📖 Lab
+| No | Title   |  Kaggle |
+| -----: | -----  | ------ | 
+| 1. | Exploratory Data Analysis of 7 Million Companies |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/zelalemgetahun/eda-of-7-million-company-dataset) |
+| 2. | AMEX EDA |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/ambrosm/amex-eda-which-makes-sense/notebook) |
+| 3. | How to Work with BIG Datasets on 16G RAM (+Dask) |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/yuliagm/how-to-work-with-big-datasets-on-16g-ram-dask) |
+| 4. | Cleaning and Analyzing the kiva dataset |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/omaymaali/cleaning-data-eda/notebook) |
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
 
