@@ -108,7 +108,7 @@ Feature engineering is a **creative and data-driven process** that plays a cruci
 ## 📖 Notes
 ### Basic Concept
 * [Introduction to Feature Engineering – Everything You Need to Know!](https://www.analyticsvidhya.com/blog/2021/10/a-beginners-guide-to-feature-engineering-everything-you-need-to-know/)
-* [Step by Step process of Feature Engineering for Machine Learning Algorithms in Data Science(https://www.analyticsvidhya.com/blog/2021/03/step-by-step-process-of-feature-engineering-for-machine-learning-algorithms-in-data-science/)
+* [Step by Step process of Feature Engineering for Machine Learning Algorithms in Data Science](https://www.analyticsvidhya.com/blog/2021/03/step-by-step-process-of-feature-engineering-for-machine-learning-algorithms-in-data-science/)
 
 
 
