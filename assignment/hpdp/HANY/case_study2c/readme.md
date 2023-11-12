@@ -27,8 +27,9 @@ This case study utilises Lux, a robust EDA tool, to discover patterns in a datas
 4. [Generate Statistics and Visualisations](#4-generate-statistics-and-visualisations)
 5. [Explore Relationships and Patterns](#5-explore-relationships-and-patterns)
 6. [Unique Features](#6-unique-features)
-7. [Pros and Cons of Lux](#7-pros-and-cons-of-lux)
-8. [References](#8-references)
+7. [Conclusion](#7-conclusion)
+8. [Pros and Cons of Lux](#8-pros-and-cons-of-lux)
+9. [References](#9-references)
    
 ## 1. Download the dataset
 Download the Malaysian dataset named "hospital.csv" from the following URL:<br>
@@ -174,9 +175,17 @@ The distinctive features of Lux have been highlighted earlier, encompassing the 
      
 - **Export Function**
    - Lux also provides an export function to save, share, and utilise selected visualisations generated during data analysis.
-   - Allows users to capture and integrate specific visualisations into reports or presentations.
+   - Allows users to capture and integrate specific visualisations into reports or presentations.<br>
+
+## 7. Conclusion
+Upon analyzing this dataset,there is a notable trends that can be concluded.
+
+* Decrease in the number of patients admitted and discharged across all categories, particularly during the peak of the COVID-19 pandemic in 2022. 
+* Decline in the availability of hospital beds. 
+
+Additionally, it is important to note that while the dataset contains valuable insights, the geographical chart functionality appears limited, automatically defaulting to the United States instead of offering a representation specific to Malaysia, a limitation to using Lux.<br>
      
-## 7. Pros and Cons of Lux
+## 8. Pros and Cons of Lux
 ### Pros
 - **Interactive exploration**
   - Provides an interactive environment that allows users to explore and analyse data dynamically.
@@ -197,7 +206,7 @@ The distinctive features of Lux have been highlighted earlier, encompassing the 
 - **Potential Overemphasis on Automation**
   - Automated features that Lux provides could lead to overemphasis on certain visualisations, potentially overlooking insights that might be apparent or useful.
 
-## 8. References
+## 9. References
 - [Introduction to Lux](https://aitechtrend.com/exploring-data-made-easy-an-introduction-to-lux-the-python-api-for-automated-eda/)
 - [Lux Installation and Guide](https://colab.research.google.com/github/Data-Centric-AI-Community/awesome-data-centric-ai/blob/master/medium/data-profiling-tools/notebooks/lux_demo.ipynb)
 - [Everything about Lux](https://www.almabetter.com/bytes/articles/everything-about-lux-a-python-library)
