@@ -126,7 +126,7 @@ To get the generated report of SweetViz, we can go to the files on the google co
 ---
 ## Insight SweetViz on **Malaysian COVID-19 Dataset**
 
-EDA on SweetViz will display rich visualisations, for example we can see the new case bar graph with the most frequent values, smallest values, largest value numerical associations insights.
+EDA on SweetViz will display rich visualisations, for example we can see the new case bar graph with the most frequent values, smallest values, largest values and also numerical associations insights.
 <p align="center">
     <img src="https://raw.githubusercontent.com/drshahizan/Python_EDA/main/assignment/hpdp/Pergolakan/case_study2a/SweetViz2.png" width=1500>
 </p>
