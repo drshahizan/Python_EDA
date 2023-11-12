@@ -143,7 +143,7 @@ These automated feature engineering tools can significantly expedite the process
 
 ## 📖 Lab
 | No | Title   |  File |
-| -----: | -----  | ------ | 
+| -----: | -----  | :------: | 
 | 1. | Titanic - Advanced Feature Engineering Tutorial |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/gunesevitan/titanic-advanced-feature-engineering-tutorial) |
 | 2. | EDA, feature engineering and everything |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/artgor/eda-feature-engineering-and-everything) |
 | 3. | Feature Engineering for House Prices |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/ryanholbrook/feature-engineering-for-house-prices) |
