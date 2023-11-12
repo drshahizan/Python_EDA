@@ -17,7 +17,7 @@
 | LEE SEOW MING THERESA  | MCS231013        | Case Study 2b : AutoViz          |
 | THONG YEE MOON  | MCS231001         | Case Study 2c : SweetVitz         |
 
-### 📂 Google Colab file:: 
+### 📂 Google Colab file:
 
 * [📖 Case Study 1: Step by step EDA](https://colab.research.google.com/drive/1ZlXCfHmIyD5lD5IRFy8krS_GQZrN8tht?usp=sharing)
 * [📖 Case Study 2a : DataPrep](https://colab.research.google.com/drive/1WOU7tCs97gxz17SpIBY2ngaW0EP9Uf12?usp=sharing)
