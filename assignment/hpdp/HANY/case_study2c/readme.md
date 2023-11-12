@@ -186,6 +186,13 @@ Upon analyzing this dataset,there is a notable trends that can be concluded.
 - There positive correlation between the attributes 'admitted_covid' and 'discharged_covid' across all states suggests a relationship where an increase in the number of COVID-19 admissions ('admitted_covid') corresponds to an increase number of COVID-19 discharges ('discharged_covid').
 
 Additionally, it is important to note that while the dataset contains valuable insights, the geographical chart functionality appears limited, automatically defaulting to the United States instead of offering a representation specific to Malaysia, a limitation to using Lux.<br>
+
+### Recommendation
+Lux is ideal for users who seeks a quick and intuitive analysis of their data. Its seamless integration with Pandas DataFrames and straightforward syntax make it accessible for both beginners and experienced users looking for a swift exploratory data analysis (EDA) process.
+
+Moreover, It is suitable for projects with diverse visualization needs. It offers a diverse range of visualizations, including correlation, distribution, temporal, and geographical charts, catering to various analysis within a single tool.
+
+In summary, Lux is well-suited for projects requiring quick and intuitive analyses, diverse visualization needs, collaborative exploration and  interactive dashboard creation.
      
 ## 8. Pros and Cons of Lux
 ### Pros
