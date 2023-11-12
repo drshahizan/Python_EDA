@@ -18,10 +18,10 @@
 | YEW RUI XIANG              |A21EC0149      |Case Study 2b     |
 
 ### 📂 Folder content:
-* [💻 Case Study 1](assignment/hpdp/ByteNav/case_study1/cs1.ipynb)
-* [💻 Case Study 2a](assignment/hpdp/ByteNav/case_study2a/cs2a.ipynb)
-* [💻 Case Study 2b](assignment/hpdp/ByteNav/case_study2b/cs2b.ipynb)
-* [💻 Case Study 2c](assignment/hpdp/ByteNav/case_study2c/cs2c.ipynb)
+* [💻 Case Study 1](./case_study1/cs1.ipynb)
+* [💻 Case Study 2a](./case_study2a/cs2a.ipynb)
+* [💻 Case Study 2b](./case_study2b/cs2b.ipynb)
+* [💻 Case Study 2c](./case_study2c/cs2c.ipynb)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/HPDP/issues) for any improvements, suggestions or errors in the content.
