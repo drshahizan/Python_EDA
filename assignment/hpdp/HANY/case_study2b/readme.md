@@ -65,14 +65,44 @@ report = sv.analyze(df)
 ```
 
 ## 4. Explore the relationships and pattern in the data
-*   Once the report have been created, simply pass it into the **show_html()** functions.
-*   Open the SweetViz html report to explore the relationships and patterns.
+*   Once the report have been created, simply pass it into the **show_html()** function:
 ```
 report.show_html('SweetViz_Report.html')
 ```
+
+*   Open the SweetViz html report to explore the relationships and patterns.
+  1. On the left side of the Google Colab, click the files button.
+<div align="center">
+  
+![c2](https://github.com/drshahizan/Python_EDA/assets/87573002/1ad533bb-265a-4b93-a18a-421c8805ce59)
+**Figure 1** 
+</div>
+
+  2. Download the file, and the report preview will appear as Figure 2 below.
+<div align="center">
+
+![c31](https://github.com/drshahizan/Python_EDA/assets/87573002/c702a021-27ed-45ae-83af-53a99eefc050)
+
+**Figure 2: The generated report of SweetViz EDA Tool.** 
+</div>
 
 *   Explore the correlations.
 ```
 report_correlation = sv.analyze(df, pairwise_analysis='on')
 report_correlation.show_html('Correlation_Report.html')
 ```
+
+  1. To  analysis the correlations, click **ASSOCIATIONS** button on top of the report.
+<div align="center">
+  
+![c1](https://github.com/drshahizan/Python_EDA/assets/87573002/06d5a11c-a391-46cc-b4be-fbbf19a568f9)
+**Figure 3.** 
+</div>
+
+  2. The graph will be shown in the Figure 4 below.
+<div align="center">
+  
+![c4](https://github.com/drshahizan/Python_EDA/assets/87573002/2d3deb86-50b1-4c60-a4d3-e908e4debbc7)
+
+**Figure 4: The generated correlation graph.**
+</div>
