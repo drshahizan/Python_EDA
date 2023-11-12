@@ -133,6 +133,7 @@ These automated feature engineering tools can significantly expedite the process
 * [Introduction to Feature Engineering – Everything You Need to Know!](https://www.analyticsvidhya.com/blog/2021/10/a-beginners-guide-to-feature-engineering-everything-you-need-to-know/)
 * [Feature Engineering Using Pandas for Beginners](https://www.analyticsvidhya.com/blog/2020/12/feature-engineering-using-pandas-for-beginners/)
 * [Feature Engineering — Automation and Evaluation — Part 1](https://medium.com/ki-labs-engineering/feature-engineering-automation-and-evaluation-part-1-a34fb42e0bd4)
+* [A Hands-on Guide to Feature Engineering for Machine Learning](https://cnvrg.io/feature-engineering/)
 * [Step by Step process of Feature Engineering for Machine Learning Algorithms in Data Science](https://www.analyticsvidhya.com/blog/2021/03/step-by-step-process-of-feature-engineering-for-machine-learning-algorithms-in-data-science/)
 * [Automate feature engineering pipelines with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/automate-feature-engineering-pipelines-with-amazon-sagemaker/)
 
