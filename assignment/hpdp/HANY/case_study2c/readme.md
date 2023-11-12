@@ -190,9 +190,9 @@ Additionally, it is important to note that while the dataset contains valuable i
 ### Recommendation
 Lux is ideal for users who seeks a quick and intuitive analysis of their data. Its seamless integration with Pandas DataFrames and straightforward syntax make it accessible for both beginners and experienced users looking for a swift exploratory data analysis (EDA) process.
 
-Moreover, It is suitable for projects with diverse visualization needs. It offers a diverse range of visualizations, including correlation, distribution, temporal, and geographical charts, catering to various analysis within a single tool.
+Moreover, It is suitable for projects with diverse visualisation needs. It offers a diverse range of visualisations, including correlation, distribution, temporal, and geographical charts, catering to various analysis within a single tool.
 
-In summary, Lux is well-suited for projects requiring quick and intuitive analyses, diverse visualization needs, collaborative exploration and  interactive dashboard creation.
+In summary, Lux is well-suited for projects requiring quick and intuitive analyses, diverse visualisation needs, collaborative exploration and  interactive dashboard creation.
      
 ## 8. Pros and Cons of Lux
 ### Pros
