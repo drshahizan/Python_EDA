@@ -127,7 +127,7 @@ Download the SweetViz_Report.html then, open the html file.
 ---
 ## Insight SweetViz on **Malaysian COVID-19 Dataset**
 
-EDA on SweetViz will display rich visualisations, for example:
+EDA on SweetViz will display rich visualisations, for example we can see the new case bar graph with the most frequent values, smallest values, largest value numerical associations insights.
 <p align="center">
     <img src="https://raw.githubusercontent.com/drshahizan/Python_EDA/main/assignment/hpdp/Pergolakan/case_study2a/SweetViz2.png" width=1500>
 </p>
