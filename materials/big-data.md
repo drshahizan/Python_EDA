@@ -104,7 +104,6 @@ By implementing these strategies, organizations can harness the power of EDA to 
 
 ## 📖 Notes
 ### Basic Concept
-* [Exploratory Data Analysis of 7 Million Companies using Python](https://towardsdatascience.com/what-is-feature-engineering-importance-tools-and-techniques-for-machine-learning-2080b0269f10)
 * [Exploratory data analysis, feature engineering, and operationalizing your data flow into your ML pipeline with Amazon SageMaker Data Wrangler](https://aws.amazon.com/blogs/machine-learning/exploratory-data-analysis-feature-engineering-and-operationalizing-your-data-flow-into-your-ml-pipeline-with-amazon-sagemaker-data-wrangler/)
 * [Advanced exploratory data analysis (EDA)](https://miykael.github.io/blog/2022/advanced_eda/)
 * [How to perform EDA and data modeling on audio data](https://miykael.github.io/blog/2022/audio_eda_and_modeling/)
@@ -113,7 +112,7 @@ By implementing these strategies, organizations can harness the power of EDA to 
 ## 📖 Lab
 | No | Title   |  Kaggle |
 | -----: | -----  | ------ | 
-| 1. | EDA of 7+ million company dataset |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/zelalemgetahun/eda-of-7-million-company-dataset) |
+| 1. | Exploratory Data Analysis of 7 Million Companies using Python |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/zelalemgetahun/eda-of-7-million-company-dataset) |
 | 2. | AMEX EDA |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/ambrosm/amex-eda-which-makes-sense/notebook) |
 | 3. | How to Work with BIG Datasets on 16G RAM (+Dask) |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/yuliagm/how-to-work-with-big-datasets-on-16g-ram-dask) |
 | 4. | Cleaning and Analyzing the kiva dataset |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/omaymaali/cleaning-data-eda/notebook) |
