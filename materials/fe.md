@@ -11,6 +11,8 @@
 
 Feature engineering is a **crucial step** in the data science and machine learning workflow that involves **creating, transforming, and selecting relevant features** or variables from raw data to improve the performance of predictive models. It is an **art** as well as a **science**, where **domain knowledge, creativity, and statistical techniques** come together to extract meaningful information from the data.
 
+https://miro.medium.com/v2/resize:fit:1400/format:webp/1*CyK1miQfy1OHmv2wUcjT1w.png
+
 ## Why is Feature Engineering Important?
 
 Feature engineering is important for several reasons:
