@@ -1,4 +1,4 @@
-# Assignment 2 - Case Study 2a - SweetViz
+# Assignment 2 - Case Study 2b - D-Tale
 <a href="Pergolakan-Assignment%202-Case%20Study%202b.ipynb"
    target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="CASE_STUDE 2a"/></a>
 
