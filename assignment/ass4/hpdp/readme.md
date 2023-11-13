@@ -45,29 +45,6 @@ In this assignment, you will explore the essential concept of feature engineerin
 
 6. Share the Markdown document and Colab notebook with your instructor as instructed for evaluation.
 
-## Grading
-Your assignment will be evaluated based on the following criteria:
-- Dataset selection and loading
-- Exploratory Data Analysis
-- Feature selection and preprocessing
-- Feature transformation and creation
-- Clarity of explanations
-- Proper documentation and comments in the code
-- Correctness of the code and results
-
-## Additional Resources
-You can refer to the following resources for guidance and inspiration:
-- Python libraries like Pandas, NumPy, and Matplotlib/Seaborn
-- Online tutorials and documentation for feature engineering
-- Books on data preprocessing and feature engineering in data science
-
-Good luck with your assignment! If you have any questions or need help, don't hesitate to reach out to your instructor or fellow students.
-
---- 
-
-This Markdown document provides a clear set of instructions for the student to complete their assignment on Feature Engineering in Data Science using Google Colab. It covers dataset selection, data preprocessing, and the necessary steps to perform feature engineering. The student should follow these instructions and submit their work as described for evaluation.
-
-### 2. Team Collaboration
 🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1vLDgDAu2ai9rAOIKUfE1xUfTEvK2ikpXJ_1F-Xqtk_c/edit?pli=1#gid=834124190). Please update your group information:
 
 | No | Group |  File | Dataset | 
@@ -102,6 +79,24 @@ hpdp/your_group/
     └── 📄 cs2c.ipynb
 
 ```
+## Grading
+Your assignment will be evaluated based on the following criteria:
+- Dataset selection and loading
+- Exploratory Data Analysis
+- Feature selection and preprocessing
+- Feature transformation and creation
+- Clarity of explanations
+- Proper documentation and comments in the code
+- Correctness of the code and results
+
+## Additional Resources
+You can refer to the following resources for guidance and inspiration:
+- Python libraries like Pandas, NumPy, and Matplotlib/Seaborn
+- Online tutorials and documentation for feature engineering
+- Books on data preprocessing and feature engineering in data science
+
+Good luck with your assignment! If you have any questions or need help, don't hesitate to reach out to your instructor or fellow students.
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
