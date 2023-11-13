@@ -41,7 +41,7 @@ In this assignment, you will explore the fascinating world of automated feature 
 
 6. Share the Markdown document and Colab notebook with your instructor as instructed for evaluation.
 
-🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1vLDgDAu2ai9rAOIKUfE1xUfTEvK2ikpXJ_1F-Xqtk_c/edit?pli=1#gid=2103764783). Please update your group information:
+🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1WJWrzrGmfC0z5CmTYCGmlkKa7_byYOoxlU0MTg7pRrk/edit#gid=433067553). Please update your group information:
 
 | No | Group |  File | Tool 1 | Tool 2 | 
 | -----: |  ------ | :-----: |  ----- |  ----- |  
