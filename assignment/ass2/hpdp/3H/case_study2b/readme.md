@@ -100,7 +100,7 @@ df.info()
     <img src="sweetviz8.png" width=1500>
 </p>
 
-To handle missing values, we can first check for each of the columns, we run
+Checking the NaN values
 ```
 df.isnull().sum(axis=0)
 ```
