@@ -42,21 +42,6 @@ In this assignment, you will explore the fascinating world of automated feature 
 
 6. Share the Markdown document and Colab notebook with your instructor as instructed for evaluation.
 
-
-
-## Submission
-1. Create a new Markdown document in Google Colab and name it "Feature_Engineering.md"
-
-2. Provide clear and organized explanations of each step in your Markdown document using appropriate headings and bullet points.
-
-3. Include Python code snippets where necessary to demonstrate your implementation.
-
-4. Attach your Colab notebook (`.ipynb` file) with all the code, annotations, and visualizations to your submission.
-
-5. Make sure to include your name, student ID, and date in the Markdown document.
-
-6. Share the Markdown document and Colab notebook with your instructor as instructed for evaluation.
-
 🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**]([https://docs.google.com/spreadsheets/d/1vLDgDAu2ai9rAOIKUfE1xUfTEvK2ikpXJ_1F-Xqtk_c/edit?pli=1#gid=2103764783]. Please update your group information:
 
 | No | Group |  File | Tool 1 | Tool 2 | 
