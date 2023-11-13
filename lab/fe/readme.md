@@ -21,20 +21,29 @@
 | 6. | Feature Engineering: Preprocessing for Machine Learning in Python | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/github/goodboychan/chans_jupyter/blob/main/_notebooks/2020-07-09-04-Feature-Engineering.ipynb) |
 
 
-**Step 1: Access Google Colab**
-1. Open your web browser and go to the Google Colab website (https://colab.research.google.com/).
+# Feature Engineering Lab Exercise using Google Colab
+
+## Instructions:
+
+### Step 1: Access Google Colab
+
+1. Open your web browser and go to the [Google Colab website](https://colab.research.google.com/).
 2. Sign in with your Google account. If you don't have one, create a Google account.
 
-**Step 2: Create a New Colab Notebook**
+### Step 2: Create a New Colab Notebook
+
 3. Click on "New Notebook" to create a new Colab notebook.
 
-**Step 3: Import Required Libraries**
+### Step 3: Import Required Libraries
+
 4. In the first code cell of the notebook, import the necessary Python libraries for data manipulation, analysis, and feature engineering. For example, you can import libraries like Pandas, NumPy, and Scikit-Learn.
 
-**Step 4: Load Dataset**
+### Step 4: Load Dataset
+
 5. Upload or load your dataset into Google Colab. You can use the Colab interface to upload your dataset or provide a link to an online dataset.
 
-**Step 5: Perform Feature Engineering**
+### Step 5: Perform Feature Engineering
+
 6. In the subsequent code cells, perform feature engineering tasks. This can include tasks like:
    - Handling missing data
    - Encoding categorical variables
@@ -43,28 +52,37 @@
    - Feature selection
    - Any other relevant feature engineering techniques.
 
-**Step 6: Document Your Work**
+### Step 6: Document Your Work
+
 7. Add comments and explanations within the notebook to describe the feature engineering steps you've taken. This documentation should help others understand your process.
 
-**Step 7: Run the Lab Exercise**
+### Step 7: Run the Lab Exercise
+
 8. Execute each code cell in the notebook to perform the feature engineering tasks on your dataset.
 
-**Step 8: Verify the Results**
+### Step 8: Verify the Results
+
 9. After running the code cells, make sure to check the results, verify that the feature engineering has been correctly applied, and assess the impact on the dataset.
 
-**Step 9: Share the Lab Link**
+### Step 9: Share the Lab Link
+
 10. Save your Colab notebook by clicking on "File" and selecting "Save a copy in Drive." This will ensure that your work is saved.
 
-**Step 10: Enter Your Information and Lab Link**
-11. Provide your information in the following format:
-    - Full Name: Enter your full name.
-    - Email Address: Use your email address.
-    - Lab Link: Share the link to your Google Colab notebook.
+### Step 10: Enter Your Information and Lab Link
 
-**Step 11: Submit Your Information**
+11. Provide your information in the following format:
+    - Full Name: [Your Full Name]
+    - Email Address: [Your Email Address]
+    - Lab Link: [Google Colab Notebook Link]
+
+### Step 11: Submit Your Information
+
 12. Send your full name, email address, and the Google Colab notebook link to your instructor or the designated submission platform.
 
-By following these steps, your student can perform a feature engineering lab exercise using Google Colab and share their work with you while providing the required information for evaluation. This will help them demonstrate their practical knowledge of feature engineering techniques.
+By following these steps, you can perform a feature engineering lab exercise using Google Colab and share your work while providing the required information for evaluation. This will help you demonstrate your practical knowledge of feature engineering techniques.
+
+Good luck with your lab exercise!
+
 
 
 ## Contribution 🛠️
