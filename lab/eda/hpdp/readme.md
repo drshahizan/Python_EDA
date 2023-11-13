@@ -73,6 +73,7 @@
 | 3.   | LOO ZHI YUAN                      |  [:octocat:](https://github.com/lzy0007) |<a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
 | 4.   | LIEW YVONNE                      |  [:octocat:](https://github.com/Yvonneee24) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
 | 5.   | IKMAL BIN KHAIRULEZUAN                     |  [:octocat:]([https://github.com/Ikkha02]) |<a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
+| 6.   | KEE SHIN PEARL                  |  [:octocat:](https://github.com/shinpearll) |<a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
 
 
 
