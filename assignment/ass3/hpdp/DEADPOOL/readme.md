@@ -7,7 +7,7 @@
 
 # Assigment 3: Exploratory Data Analysis (EDA) Using Big Data
 
-![alt text](pergolakan2.jpg?raw=true)
+![alt text](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass3/hpdp/DEADPOOL/download.jfif)
 
 ### Group Members
 
