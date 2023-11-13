@@ -168,7 +168,7 @@ Association of the data
 
 ## Step 6: Conclusion <br>
 1.   Items are mostly bought at "Pasar Raya/Supermarket" which at 52% compare to "Borong" which is less than 1%
-2.   "BARANGAN SEGAR" has been bough the most which is at 54% other than "BARANGAN BERBUNGKUS","BARANGAN KERING","SUSU DAN BARANGAN BAYI","MINUMAN" and "PRODUK KEBERSIHAN".
+2.   "BARANGAN SEGAR" has been bough the most which is at 54% compared to "BARANGAN BERBUNGKUS","BARANGAN KERING","SUSU DAN BARANGAN BAYI","MINUMAN" and "PRODUK KEBERSIHAN".
 
 ## Step 7: References <br>
 1.   https://www.analyticsvidhya.com/blog/2021/01/making-exploratory-data-analysis-sweeter-with-sweetviz-2-0/
