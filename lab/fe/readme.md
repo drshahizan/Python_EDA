@@ -8,9 +8,18 @@
 
 🌟 Hit star button to save this repo in your profile
 
-Certainly! Here are detailed instructions for your student to perform a lab exercise related to Feature Engineering using Google Colab and submit their information and lab link:
+# Lab Exercise on Feature Engineering using Google Colab
 
-**Lab Exercise on Feature Engineering using Google Colab**
+## 📖 Case Study
+| No | Title   |  File |
+| -----: | -----  | :------: | 
+| 1. | Titanic - Advanced Feature Engineering Tutorial |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/gunesevitan/titanic-advanced-feature-engineering-tutorial) |
+| 2. | EDA, feature engineering and everything |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/artgor/eda-feature-engineering-and-everything) |
+| 3. | Feature Engineering for House Prices |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/ryanholbrook/feature-engineering-for-house-prices) |
+| 4. | Effective Feature Engineering |  [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/rejasupotaro/effective-feature-engineering) |
+| 5. | Feature Engineering Techniques for Training Machine Learning Models | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1-H8ZfuemZAW_imWCVJPj_syfrZOnPAyT?usp=sharing) |
+| 6. | Feature Engineering: Preprocessing for Machine Learning in Python | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/github/goodboychan/chans_jupyter/blob/main/_notebooks/2020-07-09-04-Feature-Engineering.ipynb) |
+
 
 **Step 1: Access Google Colab**
 1. Open your web browser and go to the Google Colab website (https://colab.research.google.com/).
