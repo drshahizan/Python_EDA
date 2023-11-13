@@ -77,7 +77,8 @@
 | 7.   | ALYA DAMIA HUZAIMY                      |  [:octocat:](https://github.com/alydmia) | <a href="https://colab.research.google.com/drive/1sMc2Ick3xNJ-yUBTE6kdD5FviU8e2X3I?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://colab.research.google.com/drive/1MvMWuQDs5WgaqsPShLiB1ORnUI11_umE?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
 | 8.   | FONG KHAH KHEH                      |  [:octocat:](https://github.com/khahkhehhh) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
 | 9.   | HAFIZULSHAH BIN SHAROM                      |  [:octocat:](https://github.com/Hafizulshah) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
-| 10.   | ABDUL MUHAIMIN NIN ABDUL RAZAK                      |  [:octocat:](https://github.com/Muhaimin005) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
+| 10.   | ABDUL MUHAIMIN NIN ABDUL RAZAK                      |  [:octocat:](https://github.com/Muhaimin005) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
+| 10.   | MUHAMMAD ADAM FAHMI BIN MOHD TAUFIQ                      |  [:octocat:](https://github.com/Muhaimin005) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
 
 Good luck with your lab exercise!
 
