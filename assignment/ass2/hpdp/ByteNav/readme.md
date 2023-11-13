@@ -13,9 +13,9 @@
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
 | LOO ZHI YUAN            |A21EC0197      |Case Study 2c|
-| SOO WAN YING              |A21EC0227      |Case Study 2a      |
+| SOO WAN YING              |A21EC0227      |Case Study 2b      |
 | LAU YEE CHI              |A21EC0042      |Case Study 1    |
-| YEW RUI XIANG              |A21EC0149      |Case Study 2b     |
+| YEW RUI XIANG              |A21EC0149      |Case Study 2a     |
 
 ### 📂 Folder content:
 * [💻 Case Study 1](./case_study1/cs1.ipynb)
