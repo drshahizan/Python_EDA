@@ -33,7 +33,7 @@ In this assignment, you will explore the essential concept of feature engineerin
 9. **Conclusion**: Summarize your findings, the feature engineering steps you've taken, and why you made those decisions.
 
 ## Submission
-1. Create a new Markdown document in Google Colab and name it "Feature_Engineering_Assignment.md."
+1. Create a new Markdown document in Google Colab and name it "Feature_Engineering.md"
 
 2. Provide clear and organized explanations of each step in your Markdown document using appropriate headings and bullet points.
 
@@ -61,22 +61,12 @@ The deadline for submission is **November 12, 2023, at 5:00 PM**. Late submissio
 
 ## File and Folder Structure 
 
-You must place your file in the submission folder. Within the [`hpdp/`](https://github.com/drshahizan/Python_EDA/edit/main/assignment/hpdp) folder, create a folder called your group. Name the default file as `readme.md`. You can refer to the [documentation template here](https://github.com/drshahizan/Python_EDA/blob/main/assignment/Assignment_EDA.ipynb). Suggested folder structure for this project:
+You must place your file in the submission folder. Within the [`hpdp/`](https://github.com/drshahizan/Python_EDA/edit/main/assignment/ass4/hpdp) folder, create a folder called your group. Name the default file as `readme.md`. You can refer to the [documentation template here](https://github.com/drshahizan/Python_EDA/blob/main/assignment/Assignment_EDA.ipynb). Suggested folder structure for this project:
 
 ```html
 hpdp/your_group/
-├── 📁 case_study1/
-│   ├── 📄 readme.md
-│   └── 📄 cs1.ipynb
-├── 📁 case_study2a/
-│   ├── 📄 readme.md
-│   └── 📄 cs2a.ipynb
-├── 📁 case_study2b/
-│   ├── 📄 readme.md
-│   └── 📄 cs2b.ipynb
-└── 📁 case_study2c/
-    ├── 📄 readme.md
-    └── 📄 cs2c.ipynb
+├── 📄 feature_eng.md
+└── 📄 readme.md
 
 ```
 ## Grading
