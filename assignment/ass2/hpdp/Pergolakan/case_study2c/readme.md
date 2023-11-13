@@ -73,6 +73,40 @@ profile = ProfileReport(df_subset, title="Profiling Report", html={'style':{'ful
 ```
 profile
 ```
+
+### Output
+The output from this case study, you can download the CaseStudy2c_ProfilingReport.html file above.
+#### Profiling Report
+Overview
+<div align="center">
+  <img src="img/1.png" alt="paq" width="50px" height="50px">
+</div>
+
+Variables
+<div align="center">
+  <img src="img/2.png" alt="paq" width="50px" height="50px">
+</div>
+
+Interactions
+<div align="center">
+  <img src="img/3.png" alt="paq" width="50px" height="50px">
+</div>
+
+Correlations
+<div align="center">
+  <img src="img/4.png" alt="paq" width="50px" height="50px">
+</div>
+
+Missing Values
+<div align="center">
+  <img src="img/5.png" alt="paq" width="50px" height="50px">
+</div>
+
+Sample
+<div align="center">
+  <img src="img/6.png" alt="paq" width="50px" height="50px">
+</div>
+
 ### **Pros And Cons Of Pandas Profiling**
 ### **Pros**
 
