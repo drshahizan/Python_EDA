@@ -1,5 +1,5 @@
 # Assignment 2: Exploratory data analysis
-<a href="[cs2c.ipynb](https://colab.research.google.com/drive/1T88HZ-X5-gr2AhhGrdqP8x1vVpK_5HFT?usp=sharing)"
+<a href="https://colab.research.google.com/drive/1T88HZ-X5-gr2AhhGrdqP8x1vVpK_5HFT?usp=sharing"
    target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Case Study 2c"/></a>
 
 ### Group Name: BYTE NAVIGATORS
