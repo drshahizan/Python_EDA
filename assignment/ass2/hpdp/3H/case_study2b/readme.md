@@ -9,7 +9,7 @@
 
 ---
 
-#Case Study 2B: Exploratory Data Analysis using Automated EDA Tools (SweetViz)
+# Case Study 2B: Exploratory Data Analysis using Automated EDA Tools (SweetViz)
 
 
 ## Step 1: Selecting Automated EDA Tool
