@@ -76,7 +76,7 @@
 | 6.   | KEE SHIN PEARL                  |  [:octocat:](https://github.com/shinpearll) |<a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
 | 7.   | ALYA DAMIA HUZAIMY                      |  [:octocat:](https://github.com/alydmia) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
 | 8.   | FONG KHAH KHEH                      |  [:octocat:](https://github.com/khahkhehhh) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
-
+| 9.   | HAFIZULSHAH BIN SHAROM                      |  [:octocat:](https://github.com/Hafizulshah) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
 
 
 Good luck with your lab exercise!
