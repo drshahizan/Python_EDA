@@ -63,6 +63,12 @@
 
 10. Save your Colab notebook by clicking on "File" and selecting "Save a copy in Drive." This will ensure that your work is saved.
 
+### Step 10: Submission
+
+| No.  | Name | Github |Lab 1 | Lab 2 |
+| ---: | ----------------------------------------- | :----------------------: | :----------------------: | :----------------------: | 
+| 0.   | ADAM WAFII BIN AZUAR                      |  [:octocat:](https://github.com/Jokeryde) |<a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
+
 
 By following these steps, you can perform a feature engineering lab exercise using Google Colab. This will help you demonstrate your practical knowledge of feature engineering techniques.
 
