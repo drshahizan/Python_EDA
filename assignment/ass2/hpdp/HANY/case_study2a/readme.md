@@ -28,7 +28,8 @@ The dataset is about the number of peoples that are admitted in the hospital dur
 ## 2. Malaysian Dataset
 
 
-*   The dataset is from GitHub and can be reviewed at /content/drive/MyDrive/Colab Notebooks/DATASET/hospital.csv.
+*   The dataset is from GitHub and can be reviewed at [HOSPITAL](https://github.com/MoH-Malaysia/covid19-public/blob/main/epidemic/hospital.csv).
+
 
 ![image](https://github.com/drshahizan/Python_EDA/assets/118237681/9075625a-6f4e-4886-9004-63212352ca42)
 
@@ -57,14 +58,14 @@ This Python code leverages the pandas_profiling library to create a detailed pro
 
 *   **Generate basic statistics and visualizations.**
 
-By calling 'profile' the tool whill generate a dashboard containing reports of the dataset.
+By calling 'profile' the tool will generate a dashboard containing reports of the dataset.
 
 
 ![image](https://github.com/drshahizan/Python_EDA/assets/118237681/11ed94bc-7453-49f9-ba02-994a68d7b0d0)
 
 *   **Explore relationships and patterns in the data.**
 
-After the dashboard has been created. We can scroll down the dashboard to see the correlation and interaction between different variables for us to make conclusion pr insight of the dataset.
+After the dashboard has been created. We can scroll down the dashboard to see the correlation and interaction between different variables for us to make a conclusion or insight of the dataset.
 
 
 
