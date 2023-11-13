@@ -1,4 +1,3 @@
-![image](https://github.com/drshahizan/Python_EDA/assets/133087111/baa1a074-429d-478b-891c-6430890fea10)
 
 |    Name           |           Matric Number       |                      
 |-------------------|-------------------------------|
@@ -10,7 +9,6 @@
 ---
 
 # Case Study 2B: Exploratory Data Analysis using Automated EDA Tools (SweetViz)
-
 
 ## Step 1: Selecting Automated EDA Tool
 SweetViz is a Python library in which exploratory data analysis (EDA) may be automated, speeding up and simplifying the process of producing insights and visualisations without requiring manual configuration. It offers a wide-ranging EDA report that helps analysts and data scientists analyse their datasets in great detail.
