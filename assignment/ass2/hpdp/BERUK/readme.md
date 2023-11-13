@@ -11,8 +11,8 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| ABDUL MUHAIMIN BIN ABDUL RAZAK | A21EC0002 |D-Tale| 
-| HAFIZULSHAH BIN SHAROM | A21EC0027 |Case study 1| 
+| HAFIZULSHAH BIN SHAROM | A21EC0027 |Case study 1|
+| ABDUL MUHAIMIN BIN ABDUL RAZAK | A21EC0002 |D-Tale|  
 | MUHAMMAD HAZIM BIN SALMAN | A21EC0078 |Pandas-profiling| 
 | MUHAMMAD HASAN BIN CHE ABDULLAH | A21EC0077 |SweetViz|
 
