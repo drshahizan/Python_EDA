@@ -80,6 +80,7 @@
 | 10.   | ABDUL MUHAIMIN NIN ABDUL RAZAK                      |  [:octocat:](https://github.com/Muhaimin005) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 10.   | MUHAMMAD ADAM FAHMI BIN MOHD TAUFIQ                      |  [:octocat:](https://github.com/Muhaimin005) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
 | 11.   | SAM CHIA YUN                   |  [:octocat:](https://github.com/ChiayunSam) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
+| 12.   | SOO WAN YING               |  [:octocat:](https://github.com/soowanying) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
 
 Good luck with your lab exercise!
 
