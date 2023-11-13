@@ -13,12 +13,12 @@
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
 | SARAH WARDINA BINTI RAFIDIN | A21EC0128 | Case Study 1  
-| NURUNNAJWA BINTI ZULKIFLI | A21EC0121 | Case Study 2a
-| ALYA DAMIA BINTI HUZAIMY | A21EC0159 | Case Study 2b
-| YASMEEN NATASHA BINTI HAFIZ SHAHREL | A21EC0147 | Case Study 2c
+| NURUNNAJWA BINTI ZULKIFLI | A21EC0121 | Case Study 1
+| ALYA DAMIA BINTI HUZAIMY | A21EC0159 | Case Study 2
+| YASMEEN NATASHA BINTI HAFIZ SHAHREL | A21EC0147 | Case Study 2
 
 ### 📂 Folder content:
-* [📖 Case Study 1](./case_study)
+* [📖 Case Study 1](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/SYNA/casestudy1/SYNA_CASESTUDY1.ipynb)
 * [📖 Case Study 2a](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/SYNA/casestudy2a/SYNA_CASESTUDY2a.ipynb)
 * [📖 Case Study 2b](./case_study2b)
 * [📖 Case Study 2c](./case_study2c)
