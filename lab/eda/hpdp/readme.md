@@ -68,6 +68,7 @@
 | No.  | Name | Github |Lab 1 | Lab 2 |
 | ---: | ----------------------------------------- | :----------------------: | :----------------------: | :----------------------: | 
 | 0.   | ADAM WAFII BIN AZUAR                      |  [:octocat:](https://github.com/Jokeryde) |<a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
+| 1.   | NG ZI XING                     |  [:octocat:](https://github.com/ngzxing) |<a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
 
 
 Good luck with your lab exercise!
