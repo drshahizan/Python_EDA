@@ -20,9 +20,6 @@
 | 5. | Feature Engineering Techniques for Training Machine Learning Models | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1-H8ZfuemZAW_imWCVJPj_syfrZOnPAyT?usp=sharing) |
 | 6. | Feature Engineering: Preprocessing for Machine Learning in Python | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/github/goodboychan/chans_jupyter/blob/main/_notebooks/2020-07-09-04-Feature-Engineering.ipynb) |
 
-
-# Feature Engineering Lab Exercise using Google Colab
-
 ## Instructions:
 
 ### Step 1: Access Google Colab
