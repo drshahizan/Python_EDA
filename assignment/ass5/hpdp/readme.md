@@ -11,7 +11,6 @@
 
 # Automated Feature Engineering Tools Assignment
 
-## Introduction
 In this assignment, you will explore the fascinating world of automated feature engineering tools in data science. Automated feature engineering is a critical step that can save time and improve the quality of features used for machine learning models.
 
 ## Task Overview
