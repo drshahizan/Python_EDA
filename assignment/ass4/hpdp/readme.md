@@ -72,7 +72,7 @@ This Markdown document provides a clear set of instructions for the student to c
 
 | No | Group |  File | Dataset | 
 | -----: |  ------ | :-----: |  ----- |  
-| 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
+| 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 
 
 ### 3. Academic Integrity
