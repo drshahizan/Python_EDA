@@ -346,37 +346,37 @@ cases
       <td>...</td>
     </tr>
     <tr>
-      <th>22075</th>
-      <td>2023-11-04</td>
+      <th>22171</th>
+      <td>2023-11-10</td>
       <td>Selangor</td>
-      <td>89</td>
+      <td>118</td>
       <td>0</td>
-      <td>256</td>
-      <td>1074</td>
+      <td>92</td>
+      <td>823</td>
       <td>0</td>
-      <td>10</td>
-      <td>1</td>
-      <td>10</td>
-      <td>...</td>
-      <td>2</td>
-      <td>1</td>
-      <td>4</td>
-      <td>18</td>
-      <td>27</td>
       <td>14</td>
-      <td>9</td>
-      <td>5</td>
+      <td>0</td>
+      <td>23</td>
+      <td>...</td>
+      <td>1</td>
       <td>3</td>
-      <td>6</td>
+      <td>4</td>
+      <td>33</td>
+      <td>30</td>
+      <td>22</td>
+      <td>11</td>
+      <td>3</td>
+      <td>3</td>
+      <td>8</td>
     </tr>
     <tr>
-      <th>22076</th>
-      <td>2023-11-04</td>
+      <th>22172</th>
+      <td>2023-11-10</td>
       <td>Terengganu</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
-      <td>337</td>
+      <td>3</td>
+      <td>332</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -394,80 +394,80 @@ cases
       <td>0</td>
     </tr>
     <tr>
-      <th>22077</th>
-      <td>2023-11-04</td>
+      <th>22173</th>
+      <td>2023-11-10</td>
       <td>W.P. Kuala Lumpur</td>
+      <td>59</td>
+      <td>0</td>
       <td>53</td>
+      <td>1035</td>
       <td>0</td>
-      <td>153</td>
-      <td>1385</td>
+      <td>7</td>
       <td>0</td>
-      <td>2</td>
-      <td>0</td>
-      <td>3</td>
+      <td>7</td>
       <td>...</td>
-      <td>0</td>
       <td>1</td>
       <td>0</td>
-      <td>14</td>
-      <td>18</td>
-      <td>8</td>
-      <td>4</td>
-      <td>3</td>
-      <td>3</td>
       <td>2</td>
+      <td>12</td>
+      <td>25</td>
+      <td>9</td>
+      <td>4</td>
+      <td>2</td>
+      <td>0</td>
+      <td>4</td>
     </tr>
     <tr>
-      <th>22078</th>
-      <td>2023-11-04</td>
+      <th>22174</th>
+      <td>2023-11-10</td>
       <td>W.P. Labuan</td>
       <td>1</td>
       <td>0</td>
-      <td>4</td>
-      <td>37</td>
+      <td>1</td>
+      <td>33</td>
       <td>0</td>
       <td>1</td>
       <td>0</td>
       <td>0</td>
       <td>...</td>
       <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
       <td>1</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
       <td>0</td>
     </tr>
     <tr>
-      <th>22079</th>
-      <td>2023-11-04</td>
+      <th>22175</th>
+      <td>2023-11-10</td>
       <td>W.P. Putrajaya</td>
-      <td>8</td>
-      <td>0</td>
-      <td>20</td>
-      <td>326</td>
-      <td>0</td>
       <td>1</td>
       <td>0</td>
-      <td>3</td>
+      <td>5</td>
+      <td>286</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
       <td>...</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
-      <td>3</td>
       <td>1</td>
-      <td>3</td>
       <td>0</td>
-      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
       <td>0</td>
       <td>0</td>
     </tr>
   </tbody>
 </table>
-<p>22080 rows × 25 columns</p>
+<p>22176 rows × 25 columns</p>
 </div>
 
 
@@ -597,8 +597,8 @@ death
       <td>...</td>
     </tr>
     <tr>
-      <th>21243</th>
-      <td>2023-11-04</td>
+      <th>21355</th>
+      <td>2023-11-11</td>
       <td>Selangor</td>
       <td>0</td>
       <td>0</td>
@@ -611,8 +611,8 @@ death
       <td>0</td>
     </tr>
     <tr>
-      <th>21244</th>
-      <td>2023-11-04</td>
+      <th>21356</th>
+      <td>2023-11-11</td>
       <td>Terengganu</td>
       <td>0</td>
       <td>0</td>
@@ -625,8 +625,8 @@ death
       <td>0</td>
     </tr>
     <tr>
-      <th>21245</th>
-      <td>2023-11-04</td>
+      <th>21357</th>
+      <td>2023-11-11</td>
       <td>W.P. Kuala Lumpur</td>
       <td>0</td>
       <td>0</td>
@@ -639,8 +639,8 @@ death
       <td>0</td>
     </tr>
     <tr>
-      <th>21246</th>
-      <td>2023-11-04</td>
+      <th>21358</th>
+      <td>2023-11-11</td>
       <td>W.P. Labuan</td>
       <td>0</td>
       <td>0</td>
@@ -653,8 +653,8 @@ death
       <td>0</td>
     </tr>
     <tr>
-      <th>21247</th>
-      <td>2023-11-04</td>
+      <th>21359</th>
+      <td>2023-11-11</td>
       <td>W.P. Putrajaya</td>
       <td>0</td>
       <td>0</td>
@@ -668,7 +668,7 @@ death
     </tr>
   </tbody>
 </table>
-<p>21248 rows × 11 columns</p>
+<p>21360 rows × 11 columns</p>
 </div>
 
 
@@ -1024,92 +1024,92 @@ df.info()
 ```
 
     <class 'pandas.core.frame.DataFrame'>
-    DatetimeIndex: 15744 entries, 2021-02-24 to 2023-11-04
+    DatetimeIndex: 15840 entries, 2021-02-24 to 2023-11-10
     Data columns (total 82 columns):
      #   Column                Non-Null Count  Dtype 
     ---  ------                --------------  ----- 
-     0   state                 15744 non-null  object
-     1   cases_new             15744 non-null  int64 
-     2   cases_import          15744 non-null  int64 
-     3   cases_recovered       15744 non-null  int64 
-     4   cases_active          15744 non-null  int64 
-     5   cases_cluster         15744 non-null  int64 
-     6   cases_unvax           15744 non-null  int64 
-     7   cases_pvax            15744 non-null  int64 
-     8   cases_fvax            15744 non-null  int64 
-     9   cases_boost           15744 non-null  int64 
-     10  cases_child           15744 non-null  int64 
-     11  cases_adolescent      15744 non-null  int64 
-     12  cases_adult           15744 non-null  int64 
-     13  cases_elderly         15744 non-null  int64 
-     14  cases_0_4             15744 non-null  int64 
-     15  cases_5_11            15744 non-null  int64 
-     16  cases_12_17           15744 non-null  int64 
-     17  cases_18_29           15744 non-null  int64 
-     18  cases_30_39           15744 non-null  int64 
-     19  cases_40_49           15744 non-null  int64 
-     20  cases_50_59           15744 non-null  int64 
-     21  cases_60_69           15744 non-null  int64 
-     22  cases_70_79           15744 non-null  int64 
-     23  cases_80              15744 non-null  int64 
-     24  deaths_new            15744 non-null  int64 
-     25  deaths_bid            15744 non-null  int64 
-     26  deaths_new_dod        15744 non-null  int64 
-     27  deaths_bid_dod        15744 non-null  int64 
-     28  deaths_unvax          15744 non-null  int64 
-     29  deaths_pvax           15744 non-null  int64 
-     30  deaths_fvax           15744 non-null  int64 
-     31  deaths_boost          15744 non-null  int64 
-     32  deaths_tat            15744 non-null  int64 
-     33  daily_partial         15744 non-null  int64 
-     34  daily_full            15744 non-null  int64 
-     35  daily_booster         15744 non-null  int64 
-     36  daily_booster2        15744 non-null  int64 
-     37  daily                 15744 non-null  int64 
-     38  daily_partial_adol    15744 non-null  int64 
-     39  daily_full_adol       15744 non-null  int64 
-     40  daily_booster_adol    15744 non-null  int64 
-     41  daily_booster2_adol   15744 non-null  int64 
-     42  daily_partial_child   15744 non-null  int64 
-     43  daily_full_child      15744 non-null  int64 
-     44  daily_booster_child   15744 non-null  int64 
-     45  daily_booster2_child  15744 non-null  int64 
-     46  cumul_partial         15744 non-null  int64 
-     47  cumul_full            15744 non-null  int64 
-     48  cumul_booster         15744 non-null  int64 
-     49  cumul_booster2        15744 non-null  int64 
-     50  cumul                 15744 non-null  int64 
-     51  cumul_partial_adol    15744 non-null  int64 
-     52  cumul_full_adol       15744 non-null  int64 
-     53  cumul_booster_adol    15744 non-null  int64 
-     54  cumul_booster2_adol   15744 non-null  int64 
-     55  cumul_partial_child   15744 non-null  int64 
-     56  cumul_full_child      15744 non-null  int64 
-     57  cumul_booster_child   15744 non-null  int64 
-     58  cumul_booster2_child  15744 non-null  int64 
-     59  pfizer1               15744 non-null  int64 
-     60  pfizer2               15744 non-null  int64 
-     61  pfizer3               15744 non-null  int64 
-     62  pfizer4               15744 non-null  int64 
-     63  sinovac1              15744 non-null  int64 
-     64  sinovac2              15744 non-null  int64 
-     65  sinovac3              15744 non-null  int64 
-     66  sinovac4              15744 non-null  int64 
-     67  astra1                15744 non-null  int64 
-     68  astra2                15744 non-null  int64 
-     69  astra3                15744 non-null  int64 
-     70  astra4                15744 non-null  int64 
-     71  sinopharm1            15744 non-null  int64 
-     72  sinopharm2            15744 non-null  int64 
-     73  sinopharm3            15744 non-null  int64 
-     74  sinopharm4            15744 non-null  int64 
-     75  cansino               15744 non-null  int64 
-     76  cansino3              15744 non-null  int64 
-     77  cansino4              15744 non-null  int64 
-     78  pending1              15744 non-null  int64 
-     79  pending2              15744 non-null  int64 
-     80  pending3              15744 non-null  int64 
-     81  pending4              15744 non-null  int64 
+     0   state                 15840 non-null  object
+     1   cases_new             15840 non-null  int64 
+     2   cases_import          15840 non-null  int64 
+     3   cases_recovered       15840 non-null  int64 
+     4   cases_active          15840 non-null  int64 
+     5   cases_cluster         15840 non-null  int64 
+     6   cases_unvax           15840 non-null  int64 
+     7   cases_pvax            15840 non-null  int64 
+     8   cases_fvax            15840 non-null  int64 
+     9   cases_boost           15840 non-null  int64 
+     10  cases_child           15840 non-null  int64 
+     11  cases_adolescent      15840 non-null  int64 
+     12  cases_adult           15840 non-null  int64 
+     13  cases_elderly         15840 non-null  int64 
+     14  cases_0_4             15840 non-null  int64 
+     15  cases_5_11            15840 non-null  int64 
+     16  cases_12_17           15840 non-null  int64 
+     17  cases_18_29           15840 non-null  int64 
+     18  cases_30_39           15840 non-null  int64 
+     19  cases_40_49           15840 non-null  int64 
+     20  cases_50_59           15840 non-null  int64 
+     21  cases_60_69           15840 non-null  int64 
+     22  cases_70_79           15840 non-null  int64 
+     23  cases_80              15840 non-null  int64 
+     24  deaths_new            15840 non-null  int64 
+     25  deaths_bid            15840 non-null  int64 
+     26  deaths_new_dod        15840 non-null  int64 
+     27  deaths_bid_dod        15840 non-null  int64 
+     28  deaths_unvax          15840 non-null  int64 
+     29  deaths_pvax           15840 non-null  int64 
+     30  deaths_fvax           15840 non-null  int64 
+     31  deaths_boost          15840 non-null  int64 
+     32  deaths_tat            15840 non-null  int64 
+     33  daily_partial         15840 non-null  int64 
+     34  daily_full            15840 non-null  int64 
+     35  daily_booster         15840 non-null  int64 
+     36  daily_booster2        15840 non-null  int64 
+     37  daily                 15840 non-null  int64 
+     38  daily_partial_adol    15840 non-null  int64 
+     39  daily_full_adol       15840 non-null  int64 
+     40  daily_booster_adol    15840 non-null  int64 
+     41  daily_booster2_adol   15840 non-null  int64 
+     42  daily_partial_child   15840 non-null  int64 
+     43  daily_full_child      15840 non-null  int64 
+     44  daily_booster_child   15840 non-null  int64 
+     45  daily_booster2_child  15840 non-null  int64 
+     46  cumul_partial         15840 non-null  int64 
+     47  cumul_full            15840 non-null  int64 
+     48  cumul_booster         15840 non-null  int64 
+     49  cumul_booster2        15840 non-null  int64 
+     50  cumul                 15840 non-null  int64 
+     51  cumul_partial_adol    15840 non-null  int64 
+     52  cumul_full_adol       15840 non-null  int64 
+     53  cumul_booster_adol    15840 non-null  int64 
+     54  cumul_booster2_adol   15840 non-null  int64 
+     55  cumul_partial_child   15840 non-null  int64 
+     56  cumul_full_child      15840 non-null  int64 
+     57  cumul_booster_child   15840 non-null  int64 
+     58  cumul_booster2_child  15840 non-null  int64 
+     59  pfizer1               15840 non-null  int64 
+     60  pfizer2               15840 non-null  int64 
+     61  pfizer3               15840 non-null  int64 
+     62  pfizer4               15840 non-null  int64 
+     63  sinovac1              15840 non-null  int64 
+     64  sinovac2              15840 non-null  int64 
+     65  sinovac3              15840 non-null  int64 
+     66  sinovac4              15840 non-null  int64 
+     67  astra1                15840 non-null  int64 
+     68  astra2                15840 non-null  int64 
+     69  astra3                15840 non-null  int64 
+     70  astra4                15840 non-null  int64 
+     71  sinopharm1            15840 non-null  int64 
+     72  sinopharm2            15840 non-null  int64 
+     73  sinopharm3            15840 non-null  int64 
+     74  sinopharm4            15840 non-null  int64 
+     75  cansino               15840 non-null  int64 
+     76  cansino3              15840 non-null  int64 
+     77  cansino4              15840 non-null  int64 
+     78  pending1              15840 non-null  int64 
+     79  pending2              15840 non-null  int64 
+     80  pending3              15840 non-null  int64 
+     81  pending4              15840 non-null  int64 
     dtypes: int64(81), object(1)
     memory usage: 10.0+ MB
     
@@ -1333,17 +1333,17 @@ df
       <td>...</td>
     </tr>
     <tr>
-      <th>2023-11-04</th>
+      <th>2023-11-10</th>
       <td>Selangor</td>
-      <td>89</td>
+      <td>118</td>
       <td>0</td>
-      <td>256</td>
-      <td>1074</td>
+      <td>92</td>
+      <td>823</td>
       <td>0</td>
-      <td>10</td>
-      <td>1</td>
-      <td>10</td>
-      <td>68</td>
+      <td>14</td>
+      <td>0</td>
+      <td>23</td>
+      <td>81</td>
       <td>...</td>
       <td>0</td>
       <td>0</td>
@@ -1357,41 +1357,17 @@ df
       <td>0</td>
     </tr>
     <tr>
-      <th>2023-11-04</th>
+      <th>2023-11-10</th>
       <td>Terengganu</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
-      <td>337</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>...</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <th>2023-11-04</th>
-      <td>W.P. Kuala Lumpur</td>
-      <td>53</td>
-      <td>0</td>
-      <td>153</td>
-      <td>1385</td>
-      <td>0</td>
-      <td>2</td>
-      <td>0</td>
       <td>3</td>
-      <td>48</td>
+      <td>332</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
       <td>...</td>
       <td>0</td>
       <td>0</td>
@@ -1405,12 +1381,36 @@ df
       <td>0</td>
     </tr>
     <tr>
-      <th>2023-11-04</th>
+      <th>2023-11-10</th>
+      <td>W.P. Kuala Lumpur</td>
+      <td>59</td>
+      <td>0</td>
+      <td>53</td>
+      <td>1035</td>
+      <td>0</td>
+      <td>7</td>
+      <td>0</td>
+      <td>7</td>
+      <td>45</td>
+      <td>...</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>2023-11-10</th>
       <td>W.P. Labuan</td>
       <td>1</td>
       <td>0</td>
-      <td>4</td>
-      <td>37</td>
+      <td>1</td>
+      <td>33</td>
       <td>0</td>
       <td>1</td>
       <td>0</td>
@@ -1429,17 +1429,17 @@ df
       <td>0</td>
     </tr>
     <tr>
-      <th>2023-11-04</th>
+      <th>2023-11-10</th>
       <td>W.P. Putrajaya</td>
-      <td>8</td>
-      <td>0</td>
-      <td>20</td>
-      <td>326</td>
-      <td>0</td>
       <td>1</td>
       <td>0</td>
-      <td>3</td>
-      <td>4</td>
+      <td>5</td>
+      <td>286</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
       <td>...</td>
       <td>0</td>
       <td>0</td>
@@ -1454,7 +1454,7 @@ df
     </tr>
   </tbody>
 </table>
-<p>15744 rows × 82 columns</p>
+<p>15840 rows × 82 columns</p>
 </div>
 
 
@@ -1474,7 +1474,7 @@ d
 <iframe
     width="100%"
     height="475"
-    src="http://Admin:40000/dtale/iframe/5"
+    src="http://Admin:40000/dtale/iframe/1"
     frameborder="0"
     allowfullscreen
 
@@ -1488,551 +1488,6 @@ d
     
 
 
-
-    2023-11-12 01:25:08,543 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,567 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,570 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,573 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,577 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,580 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,600 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,603 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,606 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,609 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,612 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,618 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,623 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,625 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,628 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,630 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,634 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,641 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,644 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,647 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,650 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,653 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,660 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,662 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,665 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,669 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,671 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,675 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,693 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,697 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,699 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,702 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,706 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,708 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,712 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,715 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,721 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,725 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,727 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,732 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,735 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,738 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,741 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,748 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,754 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,758 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,763 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,765 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,769 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,775 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,778 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,782 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,785 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,789 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,792 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,796 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,798 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,819 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,822 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,827 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,830 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,833 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,835 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,838 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,846 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,848 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,851 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,854 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,856 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,859 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,861 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,863 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,865 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,873 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,877 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,880 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,883 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,886 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,888 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,891 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,893 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,899 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,904 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,909 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,912 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,917 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,920 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,923 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,937 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,948 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,952 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,955 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,959 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,964 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,971 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,975 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,979 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,983 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,987 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,990 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:08,998 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,001 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,005 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,009 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,014 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,021 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,025 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,027 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,032 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,037 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,042 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,060 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,063 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,067 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,075 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,080 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,082 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,090 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,095 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,097 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,104 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,109 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,113 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,133 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,138 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,141 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,146 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,150 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,155 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,158 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,166 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,169 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,173 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,178 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,183 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,187 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,191 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,199 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,204 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,208 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,212 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,215 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,219 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,222 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,225 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,232 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,236 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,239 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,243 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,247 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,250 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,253 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,257 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,262 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,281 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,285 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,289 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,292 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,297 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,299 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,303 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,305 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,312 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,381 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,386 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,391 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,394 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,402 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,406 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,411 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,415 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,419 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,423 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,426 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,432 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,439 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,444 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,447 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,451 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,456 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,460 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,465 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,479 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,489 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,493 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,497 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,502 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,506 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,509 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,514 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,517 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,526 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,530 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,533 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,539 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,543 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,547 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,552 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,556 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,564 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,568 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,572 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,577 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,582 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,587 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,591 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,600 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,605 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,610 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,614 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,618 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,623 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,635 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,646 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,651 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,655 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,660 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,664 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,670 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,678 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,684 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,688 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,692 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,696 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,699 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,707 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,711 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,715 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,719 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,723 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,726 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,729 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,737 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,742 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,746 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,749 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,753 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,758 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,775 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,783 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,787 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,791 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,795 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,799 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,890 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,893 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,896 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,898 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,901 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,903 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,906 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,908 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,911 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,914 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,919 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,927 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,930 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,933 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,937 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,940 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,944 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:09,947 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,190 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,196 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,199 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,202 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,205 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,208 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,211 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,214 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,216 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,219 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,226 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,229 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,232 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,235 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,238 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,241 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,245 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,248 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,251 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,269 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,273 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,275 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,279 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,282 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,285 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,289 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,291 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,295 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,302 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,305 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,309 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,311 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,314 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,317 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,321 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,326 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,330 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,333 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,336 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,339 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,343 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,347 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,350 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,356 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,360 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,362 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,367 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,371 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,374 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,377 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,397 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,400 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,404 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,407 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,411 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,415 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,423 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,427 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,431 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,434 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,437 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,440 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,445 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,449 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,453 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,456 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,458 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,461 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,465 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,467 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,474 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,477 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,480 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,483 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,486 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,489 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,491 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,498 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,514 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,517 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,519 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,523 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,527 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,530 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,539 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,543 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,548 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,552 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,556 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,565 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,569 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,572 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,577 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,582 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,589 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,593 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,598 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,602 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,623 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,627 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,632 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,635 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,639 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,646 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,651 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,655 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,659 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,663 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,671 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,676 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,680 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,684 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,688 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,696 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,700 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,705 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,708 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,713 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,733 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,737 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,740 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,745 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,752 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,759 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,762 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,767 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,771 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,781 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,784 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,787 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,792 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,796 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,803 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,808 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,812 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,816 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,837 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,841 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,845 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,850 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,858 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,861 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,865 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,867 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,871 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,878 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,882 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,886 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,889 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,893 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,896 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,905 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,908 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,912 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,915 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,936 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,941 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,944 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,949 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,952 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,960 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,965 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:10,969 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,035 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,043 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,047 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,051 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,055 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,060 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,067 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,070 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,075 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,079 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,083 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,103 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,106 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,110 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,113 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,117 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,121 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,124 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,132 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,136 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,139 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,143 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,146 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,150 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,157 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,160 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,164 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,169 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,172 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,177 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,183 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,187 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,191 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,195 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,200 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,219 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,223 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,227 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,231 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,235 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,244 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,248 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,252 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,256 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,260 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,269 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,273 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,276 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,280 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,288 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,290 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,295 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,297 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,302 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,314 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,326 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,330 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,334 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,341 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,344 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,348 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,351 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,357 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,361 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,364 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,367 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,376 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,379 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,383 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,386 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,401 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,408 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,412 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,416 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,420 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,422 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,425 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,430 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,435 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,439 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,443 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,483 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,491 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,505 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,508 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,510 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,513 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,520 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,522 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,524 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,527 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,529 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,531 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,534 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,538 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,555 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,559 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,563 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,565 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,568 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:25:11,571 - WARNING  - findfont: Font family 'Heiti TC' not found.
-    2023-11-12 01:36:14,372 - ERROR    - Exception occurred while processing request: It appears there is duplicates in your index, please specify an aggregation!
-    Traceback (most recent call last):
-      File "C:\Users\User\anaconda3\Lib\site-packages\dtale\views.py", line 119, in _handle_exceptions
-        return func(*args, **kwargs)
-               ^^^^^^^^^^^^^^^^^^^^^
-      File "C:\Users\User\anaconda3\Lib\site-packages\dtale\views.py", line 4278, in get_timeseries_analysis
-        data = ts_rpt.run()
-               ^^^^^^^^^^^^
-      File "C:\Users\User\anaconda3\Lib\site-packages\dtale\timeseries_analysis.py", line 48, in run
-        return self.report.run(data)
-               ^^^^^^^^^^^^^^^^^^^^^
-      File "C:\Users\User\anaconda3\Lib\site-packages\dtale\timeseries_analysis.py", line 93, in run
-        df = build_data(data, self.cfg)
-             ^^^^^^^^^^^^^^^^^^^^^^^^^^
-      File "C:\Users\User\anaconda3\Lib\site-packages\dtale\timeseries_analysis.py", line 18, in build_data
-        raise ValueError(
-    ValueError: It appears there is duplicates in your index, please specify an aggregation!
-    
 
 ![D-Tale1.png](attachment:D-Tale1.png)
 
@@ -2063,8 +1518,3 @@ If we want to see the trend of the 'death_new' over time, we can go to "Time Ser
 Image below shows the generated graph of 'death_new' over time.
 
 ![D-Tale6.png](attachment:D-Tale6.png)
-
-
-```python
-
-```
