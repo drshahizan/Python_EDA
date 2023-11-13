@@ -1,7 +1,7 @@
 <div align="center">
   
   <h1>Pandas Profiling</h1>
-   <img src="https://github.com/drshahizan/Python_EDA/blob/main/assignment/hpdp/BERUK/case_study2b/Pandas-Profiling.png" width="700px"/>
+   <img src="https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/BERUK/case_study2b/Pandas-Profiling.png" width="700px"/>
    
 </div>
   <br><br>
