@@ -10,12 +10,6 @@
 
 # Assignment 4: Feature Engineering
 
-Certainly! Below are instructions for a student to complete an assignment on Feature Engineering in Data Science using Google Colab as the editor. You can use a Markdown file in Google Colab to provide these instructions:
-
----
-
-# Feature Engineering Assignment
-
 ## Introduction
 In this assignment, you will explore the essential concept of feature engineering in data science. Feature engineering is a critical step in the data preprocessing process, where you manipulate and create new features from your dataset to improve the performance of machine learning models.
 
