@@ -1,4 +1,4 @@
-## Step 1: Selecting Automated EDA Tool
+## Step 1: Selecting Automated EDA Tool: Autoviz
 
 Autoviz is a powerful tool that allows users to easily visualize any dataset without the need for manual data manipulation or coding.
 
@@ -119,6 +119,10 @@ dft = AV.AutoViz(
     save_plot_dir=None
 )
 ```
+autoviz.png
+autoviz_2.png
+autoviz_3.png
+autoviz_4.png
 
 ### c. Exploring relationships and patterns in the data
 
