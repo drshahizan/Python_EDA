@@ -102,6 +102,28 @@ Display the Report,to explore relationships and patterns in the data, display th
 report.show_notebook()
 ```
 
+Generate the SweetViz report on Goggle Colaboration, we can go to the files on the google colab
+<p align="center">
+    <img src="sweetviz1.png" width=1500>
+</p>
+
+Visualization of the data
+<p align="center">
+    <img src="sweetviz1.png" width=1500>
+</p>
+<p align="center">
+    <img src="sweetviz4.png" width=1500>
+</p>
+<p align="center">
+    <img src="sweetviz5.png" width=1500>
+</p>
+
+
+Association of the data
+<p align="center">
+    <img src="sweetviz3.png" width=1500>
+</p>
+
 ## Pro and Cons Analysis
 
 **Pros of SweetViz:**
