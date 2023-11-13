@@ -79,32 +79,32 @@ The output from this case study, you can download the CaseStudy2c_ProfilingRepor
 #### Profiling Report
 Overview
 <div align="center">
-  <img src="img/1.png" alt="paq" width="50px" height="50px">
+  <img src="img/1.png" alt="paq">
 </div>
 
 Variables
 <div align="center">
-  <img src="img/2.png" alt="paq" width="50px" height="50px">
+  <img src="img/2.png" alt="paq">
 </div>
 
 Interactions
 <div align="center">
-  <img src="img/3.png" alt="paq" width="50px" height="50px">
+  <img src="img/3.png" alt="paq">
 </div>
 
 Correlations
 <div align="center">
-  <img src="img/4.png" alt="paq" width="50px" height="50px">
+  <img src="img/4.png" alt="paq">
 </div>
 
 Missing Values
 <div align="center">
-  <img src="img/5.png" alt="paq" width="50px" height="50px">
+  <img src="img/5.png" alt="paq">
 </div>
 
 Sample
 <div align="center">
-  <img src="img/6.png" alt="paq" width="50px" height="50px">
+  <img src="img/6.png" alt="paq">
 </div>
 
 ### **Pros And Cons Of Pandas Profiling**
