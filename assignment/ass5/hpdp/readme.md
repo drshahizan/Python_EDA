@@ -8,9 +8,6 @@
 
 🌟 Hit star button to save this repo in your profile
 
-Certainly! Here are instructions for a student to complete an assignment on Automated Feature Engineering tools in Data Science using Google Colab as the editor. You can use a Markdown file in Google Colab to provide these instructions:
-
----
 
 # Automated Feature Engineering Tools Assignment
 
