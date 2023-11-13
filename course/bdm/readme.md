@@ -59,6 +59,8 @@ By following these steps, your student can complete the Feature Engineering cour
 | 1.   | Hazem Taher Omran Fenneer                      |  [:octocat:](https://github.com/HazemFenneer) |<a href="https://raw.githubusercontent.com/HazemFenneer/HazemFenneer/main/Certificate/Hazem%20Fenneer%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
 | 2.   | Nabila Husna binti Rosli                      |  [:octocat:](https://github.com/rnabilahusna) |<a href="https://raw.githubusercontent.com/rnabilahusna/rnabilahusna/main/certificates/Nabila%20Husna%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
 | 3.   | Thong Yee Moon                    |  [:octocat:](https://github.com/yeemoonthong) |<a href="https://github.com/yeemoonthong/yeemoon/raw/main/certificate/Yee%20Moon%20Thong%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
+| 4.   | Siti Norafizah binti Ab Aziz                    |  [:octocat:](https://github.com/sitinorafizah) |<a href="https://github.com/sitinorafizah/project/blob/f3752dc5cb15c6350bb7d19b505ecea0f47d5115/certificate/Siti%20Norafizah%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
