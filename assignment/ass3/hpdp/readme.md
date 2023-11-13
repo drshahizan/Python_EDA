@@ -67,7 +67,7 @@ If you have any questions or need clarification on any part of this assignment, 
 | 2. | CapKetereh  | [still finding]() | <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 | 3. | DEADPOOL  | [still finding]() | <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 | 4. | ZProMax  | [still finding]() | <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
-| 5. | BERUK  | [still finding]() | <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
+| 5. | BERUK  | [still finding]() | <a href="./BERUK/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 
 
 ### 3. Academic Integrity
