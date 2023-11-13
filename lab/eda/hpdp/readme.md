@@ -88,6 +88,7 @@
 | 18.   | ALYA BALQISS BINTI AZAHAR             |  [:octocat:](https://github.com/aly4blqss) | <a href="https://colab.research.google.com/drive/1iMPZ539qax9ubI1TjxzVfj1tzMvqq9LZ?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://colab.research.google.com/drive/1B4uIpsQ0gobywtC9x6IXieVC6VT5Gkz9?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 19.   | NIK AMIRUL ARIFF BIN AMRAN        |  [:octocat:](https://github.com/NikAmirulAriff) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 20.   | MUHAMMAD FIKRI BIN SHARUNAZIM        |  [:octocat:](https://github.com/fkrshrnzm) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
+| 20.   | ALIEYA ZAWANIE BINTI A ZAINI       |  [:octocat:](https://github.com/fkrshrnzm) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 
 
 Good luck with your lab exercise!
