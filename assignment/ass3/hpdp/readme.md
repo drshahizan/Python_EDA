@@ -70,11 +70,11 @@ If you have any questions or need clarification on any part of this assignment, 
 
 ### 4. Submission Requirements
 📝 Prepare a comprehensive document that outlines the step-by-step process for creating the case study. 
-The deadline for submission is **November 12, 2023, at 5:00 PM**. Late submissions will not be accepted and will be disregarded.
+The deadline for submission is **26 November 2023, at 5:00 PM**. Late submissions will not be accepted and will be disregarded.
 
 ## File and Folder Structure 
 
-You must place your file in the submission folder. Within the [`hpdp/`](https://github.com/drshahizan/Python_EDA/edit/main/assignment/hpdp) folder, create a folder called your group. Name the default file as `readme.md`. You can refer to the [documentation template here](https://github.com/drshahizan/Python_EDA/blob/main/assignment/Assignment_EDA.ipynb). Suggested folder structure for this project:
+You must place your file in the submission folder. Within the [`hpdp/`](https://github.com/drshahizan/Python_EDA/edit/main/assignment/ass3/hpdp) folder, create a folder called your group. Name the default file as `readme.md`. Suggested folder structure for this project:
 
 ```html
 hpdp/your_group/
