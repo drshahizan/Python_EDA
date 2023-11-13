@@ -73,29 +73,48 @@ with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
 
 df = pd.read_csv('/content/drive/My Drive/Colab Notebooks/DATASET/data.zip',compression='zip' ,index_col=0)
 
-df.head()
 ```
 
-To see the table
+To see first few rpws
+```
+df.head()
+```
+<p align="center">
+    <img src="sweetviz6.png" width=1500>
+</p>
+
+To see the rows
 ```
 df
 ```
+<p align="center">
+    <img src="sweetviz7.png" width=1500>
+</p>
+
 
 To see all the info data types of our table columns, we run
 ```
 df.info()
 ```
+<p align="center">
+    <img src="sweetviz8.png" width=1500>
+</p>
 
 To handle missing values, we can first check for each of the columns, we run
 ```
 df.isnull().sum(axis=0)
 ```
+<p align="center">
+    <img src="sweetviz9.png" width=1500>
+</p>
 
 To see Number of row and column
 ```
 df.shape
 ```
-
+<p align="center">
+    <img src="sweetviz10.png" width=1500>
+</p>
 ---
 
 ## Step 4: Implementation Of Automated EDA Tools
