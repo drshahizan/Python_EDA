@@ -58,7 +58,7 @@ By following these steps, your student can complete the Feature Engineering cour
 | 0.   | ADAM WAFII BIN AZUAR                      |  [:octocat:](https://github.com/Jokeryde) |<a href="https://www.credly.com/badges/4bc350fe-4dac-48eb-8ffa-123835bacef4/public_url"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
 | 1.   | Hazem Taher Omran Fenneer                      |  [:octocat:](https://github.com/HazemFenneer) |<a href="https://raw.githubusercontent.com/HazemFenneer/HazemFenneer/main/Certificate/Hazem%20Fenneer%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
 | 2.   | Nabila Husna binti Rosli                      |  [:octocat:](https://github.com/rnabilahusna) |<a href="https://raw.githubusercontent.com/rnabilahusna/rnabilahusna/main/certificates/Nabila%20Husna%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
-| 3.   | Thong Yee Moon                    |  [:octocat:](https://github.com/yeemoonthong) |<a href="https://github.com/yeemoonthong/yeemoon/blob/2d8f562f2d7c6bb514705bcc63a1e252ab78d833/certificate/Yee%20Moon%20Thong%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
+| 3.   | Thong Yee Moon                    |  [:octocat:](https://github.com/yeemoonthong) |<a href="https://github.com/yeemoonthong/yeemoon/raw/main/certificate/Yee%20Moon%20Thong%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
