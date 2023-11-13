@@ -60,8 +60,8 @@ If you have any questions or need clarification on any part of this assignment, 
 ### 2. Team Collaboration
 🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1vLDgDAu2ai9rAOIKUfE1xUfTEvK2ikpXJ_1F-Xqtk_c/edit?pli=1#gid=834124190). Please update your group information:
 
-| No | Group |  File | Dataset | 
-| -----: |  ------ | :-----: |  ----- |  
+| No | Group  | Dataset | File |
+| -----: | ---- |  :-----: |  ----- |  
 | 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 
 
