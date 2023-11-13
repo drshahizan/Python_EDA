@@ -119,10 +119,20 @@ dft = AV.AutoViz(
     save_plot_dir=None
 )
 ```
-autoviz.png
-autoviz_2.png
-autoviz_3.png
-autoviz_4.png
+
+<p align="center">
+    <img src="autoviz.png" width=1500>
+</p>
+<p align="center">
+    <img src="autoviz_2.png" width=1500>
+</p>
+<p align="center">
+    <img src="autoviz_3.png" width=1500>
+</p>
+<p align="center">
+    <img src="autoviz_4.png" width=1500>
+</p>
+
 
 ### c. Exploring relationships and patterns in the data
 
