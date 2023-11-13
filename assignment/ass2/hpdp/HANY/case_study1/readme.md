@@ -1,1 +1,2 @@
-
+# Covid-19 Hospitalization and Healthcare Capacity in Malaysia
+The dataset is about COVID-19 in Malaysia and includes information related to the epidemic, particularly in hospitals. It contains details such as the date, state, the number of people admitted due to COVID-19, the number of individuals receiving intensive care, and the availability of COVID-19 dedicated beds. This data provides insights into the spread of the virus, healthcare utilization, and the capacity of hospitals to manage COVID-19 cases over time and across different regions in Malaysia.
