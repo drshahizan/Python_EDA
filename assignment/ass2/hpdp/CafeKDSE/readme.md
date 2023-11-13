@@ -12,7 +12,7 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| MUHAMMAD FAUZAN AQIL BIN AZMAN | A21EC0174 | Case Study 1  
+| FAUZAN AQIL BIN AZMAN | A21EC0174 | Case Study 1  
 | NIK AMIRUL ARIFF BIN AMRAN | A21EC0214 | Case Study 2a
 | MUHAMMAD ASHRAAF BIN SALEH | A21EC0068 | Case Study 2b
 | MUHAMMAD NAQUIB BIN ZAKARIA | A20BE0161 | Case Study 2c
