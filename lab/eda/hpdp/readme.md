@@ -93,7 +93,7 @@
 | 23.   | LING WAN YIN      |  [:octocat:](https://github.com/WanYin0704) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 24.   | ALIYA ZARENA BINTI ZAINULANUAR      |  [:octocat:](https://github.com/al1yaz) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 25.   | MUHAMMAD IZZUDDIN BIN SHABRIN      |  [:octocat:](https://github.com/izzuddin02) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
-| 25.   | LAU YEE CHI      |  [:octocat:](https://github.com/faustinalyc) | <a href="https://colab.research.google.com/drive/13Wvxijx-MKN0oP71aDupaLTslx_HiBEp?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
+| 26.   | LAU YEE CHI      |  [:octocat:](https://github.com/faustinalyc) | <a href="https://colab.research.google.com/drive/13Wvxijx-MKN0oP71aDupaLTslx_HiBEp?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 
 
 Good luck with your lab exercise!
