@@ -55,7 +55,7 @@ By following these steps, your student can complete the Feature Engineering cour
 
 | No.  | Name | Github |Certificate | 
 | ---: | ----------------------------------------- | :----------------------: | :----------------------: | 
-| 0.   | ADAM WAFII BIN AZUAR                      |  [:octocat:](https://github.com/Jokeryde) |<a href="https://www.credly.com/badges/4bc350fe-4dac-48eb-8ffa-123835bacef4/public_url"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
+| 0.   | ADAM WAFII BIN AZUAR                      |  [:octocat:](https://github.com/Jokeryde) |<a href="https://www.credly.com/badges/4bc350fe-4dac-48eb-8ffa-123835bacef4/public_url"><img src="../../images/python.png" width="24px" height="24px"></a> | 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
