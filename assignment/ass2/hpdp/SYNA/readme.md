@@ -18,8 +18,8 @@
 | YASMEEN NATASHA BINTI HAFIZ SHAHREL | A21EC0147 | Case Study 2c
 
 ### 📂 Folder content:
-* [📖 Case Study 1](./case_study1)
-* [📖 Case Study 2a](./case_study2a)
+* [📖 Case Study 1](./case_study)
+* [📖 Case Study 2a](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/SYNA/casestudy2a/SYNA_CASESTUDY2a.ipynb)
 * [📖 Case Study 2b](./case_study2b)
 * [📖 Case Study 2c](./case_study2c)
 
