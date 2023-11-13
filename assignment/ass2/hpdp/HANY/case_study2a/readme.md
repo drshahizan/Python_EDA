@@ -9,6 +9,6 @@ Pandas Profiling is a Python library that simplifies and enhances exploratory da
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | :-------------: |
 | LIEW YVONNE            |A21EC0045      | CS1    |
-| MUHAMMAD HARITH HAKIM BIN OTHMAN              | A21EC0205     | CS2A    |
+| MUHAMMAD HARITH HAKIM BIN OTHMAN              |A21EC0205     | CS2A    |
 |NADIA SYAFIQAH BINTI ZULKIPLI|A21EC0098      | CS2B   |
 | ALYA BALQISS BINTI AZAHAR              |A21EC0158      | CS2C    |
