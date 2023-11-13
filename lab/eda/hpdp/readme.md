@@ -75,7 +75,7 @@
 | 5.   | IKMAL BIN KHAIRULEZUAN                     |  [:octocat:]([https://github.com/Ikkha02]) |<a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
 | 6.   | KEE SHIN PEARL                  |  [:octocat:](https://github.com/shinpearll) |<a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
 | 7.   | ALYA DAMIA HUZAIMY                      |  [:octocat:](https://github.com/alydmia) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
-
+| 8.   | FONG KHAH KHEH                      |  [:octocat:](https://github.com/khahkhehhh) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
 
 
 
