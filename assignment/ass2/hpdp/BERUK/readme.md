@@ -17,10 +17,10 @@
 | MUHAMMAD HASAN BIN CHE ABDULLAH | A21EC0077 |SweetViz|
 
 ### 📂 Folder content:
-* [📖 case_study1](https://github.com/drshahizan/Python_EDA/tree/714606a7dabaca861f55fd2d3a6a1d476632cafb/assignment/hpdp/BERUK/case_study1)
-* [📖 case_study2a](https://github.com/drshahizan/Python_EDA/tree/714606a7dabaca861f55fd2d3a6a1d476632cafb/assignment/hpdp/BERUK/case_study2a)
-* [📖 case_study2b](https://github.com/drshahizan/Python_EDA/tree/714606a7dabaca861f55fd2d3a6a1d476632cafb/assignment/hpdp/BERUK/case_study2b)
-* [📖 case_study2c](https://github.com/drshahizan/Python_EDA/tree/714606a7dabaca861f55fd2d3a6a1d476632cafb/assignment/hpdp/BERUK/case_study2c)
+* [📖 case_study1](https://github.com/drshahizan/Python_EDA/tree/632ab9dece2e51282d532b01746fd45a6aefc588/assignment/ass2/hpdp/BERUK/case_study1)
+* [📖 case_study2a](https://github.com/drshahizan/Python_EDA/tree/632ab9dece2e51282d532b01746fd45a6aefc588/assignment/ass2/hpdp/BERUK/case_study2a)
+* [📖 case_study2b](https://github.com/drshahizan/Python_EDA/tree/544d4715f3d9f8b974c649d0a43612672ea4cac5/assignment/ass2/hpdp/BERUK/case_study2b)
+* [📖 case_study2c](https://github.com/drshahizan/Python_EDA/tree/579e999324ed895fd7b01b858de71173c3c633ad/assignment/ass2/hpdp/BERUK/case_study2c)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/HPDP/issues) for any improvements, suggestions or errors in the content.
