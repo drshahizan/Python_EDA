@@ -64,7 +64,7 @@ If you have any questions or need clarification on any part of this assignment, 
 | -----: | ---- |  ----- |  :-----: |  
 | 0. | Sample  | [GTZAN: Music Genre Classification](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification) | <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 | 1. | Pergolakan  | [Spotify Charts](https://www.kaggle.com/datasets/dhruvildave/spotify-charts) | <a href="./PERgolakan/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
-| 2. | CapKetereh  | [still finding]() | <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
+| 2. | CapKetereh  | [UK Property Price official data 1995-202304]() | <a href="https://www.kaggle.com/datasets/lorentzyeung/price-paid-data-202304" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 | 3. | DEADPOOL  | [still finding]() | <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 | 4. | ZProMax  | [still finding]() | <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 | 5. | BERUK  | [still finding]() | <a href="./BERUK/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
