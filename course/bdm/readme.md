@@ -60,7 +60,7 @@ By following these steps, your student can complete the Feature Engineering cour
 | 2.   | Nabila Husna binti Rosli                      |  [:octocat:](https://github.com/rnabilahusna) |<a href="https://raw.githubusercontent.com/rnabilahusna/rnabilahusna/main/certificates/Nabila%20Husna%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
 | 3.   | Thong Yee Moon                    |  [:octocat:](https://github.com/yeemoonthong) |<a href="https://github.com/yeemoonthong/yeemoon/raw/main/certificate/Yee%20Moon%20Thong%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
 | 4.   | Siti Norafizah binti Ab Aziz                    |  [:octocat:](https://github.com/sitinorafizah) |<a href="https://github.com/sitinorafizah/project/blob/main/certificate/Siti%20Norafizah%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
-| 5.   | Lee Seow Ming Thereresa                  |  [:octocat:](https://github.com/Theresa20191) |<a href="https://github.com/Theresa20191/Theresa/blob/bce6f864dcaa136dbbd6ef2041f1b356702f1000/Theresa%20Lee%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
+| 5.   | Lee Seow Ming Thereresa                  |  [:octocat:](https://github.com/Theresa20191/Theresa/blob/5a497fc2d53c119d65b3eadd7773b5621c952a19/README.md) |<a href="https://github.com/Theresa20191/Theresa/blob/bce6f864dcaa136dbbd6ef2041f1b356702f1000/Theresa%20Lee%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
 
 
 ## Contribution 🛠️
