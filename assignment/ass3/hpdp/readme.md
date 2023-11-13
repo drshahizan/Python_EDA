@@ -78,19 +78,9 @@ You must place your file in the submission folder. Within the [`hpdp/`](https://
 
 ```html
 hpdp/your_group/
-├── 📁 case_study1/
-│   ├── 📄 readme.md
-│   └── 📄 cs1.ipynb
-├── 📁 case_study2a/
-│   ├── 📄 readme.md
-│   └── 📄 cs2a.ipynb
-├── 📁 case_study2b/
-│   ├── 📄 readme.md
-│   └── 📄 cs2b.ipynb
-└── 📁 case_study2c/
-    ├── 📄 readme.md
-    └── 📄 cs2c.ipynb
-
+├── 📄 ass3.ipynb
+├── 📄 readme.md
+└── 📄 report.md
 ```
 
 ## Contribution 🛠️
