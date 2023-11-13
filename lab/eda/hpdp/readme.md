@@ -89,7 +89,7 @@
 | 19.   | NIK AMIRUL ARIFF BIN AMRAN        |  [:octocat:](https://github.com/NikAmirulAriff) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 20.   | MUHAMMAD FIKRI BIN SHARUNAZIM        |  [:octocat:](https://github.com/fkrshrnzm) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 21.   | ALIEYA ZAWANIE BINTI A ZAINI       |  [:octocat:](https://github.com/fkrshrnzm) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
-| 22.   | ANG YI QIN       |  [:octocat:](https://github.com/fkrshrnzm) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
+| 22.   | ANG YI QIN       |  [:octocat:](https://github.com/yiqin0209) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 23.   | LING WAN YIN      |  [:octocat:](https://github.com/WanYin0704) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 24.   | ALIYA ZARENA BINTI ZAINULANUAR      |  [:octocat:](https://github.com/al1yaz) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 
