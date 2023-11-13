@@ -98,6 +98,7 @@ df.info()
 
 ![Screenshot 2023-11-13 101931](https://github.com/drshahizan/Python_EDA/assets/142320760/b5eff6ba-dbc6-4098-ba13-13530eeeb5fc)
 
+__Check if NaN exist__
 ```
 df.isnull().sum(axis=0)
 ```
