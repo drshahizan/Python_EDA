@@ -17,10 +17,10 @@
 | UMAR HAZIQ BIN MUHAMAD NORHISHAM | A21EC0235     | Case Study 2c |
 
 ### 📂 Folder content:
-* [📖 Answer](https://github.com/drshahizan/Python_EDA/tree/main/assignment/hpdp/DEADPOOL%20/case_study1)
-* [📖 Answer](https://github.com/drshahizan/Python_EDA/tree/main/assignment/hpdp/DEADPOOL%20/case_study2a)
-* [📖 Answer](https://github.com/drshahizan/Python_EDA/tree/main/assignment/hpdp/DEADPOOL%20/case_study2b)
-* [📖 Answer](https://github.com/drshahizan/Python_EDA/tree/main/assignment/hpdp/DEADPOOL%20/case_study2c)
+* [📖 Case Study 1](https://github.com/drshahizan/Python_EDA/tree/main/assignment/hpdp/DEADPOOL%20/case_study1)
+* [📖 Case Study 2a](https://github.com/drshahizan/Python_EDA/tree/main/assignment/hpdp/DEADPOOL%20/case_study2a)
+* [📖 Case Study 2b](https://github.com/drshahizan/Python_EDA/tree/main/assignment/hpdp/DEADPOOL%20/case_study2b)
+* [📖 Case Study 2c](https://github.com/drshahizan/Python_EDA/tree/main/assignment/hpdp/DEADPOOL%20/case_study2c)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/HPDP/issues) for any improvements, suggestions or errors in the content.
