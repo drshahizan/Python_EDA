@@ -29,7 +29,7 @@ In this assignment, you will explore the fascinating world of automated feature 
 7. **Conclusion**: Summarize your findings, the feature engineering steps you've taken with automated tools, and why you made those decisions.
 
 ## Submission
-1. Create a new Markdown document in Google Colab and name it "Automated_Feature_Engineering_Assignment.md."
+1. Create a new Markdown document in Google Colab and name it "feature_eng_tool.md"
 
 2. Provide clear and organized explanations of each step in your Markdown document using appropriate headings and bullet points.
 
@@ -60,7 +60,7 @@ You must place your file in the submission folder. Within the [`hpdp/`](https://
 
 ```html
 hpdp/your_group/
-├── 📄 feature_eng.md
+├── 📄 feature_eng_tool.md
 └── 📄 readme.md
 
 ```
