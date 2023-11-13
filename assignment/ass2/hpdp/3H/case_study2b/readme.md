@@ -167,8 +167,8 @@ Association of the data
 ---
 
 ## Step 6: Conclusion <br>
-Conclude your case study by summarizing the key findings and insights from your analysis.
-Provide recommendations or insights on when each tool may be more suitable or preferable based on the specific needs of EDA projects.
+1.   Items are mostly bought at "Pasar Raya/Supermarket" which at 52% compare to "Borong" which is less than 1%
+2.   "BARANGAN SEGAR" has been bough the most which is at 54% other than "BARANGAN BERBUNGKUS","BARANGAN KERING","SUSU DAN BARANGAN BAYI","MINUMAN" and "PRODUK KEBERSIHAN".
 
 ## Step 7: References <br>
 1.   https://www.analyticsvidhya.com/blog/2021/01/making-exploratory-data-analysis-sweeter-with-sweetviz-2-0/
