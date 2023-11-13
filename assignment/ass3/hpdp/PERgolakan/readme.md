@@ -7,7 +7,7 @@
 
 # Assigment 2: Exploratory Data Analysis using Python
 
-![alt text](pergolakan1.jpg?raw=true)
+![alt text](pergolakan2.jpg?raw=true)
 
 ### Group Members
 
