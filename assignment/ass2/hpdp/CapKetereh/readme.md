@@ -19,7 +19,7 @@
 ### 📂 Folder content:
 * [📖 Answer Case Study 1](https://github.com/drshahizan/Python_EDA/tree/main/assignment/hpdp/CapKetereh/case_study1)
 * [📖 Answer Case Study 2a](https://github.com/drshahizan/Python_EDA/blob/main/assignment/hpdp/CapKetereh/case_study2a/cs2a.ipynb)
-* [📖 Answer Case Study 2b](https://github.com/drshahizan/Python_EDA/blob/main/assignment/hpdp/CapKetereh/case_study2b/cs2b.ipynb)
+* [📖 Answer Case Study 2b](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/CapKetereh/case_study2b/cs2b.ipynb)
 * [📖 Answer Case Study 2c](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/CapKetereh/case_study2c/cs2c.ipynb)
 
 ## Contribution 🛠️
