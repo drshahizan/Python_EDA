@@ -24,11 +24,6 @@ The primary aim of this project is to thoroughly investigate and understand the 
 The analysis aims to extract meaningful insights from the dataset by employing various statistical techniques, enabling the discovery of relationships, trends, and dependencies within the data. This process will include diverse visualization techniques, hypothesis testing, correlation analysis, regression models, and other statistical methodologies to better comprehend the complexities of item pricing in Malaysia.
 
 
-
-## Tools and Techniques
- The following stages entail delving into the dataset with an array of statistical tools and visualizations using Python libraries like Pandas, NumPy, Matplotlib, Seaborn, and Scipy.
-
-
 ## Downloading the Dataset
 
 ### Links of Dataset 
