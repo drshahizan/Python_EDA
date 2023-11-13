@@ -121,6 +121,6 @@ Death by State: https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/ma
 Vaccination by State: https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/vaccination/vax_state.csv
 
 ### Link to Google Collab
-<a href="https://www.utm.my" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="Pergolakan_Assignment_2_Case_Study_1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
