@@ -1,8 +1,8 @@
-<div align="center">
+![image](https://github.com/drshahizan/Python_EDA/assets/146742288/0235f5c9-4b84-4f61-bf1d-8b56fef101d4)<div align="center">
   
   <h1>Pandas Profiling</h1>
    <img src="https://github.com/drshahizan/Python_EDA/blob/main/assignment/hpdp/BERUK/case_study2b/Pandas-Profiling.png" width="700px"/>
-   <img src="https://github.com/drshahizan/Python_EDA/blob/4871d9e0bbcfc53b0ef7ae24f80d8fdbf7776bcb/assignment/hpdp/BERUK/case_study2c/img/dtale.png" width=500>
+   <img src="[https://github.com/drshahizan/Python_EDA/blob/4871d9e0bbcfc53b0ef7ae24f80d8fdbf7776bcb/assignment/hpdp/BERUK/case_study2c/img/dtale.png](https://github.com/drshahizan/Python_EDA/blob/main/assignment/hpdp/BERUK/case_study2b/Pandas-Profiling.png)" width=500>
    
 </div>
   <br><br>
