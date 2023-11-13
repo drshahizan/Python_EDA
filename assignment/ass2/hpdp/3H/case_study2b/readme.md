@@ -47,7 +47,10 @@ The dataset is also uploaded to Github. In this project, we will link the datase
 - Explore the number of rows & columns, ranges of values etc.
 - Handle missing, incorrect and invalid data
 
-Install pandas and sweetviz
+
+The data was zipped and has been uploaded into the colaboratory.The uploaded data has been clean with no null and empty values.
+
+Import neccesary files
 
 ```
 import pandas as pd
