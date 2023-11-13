@@ -58,7 +58,7 @@ Your assignment will be assessed based on the quality of your EDA, the insights 
 If you have any questions or need clarification on any part of this assignment, please don't hesitate to reach out to your instructor for guidance. Good luck with your Exploratory Data Analysis using big data!
 
 ### 2. Team Collaboration
-🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1vLDgDAu2ai9rAOIKUfE1xUfTEvK2ikpXJ_1F-Xqtk_c/edit?pli=1#gid=834124190). Please update your group information:
+🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1vLDgDAu2ai9rAOIKUfE1xUfTEvK2ikpXJ_1F-Xqtk_c/edit?pli=1#gid=1134911084). Please update your group information:
 
 | No | Group  | Dataset | File |
 | -----: | ---- |  ----- |  :-----: |  
