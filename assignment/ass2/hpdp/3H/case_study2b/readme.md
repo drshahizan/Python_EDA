@@ -150,7 +150,7 @@ Association of the data
     <img src="sweetviz3.png" width=1500>
 </p>
 
-## Step 5: Pros And Cons Of Pandas Profiling
+## Step 5: Pros And Cons Of SweetViz
 
 **Pros of SweetViz:**
 1.   Easy to use : As with just a few lines of codes it cangenerate a comprehensive report
