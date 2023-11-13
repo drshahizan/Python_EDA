@@ -1,4 +1,4 @@
-
+![image](https://github.com/drshahizan/Python_EDA/assets/133087111/baa1a074-429d-478b-891c-6430890fea10)
 
 |    Name           |           Matric Number       |                      
 |-------------------|-------------------------------|
@@ -32,13 +32,13 @@ The analysis aims to extract meaningful insights from the dataset by employing v
 ## Downloading the Dataset
 
 ### Links of Dataset 
-https://open.dosm.gov.my/data-catalogue/pricecatcher_pricecatcher_2023-09_preview_0
+The dataset can be downloaded from https://drive.google.com/file/d/1-6jBhXqAKTa3_2SUxo5lnhLcaMYD4Wkv/view
+The dataset is also uploaded to Github. In this project, we will link the dataset from Github.
 
 
 ## Data Preparation and Cleaning
 
 Install SweetViz by running this code below
-
 
 ```
 pip install sweetviz
