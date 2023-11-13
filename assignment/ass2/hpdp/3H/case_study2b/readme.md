@@ -8,12 +8,18 @@
 |IZZAT HAQEEMI BIN HAIRUDIN |A21EC0033  |
 
 ---
-# Overview
-## Consumer Price Catcher 2023/1 - 2023/9
+
+#Case Study 2B: Exploratory Data Analysis using Automated EDA Tools (SweetViz)
+
+
+## Step 1: Selecting Automated EDA Tool
+SweetViz is a Python library in which exploratory data analysis (EDA) may be automated, speeding up and simplifying the process of producing insights and visualisations without requiring manual configuration. It offers a wide-ranging EDA report that helps analysts and data scientists analyse their datasets in great detail.
+
+## Step 2: Select a Malaysia dataset
+### Consumer Price Catcher 2023/1 - 2023/9
 
 **Malaysian Dataset:**
 The Department of Statistics Malaysia (openDOSM) provided the dataset for PriceCatcher, a mobile app created by the Ministry of Domestic Trade and Cost of Living (formerly KPDNHEP), covering the period from January 2022 to October 2023. This source guarantees the authenticity and dependability of the data. With an incredible record of over 2 million prices collected each month, this dataset consists of verified pricing data that is collected daily by the workers.
-
 
 ## Data Source
 This project is centred around exploring a dataset obtained from the Consumer Prices: PriceCatcher session at https://open.dosm.gov.my/data-catalogue. The dataset consists of three primary tables: an item lookup table, a premise lookup table, and pricing data spanning from January 2022 to October 2023. To begin, the goal is to focus on the dataset specifically from January 2023 to October 2023 for analysis.
@@ -31,8 +37,10 @@ The dataset can be downloaded from https://drive.google.com/file/d/1-6jBhXqAKTa3
 The dataset is also uploaded to Github. In this project, we will link the dataset from Github.
 
 
-## Data Preparation and Cleaning
-
+## Step 3: Perform data preparation & cleaning
+- Load the dataset into a data frame using Pandas
+- Explore the number of rows & columns, ranges of values etc.
+- Handle missing, incorrect and invalid data
 Install SweetViz by running this code below
 
 ```
@@ -86,7 +94,8 @@ df.shape
 ```
 
 ---
-## Implementation of SweetViz
+
+## Step 4: Implementation Of Automated EDA Tools
 First we assign a new variable to generate our SweetViz report
 ```
 report = sv.analyze(df)
@@ -119,7 +128,7 @@ Association of the data
     <img src="sweetviz3.png" width=1500>
 </p>
 
-## Pro and Cons Analysis
+## Step 5: Pros And Cons Of Pandas Profiling
 
 **Pros of SweetViz:**
 1.   Easy to use : As with just a few lines of codes it cangenerate a comprehensive report
@@ -135,10 +144,10 @@ Association of the data
 
 ---
 
-## Conclusion
+## Step 6: Conclusion <br>
 Conclude your case study by summarizing the key findings and insights from your analysis.
 Provide recommendations or insights on when each tool may be more suitable or preferable based on the specific needs of EDA projects.
 
-## References
+## Step 7: References <br>
 1.   https://www.analyticsvidhya.com/blog/2021/01/making-exploratory-data-analysis-sweeter-with-sweetviz-2-0/
 2.  https://analyticsindiamag.com/step-by-step-guide-to-data-analysis-using-sweetviz/
