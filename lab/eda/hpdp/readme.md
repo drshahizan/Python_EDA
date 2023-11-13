@@ -86,7 +86,7 @@
 | 16.   | MUHAMMAD IQMAL BIN SIS              |  [:octocat:](https://github.com/Miqmal) | <a href="https://colab.research.google.com/drive/1gjzUlAixeuC_VU5lcFwmVJgwFPEhiOBD?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://colab.research.google.com/drive/1xkwb5Hx-_wwsDlgvvlbkX_cUVeWYDktC?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
 | 17.   | MUHAMMAD HARITH HAKIM BIN OTHMAN             |  [:octocat:](https://github.com/harithothman) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 18.   | ALYA BALQISS BINTI AZAHAR             |  [:octocat:](https://github.com/aly4blqss) | <a href="https://colab.research.google.com/drive/1iMPZ539qax9ubI1TjxzVfj1tzMvqq9LZ?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://colab.research.google.com/drive/1B4uIpsQ0gobywtC9x6IXieVC6VT5Gkz9?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
-| 19.   | NIK AMIRUL ARIFF BIN AMRAN        |  [:octocat:](https://github.com/amirulamran) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
+| 19.   | NIK AMIRUL ARIFF BIN AMRAN        |  [:octocat:](https://github.com/NikAmirulAriff) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 
 
 Good luck with your lab exercise!
