@@ -13,6 +13,13 @@
 ## Step 1: Selecting Automated EDA Tool
 SweetViz is a Python library in which exploratory data analysis (EDA) may be automated, speeding up and simplifying the process of producing insights and visualisations without requiring manual configuration. It offers a wide-ranging EDA report that helps analysts and data scientists analyse their datasets in great detail.
 
+Install SweetViz by running this code below
+
+```
+pip install sweetviz
+```
+
+
 ## Step 2: Select a Malaysia dataset
 ### Consumer Price Catcher 2023/1 - 2023/9
 
@@ -39,11 +46,6 @@ The dataset is also uploaded to Github. In this project, we will link the datase
 - Load the dataset into a data frame using Pandas
 - Explore the number of rows & columns, ranges of values etc.
 - Handle missing, incorrect and invalid data
-Install SweetViz by running this code below
-
-```
-pip install sweetviz
-```
 
 Install pandas and sweetviz
 
