@@ -1489,7 +1489,7 @@ d
 
 
 
-![D-Tale1.png](attachment:D-Tale1.png)
+![D-Tale1.png](D-Tale1.png)
 
 The image above shows the D-Tale menu to perform analysis.
 
@@ -1497,24 +1497,24 @@ Next, go to "Describe" to see the details for every columns.
 
 Once you click on the "Describe", a new tab will open and shows the details for each column.
 
-![D-Tale2.png](attachment:D-Tale2.png)
+![D-Tale2.png](D-Tale2.png)
 
 Next, to generate statistics and visualization, go to "Charts". 
 
 Then, a new tab will appear and shows the menu of charts creation according to your preference.
 
-![D-Tale3.png](attachment:D-Tale3.png)
+![D-Tale3.png](D-Tale3.png)
 
 For example, we want to see line chart for sum of 'cases_new' over time by month. So, we need to choose date(Monthly) for our x-axis and cases_new for our y-axis and choose sum for our aggregation. Then, the charts will be generated automatically.
 
-![D-Tale4.png](attachment:D-Tale4.png)
+![D-Tale4.png](D-Tale4.png)
 
 Next, to see the correlations between all the columns, we can select "Correlation" in the menu. Once we click on the "Correlations", a new tab that counts the correlations will be generated automatically as shown in the image below.
 
-![D-Tale5.png](attachment:D-Tale5.png)
+![D-Tale5.png](D-Tale5.png)
 
 If we want to see the trend of the 'death_new' over time, we can go to "Time Series Analysis".
 
 Image below shows the generated graph of 'death_new' over time.
 
-![D-Tale6.png](attachment:D-Tale6.png)
+![D-Tale6.png](D-Tale6.png)
