@@ -68,18 +68,14 @@
 
 10. Save your Colab notebook by clicking on "File" and selecting "Save a copy in Drive." This will ensure that your work is saved.
 
-### Step 10: Enter Your Information and Lab Link
+### Step 10: Submission
+## Submission
 
-11. Provide your information in the following format:
-    - Full Name: [Your Full Name]
-    - Email Address: [Your Email Address]
-    - Lab Link: [Google Colab Notebook Link]
+| No.  | Name | Github |Lab 1 | 
+| ---: | ----------------------------------------- | :----------------------: | :----------------------: | 
+| 0.   | ADAM WAFII BIN AZUAR                      |  [:octocat:](https://github.com/Jokeryde) |<a href="https://www.credly.com/badges/4bc350fe-4dac-48eb-8ffa-123835bacef4/public_url"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
 
-### Step 11: Submit Your Information
-
-12. Send your full name, email address, and the Google Colab notebook link to your instructor or the designated submission platform.
-
-By following these steps, you can perform a feature engineering lab exercise using Google Colab and share your work while providing the required information for evaluation. This will help you demonstrate your practical knowledge of feature engineering techniques.
+By following these steps, you can perform a feature engineering lab exercise using Google Colab. This will help you demonstrate your practical knowledge of feature engineering techniques.
 
 Good luck with your lab exercise!
 
