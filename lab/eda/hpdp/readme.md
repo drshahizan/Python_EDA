@@ -84,6 +84,8 @@
 | 14.   | NADIA SYAFIQAH BINTI ZULKIPLI               |  [:octocat:](https://github.com/nadiamel) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
 | 15.   | MUHAMMAD HAZIM BIN SALMAN               |  [:octocat:](https://github.com/hazimSalman) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
 | 16.   | MUHAMMAD IQMAL BIN SIS              |  [:octocat:](https://github.com/Miqmal) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
+| 17.   | MUHAMMAD HARITH HAKIM BIN OTHMAN             |  [:octocat:](https://github.com/harithothman) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
+
 
 Good luck with your lab exercise!
 
