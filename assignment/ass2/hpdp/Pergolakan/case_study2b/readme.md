@@ -1518,3 +1518,19 @@ If we want to see the trend of the 'death_new' over time, we can go to "Time Ser
 Image below shows the generated graph of 'death_new' over time.
 
 ![D-Tale6.png](D-Tale6.png)
+
+| Pros | Cons |
+| --- | --- |
+| Easy to use and does not require any coding skills. You can simply select the data you want to analyze and choose from different graphs and plots. | May not be compatible with some older versions of pandas or Python. You may need to update your packages or use a virtual environment to run D-tale. |
+| Integrates well with ipython notebooks and python/ipython terminals, so you can run D-tale commands from within your code. | May not be able to handle very large or complex data sets efficiently. You may encounter performance issues or memory errors if you try to load too much data into D-tale. |
+| Supports various pandas objects, such as DataFrame, Series, MultiIndex, DatetimeIndex, and RangeIndex. | May not offer enough customization options for advanced users. You may not be able to modify the appearance or behavior of the graphs and plots in D-tale. |
+| Has a rich set of features, such as filtering, sorting, formatting, exporting, sharing, and more. | May not be able to display some types of data that are not supported by pandas, such as numpy arrays or custom objects. |
+
+
+
+## Conclusion
+
+D-Tale is a tool that allows us to create interactive dashboards and reports from our Malaysian COVID-19 dataset. D-Tale helps us to visualize the data in a clear and engaging way, highlighting the key trends, outliers, and correlations. It also enables us to customize the dashboard layout, add filters, and export the data for further analysis. However, D-Tale is not a substitute for other statistical methods, as it does not provide any in-depth explanation or interpretation of the data. Therefore, we should use D-Tale as a complement to our exploratory data analysis (EDA), rather than relying on it alone.
+
+D-Tale is a useful tool for EDA, as it offers simplicity and interactivity, but users should be aware of its limitations and consider using it in conjunction with other analytical techniques for a more comprehensive understanding of our Malaysian COVID-19 dataset.
+
