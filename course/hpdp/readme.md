@@ -58,7 +58,7 @@ By following these steps, your student can complete the Feature Engineering cour
 | 0.   | ADAM WAFII BIN AZUAR                      |  [:octocat:](https://github.com/Jokeryde) |<a href="https://www.credly.com/badges/4bc350fe-4dac-48eb-8ffa-123835bacef4/public_url"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
 | 1.   | ALIEYA ZAWANIE BINTI A ZAINI                     |  [:octocat:](https://github.com/Jokeryde) |<a href="https://www.credly.com/badges/4bc350fe-4dac-48eb-8ffa-123835bacef4/public_url"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
 | 2.   | KEE SHIN PEARL                     |  [:octocat:](https://github.com/Jokeryde) |<a href="https://www.credly.com/badges/4bc350fe-4dac-48eb-8ffa-123835bacef4/public_url"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
-| 3.   | NADIA SYAFIQAH BINTI ZULKIPLI                     |  [:octocat:](https://github.com/nadiamel) |<a href="https://www.credly.com/badges/4bc350fe-4dac-48eb-8ffa-123835bacef4/public_url"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
+| 3.   | NADIA SYAFIQAH BINTI ZULKIPLI                     |  [:octocat:](https://github.com/nadiamel) |<a href="https://github.com/drshahizan/Python_EDA/assets/87573002/53f6dafa-e512-4b6b-8ead-571c97ad3fcc"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
