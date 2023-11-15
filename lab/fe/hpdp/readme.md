@@ -72,6 +72,8 @@
 | 0.   | ADAM WAFII BIN AZUAR                      |  [:octocat:](https://github.com/Jokeryde) |<a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
 | 1.   | ALIEYA ZAWANIE BINTI A ZAINI               |  [:octocat:](https://github.com/Jokeryde) |<a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 2.   | ALIYA ZARENA BINTI ZAINULANUAR              |  [:octocat:](https://github.com/al1yaz) |<a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
+| 3.   | ALYA DAMIA BINTI HUZAIMY              |  [:octocat:](https://github.com/alydmia) |<a href="https://colab.research.google.com/drive/1s-0gr9Cuq7siuFD1xoCaqC2D8iF8jz4l?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://colab.research.google.com/drive/1SUYwOMTXqPmACX20cNPuNrgWG7CCpyKq?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
+
 
 By following these steps, you can perform a feature engineering lab exercise using Google Colab. This will help you demonstrate your practical knowledge of feature engineering techniques.
 
