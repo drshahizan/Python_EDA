@@ -62,6 +62,7 @@ By following these steps, your student can complete the Feature Engineering cour
 | 4.   | Siti Norafizah binti Ab Aziz                    |  [:octocat:](https://github.com/sitinorafizah) |<a href="https://github.com/sitinorafizah/project/blob/main/certificate/Siti%20Norafizah%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
 | 5.   | Lee Seow Ming Thereresa                  |  [:octocat:](https://github.com/Theresa20191/Theresa/blob/5a497fc2d53c119d65b3eadd7773b5621c952a19/README.md) |<a href="https://github.com/Theresa20191/Theresa/blob/bce6f864dcaa136dbbd6ef2041f1b356702f1000/Theresa%20Lee%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
 | 6.   | Nur Shahirah binti Jailani       |  [:octocat:](https://github.com/Shahirah00) |<a href="https://github.com/Shahirah00/Shahirah00/blob/main/Certificates/Nur%20Shahirah%20Jailani%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
+| 7.   | Thaneatharran A/L Santhasekaran       |  [:octocat:](https://github.com/Thaneatharran) |<a href="https://github.com/Thaneatharran/Thaneatharran/blob/main/Thaneatharran%20A_L%20Santharasekaran%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
