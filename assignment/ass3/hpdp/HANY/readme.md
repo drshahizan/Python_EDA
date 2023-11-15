@@ -21,7 +21,7 @@
 
 ### 📂 Folder content:
 * [📖 Assignment 3](./ass3.ipynb)
-* [📖 Case Study 2a](./report.md)
+* [📖 Report](./report.md)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
