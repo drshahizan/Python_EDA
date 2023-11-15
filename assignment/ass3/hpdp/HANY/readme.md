@@ -19,7 +19,9 @@
 | NADIA SYAFIQAH BINTI ZULKIPLI | A21EC0098 | 
 | ALYA BALQISS BINTI AZAHAR | A21EC0158 | 
 
-
+### 📂 Folder content:
+* [📖 Assignment 3](./ass3.ipynb)
+* [📖 Case Study 2a](./report.md)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
