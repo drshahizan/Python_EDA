@@ -68,7 +68,7 @@ If you have any questions or need clarification on any part of this assignment, 
 | 3. | DEADPOOL  | [Spotify 1 Million Tracks](https://www.kaggle.com/datasets/amitanshjoshi/spotify-1million-tracks/data) | <a href="https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass3/hpdp/DEADPOOL/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 | 4. | ZProMax  | [still finding]() | <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 | 5. | BERUK  | [still finding]() | <a href="./BERUK/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
-| 6. | ANGKASA  | [Job Description](https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset) | <a href="./BERUK/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
+| 6. | ANGKASA  | [Job Description](https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset) | <a href="./ANGKASA/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 | 7. | 3H  | [still finding]() | <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
 | 8. | SYNA  | [Age Dataset](https://www.kaggle.com/datasets/imoore/age-dataset)  | <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
 | 9. | ATG  | [still finding]()  | <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
