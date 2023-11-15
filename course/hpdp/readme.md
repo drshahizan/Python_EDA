@@ -66,7 +66,7 @@ By following these steps, your student can complete the Feature Engineering cour
 | 7.   | ABDUL MUHAIMIN BIN ABDUL RAZAK                  |  [:octocat:](https://github.com/Muhaimin005) |<a href ="https://github.com/drshahizan/Python_EDA/assets/94117041/ef648f85-ca18-43cf-be87-5b500c98142d"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 | 8.   | HAFIZULSHAH BIN SHAROM |  [:octocat:](https://github.com/Hafizulshah) |<a href ="https://github.com/drshahizan/Python_EDA/assets/146704678/63cff9c3-0d0e-4134-bf74-774a4e3ab585"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 | 9.   | MUHAMMAD HAZIM BIN SALMAN |  [:octocat:](https://github.com/hazimSalman) |<a href ="https://github.com/drshahizan/Python_EDA/assets/146742288/ee7bf731-6f9c-4eb8-81ce-5cea6d219c17"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
-| 10.   | NG ZI XING |  [:octocat:](https://github.com/ngzxing) |<a href ="https://drive.usercontent.google.com/download?id=1JKnyrVjrURGd7NiZi3L5KrhVg_YN09a5&export=download&authuser=0&confirm=t&uuid=3908e481-bbb0-4bf9-bba0-359f0dd69bf6&at=APZUnTVQVodouAviI3wFHfcOK_Fn:1700051724053" width="24px" height="24px"></a> |
+| 10.   | NG ZI XING |  [:octocat:](https://github.com/ngzxing) |<a href ="https://github.com/drshahizan/Python_EDA/assets/146742288/ee7bf731-6f9c-4eb8-81ce-5cea6d219c17"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
