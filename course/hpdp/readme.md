@@ -64,6 +64,7 @@ By following these steps, your student can complete the Feature Engineering cour
 | 6.   | MUHAMMAD ASHRAAF BIN SALEH                  |  [:octocat:](https://github.com/AshraafSaleh) |<a href ="https://github.com/drshahizan/Python_EDA/assets/146650043/c4200055-584e-4db1-8b73-a74925fcee02"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 | 6.   | MUHAMMAD NAQUIB BIN ZAKARIA                  |  [:octocat:](https://github.com/nqbzkr01) |<a href ="https://github.com/drshahizan/Python_EDA/assets/92329710/82913a11-79b5-4faa-a32c-cd69d3f832a9"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 | 7.   | ABDUL MUHAIMIN BIN ABDUL RAZAK                  |  [:octocat:](https://github.com/Muhaimin005) |<a href ="https://github.com/drshahizan/Python_EDA/assets/94117041/ef648f85-ca18-43cf-be87-5b500c98142d"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
+| 8.   | HAFIZULSHAH BIN SHAROM |  [:octocat:](https://github.com/Hafizulshah) |<a href ="https://github.com/drshahizan/Python_EDA/assets/146704678/63cff9c3-0d0e-4134-bf74-774a4e3ab585"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
