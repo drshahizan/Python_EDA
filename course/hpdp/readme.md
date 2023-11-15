@@ -62,6 +62,8 @@ By following these steps, your student can complete the Feature Engineering cour
 | 4.   | NURUNNAJWA BINTI ZULKIFLI                    |  [:octocat:](https://github.com/Nurunnajwa12) |<a href="https://github.com/Nurunnajwa12/Kaggle-Certificate/blob/main/README.md"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
 | 5.   | ALIYA ZARENA BINTI ZAINULANUAR                   |  [:octocat:](https://github.com/al1yaz) |<a href ="https://github.com/drshahizan/Python_EDA/assets/121778984/1bd874bb-bdd9-4757-812b-e426df2a6ea7"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 | 6.   | MUHAMMAD ASHRAAF BIN SALEH                  |  [:octocat:](https://github.com/AshraafSaleh) |<a href ="https://github.com/drshahizan/Python_EDA/assets/146650043/c4200055-584e-4db1-8b73-a74925fcee02"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
+| 6.   | MUHAMMAD NAQUIB BIN ZAKARIA                  |  [:octocat:](https://github.com/nqbzkr01) |<a href ="https://github.com/drshahizan/Python_EDA/assets/92329710/82913a11-79b5-4faa-a32c-cd69d3f832a9"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
