@@ -69,6 +69,7 @@ By following these steps, your student can complete the Feature Engineering cour
 | 10.   | NG ZI XING |  [:octocat:](https://github.com/ngzxing) |<a href ="https://github.com/drshahizan/Python_EDA/assets/92634733/87cde7e0-b72c-411c-af29-4eb6b879215e"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 | 11.   | ALYA DAMIA BINTI HUZAIMY |  [:octocat:](https://github.com/alydmia) |<a href ="https://github.com/drshahizan/Python_EDA/assets/146603392/24fafc57-7c96-4c89-9ee7-cbd678618904/"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 | 12.   | LING WAN YIN |  [:octocat:](https://github.com/WanYin0704) |<a href ="https://github.com/drshahizan/Python_EDA/assets/146581747/92e391e5-b447-4c08-814f-b22bffaa2f75/"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
+| 10.   | UMAR HAZIQ MUHAMAD NORHISHAM |  [:octocat:](https://github.com/umarhaziq) |<a href ="https://github.com/drshahizan/Python_EDA/assets/92634733/87cde7e0-b72c-411c-af29-4eb6b879215e"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 
 
 
