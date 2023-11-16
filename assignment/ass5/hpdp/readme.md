@@ -50,7 +50,7 @@ In this assignment, you will explore the fascinating world of automated feature 
 | 2. | DEADPOOL  |  <a href="./DEADPOOL/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 | 3. | ATG  |  <a href="./ATG/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 | 4. | ANGKASA  |  <a href="./ANGKASA/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
-| 5. | ANGKASA  |  <a href="./ByteNav/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
+| 5. | ByteNav  |  <a href="./ByteNav/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 
 
 
