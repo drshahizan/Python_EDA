@@ -7,7 +7,6 @@
 
 # Assigment 3: Exploratory Data Analysis (EDA) Using Big Data
 
-![alt text](pergolakan2.jpg?raw=true)
 
 ### Group Members
 
