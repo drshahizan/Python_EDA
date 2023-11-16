@@ -63,6 +63,7 @@ By following these steps, your student can complete the Feature Engineering cour
 | 5.   | Lee Seow Ming Thereresa                  |  [:octocat:](https://github.com/Theresa20191/Theresa/blob/5a497fc2d53c119d65b3eadd7773b5621c952a19/README.md) |<a href="https://github.com/Theresa20191/Theresa/blob/bce6f864dcaa136dbbd6ef2041f1b356702f1000/Theresa%20Lee%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
 | 6.   | Nur Shahirah binti Jailani       |  [:octocat:](https://github.com/Shahirah00) |<a href="https://github.com/Shahirah00/Shahirah00/blob/main/Certificates/Nur%20Shahirah%20Jailani%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
 | 7.   | Thaneatharran A/L Santhasekaran       |  [:octocat:](https://github.com/Thaneatharran) |<a href="https://github.com/Thaneatharran/Thaneatharran/blob/main/Thaneatharran%20A_L%20Santharasekaran%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
+| 8.   | Shivanesh A/L Sivakumar      |  [:octocat:](https://github.com/shivanesh31) |<a href="https://github.com/shivanesh31/Shivanesh/blob/a33f088fe545205b8c0b8ea618045488701e8e87/images/Shivanesh%20Sivakumar%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
