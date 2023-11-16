@@ -46,7 +46,7 @@ In this assignment, you will explore the fascinating world of automated feature 
 | No | Group |  File | Tool 1 | Tool 2 | 
 | -----: |  ------ | :-----: |  ----- |  ----- |  
 | 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
-| 1. | SYNA  |  <a href="https://www.kaggle.com/datasets/imoore/age-dataset" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
+| 1. | SYNA  |  <a href="https://www.kaggle.com/datasets/imoore/age-dataset" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | AutoFeat | Feature-engine |
 | 2. | DEADPOOL  |  <a href="./DEADPOOL/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 | 3. | ATG  |  <a href="./ATG/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 | 4. | ANGKASA  |  <a href="./ANGKASA/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
