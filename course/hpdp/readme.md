@@ -72,6 +72,7 @@ By following these steps, your student can complete the Feature Engineering cour
 | 14.   | UMAR HAZIQ MUHAMAD NORHISHAM |  [:octocat:](https://github.com/umarhaziq) |<a href ="https://github.com/drshahizan/Python_EDA/assets/92634733/87cde7e0-b72c-411c-af29-4eb6b879215e"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 | 15.   | LAU YEE CHI |  [:octocat:](https://github.com/faustinalyc) |<a href ="https://github.com/drshahizan/Python_EDA/assets/117002004/40a0e68d-99fc-424c-8527-26cbcdfc0cbd"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 | 16.   | MUHAMMAD ADAM FAHMI BIN MOHD TAUFIQ                     |  [:octocat:](https://github.com/adamochie) |<a href="https://www.credly.com/badges/4bc350fe-4dac-48eb-8ffa-123835bacef4/public_url"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
+| 17.   | MUHAMMAD FIKRI BIN SHARUNAZIM |  [:octocat:](https://github.com/fkrshrnzm) |<a href="https://www.kaggle.com/learn/certification/fkrshrnzm/feature-engineering"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 
 
 
