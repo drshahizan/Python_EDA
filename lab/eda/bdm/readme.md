@@ -71,6 +71,8 @@
 | 1.   | Thaneatharran A/L Santharasekaran         |  [:octocat:](https://github.com/Thaneatharran) |<a href="https://github.com/Thaneatharran/Thaneatharran/blob/main/Task/Lab%20Work/Lab_2A_Big_Data_EDA.ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://github.com/Thaneatharran/Thaneatharran/blob/main/Task/Lab%20Work/Lab_2B_Big_Data_EDA.ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
 | 2.   | Lee Seow Ming Theresa         |  [:octocat:](https://github.com/Theresa20191/Theresa) |<a href="https://github.com/Theresa20191/Theresa/blob/ddd2d57f33df981fc72ae30809c81a7321fbc97a/UTM/Lab%20Exercise/Lab_2A_Big_Data_EDA.ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://github.com/Theresa20191/Theresa/blob/65d8d1f9667aec856bd083abbedeae0e9254a1ae/UTM/Lab%20Exercise/Lab_2B_Big_Data_EDA.ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
 | 3.   | Mohammed Raza                      |  [:octocat:](https://github.com/DSRaza403) |<a href="https://github.com/DSRaza403/LAB-Tasks/tree/main/Lab%202"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://github.com/DSRaza403/LAB-Tasks/tree/main/Lab%202"><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
+
+
 Good luck with your lab exercise!
 
 
