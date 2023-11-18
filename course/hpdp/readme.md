@@ -74,6 +74,7 @@ By following these steps, your student can complete the Feature Engineering cour
 | 16.   | MUHAMMAD ADAM FAHMI BIN MOHD TAUFIQ                     |  [:octocat:](https://github.com/adamochie) |<a href="https://www.credly.com/badges/4bc350fe-4dac-48eb-8ffa-123835bacef4/public_url"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
 | 17.   | MUHAMMAD FIKRI BIN SHARUNAZIM |  [:octocat:](https://github.com/fkrshrnzm) |<a href="https://www.kaggle.com/learn/certification/fkrshrnzm/feature-engineering"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 | 18.   | NIK AMIRUL ARIFF BIN AMRAN |  [:octocat:](https://github.com/NikAmirulAriff) |<a href="https://www.kaggle.com/learn/certification/nikamirulariff/feature-engineering"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
+| 19.   | FAUZAN AQIL BIN AZMAN |  [:octocat:](https://github.com/FauzanAqil26) |<a href="https://www.kaggle.com/learn/certification/fauzanaqil26/feature-engineering"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 
 
 
