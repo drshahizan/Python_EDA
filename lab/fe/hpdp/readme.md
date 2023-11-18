@@ -20,6 +20,7 @@
 | 5. | Feature Engineering Techniques for Training Machine Learning Models | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1-H8ZfuemZAW_imWCVJPj_syfrZOnPAyT?usp=sharing) |
 | 6. | Feature Engineering: Preprocessing for Machine Learning in Python | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/github/goodboychan/chans_jupyter/blob/main/_notebooks/2020-07-09-04-Feature-Engineering.ipynb) |
 
+
 ## Instructions:
 
 ### Step 1: Access Google Colab
@@ -74,6 +75,7 @@
 | 2.   | ALIYA ZARENA BINTI ZAINULANUAR              |  [:octocat:](https://github.com/al1yaz) |<a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 3.   | ALYA DAMIA BINTI HUZAIMY              |  [:octocat:](https://github.com/alydmia) |<a href="https://colab.research.google.com/drive/1s-0gr9Cuq7siuFD1xoCaqC2D8iF8jz4l?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://colab.research.google.com/drive/1odQKTT_q2PAJVXGs_13U8BEGbl4gdefU?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 4.   | LAU YEE CHI               |  [:octocat:](https://github.com/faustinalyc) |<a href="https://colab.research.google.com/drive/1ljf58tVHwUTqdTm6PFGQA3Bw5TiCVyzN?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://colab.research.google.com/drive/1QBWD8Rx6B9k3xoLpM1s0nrHxAN9fwFiY?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
+| 5.   | NIK AMIRUL ARIFF BIN AMRAN               |  [:octocat:](https://github.com/NikAmirulAriff) |<a href="https://colab.research.google.com/drive/1XG4Fa9JfabXl8Tkk5lem49txHAxaAvTq?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://colab.research.google.com/drive/1QBWD8Rx6B9k3xoLpM1s0nrHxAN9fwFiY?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 
 By following these steps, you can perform a feature engineering lab exercise using Google Colab. This will help you demonstrate your practical knowledge of feature engineering techniques.
 
