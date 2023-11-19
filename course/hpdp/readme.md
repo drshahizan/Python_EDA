@@ -76,6 +76,7 @@ By following these steps, your student can complete the Feature Engineering cour
 | 18.   | NIK AMIRUL ARIFF BIN AMRAN |  [:octocat:](https://github.com/NikAmirulAriff) |<a href="https://www.kaggle.com/learn/certification/nikamirulariff/feature-engineering"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 | 19.   | FAUZAN AQIL BIN AZMAN |  [:octocat:](https://github.com/FauzanAqil26) |<a href="https://www.kaggle.com/learn/certification/fauzanaqil26/feature-engineering"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 | 19.   | MUHAMMAD HARITH HAKIM BIN OTHMAN |  [:octocat:](https://github.com/harithothman) |<a href="https://www.kaggle.com/learn/certification/harithothman/feature-engineering"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
+| 20.   | SOO WAN YING|  [:octocat:](https://github.com/soowanying) |<a href="https://www.kaggle.com/learn/certification/swyin1/feature-engineering"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 
 
 
