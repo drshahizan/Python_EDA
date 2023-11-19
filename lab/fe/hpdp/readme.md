@@ -78,6 +78,7 @@
 | 5.   | NIK AMIRUL ARIFF BIN AMRAN               |  [:octocat:](https://github.com/NikAmirulAriff) |<a href="https://colab.research.google.com/drive/1XG4Fa9JfabXl8Tkk5lem49txHAxaAvTq?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://colab.research.google.com/drive/1ho6hlIg580OhX0D4tejSMcJLglQytdvD?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 6.   | FAUZAN AQIL BIN AZMAN           |  [:octocat:](https://github.com/FauzanAqil26) |<a href="https://colab.research.google.com/drive/143aXjzUS_P0iQvibKX2n2AA6yQ26RvVy?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 7.   | MUHAMMAD FARHAN BIN IBRAHIM |  [:octocat:](https://github.com/farhanibrhim) |<a href="https://colab.research.google.com/drive/19ino_hZf8cP_lQ80Fbj3klz8r3ASIQIi?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
+| 8.   | NG SUANG JOO           |  [:octocat:](https://github.com/SuangJoo) |<a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 
 By following these steps, you can perform a feature engineering lab exercise using Google Colab. This will help you demonstrate your practical knowledge of feature engineering techniques.
 
