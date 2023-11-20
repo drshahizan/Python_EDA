@@ -12,10 +12,11 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | :-------------: |
-| LIEW YVONNE            |A21EC0045      | |
-| MUHAMMAD HARITH HAKIM BIN OTHMAN              | A21EC0205     ||
-|NADIA SYAFIQAH BINTI ZULKIPLI  | A21EC0098      | |
-|ALYA BALQISS BINTI AZAHAR   |  A21EC0158     | |
+| ALYA BALQISS BINTI AZAHAR   |  A21EC0158     | Assignment 4 |
+| MUHAMMAD HARITH HAKIM BIN OTHMAN              | A21EC0205     | Assignment 4|
+| LIEW YVONNE            |A21EC0045      | Assignment 3 |
+|NADIA SYAFIQAH BINTI ZULKIPLI  | A21EC0098      | Assignment 3 |
+
 
 
 ## Contribution 🛠️
