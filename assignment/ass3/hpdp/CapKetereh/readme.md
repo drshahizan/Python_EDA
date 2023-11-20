@@ -9,8 +9,16 @@
 
 # Assignment 3: Exploratory Data Analysis using Big Data
 
-## Your profile
+## Group CapKetereh
 
+### Group Members
+
+| Name                                     | Matrix Number | Task |
+| :---------------------------------------- | :-------------: | ------------- |
+| IKMAL BIN KHAIRULEZUAN | A21EC0186 |  Assignment 4
+| NUR KHUZAIRIE ZAKWAN BIN MOHD ZAMRI | A21EC0112 | Assignment 5
+| NUR SHUHADA SAFIAH BINTI AYOB | A21EC0114 | Assignment 3
+| WAN AMIRUL HAFIQ BIN WAN HUZAINI | A21EC0141 | Assignment 5
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
