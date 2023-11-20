@@ -51,7 +51,7 @@ In this assignment, you will explore the essential concept of feature engineerin
 | -----: |  ------ | :-----: |  ----- |  
 | 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 | 1. | Pergolakan  |  <a href="./PERgolakan/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
-| 2. | 3H  |  <a href="./3H/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
+| 2. | 3H  |  <a href="./3H/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Anime Dataset 2023](https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset?select=final_animedataset.csv)|
 | 3. | SYNA  |  <a href="https://www.kaggle.com/datasets/imoore/age-dataset" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 | 4. | DEADPOOL  |  <a href="./DEADPOOL/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
 | 5. | ATG  |   <a href="./ATG/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |[Airline Delay and Cancellation Data 2018](https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018?select=2018.csv)|
