@@ -82,6 +82,7 @@
 | 9.   | MUHAMMAD HARITH HAKIM BIN OTHMAN          |  [:octocat:](https://github.com/harithothman) |<a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 10.   | MUHAMMAD ADAM FAHMI BIN MOHD TAUFIQ          |  [:octocat:](https://github.com/adamochie) |<a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 11.   | MUHAMMAD FIKRI BIN SHARUNAZIM |  [:octocat:](https://github.com/adamochie) |<a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
+| 12.   | LOO ZHI YUAN |  [:octocat:](https://github.com/lzy0007) |<a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 
 By following these steps, you can perform a feature engineering lab exercise using Google Colab. This will help you demonstrate your practical knowledge of feature engineering techniques.
 
