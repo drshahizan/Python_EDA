@@ -50,7 +50,7 @@ In this assignment, you will explore the essential concept of feature engineerin
 | No | Group |  File | Dataset | 
 | -----: |  ------ | :-----: |  ----- |  
 | 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
-| 1. | PERgolakan  |  <a href="./PERgolakan/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
+| 1. | Pergolakan  |  <a href="./PERgolakan/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
 | 2. | 3H  |  <a href="./3H/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
 | 3. | SYNA  |  <a href="https://www.kaggle.com/datasets/imoore/age-dataset" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 | 4. | DEADPOOL  |  <a href="./DEADPOOL/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
