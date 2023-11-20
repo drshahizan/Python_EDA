@@ -82,6 +82,7 @@ By following these steps, your student can complete the Feature Engineering cour
 | 23.   | MUHAMMAD FARHAN BIN IBRAHIM|  [:octocat:](https://github.com/farhanibrhim) |<a href="https://www.kaggle.com/learn/certification/farhanibrhim/feature-engineering"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 | 24.   | NUR SHUHADA SAFIAH BINTI AYOB|  [:octocat:](https://github.com/ShuhadaSafiah) |<a href="https://github.com/ShuhadaSafiah/Certificate-Kaggle/blob/main/Nur%20Shuhada%20Safiah%20Binti%20Ayob%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 | 25.   | IZZAT HAQEEMI BIN HAIRUDIN|  [:octocat:](https://github.com/IzzatHaqeemi) |<a href=https://www.kaggle.com/learn/certification/izzatki/feature-engineering><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
+| 26.   | YEW RUI XIANG|  [:octocat:](https://github.com/yruixiang) |<a href=""><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
