@@ -5,17 +5,17 @@
 <a href="https://github.com/drshahizan/HPDP/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/HPDP?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FHPDP&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Assignment 4:  
+# Assignment 4: Feature Engineering 
 
 ### Group Name: SYNA
 ### Group Members
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| SARAH WARDINA BINTI RAFIDIN | A21EC0128 | Case Study 1  
-| NURUNNAJWA BINTI ZULKIFLI | A21EC0121 | Case Study 1
-| ALYA DAMIA BINTI HUZAIMY | A21EC0159 | Case Study 2
-| YASMEEN NATASHA BINTI HAFIZ SHAHREL | A21EC0147 | Case Study 2
+| SARAH WARDINA BINTI RAFIDIN | A21EC0128 | Feature Transformation, Visualization  
+| NURUNNAJWA BINTI ZULKIFLI | A21EC0121 | Feature Preprocessing, Conclusion
+| ALYA DAMIA BINTI HUZAIMY | A21EC0159 | Feature Selection, Conclusion
+| YASMEEN NATASHA BINTI HAFIZ SHAHREL | A21EC0147 | Feature Creation, Visualization
 
 ### 📂 Folder content:
 * [📖 Case Study 1](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/SYNA/casestudy1/SYNA_CASESTUDY1.ipynb)
