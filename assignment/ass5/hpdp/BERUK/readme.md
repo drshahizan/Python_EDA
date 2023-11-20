@@ -15,8 +15,8 @@
 | :---------------------------------------- | :-------------: | ------------- |
 | HAFIZULSHAH BIN SHAROM | A21EC0027 |Assignment 3| 
 | MUHAMMAD HASAN BIN CHE ABDULLAH | A21EC0077 |Assignment 4|
-| ABDUL MUHAIMIN BIN ABDUL RAZAK | A21EC0002 |Assignment 5|  
-| MUHAMMAD HAZIM BIN SALMAN | A21EC0078 |Assignment 5|
+| ABDUL MUHAIMIN BIN ABDUL RAZAK | A21EC0002 |Assignment 5 (TPOT)|  
+| MUHAMMAD HAZIM BIN SALMAN | A21EC0078 |Assignment 5 (Featuretools)|
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
