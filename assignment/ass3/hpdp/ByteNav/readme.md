@@ -12,10 +12,10 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| LOO ZHI YUAN            |A21EC0197      ||
-| SOO WAN YING              |A21EC0227      |     |
-| LAU YEE CHI              |A21EC0042      |    |
-| YEW RUI XIANG              |A21EC0149      |     |
+| LOO ZHI YUAN            |A21EC0197      |ASSIGNMENT 3|
+| SOO WAN YING              |A21EC0227      |ASSIGNMENT 5|
+| LAU YEE CHI              |A21EC0042      |ASSIGNMENT 4|
+| YEW RUI XIANG              |A21EC0149      |ASSIGNMENT 4|
 
 ### 📂 Folder content:
 * [💻 Case Study 1](./case_study1/cs1.ipynb)
