@@ -60,7 +60,7 @@ In this assignment, you will explore the essential concept of feature engineerin
 | 8. | ByteNav  | <a href="./ByteNav/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Mercedes-Benz Greener Manufacturing](https://www.kaggle.com/competitions/mercedes-benz-greener-manufacturing) |
 | 9. | HANY  | <a href="./HANY/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Mercedes-Benz Greener Manufacturing](https://www.kaggle.com/competitions/mercedes-benz-greener-manufacturing) |
 | 10. | BERUK  | <a href="./HANY/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Still Finding]() |
-
+| 11. | ZProMax  | <a href="./ZProMax/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Still Finding]() |
 
 
 ### 3. Academic Integrity
