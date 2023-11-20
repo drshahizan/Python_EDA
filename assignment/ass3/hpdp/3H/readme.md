@@ -15,7 +15,7 @@
 |ALIEYA ZAWANIE BINTI A ZAINI       | A21EC0156 |     |
 |NG ZI XING             |A21EC0213   |    |
 |MOHAMAD AZRI HADIF BIN MOHAMMAD RIZAL         |  A21EC0054  |     |
-|ZZAT HAQEEMI BIN HAIRUDIN         |  	A21EC0033   |      |
+|IZZAT HAQEEMI BIN HAIRUDIN         |  	A21EC0033   |      |
 
 ### 📂 Folder content:
 * [📖 Assignment 3](ass3.ipynb)
