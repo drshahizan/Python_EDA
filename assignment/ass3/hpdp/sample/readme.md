@@ -10,7 +10,15 @@
 # Assignment 3: Exploratory Data Analysis using Big Data
 
 ## Your profile
+### Group Name: SYNA
+### Group Members
 
+| Name                                     | Matrix Number | Task |
+| :---------------------------------------- | :-------------: | ------------- |
+| SARAH WARDINA BINTI RAFIDIN | A21EC0128 |   
+| NURUNNAJWA BINTI ZULKIFLI | A21EC0121 | 
+| ALYA DAMIA BINTI HUZAIMY | A21EC0159 | 
+| YASMEEN NATASHA BINTI HAFIZ SHAHREL | A21EC0147 | 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
