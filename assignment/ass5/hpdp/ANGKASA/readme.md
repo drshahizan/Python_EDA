@@ -15,10 +15,10 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | :-------: |
-| FAUZAN AQIL BIN AZMAN | A21EC0174 |  Assignment 3 |
-| NIK AMIRUL ARIFF BIN AMRAN | A21EC0214 | Assignment 4 |
-| MUHAMMAD ASHRAAF BIN SALEH | A21EC0068 | Assignment 5 |
-| MUHAMMAD NAQUIB BIN ZAKARIA | A20BE0161 | Assignment 5 |
+| FAUZAN AQIL BIN AZMAN | A21EC0174 |  Data Exploration  |
+| NIK AMIRUL ARIFF BIN AMRAN | A21EC0214 | Summarise statistic  |
+| MUHAMMAD ASHRAAF BIN SALEH | A21EC0068 |  Feature Engineering |
+| MUHAMMAD NAQUIB BIN ZAKARIA | A20BE0161 | Data Visualization  |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
