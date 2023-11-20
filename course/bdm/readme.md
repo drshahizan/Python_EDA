@@ -65,7 +65,7 @@ By following these steps, your student can complete the Feature Engineering cour
 | 7.   | Thaneatharran A/L Santhasekaran       |  [:octocat:](https://github.com/Thaneatharran) |<a href="https://github.com/Thaneatharran/Thaneatharran/blob/main/Thaneatharran%20A_L%20Santharasekaran%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
 | 8.   | Shivanesh A/L Sivakumar      |  [:octocat:](https://github.com/shivanesh31) |<a href="https://github.com/shivanesh31/Shivanesh/blob/a33f088fe545205b8c0b8ea618045488701e8e87/images/Shivanesh%20Sivakumar%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
 | 9.   | LWANGA AKSAM      |  [:octocat:](https://github.com/aksamlwanga) |<a href="https://raw.githubusercontent.com/aksamlwanga/portofoli/master/Aksam%20Lwanga%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
-| 10.   | Ranjeet A/L Thiagarajan      |  [:octocat:](https://github.com/RanjeetThiaga) |<a href="https://github.com/RanjeetThiaga/RanjeetThiaga/blob/main/Assignment/Ranjeet98%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
+| 10.   | Ranjeet A/L Thiagarajan      |  [:octocat:](https://github.com/RanjeetThiaga) |<a href="raw.githubusercontent.com/RanjeetThiaga/RanjeetThiaga/main/Assignment/Ranjeet98%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> | 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
