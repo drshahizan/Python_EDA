@@ -53,7 +53,7 @@ In this assignment, you will explore the fascinating world of automated feature 
 | 5. | ByteNav  |  <a href="./ByteNav/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 | 6. | 3H  |  <a href="https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | Featuretools | |
 | 7. | Pergolakan  |  <a href="" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |  | |
-| 8. | beruk  |  <a href="" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | TPOT | |
+| 8. | BERUK  |  <a href="" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | TPOT | Featuretools|
 | 9. | ZProMax  |  <a href="" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |  | |
 
 ### 3. Academic Integrity
