@@ -9,16 +9,17 @@
 🌟 Hit star button to save this repo in your profile
 
 # Assignment 3: Exploratory Data Analysis (EDA) Using Big Data
+## Dataset Link: https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset
 
 ### Group Name: ANGKASA
 ### Group Members
 
-| Name                                     | Matrix Number |
-| :---------------------------------------- | :-------------: |
-| FAUZAN AQIL BIN AZMAN | A21EC0174 |  
-| NIK AMIRUL ARIFF BIN AMRAN | A21EC0214 |
-| MUHAMMAD ASHRAAF BIN SALEH | A21EC0068 |
-| MUHAMMAD NAQUIB BIN ZAKARIA | A20BE0161 |
+| Name                                     | Matrix Number | Task |
+| :---------------------------------------- | :-------------: | :--------------: |
+| FAUZAN AQIL BIN AZMAN | A21EC0174 |  Summarise statistic 
+| NIK AMIRUL ARIFF BIN AMRAN | A21EC0214 | Data Visualization 
+| MUHAMMAD ASHRAAF BIN SALEH | A21EC0068 | Data Exploration 
+| MUHAMMAD NAQUIB BIN ZAKARIA | A20BE0161 | Feature Engineering 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
