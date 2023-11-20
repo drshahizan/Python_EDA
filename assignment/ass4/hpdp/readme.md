@@ -58,7 +58,7 @@ In this assignment, you will explore the essential concept of feature engineerin
 | 7. | ANGKASA  | <a href="./ANGKASA/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [USA Real Estate Dataset](https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset) |
 | 8. | ByteNav  | <a href="./ByteNav/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Mercedes-Benz Greener Manufacturing](https://www.kaggle.com/competitions/mercedes-benz-greener-manufacturing) |
 | 9. | HANY  | <a href="./HANY/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Climate Weather Surface of Brazil](https://www.kaggle.com/datasets/PROPPG-PPG/hourly-weather-surface-brazil-southeast-region) |
-| 10. | BERUK  | <a href="./BERUK/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Chess Games](https://www.kaggle.com/datasets/arevel/chess-games?select=chess_games.csv) |
+| 10. | BERUK  | <a href="./BERUK/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Flight Data]([https://www.kaggle.com/datasets/arevel/chess-games?select=chess_games.csv](https://www.kaggle.com/datasets/polartech/flight-data-with-1-million-or-more-records)) |
 
 
 
