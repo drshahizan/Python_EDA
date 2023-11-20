@@ -58,7 +58,7 @@ In this assignment, you will explore the essential concept of feature engineerin
 | 6. | DEADPOOL  | <a href="https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/hpdp/DEADPOOL/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [FAOSTAT_Production_Crops_Livestock](https://www.fao.org/faostat/en/#data/QCL) |
 | 7. | ANGKASA  | <a href="./ANGKASA/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
 | 8. | ByteNav  | <a href="./ByteNav/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Mercedes-Benz Greener Manufacturing](https://www.kaggle.com/competitions/mercedes-benz-greener-manufacturing) |
-| 9. | HANY  | <a href="./HANY/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Mercedes-Benz Greener Manufacturing](https://www.kaggle.com/competitions/mercedes-benz-greener-manufacturing) |
+| 9. | HANY  | <a href="./HANY/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [](https://www.kaggle.com/competitions/mercedes-benz-greener-manufacturing) |
 | 10. | BERUK  | <a href="./HANY/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Still Finding]() |
 
 
