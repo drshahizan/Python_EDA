@@ -44,7 +44,7 @@ In this assignment, you will explore the fascinating world of automated feature 
 🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1vLDgDAu2ai9rAOIKUfE1xUfTEvK2ikpXJ_1F-Xqtk_c/edit?pli=1#gid=2103764783). Please update your group information:
 
 | No | Group |  File | Tool 1 | Tool 2 | 
-| -----: |  ------ | :-----: |  ----- |  ----- |  
+| -----: |  ------ | :-----: |  :-----: |  :-----: |  
 | 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 | 1. | SYNA  |  <a href="https://www.kaggle.com/datasets/imoore/age-dataset" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | AutoFeat | Feature-engine |
 | 2. | DEADPOOL  |  <a href="./DEADPOOL/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
