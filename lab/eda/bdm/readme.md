@@ -76,6 +76,7 @@
 | 6.   | Nabila Husna binti Rosli        |  [:octocat:](https://github.com/rnabilahusna) |<a href="https://github.com/rnabilahusna/rnabilahusna/blob/main/BDM_assessment/EDA_Big_Data_Lab/EDA_Big_Data_Lab_2%28a%29_NabilaHusna.ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://github.com/rnabilahusna/rnabilahusna/blob/main/BDM_assessment/EDA_Big_Data_Lab/EDA_Big_Data_Lab_2%28b%29_NabilaHusna.ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 7.   | Nur Shahirah binti Jailani        |  [:octocat:](https://github.com/Shahirah00) |<a href="https://github.com/Shahirah00/Shahirah00/blob/main/Lab/Lab2A_kivadataset.ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://github.com/Shahirah00/Shahirah00/blob/main/Lab/Lab2B_7%2B_million_company.ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 8.   | Thong Yee Moon       |  [:octocat:](https://github.com/yeemoonthong) |<a href="https://colab.research.google.com/drive/1_iQeCQ6v8wadiT2StEXaPwCUVpBSwSBc?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://colab.research.google.com/drive/1iKlBX5uH9s-caMGDTIH4CDf06BQF5GYX?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
+
 Good luck with your lab exercise!
 
 
