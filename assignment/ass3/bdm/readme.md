@@ -64,6 +64,7 @@ If you have any questions or need clarification on any part of this assignment, 
 | -----: | ---- |  ----- |  :-----: |  
 | 0. | Sample  | [GTZAN: Music Genre Classification](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification) | <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 | 1. | RAM  | [Amazon reviews](https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews) | <a href="./RAM/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
+| 2. | Avengers  | [10+ M. Beatport Tracks / Spotify Audio Features](https://www.kaggle.com/datasets/mcfurland/10-m-beatport-tracks-spotify-audio-features/) | <a href="./Avengers/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
 
 ### 3. Academic Integrity
 🚫 Uphold the highest standards of academic integrity. Any candidate suspected of cheating in the assignment will face disciplinary action, which may include suspension or expulsion from the University. Moreover, any materials or devices found to be in violation of examination rules and regulations will be confiscated.
