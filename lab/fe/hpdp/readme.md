@@ -87,6 +87,8 @@
 | 14.   | KEE SHIN PEARL                 |  [:octocat:](https://github.com/Jokeryde) |<a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
 | 15.   | LING WAN YIN |  [:octocat:](https://github.com/WanYin0704) |<a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 16.   | MUHAMMAD IZZUDDIN BIN SHABRIN |  [:octocat:](https://github.com/WanYin0704) |<a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
+| 17.   | NURUNNAJWA BINTI ZULKIFLI |  [:octocat:](https://github.com/Nurunnajwa12) |<a href="https://colab.research.google.com/drive/1j83vmroLv390751gKO3yo7BBTRyTW0KV?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://colab.research.google.com/drive/1Ad7zuh2xnvprWDvpZUPgTgD9_CXIAOz1?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
+
 
 By following these steps, you can perform a feature engineering lab exercise using Google Colab. This will help you demonstrate your practical knowledge of feature engineering techniques.
 
