@@ -102,6 +102,7 @@
 | 32.   | NG SUANG JOO      |  [:octocat:](https://github.com/SuangJoo) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 33.   | FAUZAN AQIL BIN AZMAN    |  [:octocat:](https://github.com/FauzanAqil26) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 34.   | YEW RUI XIANG    |  [:octocat:](https://github.com/yruixiang) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
+| 35.   | NURUNNAJWA BINTI ZULKIFLI    |  [:octocat:](https://github.com/Nurunnajwa12) | <a href="https://colab.research.google.com/drive/12FHRYB_8pddz0NRi3M371M2LbvVtjRQH?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://colab.research.google.com/drive/1FgstuXGLRAH1wZHXBI4SFstqVknmAnp8?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 
 Good luck with your lab exercise!
 
