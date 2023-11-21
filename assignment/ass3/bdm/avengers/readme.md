@@ -1,8 +1,11 @@
 ## Exploratory Data Analysis of Spotify's Musical Landscape: August-September 2023
 ### Team Composition
-| BAKUNGA BRONSON | MCS232006
-| LWANGA AKSAM | MCS231016
-| Ismail Maeen Fateh Allah Yaqot Alawami | MCS221028
+| Name                             | Matric Number |
+|----------------------------------|---------------|
+| BAKUNGA BRONSON                  | MCS232006     |
+| LWANGA AKSAM                     | MCS231016     |
+| Ismail Maeen Fateh Allah Yaqot Alawami | MCS221028     |
+
 ### Introduction
 The project dives into Spotify's extensive song dataset to understand music preferences and characteristics. The goal was to identify patterns, trends, and insights within the musical offerings on Spotify, offering a glimpse into the digital interaction between listeners and music. The analysis aims to answer questions about key and mode prevalence, track valence and energy trends, release patterns, and attributes contributing to a track's 'vibe score'.
 
