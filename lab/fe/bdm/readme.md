@@ -20,6 +20,7 @@
 | 5. | Feature Engineering Techniques for Training Machine Learning Models | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1-H8ZfuemZAW_imWCVJPj_syfrZOnPAyT?usp=sharing) |
 | 6. | Feature Engineering: Preprocessing for Machine Learning in Python | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/github/goodboychan/chans_jupyter/blob/main/_notebooks/2020-07-09-04-Feature-Engineering.ipynb) |
 
+
 ## Instructions:
 
 ### Step 1: Access Google Colab
@@ -77,7 +78,7 @@
 | 5.   | Nur Shahirah binti Jailani           |  [:octocat:](https://github.com/Shahirah00) |<a href="https://github.com/Shahirah00/Shahirah00/blob/main/Lab/Lab3A_FeatureEngineeringPreprocessing.ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://github.com/Shahirah00/Shahirah00/blob/main/Lab/Lab3B_FeatureEngineeringTechniques.ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 6.   | Shivanesh A/L Sivakumar          |  [:octocat:](https://github.com/shivanesh31) |<a href="https://github.com/shivanesh31/Shivanesh/blob/240ef233967108408d5e0d1b20fa5d8f81810765/my_labs/titanic_advanced_feature_engineering_tutorial.ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://github.com/shivanesh31/Shivanesh/blob/240ef233967108408d5e0d1b20fa5d8f81810765/my_labs/Feature_Engineering_Techniques_for_ML.ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
 | 7.   | Thong Yee Moon          |  [:octocat:](https://github.com/yeemoonthong) |<a href="https://github.com/yeemoonthong/yeemoon/blob/a62a2f34b5f4f089e2e46cfc843dcd4d8c775f02/BDM_submission/Lab3a__feature_engineering_for_house_prices.ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://github.com/yeemoonthong/yeemoon/blob/0a81154361ad5daaf44a2b7624c1576b60f65ce4/BDM_submission/Lab3b__Feature_Engineering_Techniques.ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
-
+| 8.   | Lwanga Aksam        |  [:octocat:](https://github.com/aksamlwanga) |<a href="https://github.com/aksamlwanga/BDM/blob/main/EDA_Big_Data_Lab/EDA_Big_Data_Lab_3(a)_Lwanga_Aksam.ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://github.com/aksamlwanga/BDM/blob/main/EDA_Big_Data_Lab/EDA_Big_Data_Lab_2(b)_Lwanga_Aksam.ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 By following these steps, you can perform a feature engineering lab exercise using Google Colab. This will help you demonstrate your practical knowledge of feature engineering techniques.
 
 Good luck with your lab exercise!
