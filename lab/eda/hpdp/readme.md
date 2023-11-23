@@ -103,7 +103,7 @@
 | 33.   | FAUZAN AQIL BIN AZMAN    |  [:octocat:](https://github.com/FauzanAqil26) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 34.   | YEW RUI XIANG    |  [:octocat:](https://github.com/yruixiang) | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 35.   | NURUNNAJWA BINTI ZULKIFLI    |  [:octocat:](https://github.com/Nurunnajwa12) | <a href="https://colab.research.google.com/drive/12FHRYB_8pddz0NRi3M371M2LbvVtjRQH?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://colab.research.google.com/drive/1FgstuXGLRAH1wZHXBI4SFstqVknmAnp8?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
-| 36.   | MUHAMMAD AMIR JAMIL BIN JAMLUS    |  [:octocat:](https://github.com/AmirJamilJamlus) | <a href="https://colab.research.google.com/drive/1zqgHEj8hbSSav6U4Ne7h0OMewWKcSfNK#scrollTo=bfea3268"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
+| 36.   | MUHAMMAD AMIR JAMIL BIN JAMLUS    |  [:octocat:](https://github.com/AmirJamilJamlus) | <a href="https://colab.research.google.com/drive/1zqgHEj8hbSSav6U4Ne7h0OMewWKcSfNK#scrollTo=bfea3268"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://colab.research.google.com/drive/1hZeKm87p2xpzSwIbJEzX4svDD4CrbM5q#scrollTo=HkeFW0mcl83e"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 
 Good luck with your lab exercise!
 
