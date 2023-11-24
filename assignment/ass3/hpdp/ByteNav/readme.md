@@ -18,10 +18,9 @@
 | YEW RUI XIANG              |A21EC0149      |ASSIGNMENT 4|
 
 ### 📂 Folder content:
-* [💻 Case Study 1](./case_study1/cs1.ipynb)
-* [💻 Case Study 2a](./case_study2a/cs2a.ipynb)
-* [💻 Case Study 2b](./case_study2b/cs2b.ipynb)
-* [💻 Case Study 2c](./case_study2c/cs2c.ipynb)
+* [💻 Coding(.ipynb)](./ass3.ipynb)
+* [📚 Report](./report.md)
+* [📚 Readme](./readme.md)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/HPDP/issues) for any improvements, suggestions or errors in the content.
