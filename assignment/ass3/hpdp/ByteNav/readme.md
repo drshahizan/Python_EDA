@@ -8,7 +8,7 @@
 # Assignment 3: Exploratory Data Analysis (EDA) Using Big Data
 
 ### Group Name: BYTE NAVIGATORS
-### Group Members
+### Group Members:
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
