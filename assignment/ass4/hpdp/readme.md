@@ -60,7 +60,7 @@ In this assignment, you will explore the essential concept of feature engineerin
 | 9. | HANY  | <a href="./HANY/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Climate Weather Surface of Brazil](https://www.kaggle.com/datasets/PROPPG-PPG/hourly-weather-surface-brazil-southeast-region) |
 | 10. | BERUK  | <a href="./BERUK/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Flight Data](https://www.kaggle.com/datasets/polartech/flight-data-with-1-million-or-more-records) |
 | 11. | ZProMax  | <a href="./ZProMax/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [New York Bus Rides Service](https://www.kaggle.com/datasets/asimzahid/new-york-bus-rides-service?select=searches.csv) |
-| 12. | CapKetereh  | <a href="./CapKetereh/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | []() |
+| 12. | CapKetereh  | <a href="./CapKetereh/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Job Dataset](https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset) |
 
 
 ### 3. Academic Integrity
