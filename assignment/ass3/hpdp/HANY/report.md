@@ -596,6 +596,7 @@ The table above summarizes all of the statistics for the relevant numerical vari
 
 ### Data Visualization
 (A) Histogram
+
 This histogram shows the frequency of amount of precipitation, last hour in mm.
 ```
 plt.figure(figsize=(8, 6))
@@ -608,7 +609,8 @@ plt.show()
 
 <div align="center">
   
-![image](https://github.com/drshahizan/Python_EDA/assets/106257072/8d35d00a-a99f-4c47-b9b9-de94f69a3c91)
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/a785ed0b-c760-428c-92a6-10d695a09bb3)
+
 
 **Figure 23: Histogram of Amount of Precipitation**
 
@@ -627,9 +629,9 @@ plt.show()
 
 <div align="center">
   
-![image](https://github.com/drshahizan/Python_EDA/assets/106257072/8d35d00a-a99f-4c47-b9b9-de94f69a3c91)
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/da3306a3-c012-4f0b-acbd-4366825e46c4)
 
-**Figure 18: Output of Removing Duplicates**
+**Figure 24: Bar Graph of Stataes/Provinces**
 
 </div>
 
@@ -644,9 +646,9 @@ plt.show()
 
 <div align="center">
   
-![image](https://github.com/drshahizan/Python_EDA/assets/106257072/8d35d00a-a99f-4c47-b9b9-de94f69a3c91)
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/27ab7863-ebe4-4b77-988c-70787c1d54e4)
 
-**Figure 18: Output of Removing Duplicates**
+**Figure 25: Box Plot of Air Temperature**
 
 </div>
 
@@ -663,10 +665,10 @@ plt.show()
 ```
 
 <div align="center">
-  
-![image](https://github.com/drshahizan/Python_EDA/assets/106257072/8d35d00a-a99f-4c47-b9b9-de94f69a3c91)
 
-**Figure 18: Output of Removing Duplicates**
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/5efdd3bf-a2cc-4836-bf41-5163020f334c)
+
+**Figure 26: Scatter Plot of Air Temperature vs. Wind Speed**
 
 </div>
 
@@ -686,9 +688,9 @@ plt.show()
 
 <div align="center">
   
-![image](https://github.com/drshahizan/Python_EDA/assets/106257072/8d35d00a-a99f-4c47-b9b9-de94f69a3c91)
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/3eccdb15-bb44-4968-a71c-bd150348516b)
 
-**Figure 18: Output of Removing Duplicates**
+**Figure 27: Pie Chart of Station Name**
 
 </div>
 
