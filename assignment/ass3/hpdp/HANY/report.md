@@ -780,9 +780,19 @@ plt.show()
   
 ![image](https://github.com/drshahizan/Python_EDA/assets/106257072/e926169b-0b2d-492a-aeb4-6f6c6ffa7cb2)
 
-**Figure 31: Pair Plot of Dew point temperature (instant) (°C), Relative humidity (% instant), Atmospheric pressure at station level (mB)**
+**Figure 31: Pair Plot of Dew Point Temperature (instant) (°C), Relative Humidity (% instant), Atmospheric Pressure at station level (mB)**
 
 </div>
+
+From the pair plot above, we can conclude that: 
+
+• When Relative Humidity is above 50%, Dew Point Temperature will more than 15°C.
+
+• When Atmospheric Pressure is around 960 mB, Dew Point Temperature will more than 15°C and Relative Humidity is higher than 40%.
+
+• When Atmospheric Pressure is between 970 to 1000 mB, Relative Humidity is around 50%.
+
+• When Relative Humidity is 50%, Dew Point Temperature is not constant.
 
 ### Feature Engineering
 
