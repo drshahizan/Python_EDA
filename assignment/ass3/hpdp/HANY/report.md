@@ -108,6 +108,97 @@ drive.mount('/content/drive')
 ```
 !unzip /content/hourly-weather-surface-brazil-southeast-region.zip
 ```
+
+## Chunking
+This technique will split selected file into smaller pieces called chunks by using the chunking algorithm. If you are working with a huge amount of data, retrieving a large dataset all at once can consume a lot of RAM. Hence, by using the chunk method, we can process the data into smaller chunks which can be more memory efficient.
+
+• Run the following command:
+```
+chunk_size = 5000
+num = 1
+for chunk in pd.read_csv('central_west.csv', chunksize=chunk_size):
+  chunk.to_csv('chunk'+str(num)+'.csv', index=False)
+  gc.collect()
+  num+=1
+```
+
+• Read the chunk file and review its information.
+```
+df = pd.read_csv('chunk2.csv')
+df.head()
+```
+```
+df.info()
+```
+
+## Optimise memory of dataset.
+One of the most common problems with pandas is that it constantly loads float data as **float64**. By optimizing the memory, we could have reduced a part of the memory from our dataset. Here, we will converting float64 to **float16** or **float32** to minise memory usage.
+```
+for column in df.columns:
+  if df[column].dtype == 'float64':
+    df[column] = df[column].astype('float16')
+  if df[column].dtype == 'int64':
+    df[column] = df[column].astype('int16')
+```
+
+• To compare the memory usage, run the following code:
+```
+df.info()
+```
+
+• To calculate initial size of dataframe, run the following code:
+```
+%pylab inline
+```
+
+```
+start_size = getsizeof(df)/(1023.0**3)
+print('Dataframe size: %2.2f GB'%start_size)
+```
+
+
+Next, we will also convert:
+  a) Object columns to Category.
+```
+for column in df.columns:
+  if df[column].dtype == 'object':
+    df[column] = df[column].astype('category')
+```
+  b) Date and Time columns to datetime.
+```
+for column in df.columns:
+  if df[column].dtype == 'object':
+    df[column] = df[column].astype('datetime')
+```
+
+Since the Pandas stores Date and Time columns as datetime objects, which can take more memory due to their internal representation as timestaps, we will try to convert Date and Time columns to Category data type.
+
+  c) Date and Time columns to Category.
+```
+for column in df.columns:
+  if df[column].dtype == 'datetime':
+    df[column] = df[column].astype('category')
+```
+
+```
+df.dtypes
+```
+
+• To calculate total size of reduction, run the following code:
+
+```
+final_size = getsizeof(df)/(1024**3)
+print('Dataframe size: %2.2f GB'%final_size)
+```
+
+```
+print('Total size reduction: %2.1f'%((1-final_size/start_size)*100))
+```
+
+## Rename
+
+
+## 4. Data Preprocessing
 ## 5. Exploratory Data Analysis
 
 ## Contribution 🛠️
