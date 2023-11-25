@@ -47,7 +47,7 @@ In this assignment, you will explore the fascinating world of automated feature 
 | -----: |  ------ | :-----: |  ----- |  ----- |  
 | 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 | 1. | RAM  |  <a href="./RAM" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
-| 2. | AyamRendang  |  <a href="./RAM" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [H20.ai](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/bdm/Ayam%20Rendang/ass5AutoML.ipynb)|[PyCaret] (https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/bdm/Ayam%20Rendang/Ass5PyCaret.ipynb)
+| 2. | AyamRendang  |  <a href="./RAM" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [H20.ai](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/bdm/Ayam%20Rendang/ass5AutoML.ipynb)|[PyCaret](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/bdm/Ayam%20Rendang/ass5AutoML.ipynb)
 | 3. | Truth Archive  |  <a href="./RAM" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Featurewiz](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/bdm/Truth%20Archive/Assignment_5_Truth_Archive_featurewiz.ipynb)|[TPOT](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/bdm/Truth%20Archive/Assignment5_Truth_Archive_TPOT.ipynb)
 | 4. | KicapSambal  |  <a href="./RAM" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | []()|[TPOT](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/bdm/KicapSambal/TPOT.ipynb)
 
