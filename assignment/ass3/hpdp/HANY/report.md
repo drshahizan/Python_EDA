@@ -204,6 +204,74 @@ for filename in all_files:
 ```
 df.info()
 ```
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/20b0d39f-b890-4a9e-9736-e29df5b4eae7)
+**Figure 10:**
+```
+df.to_csv("central_west_1.csv")
+```
+```
+df = pd.read_csv('central_west_1.csv')
+df.head()
+```
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/2d58e607-5d05-4af3-94d0-70bae18c5975)
+**Figure 11:**
+
+### 3.4Rename columns name
+The used dataset are basically in Portuguese. We can see by displaying the column names in the dataframe below.
+```
+#df = pd.read_csv('central_west.csv')
+print(df.columns) #Display the current column names in dataframe
+```
+
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/f6216be2-6d83-491f-bc71-ac0c43182c22)
+**Figure 12: Column Names in Portuguese**
+
+Change all the column names to English.
+
+```
+column_mapping = {
+    'Data': 'Date',
+    'Hora': 'Time',
+    'PRECIPITAÇÃO TOTAL, HORÁRIO (mm)': 'Amount of precipitation, last hour (mm)',
+    'PRESSAO ATMOSFERICA AO NIVEL DA ESTACAO, HORARIA (mB)': 'Atmospheric pressure at station level (mB)',
+    'PRESSÃO ATMOSFERICA MAX.NA HORA ANT. (AUT) (mB)': 'Maximum air pressure for the last hour (mB)',
+    'PRESSÃO ATMOSFERICA MIN. NA HORA ANT. (AUT) (mB)': 'Minimum air pressure for the last hour (mB)',
+    'RADIACAO GLOBAL (Kj/m²)': 'Solar radiation (Kj/m²)',
+    'TEMPERATURA DO AR - BULBO SECO, HORARIA (°C)': 'Air temperature (instant) (°C)',
+    'TEMPERATURA DO PONTO DE ORVALHO (°C)': 'Dew point temperature (instant) (°C)',
+    'TEMPERATURA MÁXIMA NA HORA ANT. (AUT) (°C)': 'Maximum temperature for the last hour (°C)',
+    'TEMPERATURA MÍNIMA NA HORA ANT. (AUT) (°C)': 'Minimum temperature for the last hour (°C)',
+    'TEMPERATURA ORVALHO MAX. NA HORA ANT. (AUT) (°C)': 'Maximum dew point temperature for the last hour (°C)',
+    'TEMPERATURA ORVALHO MIN. NA HORA ANT. (AUT) (°C)': 'Minimum dew point temperature for the last hour (°C)',
+    'UMIDADE REL. MAX. NA HORA ANT. (AUT) (%)': 'Maximum relative humidity for the last hour (%)',
+    'UMIDADE REL. MIN. NA HORA ANT. (AUT) (%)': 'Minimum relative humidity for the last hour (%)',
+    'UMIDADE RELATIVA DO AR, HORARIA (%)': 'Relative humidity (% instant)',
+    'VENTO, DIREÇÃO HORARIA (gr) (° (gr))': 'Wind direction (radius degrees (0-360))',
+    'VENTO, RAJADA MAXIMA (m/s)': 'Wind gust (m/s)',
+    'VENTO, VELOCIDADE HORARIA (m/s)': 'Wind speed (m/s)',
+    'region': 'Brazilian geopolitical regions',
+    'state': 'State (Province)',
+    'station': 'Station Name (usually city location or nickname)',
+    'station_code': 'Station code (INMET number)',
+    'latitude': 'Latitude',
+    'longitude': 'Longitude',
+    'height': 'Elevation'
+}
+
+```
+```
+df.rename(columns=column_mapping, inplace=True)
+```
+```
+print(df.columns)
+```
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/10fe8ccc-c084-4adb-8996-79dcefb97b89)
+**Figure 13: Column Names Changed to English**
+
+As we can see, all of the columns have been renamed to English.
+
+### 3.5 Optimise data types
+
 • To calculate initial size of dataframe, run the following code:
 ```
 %pylab inline
@@ -214,8 +282,14 @@ start_size = getsizeof(df)/(1023.0**3)
 print('Dataframe size: %2.2f GB'%start_size)
 ```
 
+```
+df.dtypes
+```
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/0f8a8b3a-b86a-425f-be51-b749c70dc4b0)
+**Figure 14: Original Data Types of All Column**
 
 Next, we will also convert:
+
   a) Object columns to Category.
 ```
 for column in df.columns:
