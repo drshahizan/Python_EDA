@@ -48,7 +48,7 @@ import seaborn as sns
 ### Load the Dataset
 Here are the methods for directly accessing datasets from Kaggle:
 
-1. Login to your [kaggle.com](www.kaggle.com) account.
+1. Login to your ([www.kaggle.com](https://www.kaggle.com/) account.
 2. On the top right of the page, you can see your profile. Click on the profile, you will then see an option to view **Your Profile**, **Settings** and **Sign Out**.
 3. Click on the **Settings** button, which is indicated by a gear icon.
 <div align="center">
