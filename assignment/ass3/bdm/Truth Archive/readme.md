@@ -1,7 +1,7 @@
 # Assignment 3: Big Data EDA
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/github/drshahizan/Python_EDA/blob/main/assignment/ass3/bdm/Truth%20Archive/ass3.ipynb)
 </br>
-Open in GitHub: <a href=" https://github.com/drshahizan/Python_EDA/blob/0d18332ff234ae9ec1b9e07fef9c327d6f49d767/assignment/ass3/bdm/Truth%20Archive/ass3.ipynb " ><img src="../../../../images/answer.png" width="24px" height="24px" ></a> 
+Open in GitHub: <a href="https://github.com/drshahizan/Python_EDA/blob/0d18332ff234ae9ec1b9e07fef9c327d6f49d767/assignment/ass3/bdm/Truth%20Archive/ass3.ipynb" ><img src="../../../../images/answer.png" width="24px" height="24px" ></a> 
 ## Group members:
 | No | Name |  MatricNo | 
 | -----: |  ------ | :-----: | 
