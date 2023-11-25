@@ -209,7 +209,7 @@ df.info()
   
 ![image](https://github.com/drshahizan/Python_EDA/assets/106257072/20b0d39f-b890-4a9e-9736-e29df5b4eae7)
 
-**Figure 10:**
+**Figure 10: Information of Dataframe**
 
 </div>
 
@@ -225,7 +225,7 @@ df.head()
   
 ![image](https://github.com/drshahizan/Python_EDA/assets/106257072/2d58e607-5d05-4af3-94d0-70bae18c5975)
 
-**Figure 11:**
+**Figure 11: First 5 Data in Dataframe**
 
 </div>
 
