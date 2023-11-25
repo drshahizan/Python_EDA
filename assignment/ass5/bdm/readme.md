@@ -49,6 +49,7 @@ In this assignment, you will explore the fascinating world of automated feature 
 | 1. | RAM  |  <a href="./RAM" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 | 2. | AyamRendang  |  <a href="./RAM" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 | 3. | Truth Archive  |  <a href="./RAM" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Featurewiz](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/bdm/Truth%20Archive/Assignment_5_Truth_Archive_featurewiz.ipynb)|[TPOT](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/bdm/Truth%20Archive/Assignment5_Truth_Archive_TPOT.ipynb)
+| 4. | KicapSambal  |  <a href="./RAM" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | []()|[TPOT](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/bdm/KicapSambal/TPOT.ipynb)
 
 ### 3. Academic Integrity
 🚫 Uphold the highest standards of academic integrity. Any candidate suspected of cheating in the assignment will face disciplinary action, which may include suspension or expulsion from the University. Moreover, any materials or devices found to be in violation of examination rules and regulations will be confiscated.
