@@ -456,6 +456,7 @@ def drop_duplicates(df):
     else:
         print(f"{count} duplicate rows were found and removed.")
 ```
+• Search for duplicate rows and drop them
 ```
 drop_duplicates(df)
 ```
@@ -491,9 +492,9 @@ df.size
 ```
 <div align="center">
   
-![image](https://github.com/drshahizan/Python_EDA/assets/106257072/8d35d00a-a99f-4c47-b9b9-de94f69a3c91)
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/a7913473-557e-4013-b3f6-bc582ecf6744)
 
-**Figure 18: Output of Removing Duplicates**
+**Figure 19: Size in the Dataframe**
 
 </div>
 
@@ -502,12 +503,13 @@ df.size
 df.shape
 ```
 <div align="center">
-  
-![image](https://github.com/drshahizan/Python_EDA/assets/106257072/8d35d00a-a99f-4c47-b9b9-de94f69a3c91)
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/28fff749-a0a9-44b8-9142-2e1cff3d6034)
 
-**Figure 18: Output of Removing Duplicates**
+**Figure 20: Number of rows and columns**
 
 </div>
+
+### Dataframe Overview
 
 • To view the dataframe overview:
 ```
@@ -563,11 +565,14 @@ df_overview.getOverview()
 
 <div align="center">
   
-![image](https://github.com/drshahizan/Python_EDA/assets/106257072/8d35d00a-a99f-4c47-b9b9-de94f69a3c91)
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/fecdf6ae-41db-4983-96cd-fb4fb66137f4)
 
-**Figure 18: Output of Removing Duplicates**
+
+**Figure 21: Overview of Dataframe**
 
 </div>
+
+Here we can see detailed informations of the columns including the amount missing and unique values.
 
 ### Summary Statistics
 We only use numerical columns to compute basic statistics since it is easier to do mathematical operations and calculations on this type of data.
@@ -581,14 +586,17 @@ statistics
 
 <div align="center">
   
-![image](https://github.com/drshahizan/Python_EDA/assets/106257072/8d35d00a-a99f-4c47-b9b9-de94f69a3c91)
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/c1ebbc3e-0a1c-42da-9cc2-490f3c54c828)
 
-**Figure 18: Output of Removing Duplicates**
+**Figure 22: Summary Statistic of Dataframe**
 
 </div>
 
+The table above summarizes all of the statistics for the relevant numerical variables, such as mean, median, standard deviation, and quantiles.
+
 ### Data Visualization
 (A) Histogram
+This histogram shows the frequency of amount of precipitation, last hour in mm.
 ```
 plt.figure(figsize=(8, 6))
 sns.histplot(df['Amount of precipitation, last hour (mm)'], kde=True)
@@ -602,7 +610,7 @@ plt.show()
   
 ![image](https://github.com/drshahizan/Python_EDA/assets/106257072/8d35d00a-a99f-4c47-b9b9-de94f69a3c91)
 
-**Figure 18: Output of Removing Duplicates**
+**Figure 23: Histogram of Amount of Precipitation**
 
 </div>
 
