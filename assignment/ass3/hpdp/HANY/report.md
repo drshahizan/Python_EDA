@@ -702,6 +702,13 @@ sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', fmt=".2f")
 plt.title('Correlation Heatmap')
 plt.show()
 ```
+<div align="center">
+  
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/e37419eb-de6a-46cf-85f4-ada4b17d6dd4)
+
+**Figure 28: Correlation Heatmap**
+
+</div>
 
 ```
 df.hist(bins=20, figsize=(30, 20))
@@ -711,23 +718,27 @@ plt.show()
 
 <div align="center">
   
-![image](https://github.com/drshahizan/Python_EDA/assets/106257072/8d35d00a-a99f-4c47-b9b9-de94f69a3c91)
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/612e3bb5-c42a-492f-b6bb-2486549f3ecc)
 
-**Figure 18: Output of Removing Duplicates**
+**Figure 29: Histograms of Numerical Variables 1**
+
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/91f20587-cc7a-4527-b601-164201bf44ec)
+
+**Figure 30: Histograms of Numerical Variables 2**
 
 </div>
 
 ```
 sns.pairplot(df[['Dew point temperature (instant) (°C)', 'Relative humidity (% instant)', 'Atmospheric pressure at station level (mB)']])
-plt.suptitle('Pair Plot of Selected Variables')
+plt.suptitle('Pair Plot of Dew point temperature (instant) (°C)', 'Relative humidity (% instant)', 'Atmospheric pressure at station level (mB)s')
 plt.show()
 ```
 
 <div align="center">
   
-![image](https://github.com/drshahizan/Python_EDA/assets/106257072/8d35d00a-a99f-4c47-b9b9-de94f69a3c91)
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/e926169b-0b2d-492a-aeb4-6f6c6ffa7cb2)
 
-**Figure 18: Output of Removing Duplicates**
+**Figure 31: Pair Plot of Dew point temperature (instant) (°C), Relative humidity (% instant), Atmospheric pressure at station level (mB)**
 
 </div>
 
