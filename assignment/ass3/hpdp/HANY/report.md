@@ -730,6 +730,8 @@ plt.show()
 
 </div>
 
+From the correlation heatmap above, we can conclude that: 
+
 • Atmospheric Pressure at Station Level(mB) has a negative correlation with Relative humidity with the value of -0.78.
 
 • Atmospheric Pressure at Station Level(mB) also has a negative correlation with Dew Point Temperature with the value of -0.73.
@@ -754,6 +756,19 @@ plt.show()
 **Figure 30: Histograms of Numerical Variables 2**
 
 </div>
+
+From the histograms above, we can conclude that: 
+
+• Atmospheric Pressure at Station Level(mB) has the highest frequency between 980 to 1000.
+
+• Air Temperature and Maximum Temperature for the Last Hour occurs more offen above 20°C.
+
+• Relative humidity has the highest count at 50.
+
+• Wind Gust lands below 10 and Wind Speed lands below 6.
+
+
+#### Pair Plot of Selected Columns
 
 ```
 sns.pairplot(df[['Dew point temperature (instant) (°C)', 'Relative humidity (% instant)', 'Atmospheric pressure at station level (mB)']])
