@@ -246,6 +246,7 @@ print(df.columns) #Display the current column names in dataframe
 
 Change all the column names to English.
 
+• To change all column names to English:
 ```
 column_mapping = {
     'Data': 'Date',
@@ -280,6 +281,8 @@ column_mapping = {
 ```
 df.rename(columns=column_mapping, inplace=True)
 ```
+• When you run this command, you can see that all of the column already changed.
+
 ```
 print(df.columns)
 ```
@@ -362,6 +365,7 @@ for col in object_cols:
         df[col] = df[col].astype('category')
 ```
   d) Date and Time columns to datetime.
+  
   Since the Pandas stores Date and Time columns as datetime objects, which can take more memory due to their internal representation as timestaps, we will try to convert Date and Time columns to Category data type.
   
 ```
@@ -371,6 +375,12 @@ df['Time'] = pd.to_datetime(df['Time'], format='%H:%M').dt.time
 
 When we try to convert date and time to datetime format, Pandas stores them as datetime objects, which can take more memory due to their internal representation as timestamps. Datetime objects store both date and time information with higher precision, resulting in larger memory usage compared to categorical data.
 
+
+• To calculate total size of reduction, run the following code:
+```
+final_size = getsizeof(df)/(1024**3)
+print('Dataframe size: %2.2f GB'%final_size)
+```
 ```
 print('Total size reduction: %2.1f'%((1-final_size/start_size)*100))
 ```
@@ -399,64 +409,9 @@ df.dtypes #Check the optimized data types after conversion
 
 </div>
 
-• To calculate total size of reduction, run the following code:
-
-```
-final_size = getsizeof(df)/(1024**3)
-print('Dataframe size: %2.2f GB'%final_size)
-```
-
-```
-print('Total size reduction: %2.1f'%((1-final_size/start_size)*100))
-```
 
 
 ## 4. Data Preprocessing
-### Rename Columns Name
-The used dataset are basically in Portuguese. We can see by displaying the column names in the dataframe below.
-```
-print(df.columns)
-```
-
-• To change all column names to English:
-```
-column_mapping = {
-    'Data': 'Date',
-    'Hora': 'Time',
-    'PRECIPITAÇÃO TOTAL, HORÁRIO (mm)': 'Amount of precipitation, last hour (mm)',
-    'PRESSAO ATMOSFERICA AO NIVEL DA ESTACAO, HORARIA (mB)': 'Atmospheric pressure at station level (mB)',
-    'PRESSÃO ATMOSFERICA MAX.NA HORA ANT. (AUT) (mB)': 'Maximum air pressure for the last hour (mB)',
-    'PRESSÃO ATMOSFERICA MIN. NA HORA ANT. (AUT) (mB)': 'Minimum air pressure for the last hour (mB)',
-    'RADIACAO GLOBAL (Kj/m²)': 'Solar radiation (Kj/m²)',
-    'TEMPERATURA DO AR - BULBO SECO, HORARIA (°C)': 'Air temperature (instant) (°C)',
-    'TEMPERATURA DO PONTO DE ORVALHO (°C)': 'Dew point temperature (instant) (°C)',
-    'TEMPERATURA MÁXIMA NA HORA ANT. (AUT) (°C)': 'Maximum temperature for the last hour (°C)',
-    'TEMPERATURA MÍNIMA NA HORA ANT. (AUT) (°C)': 'Minimum temperature for the last hour (°C)',
-    'TEMPERATURA ORVALHO MAX. NA HORA ANT. (AUT) (°C)': 'Maximum dew point temperature for the last hour (°C)',
-    'TEMPERATURA ORVALHO MIN. NA HORA ANT. (AUT) (°C)': 'Minimum dew point temperature for the last hour (°C)',
-    'UMIDADE REL. MAX. NA HORA ANT. (AUT) (%)': 'Maximum relative humidity for the last hour (%)',
-    'UMIDADE REL. MIN. NA HORA ANT. (AUT) (%)': 'Minimum relative humidity for the last hour (%)',
-    'UMIDADE RELATIVA DO AR, HORARIA (%)': 'Relative humidity (% instant)',
-    'VENTO, DIREÇÃO HORARIA (gr) (° (gr))': 'Wind direction (radius degrees (0-360))',
-    'VENTO, RAJADA MAXIMA (m/s)': 'Wind gust (m/s)',
-    'VENTO, VELOCIDADE HORARIA (m/s)': 'Wind speed (m/s)',
-    'region': 'Brazilian geopolitical regions',
-    'state': 'State (Province)',
-    'station': 'Station Name (usually city location or nickname)',
-    'station_code': 'Station code (INMET number)',
-    'latitude': 'Latitude',
-    'longitude': 'Longitude',
-    'height': 'Elevation'
-}
-```
-```
-df.rename(columns=column_mapping, inplace=True)
-```
-• When you run this command, you can see that all of the column already changed.
-```
-print(df.columns)
-```
-
 ### Missing Values
 Check for the missing values by using this command:
 ```
@@ -478,6 +433,15 @@ def percent_missing_values(df):
 ```
 percent_missing_values(df)
 ```
+<div align="center">
+
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/e8e08778-7d8c-4d54-922d-52333a46efcc)
+
+**Figure 17: Percentage of Missing Values**
+
+</div>
+
+Since the dataset did not contain any missing values, we can proceed with the next steps.
 
 ### Removing Duplicates
 This command will be functioning to find any duplicates row and removed them.
@@ -495,6 +459,15 @@ def drop_duplicates(df):
 ```
 drop_duplicates(df)
 ```
+<div align="center">
+  
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/8d35d00a-a99f-4c47-b9b9-de94f69a3c91)
+
+**Figure 18: Output of Removing Duplicates**
+
+</div>
+
+After removing duplicates, there are no more duplicate rows found.
 
 ### Replace Extreme Values
 Due to the presence of negative values in certain rows, we intend to substitute those specific values with zero.
@@ -509,16 +482,32 @@ for column in columns_to_replace:
 ```
 
 ## 5. Exploratory Data Analysis
+In this section, we will use big data tools to complete the following EDA tasks.
+
 ### General Statistics
 • To calculate number of elements in the dataframe:
 ```
 df.size
 ```
+<div align="center">
+  
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/8d35d00a-a99f-4c47-b9b9-de94f69a3c91)
+
+**Figure 18: Output of Removing Duplicates**
+
+</div>
 
 • To count number of rows and columns:
 ```
 df.shape
 ```
+<div align="center">
+  
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/8d35d00a-a99f-4c47-b9b9-de94f69a3c91)
+
+**Figure 18: Output of Removing Duplicates**
+
+</div>
 
 • To view the dataframe overview:
 ```
@@ -572,6 +561,14 @@ df_overview = DfOverview(df)
 df_overview.getOverview()
 ```
 
+<div align="center">
+  
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/8d35d00a-a99f-4c47-b9b9-de94f69a3c91)
+
+**Figure 18: Output of Removing Duplicates**
+
+</div>
+
 ### Summary Statistics
 We only use numerical columns to compute basic statistics since it is easier to do mathematical operations and calculations on this type of data.
 
@@ -581,6 +578,14 @@ numerical_columns = df.select_dtypes(include='number').columns
 statistics = df[numerical_columns].describe()
 statistics
 ```
+
+<div align="center">
+  
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/8d35d00a-a99f-4c47-b9b9-de94f69a3c91)
+
+**Figure 18: Output of Removing Duplicates**
+
+</div>
 
 ### Data Visualization
 (A) Histogram
@@ -593,6 +598,14 @@ plt.ylabel('Frequency')
 plt.show()
 ```
 
+<div align="center">
+  
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/8d35d00a-a99f-4c47-b9b9-de94f69a3c91)
+
+**Figure 18: Output of Removing Duplicates**
+
+</div>
+
 (B) Bar Graph
 ```
 plt.figure(figsize=(10, 6))
@@ -604,6 +617,14 @@ plt.xticks(rotation=45)
 plt.show()
 ```
 
+<div align="center">
+  
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/8d35d00a-a99f-4c47-b9b9-de94f69a3c91)
+
+**Figure 18: Output of Removing Duplicates**
+
+</div>
+
 (C) Box Plot
 ```
 plt.figure(figsize=(8, 6))
@@ -612,6 +633,14 @@ plt.title('Box Plot of Air Temperature')
 plt.ylabel('Temperature (°C)')
 plt.show()
 ```
+
+<div align="center">
+  
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/8d35d00a-a99f-4c47-b9b9-de94f69a3c91)
+
+**Figure 18: Output of Removing Duplicates**
+
+</div>
 
 (D) Scatter Plot
 ```
@@ -624,6 +653,14 @@ plt.ylabel('Wind speed (m/s)')
 
 plt.show()
 ```
+
+<div align="center">
+  
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/8d35d00a-a99f-4c47-b9b9-de94f69a3c91)
+
+**Figure 18: Output of Removing Duplicates**
+
+</div>
 
 (E) Pie Chart
 ```
@@ -638,6 +675,14 @@ plt.title('Pie Chart of Station Name')
 
 plt.show()
 ```
+
+<div align="center">
+  
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/8d35d00a-a99f-4c47-b9b9-de94f69a3c91)
+
+**Figure 18: Output of Removing Duplicates**
+
+</div>
 
 ### Data Exploration
 ```
@@ -654,11 +699,27 @@ plt.suptitle('Histograms of Numerical Variables')
 plt.show()
 ```
 
+<div align="center">
+  
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/8d35d00a-a99f-4c47-b9b9-de94f69a3c91)
+
+**Figure 18: Output of Removing Duplicates**
+
+</div>
+
 ```
 sns.pairplot(df[['Dew point temperature (instant) (°C)', 'Relative humidity (% instant)', 'Atmospheric pressure at station level (mB)']])
 plt.suptitle('Pair Plot of Selected Variables')
 plt.show()
 ```
+
+<div align="center">
+  
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/8d35d00a-a99f-4c47-b9b9-de94f69a3c91)
+
+**Figure 18: Output of Removing Duplicates**
+
+</div>
 
 ### Feature Engineering
 
@@ -678,6 +739,14 @@ df['Temperature Category'] = pd.cut(df['Air temperature (instant) (°C)'], bins=
 ```
 df.head()
 ```
+
+<div align="center">
+  
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/8d35d00a-a99f-4c47-b9b9-de94f69a3c91)
+
+**Figure 18: Output of Removing Duplicates**
+
+</div>
 
 
 ## Contribution 🛠️
