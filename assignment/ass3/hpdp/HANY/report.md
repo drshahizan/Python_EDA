@@ -503,7 +503,24 @@ plt.suptitle('Pair Plot of Selected Variables')
 plt.show()
 ```
 
+### Feature Engineering
 
+#### Binnning or Discretization
+
+Convert continuous variables into categorical or ordinal variables by binning them into intervals. For instance, temperature ranges (e.g., cold, moderate, hot) or precipitation levels (e.g., low, moderate, high).
+```
+# Define temperature ranges
+bins = [0, 10, 20, 30, 40]  # Define temperature ranges (e.g., cold, mild, warm, hot)
+labels = ['Cold', 'Mild', 'Warm', 'Hot']  # Labels for the temperature ranges
+
+# Create a new categorical column 'Temperature Category'
+df['Temperature Category'] = pd.cut(df['Air temperature (instant) (°C)'], bins=bins, labels=labels)
+
+```
+
+```
+df.head()
+```
 
 
 ## Contribution 🛠️
