@@ -56,7 +56,7 @@ In this assignment, you will explore the fascinating world of automated feature 
 | 8. | BERUK  |  <a href="https://github.com/drshahizan/Python_EDA/blob/5d1e6181b2882f6b4e3ddb72da577df9e3cc5738/assignment/ass5/hpdp/BERUK/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | TPOT | Featuretools|
 | 9. | ZProMax  |  <a href="./ZProMax/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |TPOT  |Featuretools |
 | 10. | HANY  |  <a href="./HANY/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | Featuretools | |
-| 11. | CapKetereh  |  <a href="./CapKetereh/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |  | |
+| 11. | CapKetereh  |  <a href="./CapKetereh/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | Featuretools  | |
 
 ### 3. Academic Integrity
 🚫 Uphold the highest standards of academic integrity. Any candidate suspected of cheating in the assignment will face disciplinary action, which may include suspension or expulsion from the University. Moreover, any materials or devices found to be in violation of examination rules and regulations will be confiscated.
