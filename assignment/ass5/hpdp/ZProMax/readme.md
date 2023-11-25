@@ -10,5 +10,5 @@
 
 
 ### 📂 Folder content:
-* [📖 Assignment 5](ass5.ipynb)
-* [📖 Report](report.md)
+* [📖 Tool 1: Autofeat](ass5.ipynb)
+* [📖 Tool 2: FeatureTools](report.md)
