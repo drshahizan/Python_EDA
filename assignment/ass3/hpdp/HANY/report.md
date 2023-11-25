@@ -204,8 +204,13 @@ for filename in all_files:
 ```
 df.info()
 ```
+<div align="center">
+  
 ![image](https://github.com/drshahizan/Python_EDA/assets/106257072/20b0d39f-b890-4a9e-9736-e29df5b4eae7)
 **Figure 10:**
+
+</div>
+
 ```
 df.to_csv("central_west_1.csv")
 ```
@@ -213,8 +218,13 @@ df.to_csv("central_west_1.csv")
 df = pd.read_csv('central_west_1.csv')
 df.head()
 ```
+
+<div align="center">
+  
 ![image](https://github.com/drshahizan/Python_EDA/assets/106257072/2d58e607-5d05-4af3-94d0-70bae18c5975)
 **Figure 11:**
+
+</div>
 
 ### 3.4Rename columns name
 The used dataset are basically in Portuguese. We can see by displaying the column names in the dataframe below.
@@ -223,8 +233,12 @@ The used dataset are basically in Portuguese. We can see by displaying the colum
 print(df.columns) #Display the current column names in dataframe
 ```
 
+<div align="center">
+
 ![image](https://github.com/drshahizan/Python_EDA/assets/106257072/f6216be2-6d83-491f-bc71-ac0c43182c22)
 **Figure 12: Column Names in Portuguese**
+
+</div>
 
 Change all the column names to English.
 
@@ -265,8 +279,13 @@ df.rename(columns=column_mapping, inplace=True)
 ```
 print(df.columns)
 ```
+
+<div align="center">
+  
 ![image](https://github.com/drshahizan/Python_EDA/assets/106257072/10fe8ccc-c084-4adb-8996-79dcefb97b89)
 **Figure 13: Column Names Changed to English**
+
+</div>
 
 As we can see, all of the columns have been renamed to English.
 
@@ -285,8 +304,13 @@ print('Dataframe size: %2.2f GB'%start_size)
 ```
 df.dtypes
 ```
+<div align="center">
+
 ![image](https://github.com/drshahizan/Python_EDA/assets/106257072/0f8a8b3a-b86a-425f-be51-b749c70dc4b0)
+
 **Figure 14: Original Data Types of All Column**
+
+</div>
 
 Next, we will also convert:
 
