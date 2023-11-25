@@ -27,7 +27,7 @@
 5. [Exploratory Data Analysis](#Analysis)
 6. [Documentation](#Documentation)
 
-## 1. Dataset Selection<a name="Selection"></a>
+## 1. Dataset Selection <a name="Selection"></a>
 <p>The dataset that we chose from kaggle is about emerging mobile money transaction domain where PaySim simulates mobile money transactions based on a sample of real transactions extracted from one month of financial logs from a mobile money service implemented in an African country. The original logs were provided by a multinational company, who is the provider of the mobile financial service which is currently running in more than 14 countries all around the world.</p>
 
 <p>Download The Dataset <a href="https://www.kaggle.com/datasets/ealaxi/paysim1/data">Here</a></p>
@@ -88,10 +88,10 @@
 
 ![Screenshot 2023-11-26 011922](https://github.com/drshahizan/Python_EDA/assets/142320760/98264671-4d21-43fc-ae84-9e5d89516e30)
 
-## 2. Dataset Acquisition<a name="Acquisition"></a>
+## 2. Dataset Acquisition <a name="Acquisition"></a>
 <p>The dataset named "PS_20174392719_1491204439457_log.csv" is in CSV file format which stands for "Comma-Separated Values." It is a simple and widely used text file format for storing tabular data. In a CSV file, each line of the file represents a row of the table, and the values in each row are separated by commas (or another delimiter, such as a semicolon).</p>
 
-## 3. Setting Up the Environment<a name="Environment"></a>
+## 3. Setting Up the Environment <a name="Environment"></a>
 **a) Importing & Install the necessary tools and libraries**.<br>
 The libraries used in this assignment are Dask DataFrame, NumPy, Pandas, and the combination of Matplotlib and Seaborn suggests a well-rounded approach to data analysis. Dask and Pandas cater to different scales of data, while NumPy provides efficient numerical operations. Matplotlib and Seaborn enhance your ability to communicate insights visually, making your analysis more comprehensive and accessible.
 
@@ -122,7 +122,7 @@ In the provided code, a function named reduce_mem_usage_ddf is defined to optimi
 
 We can see that the memory usage for the dataset decrease as much as 25.4%
 
-## 4. Data Preprocessing<a name="Preprocessing"></a>
+## 4. Data Preprocessing <a name="Preprocessing"></a>
 **a) Chunking Data Into Smaller Parts.**<br>
 Dask is used to process a potentially large dataset efficiently by reading it in chunks rather than loading the entire dataset into memory at once. The script first prints the current working directory and specifies the path to a CSV file. It checks if the file exists and, if so, defines a chunk size of 100,000 rows. The process_chunk function is designed to calculate type totals, min-max values for the 'amount' variable, and print the first few rows for each chunk. The script then employs Dask's capabilities, reading the CSV file in chunks using dd.read_csv and applying the process_chunk function to each partition with map_partitions. This chunking approach is beneficial for working with datasets that may exceed the available memory, allowing for parallelized and memory-efficient processing of the data.
 
@@ -134,7 +134,7 @@ Dask is used to process a potentially large dataset efficiently by reading it in
 **c) Dropping Duplicate Columns.**<br>
 <br>![Screenshot 2023-11-26 015819](https://github.com/drshahizan/Python_EDA/assets/142320760/3c3fe2da-0f5f-4278-8717-e7c793592023)<br>
 
-## 5. Exploratory Data Analysis<a name="Analysis"></a>
+## 5. Exploratory Data Analysis <a name="Analysis"></a>
 **a) Summary Statistics: Compute basic statistics such as mean, median, standard deviation, and quantiles for relevant numerical variables.**
 
 <br>![Screenshot 2023-11-26 020421](https://github.com/drshahizan/Python_EDA/assets/142320760/895ba550-82e7-4da1-b81d-48311f82e778)<br>
@@ -163,7 +163,7 @@ Then, we can proceed in doing Feature Generation , Further MI analysis and so on
 
 <br>![Screenshot 2023-11-26 022246](https://github.com/drshahizan/Python_EDA/assets/142320760/24a2b2d7-3620-44d8-9d29-248563963536)<br>
 
-## 6. Documentation<a name="Documentation"></a>
+## 6. Documentation <a name="Documentation"></a>
 ## Conclusion
 
 ### Transaction Types:
