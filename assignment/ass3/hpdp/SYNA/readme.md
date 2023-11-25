@@ -14,10 +14,12 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| SARAH WARDINA BINTI RAFIDIN | A21EC0128 |   
-| NURUNNAJWA BINTI ZULKIFLI | A21EC0121 | 
-| ALYA DAMIA BINTI HUZAIMY | A21EC0159 | 
-| YASMEEN NATASHA BINTI HAFIZ SHAHREL | A21EC0147 | 
+| SARAH WARDINA BINTI RAFIDIN | A21EC0128 |   Summary statistics
+| NURUNNAJWA BINTI ZULKIFLI | A21EC0121 | Cleaning and Prepping Data, Feature Engineering 
+| ALYA DAMIA BINTI HUZAIMY | A21EC0159 | Data visualization
+| YASMEEN NATASHA BINTI HAFIZ SHAHREL | A21EC0147 | Data Exploration
+
+Assignment 3 : 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
