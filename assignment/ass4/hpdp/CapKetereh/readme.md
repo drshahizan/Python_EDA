@@ -21,7 +21,7 @@
 | NUR SHUHADA SAFIAH BINTI AYOB | A21EC0114 | Feature Transformation, Feature Creation
 | WAN AMIRUL HAFIQ BIN WAN HUZAINI | A21EC0141 | Visualization, Conclusion
 
-[Click this link](http://www.example.com) to view our case study
+[Click this link](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/hpdp/CapKetereh/Assingment4_Capketereh.ipynb) to view our case study
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
