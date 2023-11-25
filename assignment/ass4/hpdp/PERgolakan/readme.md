@@ -11,10 +11,10 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| Muhammad Adam Fahmi Bin Mohd Taufiq           |   A21EC0061   |     |
-|Muhammad Farhan Bin Ibrahim             | A21EC0072     |    |
-|Muhammad Fikri Bin Sharunazim              |  A21EC0075    |     |
-|Mikhail Bin Yaasin            |  A21EC0053    |      |
+| Muhammad Adam Fahmi Bin Mohd Taufiq           |   A21EC0061   |   Feature Selection  |
+|Muhammad Farhan Bin Ibrahim             | A21EC0072     |  Documentation  |
+|Muhammad Fikri Bin Sharunazim              |  A21EC0075    |   Data Cleaning  |
+|Mikhail Bin Yaasin            |  A21EC0053    |   Documentation   |
 
 ### 📂 Folder content:
 * [📖 Assignment 4](ass4.ipynb)
