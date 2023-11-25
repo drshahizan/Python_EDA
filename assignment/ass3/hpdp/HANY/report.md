@@ -182,6 +182,7 @@ df.info()
 </div>
 From the above Figure 9, we can know that the memory usage has been reduced to 439.6+ KB from 1.0+ MB. But this is only for one chunk file.
 
+<br><br>
 Now we are going to contact all chunk files and optimize the memory as well.
 ```
 path = 'central_west.csv'
