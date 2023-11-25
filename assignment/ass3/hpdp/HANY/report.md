@@ -503,6 +503,7 @@ df.size
 df.shape
 ```
 <div align="center">
+  
 ![image](https://github.com/drshahizan/Python_EDA/assets/106257072/28fff749-a0a9-44b8-9142-2e1cff3d6034)
 
 **Figure 20: Number of rows and columns**
