@@ -10,6 +10,18 @@
 
 # Assignment 4: Feature Engineering
 
+## Group CapKetereh
+
+### Group Members
+
+| Name                                     | Matrix Number | Task |
+| :---------------------------------------- | :-------------: | ------------- |
+| NUR KHUZAIRIE ZAKWAN BIN MOHD ZAMRI | A21EC0112 |  Dataset Selection, Loading the Dataset
+| IKMAL BIN KHAIRULEZUAN | A21EC0186 |  Exploratory Data Analysis (EDA), Feature Selection, Feature Preprocessing
+| NUR SHUHADA SAFIAH BINTI AYOB | A21EC0114 | Feature Transformation, Feature Creation
+| WAN AMIRUL HAFIQ BIN WAN HUZAINI | A21EC0141 | Visualization, Conclusion
+
+[Click this link](http://www.example.com) to view our case study
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
