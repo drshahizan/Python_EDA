@@ -11,12 +11,12 @@
 ### Group Members
 
 
-| Name                                     | Matrix Number | Feature Engineering Tool |
-| :---------------------------------------- | :-------------: | :-------------: |
-|Muhammad Iqmal bin Sis | A21EC0080     | FINDING
-|Sam Chia Yun   |A21EC0127 | FINDING
-|Aliya Zarena binti Zainulanuar | A21EC0013 | FINDING
-|Ang Yi Qin  | A21EC0163  | FINDING
+| Name                                     | Matrix Number | Feature Engineering Tool 1 |  Feature Engineering Tool 2 |
+| :---------------------------------------- | :-------------: | :-------------: |  :-------------: | 
+|Sam Chia Yun   |A21EC0127 | Featuretools | AutoFeat
+|Muhammad Iqmal bin Sis | A21EC0080     | Featuretools | AutoFeat
+|Aliya Zarena binti Zainulanuar | A21EC0013 | Featuretools | AutoFeat
+|Ang Yi Qin  | A21EC0163  | Featuretools | AutoFeat
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/HPDP/issues) for any improvements, suggestions or errors in the content.
 
