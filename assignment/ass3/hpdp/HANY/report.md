@@ -597,7 +597,7 @@ The table above summarizes all of the statistics for the relevant numerical vari
 ### Data Visualization
 (A) Histogram
 
-This histogram shows the frequency of amount of precipitation, last hour in mm.
+This histogram shows the frequency of Amount of Precipitation, last hour in mm.
 ```
 plt.figure(figsize=(8, 6))
 sns.histplot(df['Amount of precipitation, last hour (mm)'], kde=True)
@@ -611,12 +611,16 @@ plt.show()
   
 ![image](https://github.com/drshahizan/Python_EDA/assets/106257072/a785ed0b-c760-428c-92a6-10d695a09bb3)
 
-
 **Figure 23: Histogram of Amount of Precipitation**
 
 </div>
 
+From Figure 23, the amount of precipitation land mostly between 0-5.
+
 (B) Bar Graph
+
+This bar graph shows the frequency of occurence of States/Provinces.
+
 ```
 plt.figure(figsize=(10, 6))
 sns.countplot(x='State (Province)', data=df)
@@ -631,11 +635,15 @@ plt.show()
   
 ![image](https://github.com/drshahizan/Python_EDA/assets/106257072/da3306a3-c012-4f0b-acbd-4366825e46c4)
 
-**Figure 24: Bar Graph of Stataes/Provinces**
+**Figure 24: Bar Graph of States/Provinces**
 
 </div>
 
+From Figure 24, there are 2 states/provinces. Frequency of MS is higher than MT.
+
 (C) Box Plot
+
+This box plot shows how the Air Temperature is distributed in °C.
 ```
 plt.figure(figsize=(8, 6))
 sns.boxplot(y='Air temperature (instant) (°C)', data=df)
@@ -652,7 +660,11 @@ plt.show()
 
 </div>
 
+We can determine median, quartile 1, quartile3 and outliers from Figure 25.
+
 (D) Scatter Plot
+
+This scatter plot shows the relationship between Air Temperature and Wind Speed.
 ```
 plt.figure(figsize=(10, 6))
 sns.scatterplot(x='Air temperature (instant) (°C)', y='Wind speed (m/s)', data=df, alpha=0.5)
@@ -672,7 +684,11 @@ plt.show()
 
 </div>
 
+From Figure 26, the Air Temperature occurs more frequently above 20°C while Wind Speed occurs more frequently below 4.
+
 (E) Pie Chart
+
+This pie chart shows the percentages of Station Name of a whole.
 ```
 column_for_pie = 'Station Name (usually city location or nickname)'
 
@@ -694,7 +710,11 @@ plt.show()
 
 </div>
 
+From Figure 27, there are 2 station in this dataframe. Bela Vista has 80.7% while Nova Ubirata has 19.3%.
+
 ### Data Exploration
+
+#### Correlation Heatmap
 ```
 correlation_matrix = df.corr()
 plt.figure(figsize=(12, 10))
@@ -710,6 +730,13 @@ plt.show()
 
 </div>
 
+• Atmospheric Pressure at Station Level(mB) has a negative correlation with Relative humidity with the value of -0.78.
+
+• Atmospheric Pressure at Station Level(mB) also has a negative correlation with Dew Point Temperature with the value of -0.73.
+
+• Dew Point Temperature has a positive correlation with Relative humidity with the value of 0.92.
+
+#### Histograms of Numerical Variables
 ```
 df.hist(bins=20, figsize=(30, 20))
 plt.suptitle('Histograms of Numerical Variables')
@@ -757,17 +784,6 @@ df['Temperature Category'] = pd.cut(df['Air temperature (instant) (°C)'], bins=
 
 ```
 
-```
-df.head()
-```
-
-<div align="center">
-  
-![image](https://github.com/drshahizan/Python_EDA/assets/106257072/8d35d00a-a99f-4c47-b9b9-de94f69a3c91)
-
-**Figure 18: Output of Removing Duplicates**
-
-</div>
 
 
 ## Contribution 🛠️
