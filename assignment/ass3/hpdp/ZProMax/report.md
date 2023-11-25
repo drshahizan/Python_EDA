@@ -98,7 +98,7 @@ Before performing the data preprocessing tasks, it is crucial to get an overview
 
 ![image](https://github.com/drshahizan/Python_EDA/assets/146581747/75537867-bc7c-478d-b05c-f4d4dbd221a7)
 
-Then proceed to the data preprocessing tasks. The following are the **data preprocessing tasks** that have been carried out:
+Then, proceed to the data preprocessing tasks. The following are the **data preprocessing tasks** that have been carried out:
 #### a) Handling missing value <a name = "missing_value"></a>
 
 ![image](https://github.com/drshahizan/Python_EDA/assets/146581747/21f97ac6-8344-43c9-ae0b-8f8337c6bd8c)
@@ -107,7 +107,7 @@ It is observed that there are missing values in the columns `median_pickup_walk_
 
 ![image](https://github.com/drshahizan/Python_EDA/assets/146581747/3a03e566-21f4-457d-bcfe-c824a4c57a4a)
 
-Whereas, handle the rows of `median_pickup_walk_time` & `median_dropoff_walk_time` having **'True'** (`is_result`) by imputing with the median value.
+Whereas, handle the rows of `median_pickup_walk_time`, `median_dropoff_walk_time`& `median_bus_travel_time` having **'True'** (`is_result`) by imputing with the median value.
 
 ![image](https://github.com/drshahizan/Python_EDA/assets/146581747/879dfdaa-43e8-4c1f-820c-786c686e529a)
 
@@ -143,14 +143,10 @@ After all the data preprocessing tasks, the data should be ready for analysis.
 
 ## 5. Exploratory Data Analysis <a name = "eda"></a>
 ### Summary Statistics <a name = "summary"></a>
-![image](https://github.com/drshahizan/Python_EDA/assets/146581747/7ac3d566-f5e3-4ad8-b4cb-0053e7418a94)
-
-### Data Visualization & Data Exploration  <a name = "data_vis"></a>
-
-##### Summary Statistics
-
 ![image](https://github.com/drshahizan/Python_EDA/assets/146581747/0a2801bc-f7b8-4fd4-a3ec-f06cb3db6ee6)
 > The table above displays an overall summary of the statistics of the numeric attributes in the dataset.
+> 
+### Data Visualization & Data Exploration  <a name = "data_vis"></a>
 
 ##### Univariate analysis  <a name = "uni_var"></a>
   - user_id
