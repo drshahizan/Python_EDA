@@ -120,8 +120,8 @@ After that, generate an overview of the data to determine whether there exists m
 ![image](https://github.com/drshahizan/Python_EDA/assets/146581747/ef3a876a-923c-4008-b447-89e413a8dfca)
 
 #### b) Data standardization <a name = "data_standard"></a>
-From the table above, the results (unique_value_count) of the `user_device_os` is weird, it should be the value of 2 instead. So, from the investigations carried in the [Google Colab](),
-it is obeserved that values are **'android'**, **'ios'**, **'iOS'**. 
+From the table above, the result (unique_value_count) of the `user_device_os` is weird, it should be the value of 2 instead. So, from the investigations carried out in the [Google Colab](ass3.ipynb),
+it is observed that the values are **'android'**, **'ios'** and **'iOS'**. 
 
 ![image](https://github.com/drshahizan/Python_EDA/assets/146581747/3f4bb318-44d9-4a90-9db0-39fb34ad219f)
 
@@ -302,7 +302,7 @@ The darker the cell colour, the higher the correlation between the numeric varia
   ![image](https://github.com/drshahizan/Python_EDA/assets/146581747/7fb4951c-d695-4c2f-83c6-7a795a57831e)
   <br>
     #### **Insights:**
-    > Certain locations may have efficient bus routes, leading to shorter total walk times and vice versa. This could indicate that not every area has similar variations in the efficiency of bus routes.
+    > Certain locations may have efficient bus routes, leading to shorter total walk times and vice versa. This could indicate that not every area has similar variations in terms of the efficiency of bus routes.
 <br>
 
 - search_id & is_high_demand <br> <br>
@@ -311,7 +311,7 @@ The darker the cell colour, the higher the correlation between the numeric varia
 ![image](https://github.com/drshahizan/Python_EDA/assets/146581747/9c44724a-37be-48a2-a16b-6b2175c83349)
 
     #### **Insights:**
-    > Based on the line plot, the search frequency is said to be influenced by the high demand frequency. More searches lead to a higher demand frequency, resulting in no available seats.
+    > Based on the line plot, the search frequency is slightly related to the high demand frequency. More searches lead to a higher demand frequency, resulting in no available seats.
  <br>
     
 ## 6. Conclusion <a name = "conclusion"></a>
@@ -322,13 +322,13 @@ The darker the cell colour, the higher the correlation between the numeric varia
 
 - **November** is a month when a **lot of people in New York take buses**, as the histogram's high counts show. This could be due to various factors, including the season, the weather, events, and holidays. There are also certain days or situations where demand is reduced, which gives the overall impression that not every day the bus is fully occupied.
 
-- The **peak hour** for bus rides, observed to be at **3 p.m.**, signifies a period of **heightened demand and potential congestion within the bus transportation system in New York**. This information is crucial for both commuters and bus companies to maximize the transportation experience in New York. 
+- The **peak hour** for bus rides, observed to be at **3 p.m.**, signifies a period of heightened demand and potential congestion within the bus transportation system in New York. This information is crucial for both commuters and bus companies to maximize the transportation experience in New York. 
 
 - There seems to be a **relationship between total walking time and high bus seat demand (`is_high_demand`)**. The **`is_high_demand`** also denotes that the city is **busy or crowded with people**, which is why people may have to take **longer walking durations**.
 
 - There might be certain specific areas with **different variations in the efficiency of bus routes (higher or lower)**.
 
-- The finding that specific searches tend to happen more frequently during periods of high demand is essential for customized recommendations and focused interventions.
+- The finding that specific **searches** tend to happen **more frequently** during periods of **high demand** is essential for customized recommendations and focused interventions.
   
 ## Contribution 🛠️  <a name = "contribution"> </a>
 Please create an [Issue](https://github.com/drshahizan/HPDP/issues) for any improvements, suggestions or errors in the content.
