@@ -45,10 +45,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 ```
 
-### Load the Dataset
+### 3.1. Load the Dataset
 Here are the methods for directly accessing datasets from Kaggle:
 
-1. Login to your ([www.kaggle.com](https://www.kaggle.com/) account.
+1. Login to your [kaggle.com](www.kaggle.com) account.
 2. On the top right of the page, you can see your profile. Click on the profile, you will then see an option to view **Your Profile**, **Settings** and **Sign Out**.
 3. Click on the **Settings** button, which is indicated by a gear icon.
 <div align="center">
@@ -80,7 +80,15 @@ Here are the methods for directly accessing datasets from Kaggle:
 from google.colab import drive
 drive.mount('/content/drive')
 ```
+
 8. You will be requested to grant access to your drive storage by selecting your preferred account.
+<div align="center">
+  
+![img4](https://github.com/drshahizan/Python_EDA/assets/87573002/f25f425a-e87e-4874-8d72-947c73b7a15d)
+
+**Figure 4: Displays the pop-up permission.**
+</div>
+
 9. Install the required libraries and run the below script :
 ```
 !pip install -q kaggle
@@ -108,8 +116,14 @@ drive.mount('/content/drive')
 ```
 !unzip /content/hourly-weather-surface-brazil-southeast-region.zip
 ```
+  This output messages will be appeared on your screen as shown in Figure 6.
+  <div align="center">
+    
+  ![img6](https://github.com/drshahizan/Python_EDA/assets/87573002/c21a07dc-887a-4898-8f9b-d0102e3acbe5)
+  **Figure 6: Shows the output messages in Colab Notebook.**
+</div>
 
-### Chunking
+### 3.2. Chunking
 This technique will split selected file into smaller pieces called chunks by using the chunking algorithm. If you are working with a huge amount of data, retrieving a large dataset all at once can consume a lot of RAM. Hence, by using the chunk method, we can process the data into smaller chunks which can be more memory efficient.
 
 • Run the following command:
@@ -127,11 +141,26 @@ for chunk in pd.read_csv('central_west.csv', chunksize=chunk_size):
 df = pd.read_csv('chunk2.csv')
 df.head()
 ```
+This will displays the first 5 rows in the dataframe as shown in Figure 7 below.
+<div align="center">
+   
+![img7](https://github.com/drshahizan/Python_EDA/assets/87573002/74627d94-e9d7-4b1d-9112-a36fa944ecd8)
+
+**Figure 7: Shows the output messages in Colab Notebook.**
+</div>
+
+### 3.3. Optimise memory of dataset
+Review the dataframe information includes the data types.
 ```
 df.info()
 ```
+<div align="center">
+  
+![img8](https://github.com/drshahizan/Python_EDA/assets/87573002/3e38f947-119e-4e0a-ba88-8fc714962dda)
 
-### Optimise memory of dataset.
+**Figure 8: Displays the dataframe information.**
+</div>
+
 One of the most common problems with pandas is that it constantly loads float data as **float64**. By optimizing the memory, we could have reduced a part of the memory from our dataset. Here, we will converting float64 to **float16** or **float32** to minise memory usage.
 ```
 for column in df.columns:
@@ -145,7 +174,35 @@ for column in df.columns:
 ```
 df.info()
 ```
+<div align="center">
+  
+![img9](https://github.com/drshahizan/Python_EDA/assets/87573002/1fdd1b56-89de-4010-809d-a5ccece958c8)
 
+**Figure 9: Displays the dataframe information.**
+</div>
+From the above Figure 9, we can know that the memory usage has been reduced to 439.6+ KB from 1.0+ MB. But this is only for one chunk file.
+
+Now we are going to contact all chunk files and optimize the memory as well.
+```
+path = 'central_west.csv'
+all_files = glob.glob(os.path.join(path, "*.csv"))
+grouped_files = []
+
+for filename in all_files:
+  chunk = pd.read_csv(filename, index_col=None, header=0)
+  for col in chunk.columns:
+    if chunk[col].dtype == 'float64':
+      chunk[col] = chunk[col].astype('float16')
+    if chunk[col].dtype == 'int64':
+        chunk[col] = chunk[col].astype('int8')
+  gc.collect()
+  grouped_files.append(chunk)
+
+  df = pd.concat(grouped_files, axis=0, ignore_index=True)
+```
+```
+df.info()
+```
 • To calculate initial size of dataframe, run the following code:
 ```
 %pylab inline
