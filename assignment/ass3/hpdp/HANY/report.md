@@ -30,7 +30,7 @@ The dataset that we chose can be retrived through this link [Climate Weather Sur
 The data is conveniently accessible for processing as it is already formatted in CSV.
 
 ## 3. Setting Up the Environment
-## Import the necessary libraries
+### Import the necessary libraries
 ```
 import numpy as np
 import pandas as pd
@@ -45,7 +45,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 ```
 
-## Load the Dataset
+### Load the Dataset
 Here are the methods for directly accessing datasets from Kaggle:
 
 1. Login to your [kaggle.com](www.kaggle.com) account.
@@ -109,7 +109,7 @@ drive.mount('/content/drive')
 !unzip /content/hourly-weather-surface-brazil-southeast-region.zip
 ```
 
-## Chunking
+### Chunking
 This technique will split selected file into smaller pieces called chunks by using the chunking algorithm. If you are working with a huge amount of data, retrieving a large dataset all at once can consume a lot of RAM. Hence, by using the chunk method, we can process the data into smaller chunks which can be more memory efficient.
 
 • Run the following command:
@@ -131,7 +131,7 @@ df.head()
 df.info()
 ```
 
-## Optimise memory of dataset.
+### Optimise memory of dataset.
 One of the most common problems with pandas is that it constantly loads float data as **float64**. By optimizing the memory, we could have reduced a part of the memory from our dataset. Here, we will converting float64 to **float16** or **float32** to minise memory usage.
 ```
 for column in df.columns:
@@ -195,11 +195,258 @@ print('Dataframe size: %2.2f GB'%final_size)
 print('Total size reduction: %2.1f'%((1-final_size/start_size)*100))
 ```
 
-## Rename
-
 
 ## 4. Data Preprocessing
+### Rename Columns Name
+The used dataset are basically in Portuguese. We can see by displaying the column names in the dataframe below.
+```
+print(df.columns)
+```
+
+• To change all column names to English:
+```
+column_mapping = {
+    'Data': 'Date',
+    'Hora': 'Time',
+    'PRECIPITAÇÃO TOTAL, HORÁRIO (mm)': 'Amount of precipitation, last hour (mm)',
+    'PRESSAO ATMOSFERICA AO NIVEL DA ESTACAO, HORARIA (mB)': 'Atmospheric pressure at station level (mB)',
+    'PRESSÃO ATMOSFERICA MAX.NA HORA ANT. (AUT) (mB)': 'Maximum air pressure for the last hour (mB)',
+    'PRESSÃO ATMOSFERICA MIN. NA HORA ANT. (AUT) (mB)': 'Minimum air pressure for the last hour (mB)',
+    'RADIACAO GLOBAL (Kj/m²)': 'Solar radiation (Kj/m²)',
+    'TEMPERATURA DO AR - BULBO SECO, HORARIA (°C)': 'Air temperature (instant) (°C)',
+    'TEMPERATURA DO PONTO DE ORVALHO (°C)': 'Dew point temperature (instant) (°C)',
+    'TEMPERATURA MÁXIMA NA HORA ANT. (AUT) (°C)': 'Maximum temperature for the last hour (°C)',
+    'TEMPERATURA MÍNIMA NA HORA ANT. (AUT) (°C)': 'Minimum temperature for the last hour (°C)',
+    'TEMPERATURA ORVALHO MAX. NA HORA ANT. (AUT) (°C)': 'Maximum dew point temperature for the last hour (°C)',
+    'TEMPERATURA ORVALHO MIN. NA HORA ANT. (AUT) (°C)': 'Minimum dew point temperature for the last hour (°C)',
+    'UMIDADE REL. MAX. NA HORA ANT. (AUT) (%)': 'Maximum relative humidity for the last hour (%)',
+    'UMIDADE REL. MIN. NA HORA ANT. (AUT) (%)': 'Minimum relative humidity for the last hour (%)',
+    'UMIDADE RELATIVA DO AR, HORARIA (%)': 'Relative humidity (% instant)',
+    'VENTO, DIREÇÃO HORARIA (gr) (° (gr))': 'Wind direction (radius degrees (0-360))',
+    'VENTO, RAJADA MAXIMA (m/s)': 'Wind gust (m/s)',
+    'VENTO, VELOCIDADE HORARIA (m/s)': 'Wind speed (m/s)',
+    'region': 'Brazilian geopolitical regions',
+    'state': 'State (Province)',
+    'station': 'Station Name (usually city location or nickname)',
+    'station_code': 'Station code (INMET number)',
+    'latitude': 'Latitude',
+    'longitude': 'Longitude',
+    'height': 'Elevation'
+}
+```
+```
+df.rename(columns=column_mapping, inplace=True)
+```
+• When you run this command, you can see that all of the column already changed.
+```
+print(df.columns)
+```
+
+### Missing Values
+Check for the missing values by using this command:
+```
+def percent_missing_values(df):
+
+    # Calculate total number of cells in dataframe
+    totalCells = np.product(df.shape)
+
+    # Count number of missing values per column
+    missingCount = df.isnull().sum()
+
+    # Calculate total number of missing values
+    totalMissing = missingCount.sum()
+
+    # Calculate percentage of missing values
+    print("The dataset contains", round(((totalMissing/totalCells) * 100), 2), "%", "missing values.")
+```
+
+```
+percent_missing_values(df)
+```
+
+### Removing Duplicates
+This command will be functioning to find any duplicates row and removed them.
+```
+def drop_duplicates(df):
+    old = df.shape[0]
+    df.drop_duplicates(inplace=True)
+    new = df.shape[0]
+    count = old - new
+    if (count == 0):
+        print("No duplicate rows were found.")
+    else:
+        print(f"{count} duplicate rows were found and removed.")
+```
+```
+drop_duplicates(df)
+```
+
+### Replace Extreme Values
+Due to the presence of negative values in certain rows, we intend to substitute those specific values with zero.
+```
+columns_to_replace = ['Maximum air pressure for the last hour (mB)', 'Minimum air pressure for the last hour (mB)', 'Solar radiation (Kj/m²)','Dew point temperature (instant) (°C)', 'Amount of precipitation, last hour (mm)',
+                      'Maximum temperature for the last hour (°C)', 'Minimum temperature for the last hour (°C)', 'Maximum dew point temperature for the last hour (°C)',
+                      'Minimum dew point temperature for the last hour (°C)', 'Maximum relative humidity for the last hour (%)', 'Minimum relative humidity for the last hour (%)',
+                      'Relative humidity (% instant)', 'Wind gust (m/s)', ]
+
+for column in columns_to_replace:
+    df[column] = df[column].apply(lambda x: 0 if x < 0 else x)
+```
+
 ## 5. Exploratory Data Analysis
+### General Statistics
+• To calculate number of elements in the dataframe:
+```
+df.size
+```
+
+• To count number of rows and columns:
+```
+df.shape
+```
+
+• To view the dataframe overview:
+```
+class DfOverview:
+    """
+        Give an overview for a given data frame,
+        like null persentage for each columns,
+        unique value percentage for each columns and more
+    """
+
+    def __init__(self, df: pd.DataFrame) -> None:
+        self.df = df
+
+    def missing_value(self) -> None:
+        nullSum = self.df.isna().sum()
+        return [col for col in nullSum]
+
+    def percentage(self, list):
+        return [str(round(((value / self.df.shape[0]) * 100), 2)) + '%' for value in list]
+
+    def getOverview(self) -> None:
+
+        _columns = [column for column in self.df]
+        _count = self.df.count().values
+        _unique = [self.df[column].value_counts().shape[0] for column in self.df]
+        _missing_values = self.missing_value()
+
+        columns = [
+            'Column',
+            'count',
+            'missing_value_count',
+            'Missing_value_percentage',
+            'unique_value_count',
+            'unique_value_percentage',
+            'dtype']
+        data = zip(
+            _columns,
+            _count,
+            _missing_values,
+            self.percentage(_missing_values),
+            _unique,
+            self.percentage(_unique),
+            self.df.dtypes
+        )
+        new_df = pd.DataFrame(data=data, columns=columns)
+        return new_df
+```
+
+```
+df_overview = DfOverview(df)
+df_overview.getOverview()
+```
+
+### Summary Statistics
+We only use numerical columns to compute basic statistics since it is easier to do mathematical operations and calculations on this type of data.
+
+Run the following command:
+```
+numerical_columns = df.select_dtypes(include='number').columns
+statistics = df[numerical_columns].describe()
+statistics
+```
+
+### Data Visualization
+(A) Histogram
+```
+plt.figure(figsize=(8, 6))
+sns.histplot(df['Amount of precipitation, last hour (mm)'], kde=True)
+plt.title('Histogram of Amount of Precipitation')
+plt.xlabel('Amount of precipitation')
+plt.ylabel('Frequency')
+plt.show()
+```
+
+(B) Bar Graph
+```
+plt.figure(figsize=(10, 6))
+sns.countplot(x='State (Province)', data=df)
+plt.title('Bar Graph of States/Provinces')
+plt.xlabel('State/Province')
+plt.ylabel('Count')
+plt.xticks(rotation=45)
+plt.show()
+```
+
+(C) Box Plot
+```
+plt.figure(figsize=(8, 6))
+sns.boxplot(y='Air temperature (instant) (°C)', data=df)
+plt.title('Box Plot of Air Temperature')
+plt.ylabel('Temperature (°C)')
+plt.show()
+```
+
+(D) Scatter Plot
+```
+plt.figure(figsize=(10, 6))
+sns.scatterplot(x='Air temperature (instant) (°C)', y='Wind speed (m/s)', data=df, alpha=0.5)
+
+plt.title('Scatter Plot of Air Temperature vs. Wind Speed')
+plt.xlabel('Air Temperature (°C)')
+plt.ylabel('Wind speed (m/s)')
+
+plt.show()
+```
+
+(E) Pie Chart
+```
+column_for_pie = 'Station Name (usually city location or nickname)'
+
+values = df[column_for_pie].value_counts()
+labels = values.index
+
+plt.figure(figsize=(8, 6))
+plt.pie(values, labels=labels, autopct='%1.1f%%', startangle=90, colors=plt.cm.Paired.colors)
+plt.title('Pie Chart of Station Name')
+
+plt.show()
+```
+
+### Data Exploration
+```
+correlation_matrix = df.corr()
+plt.figure(figsize=(12, 10))
+sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', fmt=".2f")
+plt.title('Correlation Heatmap')
+plt.show()
+```
+
+```
+df.hist(bins=20, figsize=(30, 20))
+plt.suptitle('Histograms of Numerical Variables')
+plt.show()
+```
+
+```
+sns.pairplot(df[['Dew point temperature (instant) (°C)', 'Relative humidity (% instant)', 'Atmospheric pressure at station level (mB)']])
+plt.suptitle('Pair Plot of Selected Variables')
+plt.show()
+```
+
+
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
