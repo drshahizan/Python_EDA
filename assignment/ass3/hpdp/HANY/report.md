@@ -120,6 +120,7 @@ drive.mount('/content/drive')
   <div align="center">
     
   ![img6](https://github.com/drshahizan/Python_EDA/assets/87573002/c21a07dc-887a-4898-8f9b-d0102e3acbe5)
+  
   **Figure 6: Shows the output messages in Colab Notebook.**
 </div>
 
@@ -207,6 +208,7 @@ df.info()
 <div align="center">
   
 ![image](https://github.com/drshahizan/Python_EDA/assets/106257072/20b0d39f-b890-4a9e-9736-e29df5b4eae7)
+
 **Figure 10:**
 
 </div>
@@ -222,6 +224,7 @@ df.head()
 <div align="center">
   
 ![image](https://github.com/drshahizan/Python_EDA/assets/106257072/2d58e607-5d05-4af3-94d0-70bae18c5975)
+
 **Figure 11:**
 
 </div>
@@ -236,6 +239,7 @@ print(df.columns) #Display the current column names in dataframe
 <div align="center">
 
 ![image](https://github.com/drshahizan/Python_EDA/assets/106257072/f6216be2-6d83-491f-bc71-ac0c43182c22)
+
 **Figure 12: Column Names in Portuguese**
 
 </div>
@@ -283,6 +287,7 @@ print(df.columns)
 <div align="center">
   
 ![image](https://github.com/drshahizan/Python_EDA/assets/106257072/10fe8ccc-c084-4adb-8996-79dcefb97b89)
+
 **Figure 13: Column Names Changed to English**
 
 </div>
@@ -314,31 +319,85 @@ df.dtypes
 
 Next, we will also convert:
 
-  a) Object columns to Category.
+  a) Integer Columns
+  ```
+#Convert integer columns to smaller integer types if applicable
+int_cols = ['Solar radiation (Kj/m²)', 'Maximum relative humidity for the last hour (%)',
+                'Minimum relative humidity for the last hour (%)', 'Relative humidity (% instant)',
+                'Wind direction (radius degrees (0-360))']
+
+df[int_cols] = df[int_cols].apply(pd.to_numeric, downcast='integer')
+  ```
+
+  b) Float Columns
+  ```
+#Convert float columns to smaller float types if applicable
+float_cols = ['Amount of precipitation, last hour (mm)', 'Atmospheric pressure at station level (mB)',
+              'Maximum air pressure for the last hour (mB)', 'Minimum air pressure for the last hour (mB)',
+              'Air temperature (instant) (°C)', 'Dew point temperature (instant) (°C)',
+              'Maximum temperature for the last hour (°C)', 'Minimum temperature for the last hour (°C)',
+              'Maximum dew point temperature for the last hour (°C)', 'Minimum dew point temperature for the last hour (°C)',
+              'Wind gust (m/s)', 'Wind speed (m/s)', 'Latitude', 'Longitude', 'Elevation']  # List of float columns to optimize
+
+df[float_cols] = df[float_cols].apply(pd.to_numeric, downcast='float')
+  ```
+
+  c) Object columns to Category.
 ```
-for column in df.columns:
-  if df[column].dtype == 'object':
-    df[column] = df[column].astype('category')
-```
-  b) Date and Time columns to datetime.
-```
-for column in df.columns:
-  if df[column].dtype == 'object':
-    df[column] = df[column].astype('datetime')
+#Convert object columns to category if suitable
+object_cols = ['Brazilian geopolitical regions', 'State (Province)', 'Station Name (usually city location or nickname)',
+               'Station code (INMET number)']  # List of object columns to optimize
+
+for col in object_cols:
+    if df[col].nunique() / len(df[col]) < 0.5:  # Adjust the threshold based on your data
+        df[col] = df[col].astype('category')
 ```
 
-Since the Pandas stores Date and Time columns as datetime objects, which can take more memory due to their internal representation as timestaps, we will try to convert Date and Time columns to Category data type.
+```
+#Convert object columns to category if suitable
+object_cols = ['Date', 'Time']  # List of object columns to optimize
 
-  c) Date and Time columns to Category.
+for col in object_cols:
+    if df[col].nunique() / len(df[col]) < 0.5:  # Adjust the threshold based on your data
+        df[col] = df[col].astype('category')
 ```
-for column in df.columns:
-  if df[column].dtype == 'datetime':
-    df[column] = df[column].astype('category')
+  d) Date and Time columns to datetime.
+  Since the Pandas stores Date and Time columns as datetime objects, which can take more memory due to their internal representation as timestaps, we will try to convert Date and Time columns to Category data type.
+  
+```
+df['Date'] = pd.to_datetime(df['Date'], format='%Y-%m-%d').dt.date
+df['Time'] = pd.to_datetime(df['Time'], format='%H:%M').dt.time
 ```
 
+When we try to convert date and time to datetime format, Pandas stores them as datetime objects, which can take more memory due to their internal representation as timestamps. Datetime objects store both date and time information with higher precision, resulting in larger memory usage compared to categorical data.
+
 ```
-df.dtypes
+print('Total size reduction: %2.1f'%((1-final_size/start_size)*100))
 ```
+
+<div align="center">
+
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/30e792d8-accd-451b-98e5-19af2a1da3da)
+
+**Figure 15: Total Size Reduction**
+
+</div>
+
+From Figure 15, we can see that the total size reduction is 82.5
+
+```
+df.dtypes #Check the optimized data types after conversion
+```
+
+
+<div align="center">
+
+![image](https://github.com/drshahizan/Python_EDA/assets/106257072/9540cf60-4322-4195-9b1e-eb0e693d537b)
+
+
+**Figure 16: Final Data Types of All Column**
+
+</div>
 
 • To calculate total size of reduction, run the following code:
 
