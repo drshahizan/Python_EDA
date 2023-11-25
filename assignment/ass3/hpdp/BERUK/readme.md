@@ -10,6 +10,7 @@
 # Assignment 3: Exploratory Data Analysis using Big Data
 
 ## Your profile
+Group Name : <b>BERUK</b>
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
