@@ -13,7 +13,7 @@
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
 | SARAH WARDINA BINTI RAFIDIN | A21EC0128 | Conclusion
-| NURUNNAJWA BINTI ZULKIFLI | A21EC0121 | Visuzalization
+| NURUNNAJWA BINTI ZULKIFLI | A21EC0121 | Visualization
 | ALYA DAMIA BINTI HUZAIMY | A21EC0159 | Feature Engineering with Automated Tools 
 | YASMEEN NATASHA BINTI HAFIZ SHAHREL | A21EC0147 | Feature Selection
 
