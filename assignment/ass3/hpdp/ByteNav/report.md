@@ -408,6 +408,8 @@ User with the Most Number of Purchased Items:
 
 ### 6.4. Feature Engineering <a name = "fe"></a>
 
+The feature engineering is not applicable as there is no need to create new features or transform existing ones to support our analysis.
+
 ## 7. Conclusion <a name = "conclusion"></a>
 
 ### Insights Gained and Key Findings through the EDA Process:
