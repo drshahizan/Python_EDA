@@ -13,10 +13,10 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-|MUHAMMAD AMIR JAMIL BIN JAMLUS          | A21EC0202     | Assignment 4   |
-|KEE SHIN PEARL         | A21EC0190     | Assignment 3   |
-|MUHAMMAD IZZUDDIN BIN SHABRIN           | A21EC0083   | Assignment 5    |
-|UMAR HAZIQ BIN MUHAMAD NORHISHAM            |  A21EC0235   | Assignment 5     |
+|MUHAMMAD AMIR JAMIL BIN JAMLUS          | A21EC0202     | Main Code(Preprocess, EDA , Feature Engineering)   |
+|KEE SHIN PEARL         | A21EC0190     | Verify   |
+|MUHAMMAD IZZUDDIN BIN SHABRIN           | A21EC0083   | Verify    |
+|UMAR HAZIQ BIN MUHAMAD NORHISHAM            |  A21EC0235   | Finding data     |
 
 
 ### 📂 Folder content:
