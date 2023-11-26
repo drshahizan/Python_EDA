@@ -20,7 +20,7 @@
 
 ### 📂 Folder content:
 * [📖Assignment 4](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/hpdp/ATG/ATG_Assignment4.ipynb)
-* [readme](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/hpdp/ATG/readme.md)
+* [Readme](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/hpdp/ATG/readme.md)
 
 
 ## Contribution 🛠️
