@@ -19,7 +19,7 @@
 
 ### 📂 Google Colab file:
 
-* [📖 Google Colab file](https://colab.research.google.com/drive/14fM9STbq6Xdld6ZughJk-xOLgwnXGm6V?usp=sharing#scrollTo=43xDRvaY0pu2)
+* [📖 Google Colab file](https://github.com/drshahizan/Python_EDA/blob/dc310e3ac8d414d6e9ec72710dcba66a2358d463/assignment/ass4/bdm/F4/F4_Assignment_4_Manual_Feature_Engineering.ipynb)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
