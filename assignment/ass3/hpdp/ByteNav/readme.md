@@ -18,9 +18,8 @@
 | YEW RUI XIANG              |A21EC0149      |ASSIGNMENT 4|
 
 ### 📂 Folder content:
-* [💻 Coding(.ipynb)](./ass3.ipynb)
+* [💻 Assignment 3(.ipynb)](./ass3.ipynb)
 * [📚 Report](./report.md)
-* [📚 Readme](./readme.md)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/HPDP/issues) for any improvements, suggestions or errors in the content.
