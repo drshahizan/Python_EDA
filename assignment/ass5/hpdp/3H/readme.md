@@ -8,7 +8,7 @@
 | IZZAT HAQEEMI BIN HAIRUDIN | A21EC0033 | Assignment 4
 
 ### 📂 Folder content:
-* [📖 Answer ](#)
+* [📖 Answer ](https://colab.research.google.com/drive/1ZUnmP_aRCtuL9GyfOVpy7M3yOwGBYYB5?usp=sharing)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/HPDP/issues) for any improvements, suggestions or errors in the content.
