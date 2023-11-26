@@ -412,7 +412,7 @@ df.dtypes #Check the optimized data types after conversion
 
 
 ## 4. Data Preprocessing
-### Missing Values
+### 4.1 Missing Values
 Check for the missing values by using this command:
 ```
 def percent_missing_values(df):
@@ -443,7 +443,7 @@ percent_missing_values(df)
 
 Since the dataset did not contain any missing values, we can proceed with the next steps.
 
-### Removing Duplicates
+### 4.2 Removing Duplicates
 This command will be functioning to find any duplicates row and removed them.
 ```
 def drop_duplicates(df):
@@ -470,7 +470,7 @@ drop_duplicates(df)
 
 After removing duplicates, there are no more duplicate rows found.
 
-### Replace Extreme Values
+### 4.3 Replace Extreme Values
 Due to the presence of negative values in certain rows, we intend to substitute those specific values with zero.
 ```
 columns_to_replace = ['Maximum air pressure for the last hour (mB)', 'Minimum air pressure for the last hour (mB)', 'Solar radiation (Kj/m²)','Dew point temperature (instant) (°C)', 'Amount of precipitation, last hour (mm)',
@@ -482,6 +482,21 @@ for column in columns_to_replace:
     df[column] = df[column].apply(lambda x: 0 if x < 0 else x)
 ```
 
+### 4.4 Dropping Unnecessary Columns
+The column 'Unamed: 0' most of the times represents the index when we save our dataframe to csv along with our index. In this is the case, since each index is unique and not actually related to each row, removing it is advisable. Let us check its uniqueness.
+
+```
+# comparing the number of unique values of 'Unnamed: 0' and the number of rows
+len(df['Unnamed: 0'].unique()) == df.shape[0]
+```
+```
+# removing the column
+df.drop(columns=['Unnamed: 0'], inplace=True)
+```
+
+```
+df.head()
+```
 ## 5. Exploratory Data Analysis
 In this section, we will use big data tools to complete the following EDA tasks.
 
