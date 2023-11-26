@@ -39,7 +39,7 @@ Compute descriptive statistics such as mean, median, standard deviation, and qua
 ![Alt Text](fig2.png)
 ![Alt Text](fig3.png)
 ![Alt Text](fig4.png)
-
+![Alt Text](fig5.png)
 
 ## Conclusion
 Using a big data tools such as PySpark to handle this datasets is a waste of storage and time. This is because we need to change the PySpark DataFrame to Pandas DataFrame so it will be easy to integrate the analysis tools such as Matplotlib and Plotly. The convertion from PySpark DataFrame to Pandas DataFrame took a lot of time. 12 hours passed and the data that have successfully converted are not even half from the dataset.
