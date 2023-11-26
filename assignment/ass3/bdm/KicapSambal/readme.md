@@ -33,7 +33,20 @@ Check for missing values, duplicate entries, and outliers. Handle or remove them
 Compute descriptive statistics such as mean, median, standard deviation, and quartiles for numerical features. Understand the basic statistical properties of the dataset.
 
 #### Data Visualization
-This data visualiazation are run without running the code in Data Summary Statistic. Due to it takes a long time to convert dataframe of PySpark to dataframe of Pandas. You might encounter error if you run code in Data Summary Statistic.
+1. This data visualiazation are run without running the code in Data Summary Statistic. Due to it takes a long time to convert dataframe of PySpark to dataframe of Pandas. You might encounter error if you run code in Data Summary Statistic.
+2. There are a few graph are not shown in the preview. We will attach it here respectively to the code.
+![Alt Text](fig1.png)
+![Alt Text](fig2.png)
+![Alt Text](fig3.png)
+![Alt Text](fig4.png)
+
 
 ## Conclusion
-We can perform EDA in this dataset using Pandas. If we want to use PySpark, only using it in TB size of data because using it in this dataset, only a waste of storage.
+Using a big data tools such as PySpark to handle this datasets is a waste of storage and time. This is because we need to change the PySpark DataFrame to Pandas DataFrame so it will be easy to integrate the analysis tools such as Matplotlib and Plotly. The convertion from PySpark DataFrame to Pandas DataFrame took a lot of time. 12 hours passed and the data that have successfully converted are not even half from the dataset.
+
+If we really want to use the big data tools like PySpark, at least we should have 1 TB size of data. It would be more efficient.
+
+We only able to apply a little bit of the use of big data tool for this dataset.
+
+
+However, this assignment allow us to study EDA using big data tools.
