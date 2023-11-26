@@ -19,7 +19,7 @@
 
 ### 📂 Folder content:
 * [📖 feature_eng](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/hpdp/HANY/feature_eng.ipynb)
-* [readme.md](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/hpdp/HANY/readme.md)
+* [readme.md](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/hpdp/HANY/readme.md)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
