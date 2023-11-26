@@ -214,10 +214,10 @@ df.info()
 </div>
 
 ```
-df.to_csv("central_west_1.csv")
+df.to_csv("central_west.csv")
 ```
 ```
-df = pd.read_csv('central_west_1.csv')
+df = pd.read_csv('central_west.csv')
 df.head()
 ```
 
@@ -229,7 +229,7 @@ df.head()
 
 </div>
 
-### 3.4Rename columns name
+### 3.4 Rename columns name
 The used dataset are basically in Portuguese. We can see by displaying the column names in the dataframe below.
 ```
 #df = pd.read_csv('central_west.csv')
