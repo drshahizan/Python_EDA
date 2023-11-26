@@ -112,10 +112,9 @@
 | 39.   | MIKHAIL BIN YASSIN |  [:octocat:](https://github.com/mikhaiiy) |<a href="https://colab.research.google.com/drive/1mG2-ulpDzOFcfAPTQe2AEGzEfBbQ-gjZ?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://colab.research.google.com/drive/1vmA5thZmeEfZs109kYiQaszUPzAjshun?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 40.   | ABDUL MUHAIMIN BIN ABDUL RAZAK |  [:octocat:](https://github.com/mikhaiiy) |<a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://colab.research.google.com/drive/1GoAwkAUO78aWBd3B6qGygOEmz9GoQrSA?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 41.   | MOHAMAD AZRI HADIF BIN MOHAMMAD RIZAL |  [:octocat:](https://github.com/azkatsuragi) |<a href="https://colab.research.google.com/drive/1GWl5-if7jaDsKTKi1dPcSW0W4w_eKil8?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://colab.research.google.com/drive/1nqvCii_TnmsISOeRFW4AfbMl_Do84QcX?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
+| 42.   | HAFIZULSHAH BIN SHAROM |  [:octocat:](https://github.com/mikhaiiy) |<a href="https://colab.research.google.com/drive/1-vrf0s5SThenq1HZFW7EQ91ZoyazUEJa?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 
 Good luck with your lab exercise!
-
-
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
