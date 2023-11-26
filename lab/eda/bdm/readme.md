@@ -83,6 +83,8 @@
 | 13.   | Lye Kah Hooi       |  [:octocat:](https://github.com/LyeKahHooi) |<a href="https://github.com/LyeKahHooi/LyeKahHooi/blob/main/Lab%202%20submission/Lab2a_LyeKahHooi_eda_of_7_million_company_dataset.ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://github.com/LyeKahHooi/LyeKahHooi/blob/main/Lab%202%20submission/Lab%202%20submission/Lab2b_LyeKahHooi_cleaning_data_eda.ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 14.   | Nurul Wahieda Binti Muhd Farid |
 | 15.   | NIAN CONG       |  [:octocat:](https://github.com/ninclever) |<a href="https://github.com/ninclever/Personal/blob/main/Assignment/Lab_2A_EDA_of_7_million_company_dataset.ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://github.com/ninclever/Personal/blob/main/Assignment/Lab_2B_cleaning_data_eda.ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
+| 16.   | NIAN CONG       |  [:octocat:](https://github.com/zuhayraz) |<a href="https://github.com/zuhayraz/BDM/blob/main/BDM%20Assignment/EDA_Big_Data_Lab_2(a)_ZuhayrArif.ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> |
+
 Good luck with your lab exercise!
 
 
