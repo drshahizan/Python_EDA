@@ -22,7 +22,6 @@
 * [📖Assignment 5](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/hpdp/ATG/Assignment_5_Automated_Feature_Engineering_Tools.ipynb)
 * [Readme](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/hpdp/ATG/readme.md)
 
-<br><br>
 >Check out the ipynb file for full documentation of Assignment 5.
 
 ## Contribution 🛠️
