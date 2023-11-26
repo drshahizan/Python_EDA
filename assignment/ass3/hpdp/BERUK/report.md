@@ -92,6 +92,7 @@ zip_ref.close()
 ```
 !pip install dask
 ```
+We are using Dask dataframe sincce Dask can handle large datasets better than Pandas
 <br>
 
 * Import necessary libraries
