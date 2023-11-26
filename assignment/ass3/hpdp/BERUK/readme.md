@@ -19,6 +19,11 @@ Group Name : <b>BERUK</b>
 | ABDUL MUHAIMIN BIN ABDUL RAZAK | A21EC0002 |Assignment 5|  
 | MUHAMMAD HAZIM BIN SALMAN | A21EC0078 |Assignment 5|
 
+<br>
+
+📄 [ass3.ipynb](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass3/hpdp/BERUK/ass3.ipynb) <br>
+📄 [report.md](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass3/hpdp/BERUK/report.md)
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
 
