@@ -18,7 +18,7 @@
 | YEW RUI XIANG              |A21EC0149      |ASSIGNMENT 4|
 
 ### 📂 Folder content:
-* [📖Assignment 5](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/hpdp/ByteNac/feature_eng_tool.ipynb)
+* [📖Assignment 5](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/hpdp/ByteNav/feature_eng_tool.ipynb)
 * [Readme](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/hpdp/ByteNav/readme.md)
 
 ## Contribution 🛠️
