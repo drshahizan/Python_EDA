@@ -38,6 +38,36 @@
 
 ## 1. Introduction <a name = "intro"></a>
 
+This report presents the findings of the Exploratory Data Analysis (EDA) conducted on a dataset focus on Jan 2020 from a medium cosmetics online store. The primary objectives of the EDA were to uncover insights into user behavior, identify patterns, and explore key trends within the dataset. By analyzing various aspects such as price distribution, correlation between variables, event types, and user engagement metrics, this EDA aimed to provide valuable information for strategic decision-making and optimization of the online store's performance.
+
+## Objectives
+
+1. **Understand Price Distribution:**
+   - Explore the distribution of product prices to identify common price ranges and understand user preferences in terms of pricing.
+
+2. **Evaluate Variable Correlation:**
+   - Investigate the correlation between different variables (e.g., price, product_id, category_id, user_id) to discern any relationships or dependencies.
+
+3. **Examine Event Type Distribution:**
+   - Analyze the distribution of event types to gain insights into user interactions, with a focus on the frequency of views, cart additions, and purchases.
+
+4. **Identify Top Categories and Products:**
+   - Determine the most popular categories, products, and brands based on total purchase amounts, providing a glimpse into user preferences.
+
+5. **Explore Daily, Hourly, and Weekly Trends:**
+   - Investigate trends in user behavior on a daily, hourly, and weekly basis to understand peak activity periods, variations, and potential patterns.
+
+6. **Analyze User Engagement Metrics:**
+   - Examine metrics related to user engagement, including repurchased products, categories with high repurchase rates, and users with the highest purchase frequency.
+
+7. **Visualize Weekly User Behavior:**
+   - Utilize visualizations such as bar charts and funnel charts to portray and compare the number of different event types for each week.
+
+8. **Gain Insights into Repurchased Products and User Engagement:**
+   - Identify the top repurchased products, categories, and users with the highest engagement metrics, contributing to a deeper understanding of customer loyalty.
+
+By achieving these objectives, the EDA aims to provide actionable insights that can inform strategic decisions related to inventory management, marketing strategies, and user experience enhancements.
+
 ## 2. Dataset Selection <a name = "dataset_selection"></a>
 
 ## 3. Data Acquisition <a name = "data_acquisition"></a>
