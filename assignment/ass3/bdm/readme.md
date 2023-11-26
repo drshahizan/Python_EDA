@@ -69,6 +69,7 @@ If you have any questions or need clarification on any part of this assignment, 
 | 4. | Truth Archive  | [NYC Yellow Taxi Trip Data](https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data) | <a href="https://github.com/drshahizan/Python_EDA/tree/bac7a9807c1f4714ee4824ac08145e19813320bd/assignment/ass3/bdm/Truth%20Archive" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
 | 5. | F4  | [YouTube Trending Video Dataset](https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset) | <a href="./F4/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
 | 6. | TheBoys  | [Brooklyn Home Sales](https://www.kaggle.com/datasets/tianhwu/brooklynhomes2003to2017) | <a href="./TheBoys" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
+| 7. | KicapSambal  | [Amazon Books Reviews](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews) | <a href="./KicapSambal" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
 
 
 ### 3. Academic Integrity
