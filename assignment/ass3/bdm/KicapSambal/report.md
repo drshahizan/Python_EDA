@@ -27,3 +27,8 @@ The dataset contains information about Amazon Books Reviews. There are two datas
 
 ## Important Notes
 Graph that are generated using Plotly doesnt show up in the preview. Thus, we include it in the report respectively to the code.
+![Alt Text](fig1.png)
+![Alt Text](fig2.png)
+![Alt Text](fig3.png)
+![Alt Text](fig4.png)
+![Alt Text](fig5.png)
