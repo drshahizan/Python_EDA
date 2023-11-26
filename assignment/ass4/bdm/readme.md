@@ -53,6 +53,7 @@ In this assignment, you will explore the essential concept of feature engineerin
 | 1. |  Truth Archive  |  <a href="https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/bdm/%20Truth%20Archive/Assignment_4_Truth_Archive.ipynb" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [NYC Yellow Taxi Trip Data](https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data)
 | 2. |  TheBoys  |  <a href="./Theboys" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Brooklyn Home Sales](https://www.kaggle.com/datasets/tianhwu/brooklynhomes2003to2017)
 | 3. |  Kicap Sambal |  <a href="https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/bdm/KicapSambal/feature_eng.ipynb" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Flight Price Data](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction)
+| 4. |  F4 |  <a href="./F4/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Used Cars Dataset](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data/code)
 
 ### 3. Academic Integrity
 🚫 Uphold the highest standards of academic integrity. Any candidate suspected of cheating in the assignment will face disciplinary action, which may include suspension or expulsion from the University. Moreover, any materials or devices found to be in violation of examination rules and regulations will be confiscated.
