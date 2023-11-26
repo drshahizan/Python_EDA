@@ -50,7 +50,7 @@ In this assignment, you will explore the fascinating world of automated feature 
 | 2. | DEADPOOL  |  <a href="./DEADPOOL/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 | 3. | ATG  |  <a href="./ATG/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | Featuretools | AutoFeat |
 | 4. | ANGKASA  |  <a href="./ANGKASA/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | TPOT| AutoFeat |
-| 5. | ByteNav  |  <a href="./ByteNav/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
+| 5. | ByteNav  |  <a href="./ByteNav/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | Featuretools | AutoFeat 
 | 6. | 3H  |  <a href="./3H/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | Featuretools | |
 | 7. | Pergolakan  |  <a href="https://github.com/drshahizan/Python_EDA/tree/main/assignment/ass5/hpdp/PERgolakan/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | Featuretools |  |
 | 8. | BERUK  |  <a href="https://github.com/drshahizan/Python_EDA/blob/5d1e6181b2882f6b4e3ddb72da577df9e3cc5738/assignment/ass5/hpdp/BERUK/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | TPOT | Featuretools|
