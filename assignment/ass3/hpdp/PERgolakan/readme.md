@@ -20,7 +20,6 @@
 
 ### 📂 Folder content:
 * [📖 Assignment 3](ass3.ipynb)
-* [📖 Report](report.md)
 
 
 ## Contribution 🛠️
