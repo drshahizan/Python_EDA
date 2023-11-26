@@ -73,6 +73,7 @@ By following these steps, your student can complete the Feature Engineering cour
 | 15.   | Nur Azimah Mohd Salleh | [:octocat:](https://github.com/Azieyy) | <a href="https://github.com/Azieyy/Azieyy/blob/main/Certificate/Azieyy%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 | 16.   | Lye Kah Hooi | [:octocat:](https://github.com/LyeKahHooi) | <a href="https://github.com/LyeKahHooi/LyeKahHooi/blob/main/Lye%20Kah%20Hooi%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 | 17.   | NIAN CONG | [:octocat:](https://github.com/ninclever) | <a href="https://github.com/ninclever/Personal/blob/main/NIAN%20CONG%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
+| 18.   | Liu Kaiyuan | [:octocat:](https://github.com/lky970215) | <a href="https://github.com/lky970215/Files/blob/main/Liu%20Kaiyuan%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
