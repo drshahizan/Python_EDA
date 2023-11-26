@@ -20,6 +20,12 @@
 | MUHAMMAD ASHRAAF BIN SALEH | A21EC0068 |  Feature Engineering |
 | MUHAMMAD NAQUIB BIN ZAKARIA | A20BE0161 | Data Visualization  |
 
+### Automated Feature Engineering Tools
+
+- Dataset link: [USA Real Estate Dataset](https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset) 
+- Tool 1: [TPOT](https://github.com/drshahizan/Python_EDA/tree/main/assignment/ass5/hpdp/ANGKASA/Tool%201%20-%20TPOT)
+- Tool 2: [tsfresh](https://github.com/drshahizan/Python_EDA/edit/main/assignment/ass5/hpdp/ANGKASA/Tool%202%20-%20tsfresh)
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
 
