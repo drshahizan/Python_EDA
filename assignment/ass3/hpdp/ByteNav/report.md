@@ -98,9 +98,11 @@ https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-
 
 ### 3.1. Import Dataset <a name = "import_data"></a>
 ![image](https://github.com/drshahizan/Python_EDA/assets/95710157/d1feeab9-5e19-427b-8dfd-1c436c77a2d9)
+
 Mount the google colab to my personal google drive.
 
 ![image](https://github.com/drshahizan/Python_EDA/assets/95710157/74c88a9a-6d00-478c-91ce-04e1c0b01f0b)
+
 Importing the dataset which is "2020-Jan.csv" in zip file format.
 
 ![image](https://github.com/drshahizan/Python_EDA/assets/95710157/f80f4604-eef3-47e5-827c-36a5dec581b4)
