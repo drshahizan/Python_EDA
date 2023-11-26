@@ -50,6 +50,46 @@
 
 ## 7. Conclusion <a name = "conclusion"></a>
 
+### Insights Gained and Key Findings through the EDA Process:
+
+### 1. Price Distribution:
+
+- The histogram analysis of prices indicates that the majority of products fall within the price range of 0 to approximately 10, with a decreasing frequency as prices increase. Common price ranges within the dataset are observed to be from 0 to 50.
+
+### 2. Correlation Analysis:
+
+- Correlation matrix heatmap reveals weak associations between 'price' and other variables ('product_id', 'category_id', 'user_id'). Notably, 'price' and 'category_id' show no linear correlation, suggesting independence.
+
+### 3. Event Type Distribution:
+
+- The histogram of event types illustrates that 'view' is the most frequent event type, constituting 50.4% of all events, followed by 'cart' with 28.0%. This suggests that a significant portion of user interactions involves product viewing.
+
+### 4. Top Categories and Products:
+
+- Categories '1487580005092295511' and product '5560754' emerge as the most popular based on the bar plots. Additionally, the brand 'runail' dominates in terms of orders or total purchase price.
+
+### 5. Daily Trends:
+
+- Daily trends showcase a positive correlation between total purchase amounts and the count of purchase events. Specific dates, such as 26, 27, and 28, exhibit higher order counts, indicating potential seasonality or promotional events.
+
+### 6. Hourly and Weekly Trends:
+
+- Hourly trends reveal consistent purchasing behavior between 8 to 19 hours. Order count spikes as the weekend approaches and is highest on Tuesday, indicating variations in user activity based on the day of the week.
+
+### 7. Weekly User Behavior:
+
+- The bar chart and funnel chart visualize weekly user behavior, emphasizing the count and progression of different event types. These charts provide insights into user engagement and conversion rates throughout the weeks.
+
+### 8. Top Repurchased Products and User Engagement:
+
+- Specific products, such as #5809910, emerge as highly repurchased, emphasizing their sustained popularity. User #469299888 stands out with the highest weekly purchase frequency and the most number of purchased items, indicating a loyal and engaged customer.
+
+### 9. Categories with High Average Repurchased Count:
+
+- Certain categories exhibit a consistently high average repurchased count, indicating sustained popularity and customer loyalty.
+
+In conclusion, the EDA process has provided a comprehensive understanding of user interactions, product preferences, and purchasing patterns. These insights can inform strategic decisions related to inventory management, marketing strategies, and user engagement initiatives to enhance the overall performance of the online store.
+
 ## Contribution 🛠️  <a name = "contribution"> </a>
 Please create an [Issue](https://github.com/drshahizan/HPDP/issues) for any improvements, suggestions or errors in the content.
 
