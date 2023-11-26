@@ -419,6 +419,22 @@ plt.show()
 **Figure 12: histogram for each column**
 </div>
 
+#### 5.3.2 Data Exploration Conclusion
+
+From the histogram, we can conclude that:
+
+* Actual Elapsed time with the highest peak is around 1.3×10⁶
+* There are almost no delay in departure
+* There are also almost no delay in arrival 
+
+From the Heatmap, we can conclude that:
+
+* The air time (duration of wheels on and off) and crs_elapsed_time (planned time for needed trip) and actual_elapsed_time got a 0.99 correlation. This shows that both variable highly related and the plane follow the whole procedure of it
+
+From the boxplot, we can conclude that:
+
+* Plane F9 has an outlier or extreme values exceeding 60mins. What it meant is that the plane has a record of departure delay for more than 1 hours.
+
 ### 5.4 Feature Engineering
 
 #### 5.4.1 Creating Feature: Departure Hour
