@@ -21,7 +21,8 @@
 ### 📂 Folder content:
 * [📖Assignment 4](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/hpdp/ATG/ATG_Assignment4.ipynb)
 * [Readme](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/hpdp/ATG/readme.md)
-
+<br><br>
+> Check out the ipynb file for full documentation of Assignment 4.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
