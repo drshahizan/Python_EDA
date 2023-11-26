@@ -19,7 +19,7 @@
 |Sam Chia Yun   |A21EC0127 | Assignment 5
 
 ### 📂 Folder content:
-* [📖feature_eng.ipynb ](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/hpdp/ATG/ATG_Assignment4.ipynb)
+* [📖Assignment 4](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/hpdp/ATG/ATG_Assignment4.ipynb)
 * [readme](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/hpdp/ATG/readme.md)
 
 
