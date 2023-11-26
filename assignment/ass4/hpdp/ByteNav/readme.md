@@ -18,7 +18,8 @@
 | YEW RUI XIANG              |A21EC0149      |ASSIGNMENT 4|
 
 ### 📂 Folder content:
-* [💻 Assignment 4 & Report](https://colab.research.google.com/drive/1GVHeSAQGI_gEUGvo36HhqEiluX-iFxSi?usp=sharing)
+* [💻 Assignment 4](https://colab.research.google.com/drive/1GVHeSAQGI_gEUGvo36HhqEiluX-iFxSi?usp=sharing)
+* [💻 Report](./Features_Engineering.ipynb)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/HPDP/issues) for any improvements, suggestions or errors in the content.
