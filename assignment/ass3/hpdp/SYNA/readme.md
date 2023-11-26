@@ -14,9 +14,9 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| SARAH WARDINA BINTI RAFIDIN | A21EC0128 |   Summary statistics
+| SARAH WARDINA BINTI RAFIDIN | A21EC0128 |   Data visualization
 | NURUNNAJWA BINTI ZULKIFLI | A21EC0121 | Cleaning and Prepping Data, Feature Engineering 
-| ALYA DAMIA BINTI HUZAIMY | A21EC0159 | Data visualization
+| ALYA DAMIA BINTI HUZAIMY | A21EC0159 | Summary statistics
 | YASMEEN NATASHA BINTI HAFIZ SHAHREL | A21EC0147 | Data Exploration
 
 ### 📂 Folder content:
