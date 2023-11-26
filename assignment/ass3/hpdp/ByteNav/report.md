@@ -1,4 +1,4 @@
-<a href="https://github.com/drshahizan/HPDP/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/HPDP" alt="Stars Badge"/></a>
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/323890af-4219-4615-8de7-2a56e1e69b02)![image](https://github.com/drshahizan/Python_EDA/assets/95710157/c1a0ae1c-0561-4d52-bcc2-f8003ea7d33e)<a href="https://github.com/drshahizan/HPDP/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/HPDP" alt="Stars Badge"/></a>
 <a href="https://github.com/drshahizan/HPDP/network/members"><img src="https://img.shields.io/github/forks/drshahizan/HPDP" alt="Forks Badge"/></a>
 <a href="https://github.com/drshahizan/HPDP/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/HPDP" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/HPDP"><img src="https://img.shields.io/github/issues/drshahizan/HPDP" alt="Issues Badge"/></a>
@@ -32,15 +32,10 @@
     + [5.2.3. Handle Datatypes](#handle_dt)
     + [5.2.4. Column 'price'](#price)
 + [6. Exploratory Data Analysis](#eda)
-  + [Pass and Fail Views](#passfail_dashboard)
-  + [Total Number of Records](#total_dashboard)
-  + [Pass Percentage](#pass_dashboard)
-  + [Fail Percentage](#fail_dashboard)
-  + [Maximum Value](#max_dashboard)
-  + [Minimum Value](#min_dashboard)
-  + [Average Value](#avg_dashboard)
-  + [Number of Students and Grades](#numstu_grades_dashboard)
-  + [Total Number of Grades](#grade_dashboard)
+  + [6.1. Summary Statistics](#sum_stat)
+  + [6.2. Data Visualization](#data_visual)
+  + [6.3. Data Exploration](#data_explore_eda)
+  + [6.4. Feature Engineering](#fe)
 + [7. Conclusion](#conclusion)
 + [Contributions](#contribution)
 
@@ -236,6 +231,182 @@ Lastly, check the information of datatypes for each column using df.info() again
 Checking whether the price consisting negative values and handle it by droping those rows.
 
 ## 6. Exploratory Data Analysis <a name = "eda"></a>
+
+### 6.1. Summary Statistics <a name = "sum_stat"></a>
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/9cf97740-683a-4df2-ad65-83a808f4d151)
+
+Generate descriptive statistics of a dataset and provides a quick overview of the distribution and central tendency of all numerical columns in dataset.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/1224e268-aaa6-47c4-957e-67d2cd673920)
+
+Get the total number of user engagement in each event type.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/f62c9c4a-a5da-42c8-9c47-0a0471504eeb)
+
+Get the summary for spending of users on purchasing product in Cosmetics Shop eCommerce websites.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/36bcc9f7-308b-4351-a698-98445570e376)
+
+Display the summary of the distribution and central tendency of the 'spent' values in the price_df_ dataframe created above.
+
+### 6.2. Data Visualization <a name = "data_visual"></a>
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/d3f2d060-6277-4f39-8c06-0bb8392bbde9)
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/44932d09-254b-4953-a158-847152641d5c)
+
+Based on histogram above, we have visualise the distribution of price which divide into certain ranges. As we can observe, the price range from 0 to approximately 10 have the highest frequency. In addition, we can see that, the frequency is getting lower when the price is increasing. In sum, we can sum up that the common prices ranges within the dataset are from 0 to 50.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/bb4ebdc7-6e7c-4854-9058-ba38c87a8dcd)
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/5e39e39a-9e1e-4e4f-ab2e-787d429849a9)
+
+Based on boxplot above, we have visualise the distribution of price for each of the different event types. It is represent by the interquartile range (IQR) of prices.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/6e63917e-e953-4db8-ac8b-ffe58ae06aac)
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/860d7e56-98d9-4f34-a1aa-c23cf8f780e5)
+
+**Insights Gained:**
+
+- 'price' and 'product_id' have a very weak negative correlation (-0.02), suggesting a minimal association.
+- 'price' and 'category_id' show no linear correlation (0.00), indicating independence.
+- 'price' and 'user_id' exhibit a very weak positive correlation (0.03), suggesting a minimal association.
+- 'product_id' and 'user_id' have a very weak negative correlation (-0.02), indicating a minimal association.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/e9751bf7-7925-46ad-a063-43ba3205fff3)
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/96da65f9-a56b-46dd-bb56-927f9ea085d4)
+
+Based on the histogram above, we have visualise the distribution of event type. As we can see that 'view' having the most which is 50.4% and following by cart which is 28.0%.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/ca948f0d-2fa6-432e-bb3e-6053f00ba0ae)
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/0d448758-70f3-407d-8084-0c56128667e3)
+
+The visualisation above shown the category with most orders. As we can observe from the bar plot, the category '1487580005092295511' have the most orders or total purchase price.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/7c0a2ec2-94d8-44b7-b4d9-e09dac265d43)
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/7ebafbc6-2679-487f-8585-92e8786e737e)
+
+The visualisation above shown the product with most orders. As we can observe from the bar plot, the product '5560754' have the most orders or total purchase price.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/63ced3e0-d081-4c07-bc3d-eacabc1037e0)
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/d556c768-9774-42e7-9a92-fff5d4c7a706)
+
+The visualisation above shown the brand with most orders. As we can observe from the bar plot, the brand 'runail' have the most orders or total purchase price. We also can see that there is a lot of unknown.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/de558fd5-7a53-42d0-b4dd-3999977bb767)
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/127206c7-2e81-4d7f-a123-53308ce6ad3d)
+
+The graph above visualises the daily trends of purchase orders over time. The blue line represents the total purchase price for each day, while the red line shows the count of purchase events on the same plot. The y-axis on the left corresponds to the total purchase price, and the y-axis on the right corresponds to the count of purchase events.
+
+**Insights Gained:**
+
+- The plot allows us to observe the relationship between the total purchase amount and the number of purchase events on a daily basis.
+- The blue line provides insights into the overall spending trends, showing days with higher or lower total purchase amounts.
+- The red line indicates the daily variation in the number of purchase events, helping to identify days with increased or decreased purchasing activity.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/d2e26972-fab5-41f7-aebc-ce84d8fd12e1)
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/70fcae69-3ee6-4372-9c94-0df338f28a98)
+
+The graph visualises the trends of purchase orders by the hour of the day, breaking down the data into hourly intervals. It includes both the total purchase price (blue line) and the count of purchase events (red line) on the same plot. The x-axis represents the hours of the day.
+
+**Insights Gained:**
+
+- The blue line shows the variation in total purchase amounts throughout the day, highlighting peak and off-peak hours.
+- The red line represents the count of purchase events each hour, indicating the hourly distribution of purchase activities.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/808b5629-2dab-4d26-a8d5-b03087ebb51b)
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/d3de48b9-ce64-4427-b41d-5f45b35e2547)
+
+The graph visualises the trends of purchase orders by the day of the week, breaking down the data into daily intervals. It includes both the total purchase price (blue line) and the count of purchase events (red line) on the same plot. The x-axis represents the days of the week, starting from Monday (0) to Sunday (6).
+
+**Insights Gained:**
+
+- The blue line shows the variation in total purchase amounts throughout the week, highlighting days with higher or lower spending.
+- The red line represents the count of purchase events each day, indicating peak activity days.
+- The plot provides insights into the weekly patterns of purchase behavior, helping to identify the most active days and potential correlations between total spending and event count.
+
+
+**Insights Gained:**
+
+- The trends of total purchase amounts and the count of purchase events by date indicate a positive correlation. As total spending increases, the number of purchase events also tends to rise.
+- Specific dates, such as 26, 27, and 28, stand out with higher order counts. Further analysis can explore if there is seasonality or specific promotions on these dates.
+- The trends of orders by hour showcase consistency in both total purchase amounts and the count of events between 8 to 19 hours. There is a stable purchasing behavior during standard business hours.
+- Order count spikes as we get close to weekday and is highest on Tuesday. This indicates that users tend to make more purchases towards the start of the week.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/76534f32-6b08-4f75-b421-d631dc1d6ead)
+
+Based on the bar chart above, we have visualise the event_type, event_week and event_count to show and compare the number of different event type for each week.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/55ad3c6d-69a2-48f9-8605-c968dd0911b4)
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/dc3a0305-8bf9-4de1-a89d-fd878be88ee6)
+
+Based on the funnel chart above, we have visualise the weekly user behavior based on the event type of view, cart and purchase.
+
+### 6.3. Data Exploration <a name = "data_explore_eda"></a>
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/62101f6a-d7bc-43bb-bb31-e345a3f7cf32)
+
+The code above use to explore the top 5 repurchased products.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/0ad471f5-51aa-42c6-a8fe-8aa300952b3f)
+
+The code above use to explore the products with largest average repurchased count.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/6fdb39ff-e6b2-43be-a647-6e558d629f3c)
+
+The code above use to explore the top 5 categories with the largest average repurchased count.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/0944b52a-3731-4253-a8eb-cd88d881c7ec)
+
+The code above use to explore the most purchased product by different user.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/9d7454af-59ef-4b51-a0e7-88603842f45b)
+
+The code above use to explore the user with the highest purchase frequency.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/bdefda36-8ec5-4f95-9289-bdc241a2df88)
+
+The code above use to explore the user who purchased the most number of items.
+
+
+**Insights Gained:**
+
+Top 5 Repurchased Products:
+
+- Product #5809910 from category ID 1602943681873052386 is the most repurchased product with a count of 2029 purchases.
+- The top 5 repurchased products are dominated by product #5809910, indicating a high level of popularity and demand for this item.
+
+Products with the Largest Average Repurchased Count:
+- Products with IDs 5854171, 5854180, and 5850311 have the largest average repurchased count, each with an average of 4.0.
+- This suggests that these products are not only frequently repurchased but also maintain a consistent level of demand over time.
+
+Top 5 Categories with the Largest Average Repurchased Count:
+
+- Categories with category IDs 1924049106385240809, 1487580007675986893, and 1487580005134238553 have the largest average repurchased count, indicating sustained popularity in these categories.
+
+Most Purchased Product:
+
+- The most purchased product is #5809910, bought by 1932 different users. This highlights a widespread appeal and adoption of this specific product.
+
+User with the Highest Weekly Purchase Frequency:
+
+- User #469299888 has the highest purchase frequency on a weekly basis, making 262 purchases. This user demonstrates a consistently high engagement level with the online store.
+
+User with the Most Number of Purchased Items:
+
+- User #469299888 has also purchased the most number of items, totaling 262. This user stands out as a significant contributor to the overall purchase count.
+
+### 6.4. Feature Engineering <a name = "fe"></a>
 
 ## 7. Conclusion <a name = "conclusion"></a>
 
