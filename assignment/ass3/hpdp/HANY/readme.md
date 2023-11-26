@@ -20,7 +20,7 @@
 | MUHAMMAD HARITH HAKIM BIN OTHMAN              | A21EC0205     | Assignment 4|
 
 ### 📂 Folder content:
-* [📖 Assignment 3]((https://colab.research.google.com/drive/15WasVNF99aMQKGNXsvg00lPiZauYxsad?usp=sharing))
+* [📖 Assignment 3](ass3.ipynb)
 * [📖 Report](./report.md)
 
 ## Contribution 🛠️
