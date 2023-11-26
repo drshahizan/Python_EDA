@@ -21,7 +21,7 @@
 
 ### 📂 Folder content:
 * [📖 Tool 1]()
-* [📖 Tool 2](assignment/ass5/hpdp/BERUK/Ass5FeatureEngineering.ipynb)
+* [📖 Tool 2](Ass5FeatureEngineering.ipynb)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
