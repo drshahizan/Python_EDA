@@ -1,6 +1,8 @@
 # Assignment 5: Automated Feature Engineering Tools - tsfresh
 
-![tsfresh](https://github.com/drshahizan/Python_EDA/assets/92329710/29a6cbae-2e13-490a-9f77-d3b5ad7f2939)
+<div align="center">
+  <img src="https://github.com/drshahizan/Python_EDA/assets/92329710/29a6cbae-2e13-490a-9f77-d3b5ad7f2939" alt="tsfresh">
+</div>
 
 
 ### 1. Dataset Selection:
