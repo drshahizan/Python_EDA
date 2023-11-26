@@ -10,6 +10,8 @@
 ### Introduction
 The project dives into Broollyn home sale dataset to understand the factors that affect the house prices and discuss the method to analyze and estimate the sale price of the brooklyn's houses. The goal was to find the features that affect the most on the sale price of brooklyn houses and make an estimation, giving the information such as zipcode, distance to school, lot area, address and others. The analysis aims to answer questions about mutual informations of the features to the house prices, and how is the performance of regression on the estimation of sale prices.
 
+Since we used the same dataset for assignment 3 and assignment 4, the latter regression model and explanation will be presented at the assignment 4.
+
 ### Big Data Tools Selection
 Sklearn, paired with Python's Pandas, Matplotlib, and Seaborn, are the main tools for managing and visualizing the large volume of data.
 
