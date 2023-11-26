@@ -11,10 +11,10 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-|Mikhail Bin Yaasin              |   A21EC0053   |     |
-|Muhammad Farhan Bin Ibrahim             | A21EC0072     |    |
-|Muhammad Fikri Bin Sharunazim              |  A21EC0075    |     |
-| Muhammad Adam Fahmi Bin Mohd Taufiq              |  A21EC0061    |      |
+|Mikhail Bin Yaasin              |   A21EC0053   | EDA and FeatureWiz Implementation  |
+|Muhammad Farhan Bin Ibrahim             | A21EC0072     | Data Visualization and Conclusion   |
+|Muhammad Fikri Bin Sharunazim              |  A21EC0075    |  EDA and FeatureTools Implementation |
+| Muhammad Adam Fahmi Bin Mohd Taufiq              |  A21EC0061    |  Data Visualization and Conclusion    |
 
 ### 📂 Folder content:
 * [📖 Assignment 5](ass5.ipynb)
