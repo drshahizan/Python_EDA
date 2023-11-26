@@ -21,7 +21,7 @@
 | WAN AMIRUL HAFIQ BIN WAN HUZAINI | A21EC0141 | Presentation
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
+[Click this link](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/hpdp/CapKetereh/Assingment4_Capketereh.ipynb) to view our case study
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
