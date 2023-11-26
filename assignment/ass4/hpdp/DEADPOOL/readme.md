@@ -20,7 +20,7 @@
 
 
 ### 📂 Folder content:
-* [📖 Assignment 4](https://colab.research.google.com/drive/1EBB6xYc6PZc8UOZJH4C9TcsbS0kR74hh#scrollTo=spLgkgdgaeJP)
+* [📖 Assignment 4](deadpool_assignment4.ipynb)
 * [📖 Report](featureengineering.md)
 
 
