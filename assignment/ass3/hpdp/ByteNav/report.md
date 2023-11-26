@@ -23,6 +23,7 @@
 + [3. Data Acquisition](#data_acquisition)
   + [3.1. Import Dataset](#import_data)
 + [4. Setting Up the Environment](#setup_environment)
+  + [4.1. Install Necessary Tools & Libraries](#install_lib) 
 + [5. Data Preprocessing](#dataset_preprocessing)
 + [6. Exploratory Data Analysis](#eda)
   + [Pass and Fail Views](#passfail_dashboard)
@@ -111,7 +112,28 @@ Read the first 5 rows of the dataset to ensure the dataset imported successfully
 
 ## 4. Setting Up the Environment <a name = "setup_environment"></a>
 
+### 4.1. Install Necessary Tools & Libraries <a name = "install_lib"></a>
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/a4a3101f-9e06-443d-9a3e-71798ea9655c)
+> Imported Tools and Libraries
+
+| Library/Tool               | Description                                                                                                   |
+|------------------------|---------------------------------------------------------------------------------------------------------------|
+| pandas                 | Data manipulation and analysis library.                                                                      |
+| numpy                  | Numerical operations library.                                                                                 |
+| matplotlib.pyplot      | Plotting library for creating static, animated, and interactive visualizations.                               |
+| seaborn                | Data visualization library based on Matplotlib that provides a high-level interface for drawing statistical graphics.|
+| plotly.express         | Plotly's high-level interface for creating interactive plots.                                                |
+| plotly.graph_objects   | Low-level interface for creating complex, customized plots with Plotly.                                       |
+| plotly.subplots        | Module for creating subplots with Plotly.                                                                    |
+| dask.dataframe         | Dask library for parallel computing with larger-than-memory datasets.                                        |
+| os                     | Operating system interface for interacting with the file system.                                              |
+| missingno              | Library for visualizing missing data in a dataset.                                                           |
+| datetime               | Module for working with dates and times.                                                                      |
+
 ## 5. Data Preprocessing <a name = "dataset_preprocessing"></a>
+
+
 
 ## 6. Exploratory Data Analysis <a name = "eda"></a>
 
