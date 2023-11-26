@@ -13,7 +13,7 @@
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
 |ALIEYA ZAWANIE BINTI A ZAINI       | A21EC0156 | Assignment 3    |
-|IZZAT HAQEEMI BIN HAIRUDIN         |  	A21EC0033   |  Assignment 3      |
+|IZZAT HAQEEMI BIN HAIRUDIN         |  	A21EC0033   |  Assignment 4      |
 |NG ZI XING             |A21EC0213   | Assignment 4     |
 |MOHAMAD AZRI HADIF BIN MOHAMMAD RIZAL         |  A21EC0054  | Assignment 5      |
 
