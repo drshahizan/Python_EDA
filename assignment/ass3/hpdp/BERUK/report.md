@@ -373,6 +373,12 @@ plt.xticks(rotation=45)
 plt.show()
 ```
 ![image](https://github.com/drshahizan/Python_EDA/assets/146704678/3ae96469-906a-4e50-b810-b5caa6fea867) <br>
+Here we can see that the top 5 most commonly used opening are:
+1. Van't Kruijs Opening
+2. Scandinavian Defense: Mieses-Kotroc Variation
+3. Modern Defense
+4. Horwitz Defense
+5. Sicilian Defense
 <br>
 
 * Plot histograms for numerical columns
@@ -382,6 +388,7 @@ ddf[numerical_columns].compute().hist(bins=20, figsize=(12, 8))
 plt.show()
 ```
 ![image](https://github.com/drshahizan/Python_EDA/assets/146704678/76273c58-a4c6-4838-9268-9dcdbb262343) <br>
+Here we can see that most player's ELO are in the range of around 1500 to 2000
 <br>
 
 * Explore relationships between Elo ratings
@@ -402,6 +409,7 @@ plt.figure(figsize=(12, 6))
 plt.show()
 ```
 ![image](https://github.com/drshahizan/Python_EDA/assets/146704678/ee263042-643b-452a-896c-a0d3cf294df8) <br>
+Here we can see that the winrate of White is slightly higher than black. So, the chancce of winning when playing White is more favorable
 <br>
 
 * Explore trends over time
@@ -421,6 +429,7 @@ plt.xticks(rotation=90)
 plt.show()
 ```
 ![image](https://github.com/drshahizan/Python_EDA/assets/146704678/0a7468d8-33ec-432c-a7c6-0ccd8613dc60) <br>
+Here we can see that most player are playing the Blitz event and least player play Correspondence event
 <br>
 
 #### d. Feature Engineering: If applicable, create new features or transform existing ones to better support your analysis
