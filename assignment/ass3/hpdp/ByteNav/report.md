@@ -133,7 +133,99 @@ Read the first 5 rows of the dataset to ensure the dataset imported successfully
 
 ## 5. Data Preprocessing <a name = "dataset_preprocessing"></a>
 
+### 5.1. Data Exploration <a name = "data_explore"></a>
 
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/01687796-07cd-42ea-875c-95af15aaba18)
+
+Read and display the first 5 rows of the dataset.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/3d69f4f5-7ff1-41aa-80da-e75a19a3c0d2)
+
+Read and display the last 5 rows of the dataset.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/c5955189-ae6b-4093-b37b-56de44f7b55c)
+
+Display the shape of the dataset in (row, column) format.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/6f4fd88b-790c-4f02-bcc5-d98c5698a624)
+
+Read and display the information of the dataset.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/ee9e9165-14d4-4c5d-94b9-745eb2d8bfe5)
+
+Provides a quick overview of the distribution and central tendency of the selected float64 columns in the dataset.
+
+### 5.2. Data Cleaning and Handling <a name = "data_clean"></a>
+
+#### 5.2.1. Handle Missing Values <a name = "missing_value"></a>
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/831fa7da-a563-4988-8e9c-533b3b277987)
+
+Determine the sum of null values for each columns.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/23b924b0-b7f0-45cf-bf73-51d990a851a5)
+
+Plot and visualise the bar chart of missing values.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/0d737951-6ebb-4709-828d-e237736cf6d1)
+
+Plot and visualise the dendrogram of missing values.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/c604aac7-40f9-4577-b0e7-e62ce602099e)
+
+Plot and visualise the matrix of missing values.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/5a40190f-d623-4bc2-b5f4-663db3e521d0)
+
+Calculate the percentage of null values for each columns droping columns consisting null values greater than 90%.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/40372e65-3d9b-4adf-8244-616c61af23de)
+
+Drop the columns consisting null values greater than 90% which is the column category_code is dropped.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/d93ba2a2-8b46-4eff-9203-851472100225)
+
+Cheking the latest columns of the dataset to ensure column category_code is dropped successfully.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/e70b6d07-4fb6-45b0-90d2-30e1d6a04731)
+
+Replace the missing vaules in 'brand' column with 'unknown' and replace the missing vaules in 'user_session' column with mode value.
+
+#### 5.2.2. Handle Duplicated <a name = "handle_dup"></a>
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/349d7f4b-9f89-40a3-8e1f-754fa9927cf6)
+
+Determine the sum of duplicated rows or values for the dataset and then calculate the percentage of duplicated rows for the dataset.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/f69e228e-2000-497c-a223-cc80f341238b)
+
+Plot and visualise the duplicated values by using histogram.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/878626e5-0abc-463e-8cb2-c7aca41a6503)
+
+Drop or remove the duplicated rows in the dataset and modify it in place.
+
+#### 5.2.3. Handle Datatypes <a name = "handle_dt"></a>
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/3d7ace76-b6e4-4956-be08-918589c0e789)
+
+Checking for the datatype for columns by using df.info().
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/e38e7733-50f1-4062-a7a9-6302613509f1)
+
+Checking the details for the column event_time.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/a3359002-d625-45f7-a692-5c147657f07d)
+
+Removing ' UTC' string from each value in the 'event_time' column. Then, converting the 'event_time' column to datetime64 data type and converting the 'event_type' column to categorical data type.
+
+Lastly, check the information of datatypes for each column using df.info() again.
+
+#### 5.2.4. Column 'price' <a name = "price"></a>
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/e828afd1-bbd4-401f-b28d-75233e66ce5c)
+
+Checking whether the price consisting negative values and handle it by droping those rows.
 
 ## 6. Exploratory Data Analysis <a name = "eda"></a>
 
