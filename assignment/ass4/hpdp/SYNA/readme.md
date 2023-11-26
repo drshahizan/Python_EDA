@@ -18,7 +18,8 @@
 | YASMEEN NATASHA BINTI HAFIZ SHAHREL | A21EC0147 | Feature Creation, Visualization
 
 ### 📂 Folder content:
-* [📖 Assignment 4](./ass4.ipynb)
+* [📖 Assignment 4](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/hpdp/SYNA/Assignment4_SYNA_Final.ipynb)
+*  [📖 Report](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/hpdp/SYNA/Assignment4_SYNA_Final.ipynb)
 
 
 ## Contribution 🛠️
