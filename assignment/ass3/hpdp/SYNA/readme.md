@@ -20,8 +20,8 @@
 | YASMEEN NATASHA BINTI HAFIZ SHAHREL | A21EC0147 | Data Exploration
 
 ### 📂 Folder content:
-* [📖 Assignment 3]()
-* [📖 Report]()
+* [📖 Assignment 3](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass3/hpdp/SYNA/Assignment3_SYNA.ipynb)
+* [📖 Report](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass3/hpdp/SYNA/Assignment3_SYNA.ipynb)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
