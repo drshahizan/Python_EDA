@@ -111,7 +111,7 @@
 | 38.   | SOO WAN YING |  [:octocat:](https://github.com/soowanying) |<a href="https://colab.research.google.com/drive/1UCsIQj_031Vr4BgRuyCh5ZhqYrOS34pg#scrollTo=_1VcfJPJJMDn"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://colab.research.google.com/drive/1-AbN2O45NmtN6duxf3HGVaF-dwQeuKzL#scrollTo=1AyRqzpAkgWD"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 39.   | MIKHAIL BIN YASSIN |  [:octocat:](https://github.com/mikhaiiy) |<a href="https://colab.research.google.com/drive/1mG2-ulpDzOFcfAPTQe2AEGzEfBbQ-gjZ?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://colab.research.google.com/drive/1vmA5thZmeEfZs109kYiQaszUPzAjshun?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 40.   | ABDUL MUHAIMIN BIN ABDUL RAZAK |  [:octocat:](https://github.com/mikhaiiy) |<a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://colab.research.google.com/drive/1GoAwkAUO78aWBd3B6qGygOEmz9GoQrSA?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
-By following these steps, you can perform a feature engineering lab exercise using Google Colab. This will help you demonstrate your practical knowledge of feature engineering techniques.
+| 41.   | MOHAMAD AZRI HADIF BIN MOHAMMAD RIZAL |  [:octocat:](https://github.com/azkatsuragi) |<a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://colab.research.google.com/drive/1nqvCii_TnmsISOeRFW4AfbMl_Do84QcX?usp=sharing"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 
 Good luck with your lab exercise!
 
