@@ -18,6 +18,7 @@
 | YASMEEN NATASHA BINTI HAFIZ SHAHREL | A21EC0147 | Feature Creation, Visualization
 
 ### 📂 Folder content:
+* [📖 Assignment 4](./ass4.ipynb)
 
 
 ## Contribution 🛠️
