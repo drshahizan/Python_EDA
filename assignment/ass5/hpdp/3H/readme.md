@@ -2,10 +2,10 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| MOHAMAD AZRI HADIF BIN MOHAMMAD RIZAL | A21EC0054 | 
-| NG ZI XING | A21EC0213 |  
-| ALIEYA ZAWANIE BINTI A ZAINI | A21EC0156 | 
-| IZZAT HAQEEMI BIN HAIRUDIN | A21EC0033 | 
+| MOHAMAD AZRI HADIF BIN MOHAMMAD RIZAL | A21EC0054 | Assignment 5
+| NG ZI XING | A21EC0213 |  Assignment 4
+| ALIEYA ZAWANIE BINTI A ZAINI | A21EC0156 | Assignment 3
+| IZZAT HAQEEMI BIN HAIRUDIN | A21EC0033 | Lab 2 & 3
 
 ### 📂 Folder content:
 * [📖 Answer ](#)
