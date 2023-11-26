@@ -12,13 +12,14 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| LOO ZHI YUAN            |A21EC0197      |ASSIGNMENT 3|
 | SOO WAN YING              |A21EC0227      |ASSIGNMENT 5|
+| LOO ZHI YUAN            |A21EC0197      |ASSIGNMENT 3|
 | LAU YEE CHI              |A21EC0042      |ASSIGNMENT 4|
 | YEW RUI XIANG              |A21EC0149      |ASSIGNMENT 4|
 
 ### 📂 Folder content:
-
+* [📖Assignment 5](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/hpdp/ByteNac/feature_eng_tool.ipynb)
+* [Readme](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/hpdp/ByteNav/readme.md)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/HPDP/issues) for any improvements, suggestions or errors in the content.
