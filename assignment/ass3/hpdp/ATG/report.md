@@ -9,7 +9,7 @@
 
 # Assignment 3: Exploratory Data Analysis using Big Data
 
-## Your profile
+## Profile
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | :-------------:
@@ -24,7 +24,39 @@ The objective of this assignment is to perform Exploratory Data Analysis (EDA) o
 
 ## 1. Dataset Selection
 Our chosen dataset covers airline information from cancellation, delaying and many more.
-The dataset that we chose can be retrived through this link [Airline Delay and Cancellation Data-2018]([https://www.kaggle.com/datasets/PROPPG-PPG/hourly-weather-surface-brazil-southeast-region](https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018/data?select=2009.csv)https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018/data?select=2019.csv).
+The dataset that we chose can be retrived through this link [Airline Delay and Cancellation Data-2018](https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018?select=2018.csv).
+
+| Data                | Description                                                   |
+|------------------------|---------------------------------------------------------------|
+| FL_DATE                | Date of the flight, yy/mm/dd                                  |
+| OP_CARRIER             | Airline Identifier                                           |
+| OP_CARRIER_FL_NUM      | Flight Number                                                 |
+| ORIGIN                 | Starting Airport Code                                        |
+| DEST                   | Destination Airport Code                                     |
+| CRS_DEP_TIME           | Planned Departure Time                                        |
+| DEP_TIME               | Actual Departure Time                                         |
+| DEP_DELAY              | Total Delay on Departure in minutes                            |
+| TAXI_OUT               | Time duration elapsed between departure and wheels off       |
+| WHEELS_OFF             | Time point when the aircraft's wheels leave the ground        |
+| WHEELS_ON              | Time point when the aircraft's wheels touch the ground        |
+| TAXI_IN                | Time duration elapsed between wheels-on and gate arrival      |
+| CRS_ARR_TIME           | Planned arrival time                                          |
+| ARR_TIME               | Actual Arrival Time                                           |
+| ARR_DELAY              | Total Delay on Arrival in minutes                              |
+| CANCELLED              | Flight Cancelled (1 = cancelled)                               |
+| CANCELLATION_CODE      | Reason for Cancellation: A - Airline/Carrier; B - Weather; C - National Air System; D - Security |
+| DIVERTED               | Aircraft landed on airport that is out of schedule             |
+| CRS_ELAPSED_TIME       | Planned time needed for the flight trip                         |
+| ACTUAL_ELAPSED_TIME    | AIR_TIME + TAXI_IN + TAXI_OUT                                  |
+| AIR_TIME               | Time duration between wheels_off and wheels_on time            |
+| DISTANCE               | Distance between two airports                                  |
+| CARRIER_DELAY          | Delay caused by the airline in minutes                         |
+| WEATHER_DELAY          | Delay caused by weather                                        |
+| NAS_DELAY              | Delay caused by air system                                      |
+| SECURITY_DELAY         | Delay caused by security                                       |
+| LATE_AIRCRAFT_DELAY    | Delay caused by late arrival of the aircraft                    |
+
+
 
 ## 2. Data Acquisition
 The data is conveniently accessible for processing as it is already formatted in CSV.
