@@ -17,7 +17,7 @@
 | NUR KHUZAIRIE ZAKWAN BIN MOHD ZAMRI | A21EC0112 |  Automated Feature Tools, Feature Selection,  Visualization
 | IKMAL BIN KHAIRULEZUAN | A21EC0186 |  Dataset Selection, Loading the Dataset, Visualization 
 | NUR SHUHADA SAFIAH BINTI AYOB | A21EC0114 |  Exploratory Data Analysis (EDA), Conclusion
-| WAN AMIRUL HAFIQ BIN WAN HUZAINI | A21EC0141 | Automated Feature Tools,Feature Selection, Visualization 
+| WAN AMIRUL HAFIQ BIN WAN HUZAINI | A21EC0141 | Automated Feature Tools, Feature Selection, Visualization 
 
 ### 📂 Folder content:
 * [📖Assignment 5](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/hpdp/CapKetereh/CapKeterehAssignment5/AUTOMATED.ipynb)
