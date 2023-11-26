@@ -13,7 +13,7 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-|MUHAMMAD AMIR JAMIL BIN JAMLUS          | A21EC0202     | Main Code(Preprocess, EDA , Feature Engineering)   |
+|MUHAMMAD AMIR JAMIL BIN JAMLUS          | A21EC0202     | Main Code(Preprocess, EDA , Feature Engineering)  , Report |
 |KEE SHIN PEARL         | A21EC0190     | Verify   |
 |MUHAMMAD IZZUDDIN BIN SHABRIN           | A21EC0083   | Verify    |
 |UMAR HAZIQ BIN MUHAMAD NORHISHAM            |  A21EC0235   | Finding data     |
