@@ -20,7 +20,7 @@
 | WAN AMIRUL HAFIQ BIN WAN HUZAINI | A21EC0141 | Automated Feature Tools,Feature Selection, Visualization 
 
 ### 📂 Folder content:
-* [📖Assignment 5]()
+* [📖Assignment 5](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/hpdp/CapKetereh/CapKeterehAssignment5/AUTOMATED.ipynb)
 * [Readme](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/hpdp/CapKetereh/readme.md)
 
 >Check out the ipynb file for full documentation of Assignment 5.
