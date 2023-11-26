@@ -132,6 +132,7 @@ print(missing_values)
 ```
 ddf = ddf.dropna()
 ```
+We drop these rows since Null ells can cause incorrectness when doing calulations and generating graph
 
 * Re-check for null / missing value
 ```
@@ -187,6 +188,7 @@ ddf['UTCDate'] = dd.to_datetime(ddf['UTCDate'], format='%Y.%m.%d', errors='coerc
 num_rows = ddf.shape[0].compute()
 print("Number of Rows:", num_rows)
 ```
+<br>
 
 * Calculate number of wins for White and Black respectively
 ```
@@ -195,24 +197,28 @@ result_counts = ddf['Result'].value_counts().compute()
 white_wins_count = result_counts.get('1-0', 0)
 black_wins_count = result_counts.get('0-1', 0)
 ```
+<br>
 
 * Calculate mean
 ```
 mean_white_win = white_wins_count / num_rows
 mean_black_win = black_wins_count / num_rows
 ```
+<br>
 
 * Calculate mean
 ```
 mean_WElo = ddf['WhiteElo'].mean().compute()
 mean_BElo = ddf['BlackElo'].mean().compute()
 ```
+<br>
 
 * Calculate mean
 ```
 mean_Wrdiff = ddf['WhiteRatingDiff'].mean(skipna=True).compute()
 mean_Brdiff = ddf['BlackRatingDiff'].mean(skipna=True).compute()
 ```
+<br>
 
 * Stats for all mean
 ```
@@ -223,18 +229,23 @@ print("Black's ELO Mean:", mean_BElo)
 print("White Rating Diff Mean:", mean_Wrdiff)
 print("Black Rating Diff Mean:", mean_Brdiff)
 ```
+![image](https://github.com/drshahizan/Python_EDA/assets/146704678/7ab3fc6a-f55b-4484-ba69-705816a08f05) <br>
+<br>
 
 * Calculate standard deviation of White and Black ELO
 ```
 WElo_std = ddf['WhiteElo'].std().compute()
 BElo_std = ddf['BlackElo'].std().compute()
 ```
+<br>
 
 * Display the standard deviation
 ```
 print("White's ELO std deviation:", mean_WElo)
 print("Black's ELO std deviation:", mean_BElo)
 ```
+![image](https://github.com/drshahizan/Python_EDA/assets/146704678/0a6746af-5c8c-4349-8fca-1a723c1a3960) <br>
+<br>
 
 * Calculate how many Opening type were used
 ```
@@ -243,11 +254,189 @@ unique_values_counts = ddf['Opening'].value_counts().compute()
 print("Unique Values and Counts:")
 print(unique_values_counts)
 ```
+![image](https://github.com/drshahizan/Python_EDA/assets/146704678/64d1b9e4-ed63-45eb-9bc5-a044c5aebbe4) <br>
+<br>
 
+#### b. Data Visualization: Create visualizations like histograms, box plots, scatter plots, and heatmaps to understand data distributions, correlations, and outliers
 
+* Histogram of White Elo using Seaborn
+```
+plt.figure(figsize=(12, 6))
 
+sns.histplot(ddf['WhiteElo'], bins=20, kde=True, color='green')
 
+plt.xlabel('White ELO')
+plt.ylabel('Frequency')
 
+plt.title('Distribution of White Elo')
+```
+![image](https://github.com/drshahizan/Python_EDA/assets/146704678/1df84d1f-0177-4700-bd18-511434447b23) <br>
+<br>
+
+* Histogram of Black Elo using Seaborn
+```
+plt.figure(figsize=(12, 6))
+
+sns.histplot(ddf['BlackElo'], bins=20, kde=True, color='blue')
+
+plt.xlabel('Black ELO')
+plt.ylabel('Frequency')
+
+plt.title('Distribution of Black Elo')
+```
+![image](https://github.com/drshahizan/Python_EDA/assets/146704678/c9801801-fee5-41c5-9863-2c38430d0258) <br>
+<br>
+
+* Bar plot of game results
+```
+plt.figure(figsize=(12, 6))
+
+df_for_plot = ddf.compute()
+
+sns.barplot(x=df_for_plot['Result'].value_counts().index, y=df_for_plot['Result'].value_counts())
+plt.show()
+```
+![image](https://github.com/drshahizan/Python_EDA/assets/146704678/f8eb91eb-47c8-4425-a09a-f2e72c515903) <br>
+<br>
+
+* Releasing memory by deleting unused variables
+```
+del df_for_plot
+
+gc.collect()
+```
+<br>
+
+* Scatter plot of Opening moves used
+```
+plt.figure(figsize=(16, 6))
+
+scatter_column = 'Opening'
+
+df_for_plot = ddf[scatter_column].compute()
+value_counts = df_for_plot.value_counts()
+
+top_10_moves = value_counts.head(10)
+
+plt.scatter(x=top_10_moves.index, y=top_10_moves.values)
+plt.xlabel(scatter_column)
+plt.ylabel('Frequency')
+plt.title(f'Scatter Plot of Top 25 {scatter_column} Frequencies')
+plt.xticks(rotation=45)  # Rotate x-axis labels for better visibility
+plt.show()
+```
+![image](https://github.com/drshahizan/Python_EDA/assets/146704678/03a237cd-9fbf-4d90-a6b2-2aa65323ba25) <br>
+<br>
+
+* Releasing memory by deleting unused variables
+```
+del df_for_plot
+del value_counts
+del top_10_moves
+del BElo_std
+del WElo_std
+del black_wins_count
+del white_wins_count
+del c_max
+del c_min
+del col
+del col_type
+del mean_BElo
+del mean_Brdiff
+del mean_WElo
+del mean_Wrdiff
+del mean_black_win
+del mean_white_win
+del unique_values_counts
+
+gc.collect()
+```
+<br>
+
+#### c. Data Exploration: Explore the dataset's structure and identify any patterns, trends, or anomalies. Pay attention to variables' distributions, relationships, and potential insights
+
+* Finding the most used Opening
+```
+plt.figure(figsize=(12, 6))
+
+opening_count = ddf['Opening'].value_counts().compute()
+
+top_5_openings = opening_count.head(5)
+
+top_5_openings.plot(kind='bar')
+
+plt.xlabel('Opening')
+plt.ylabel('Counts')
+plt.title('Top 5 Most Common Opening')
+plt.xticks(rotation=45)
+
+plt.show()
+```
+![image](https://github.com/drshahizan/Python_EDA/assets/146704678/3ae96469-906a-4e50-b810-b5caa6fea867) <br>
+<br>
+
+* Plot histograms for numerical columns
+```
+numerical_columns = ['WhiteElo', 'BlackElo', 'WhiteRatingDiff', 'BlackRatingDiff']
+ddf[numerical_columns].compute().hist(bins=20, figsize=(12, 8))
+plt.show()
+```
+![image](https://github.com/drshahizan/Python_EDA/assets/146704678/76273c58-a4c6-4838-9268-9dcdbb262343) <br>
+<br>
+
+* Explore relationships between Elo ratings
+```
+sns.pairplot(ddf.compute(), vars=['WhiteElo', 'BlackElo', 'WhiteRatingDiff', 'BlackRatingDiff'])
+plt.figure(figsize=(12, 6))
+
+plt.show()
+```
+![image](https://github.com/drshahizan/Python_EDA/assets/146704678/8e220221-39b3-4f6d-8c35-18d2c5d16fcb) <br>
+<br>
+
+* Explore the distribution of results
+```
+sns.countplot(data=ddf.compute(), x='Result')
+plt.figure(figsize=(12, 6))
+
+plt.show()
+```
+![image](https://github.com/drshahizan/Python_EDA/assets/146704678/ee263042-643b-452a-896c-a0d3cf294df8) <br>
+<br>
+
+* Explore trends over time
+```
+ddf.groupby('UTCDate').size().compute().plot(figsize=(12, 6))
+plt.show()
+```
+![image](https://github.com/drshahizan/Python_EDA/assets/146704678/3e6c0a86-928d-4263-9ae1-c6a665dd4311) <br>
+<br>
+
+* Explore the distribution of the 'Event' column
+```
+plt.figure(figsize=(12, 6))
+
+sns.countplot(data=ddf.compute(), x='Event')
+plt.xticks(rotation=90)
+plt.show()
+```
+![image](https://github.com/drshahizan/Python_EDA/assets/146704678/0a7468d8-33ec-432c-a7c6-0ccd8613dc60) <br>
+<br>
+
+#### d. Feature Engineering: If applicable, create new features or transform existing ones to better support your analysis
+
+* Create a new feature representing the average Elo rating of the players in each game
+```
+ddf['AvgElo'] = (ddf['WhiteElo'] + ddf['BlackElo']) / 2
+```
+This new column is created to show new data which is the average ELO of the match
+<br>
+
+* Create a new feature representing the count of moves in each game
+```
+ddf['MoveCount'] = ddf['AN'].str.split().apply(len, meta=('AN', 'int'))
+```
+This new column is created to show how many moves it takes for the math to end to summarize the AN column
 
 
 ## Contribution 🛠️
