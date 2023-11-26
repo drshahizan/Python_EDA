@@ -18,7 +18,7 @@
 | YASMEEN NATASHA BINTI HAFIZ SHAHREL | A21EC0147 | Feature Selection
 
 ### 📂 Folder content:
-* [📖 Assignment 5](./ass4.ipynb)
+* [📖 Assignment 5](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/hpdp/SYNA/Assignment5_SYNA.ipynb)
 
 
 ## Contribution 🛠️
