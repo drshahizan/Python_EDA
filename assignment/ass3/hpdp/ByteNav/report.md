@@ -21,6 +21,7 @@
 + [1. Introduction](#intro)
 + [2. Dataset Selection](#dataset_selection)
 + [3. Data Acquisition](#data_acquisition)
+  + [3.1. Import Dataset](#import_data)
 + [4. Setting Up the Environment](#setup_environment)
 + [5. Data Preprocessing](#dataset_preprocessing)
 + [6. Exploratory Data Analysis](#eda)
@@ -70,7 +71,43 @@ By achieving these objectives, the EDA aims to provide actionable insights that 
 
 ## 2. Dataset Selection <a name = "dataset_selection"></a>
 
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/fb6f7aa1-9d05-4d4d-9c54-5fc71db911c6)
+> Screenshot of the Main Page for Dataset in Kaggle
+
+For assignment 3, we have choose a large dataset which is fullfil the requirement of more than 1 million data dataset from [Kaggle](https://www.kaggle.com/). We have choose a 501.79 MB ".csv" dataset which consist of 4264752 rows and 9 columns which are "event_time", "event_type", "product_id", "category_id", "category_code", "brand", "price", "user_id" and "user_session".
+
+The title of the dataset is "**eCommerce Events History in Cosmetics Shop**" and we have choose the data of January 2020 which is "2020-Jan.csv" dataset.
+
+Source of dataset:
+https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop/data
+
+| Property         | Description                                                                                                       |
+|------------------|-------------------------------------------------------------------------------------------------------------------|
+| event_time       | Time when event happened at (in UTC).                                                                            |
+| event_type       | Only one kind of event: purchase.                                                                                 |
+| product_id       | ID of a product.                                                                                                  |
+| category_id      | Product's category ID.                                                                                            |
+| category_code    | Product's category taxonomy (code name) if it was possible to make it. Usually present for meaningful categories and skipped for different kinds of accessories. |
+| brand            | Downcased string of brand name. Can be missed.                                                                   |
+| price            | Float price of a product. Present.                                                                               |
+| user_id          | Permanent user ID.                                                                                               |
+| user_session     | Temporary user's session ID. Same for each user's session. Is changed every time user comes back to the online store from a long pause.             |
+
 ## 3. Data Acquisition <a name = "data_acquisition"></a>
+
+### 3.1. Import Dataset <a name = "import_data"></a>
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/d1feeab9-5e19-427b-8dfd-1c436c77a2d9)
+Mount the google colab to my personal google drive.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/74c88a9a-6d00-478c-91ce-04e1c0b01f0b)
+Importing the dataset which is "2020-Jan.csv" in zip file format.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/f80f4604-eef3-47e5-827c-36a5dec581b4)
+
+Read the first 5 rows of the dataset to ensure the dataset imported successfully.
+
+![image](https://github.com/drshahizan/Python_EDA/assets/95710157/24a9a29b-8b1f-4ed3-a405-b192a5fa2534)
+> Ouput of the "df.head()"
 
 ## 4. Setting Up the Environment <a name = "setup_environment"></a>
 
