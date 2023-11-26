@@ -78,4 +78,7 @@ Before we can generate the RMSE for our mnodel, we need a baseline value to comp
 
 Scikit-learn can generate RMSE for the model as part of the sklearn.metrics package.
 
-## all these results are ready in our colab file in this folder.
+## Prediction model
+Now we bulit the prection model that can help you to predict the sale price, just need the information of your street address, zip code, usable square footage of the property, year of built, square footage of the lot area for the property and the classes of the house to estimate the sale price.
+
+## all these results are ready in our colab file in this folder, feel free to try~!
