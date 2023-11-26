@@ -2,7 +2,7 @@
 # Assignment 5: Automated Feature Engineering Tools - TPOT
 
 <div align="center">
-  <img src="assignment/ass5/hpdp/ANGKASA/Tool 1 - TPOT/tpot-pipeline-example-768x361.png" alt="tsfresh">
+  <img src="https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/hpdp/ANGKASA/Tool%201%20-%20TPOT/tpot-pipeline-example-768x361.png" alt="tsfresh">
 </div>
 
 
