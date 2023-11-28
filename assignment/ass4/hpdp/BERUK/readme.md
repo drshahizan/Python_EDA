@@ -17,6 +17,7 @@
 | ABDUL MUHAIMIN BIN ABDUL RAZAK | A21EC0002 |Assignment 5|  
 | MUHAMMAD HAZIM BIN SALMAN | A21EC0078 |Assignment 5|
 
+# [Google Collab](https://colab.research.google.com/drive/1eAyp3cEGkNs1XR6IwXj7r--DarGQEZaM?usp=sharing)
 ## Introduction
 This project focuses on exploring and applying diverse feature engineering techniques to enhance a dataset containing "Flight Data with 1 Million or More Records" for subsequent machine learning tasks. The primary goal is to prepare the dataset by employing feature engineering methods such as Dimensionality Reduction (PCA), Min-Max Scaling/Preprocessing, Categorical Encoding (Dummy/One-Hot), and Feature Selection. The ultimate aim is to build a predictive model for "price" representing the price of the ticket for the flight's route using linear regression model. The model will leverage various attributes, including duration, flight name, co2_emissions, from/dest_country, aircraft_type, stops, and more.
 
@@ -345,5 +346,5 @@ X_encoded.head()
 -INSERT SS-
 
 ## Conclusion
-Feature Selection: Among all the preprocessing techniques, the RandomForestRegressor model trained on the combined features produced the lowest mean absolute error (MAE) value. This indicates that the process of selecting and combining features contributed to improved model performance.
-In conclusion, the application of these preprocessing techniques is context-dependent, and the optimal choice may vary based on the specific characteristics of the dataset and the goals of the machine learning task. Further fine-tuning and experimentation can provide deeper insights into the most effective preprocessing strategies.
+Through the comprehensive application of feature engineering techniques, including data cleaning, handling missing values, encoding categorical variables, and exploring relationships between features, we aimed to enhance the dataset's suitability for predictive modeling. The process involved addressing specific challenges related to the flight data, such as dealing with datetime features, handling categorical variables, and creating relevant new features.
+
