@@ -184,7 +184,8 @@ class DfOverview:
 df_overview = DfOverview(df)
 df_overview.getOverview()
 ```
--INSERT SS-
+<img width="650" alt="image" src="https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/hpdp/BERUK/assets/8.png">
+
 ```
 def show_cols_mixed_dtypes(df):
     mixed_dtypes = {'Column': [], 'Data type': []}
@@ -243,7 +244,7 @@ def plot_mi_scores(scores):
 plt.figure(dpi=100, figsize=(8, 5))
 plot_mi_scores(mi_scores)
 ```
--INSERT SS-
+<img width="650" alt="image" src="https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/hpdp/BERUK/assets/1.png">
 
 Data visualization is a great follow-up to a utility ranking. Let's take a closer look at a couple of these.
 
@@ -255,14 +256,14 @@ If we plot the relation between price and flight number, it wouldn't be suitable
 ```
 sns.relplot(x="flight_number", y="price", hue="stops",  data=df);
 ```
--INSERT SS-
+<img width="650" alt="image" src="https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/hpdp/BERUK/assets/2.png">
 
 We can visualise the relationship between avg_co2_emission_for_this_route and price with the aircraft_type as the separating factor. Here we see a noticeable linear correlation between price and avg_co2_emissions_for_this_route. But it might be able to provide clearer information if more variables are taken into account.
 ```
 sns.lmplot(x="avg_co2_emission_for_this_route", y="price", data=df);
 # Didn't include hue = aircraft_type or aother columns because google collab could not run it
 ```
--INSERT SS-
+<img width="650" alt="image" src="https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/hpdp/BERUK/assets/3.png">
 
 ## Feature Engineering
 ### Preprocessing
@@ -313,7 +314,8 @@ for i, col in enumerate(selected_columns):
 plt.tight_layout()
 plt.show()
 ```
--INSERT SS-
+<img width="650" alt="image" src="https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/hpdp/BERUK/assets/4.png">
+
 Since for some flights there are multiple trips we can aggregate the rows of same flights to find total duration of flights
 ```
 # Group by specified columns and aggregate
@@ -333,17 +335,103 @@ One-Hot Encoding is used on the destination and origin countries of the flights 
 X_encoded = pd.get_dummies(X_new, columns=['from_country', 'dest_country'])
 X_encoded.head()
 ```
--INSERT SS-
+<img width="650" alt="image" src="https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/hpdp/BERUK/assets/9.png">
 
 ## Visualisation
 ### Linear-Regression Model
--INSERT SS-
+```
+X = df.copy()
+y = X.pop("price")
+
+# Split the dataset into training and testing sets (e.g., 80% train, 20% test)
+X_train, X_test, y_train, y_test = train_test_split(X[['duration', 'stops', 'co2_emissions', 'avg_co2_emission_for_this_route']], y, test_size=0.2, random_state=42)
+
+# Now, X_train and y_train are our training features and target, and X_test and y_test are our testing features and target
+# Train the model
+model = LinearRegression()
+model.fit(X_train, y_train)
+
+# Make predictions
+predictions = model.predict(X_test)
+
+# Evaluate performance
+mse = mean_squared_error(y_test, predictions)
+r2 = r2_score(y_test, predictions)
+
+print(f"Mean Squared Error: {mse}")
+print(f"R-squared: {r2}")
+```
+Before Feature Engineering:
+
+Mean Squared Error (MSE): 1711623.45
+This value represents the average squared difference between the actual and predicted values. The larger the MSE, the greater the average squared distance between the predicted and actual values.
+
+R-squared (R²): 0.506
+R-squared measures the proportion of the variance in the dependent variable (target) that is explained by the independent variables (features). An R-squared of 0.506 indicates that approximately 50.6% of the variability in the target variable is explained by the model.
+
+```
+X = X_encoded.copy()
+y = X.pop("price")
+
+# Split the dataset into training and testing sets (e.g., 80% train, 20% test)
+X_train, X_test, y_train, y_test = train_test_split(X.select_dtypes(include=[np.number]), y, test_size=0.2, random_state=42)
+
+# Now, X_train and y_train are our training features and target, and X_test and y_test are our testing features and target
+# Train the model
+model = LinearRegression()
+model.fit(X_train, y_train)
+
+# Make predictions
+predictions = model.predict(X_test)
+
+# Evaluate performance
+mse = mean_squared_error(y_test, predictions)
+r2 = r2_score(y_test, predictions)
+
+print(f"Mean Squared Error: {mse}")
+print(f"R-squared: {r2}")
+```
+After Feature Engineering and One-Hot Encoding:
+
+Mean Squared Error (MSE): 0.00124
+The MSE is significantly lower after feature engineering. This suggests that the predictions are much closer to the actual values, indicating improved model accuracy.
+R-squared (R²): 0.592
+The R-squared value has increased to 0.592, indicating that the model explains approximately 59.2% of the variability in the target variable. This signifies an improvement in the model's ability to capture patterns in the data.
+Summary:
+
+The feature engineering and one-hot encoding process led to a substantial reduction in Mean Squared Error, indicating a more accurate model in predicting flight prices.
+The increase in R-squared from 0.506 to 0.592 suggests that the additional features and transformations contribute positively to explaining the variability in flight prices.
+The improvements in both MSE and R-squared suggest that the feature engineering and one-hot encoding efforts have enhanced the predictive performance of the linear regression model.
+In conclusion, the feature engineering process has had a positive impact on the model's accuracy and ability to capture underlying patterns in the dataset, leading to improved predictive performance.
+Mean Squared Error: 1711623.4505828414
+R-squared: 0.5059465689323769
+
 ### K-Means Clustering
--INSERT SS-
+```
+from sklearn.cluster import KMeans
+
+# Selecting features for clustering 
+features_for_clustering = X_new[['price', 'co2_emissions']]
+
+# Assuming you want to find 3 clusters (you can adjust the number of clusters)
+n_clusters = 3
+
+# Apply k-means clustering
+kmeans = KMeans(n_clusters=n_clusters, random_state=42)
+X_encoded['cluster'] = kmeans.fit_predict(features_for_clustering)
+
+# Visualize the clusters (example: using a pairplot)
+sns.pairplot(X_encoded, hue='cluster', palette='viridis', diag_kind='kde')
+plt.show()
+```
+
 ### Histogram Comparisons between Pre&Post Logarithmic Transformation
--INSERT SS-
+<img width="650" alt="image" src="https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/hpdp/BERUK/assets/7.png">
+
 ### Bar Chart
--INSERT SS-
+<img width="650" alt="image" src="https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/hpdp/BERUK/assets/5.png">
+
+<img width="650" alt="image" src="https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/hpdp/BERUK/assets/6.png">
 
 ## Conclusion
 Through the comprehensive application of feature engineering techniques, including data cleaning, handling missing values, encoding categorical variables, and exploring relationships between features, we aimed to enhance the dataset's suitability for predictive modeling. The process involved addressing specific challenges related to the flight data, such as dealing with datetime features, handling categorical variables, and creating relevant new features.
