@@ -93,7 +93,7 @@ By following these steps, your student can complete the Feature Engineering cour
 | 34.   | MUHAMMAD IQMAL BIN SIS|  [:octocat:](https://github.com/Miqmal) |<a href="https://www.kaggle.com/learn/certification/muhammadiqmal/feature-engineering"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 | 35.   | SARAH WARDINA BINTI RAFIDIN|  [:octocat:](https://github.com/sarahwardina) |<a href=""><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 | 36.   | MUHAMMAD AMIR JAMIL BIN JAMLUS|  [:octocat:](https://github.com/sarahwardina) |<a href="https://www.kaggle.com/learn/certification/amirjamil02/feature-engineering"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
-| 37.   | NUR KHUZAIRIE ZAKWAN BIN MOHD ZAMRI|  [:octocat:](https://github.com/nurkhuzairiezakwan) |<a href=""><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
+| 37.   | NUR KHUZAIRIE ZAKWAN BIN MOHD ZAMRI|  [:octocat:](https://github.com/nurkhuzairiezakwan) |<a href="https://www.kaggle.com/learn/certification/nurkhuzairie/feature-engineering"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 | 38.   | MIKHAIL BIN YASSIN|  [:octocat:](https://github.com/mikhaiiy) |<a href="https://www.kaggle.com/learn/certification/mikhaily/feature-engineering"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 | 39.   | MOHAMAD AZRI HADIF BIN MOHAMMAD RIZAL |  [:octocat:](https://github.com/azkatsuragi) |<a href="https://www.kaggle.com/learn/certification/azrihadif/feature-engineering"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 
