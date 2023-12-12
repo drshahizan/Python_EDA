@@ -18,7 +18,7 @@
 
 ### 📂 Folder content:
 * [📖 Answer Case Study 1a](https://github.com/drshahizan/Python_EDA/tree/main/assignment/ass2/hpdp/3H/case_study1)
-* [📖 Answer Case Study 2a](https://github.com/drshahizan/Python_EDA/blob/main/assignment/hpdp/3H/case_study2a/cs2a.ipynb)
+* [📖 Answer Case Study 2a](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/3H/case_study2a)
 * [📖 Answer Case Study 2b](https://github.com/drshahizan/Python_EDA/tree/main/assignment/ass2/hpdp/3H/case_study2b)
 * [📖 Answer Case Study 2c](https://github.com/drshahizan/Python_EDA/tree/main/assignment/ass2/hpdp/3H/case_study2c)
 
