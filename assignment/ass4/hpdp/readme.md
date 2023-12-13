@@ -32,7 +32,7 @@ In this assignment, you will explore the essential concept of feature engineerin
 
 9. **Conclusion**: Summarize your findings, the feature engineering steps you've taken, and why you made those decisions.
 
-## Submission
+## Instruction
 1. Create a new Markdown document in Google Colab and name it "Feature_Engineering.md"
 
 2. Provide clear and organized explanations of each step in your Markdown document using appropriate headings and bullet points.
