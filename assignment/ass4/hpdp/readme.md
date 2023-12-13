@@ -45,22 +45,7 @@ In this assignment, you will explore the essential concept of feature engineerin
 
 6. Share the Markdown document and Colab notebook with your instructor as instructed for evaluation.
 
-🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1vLDgDAu2ai9rAOIKUfE1xUfTEvK2ikpXJ_1F-Xqtk_c/edit?pli=1#gid=2103764783). Please update your group information:
-
-| No | Group |  File | Dataset | 
-| -----: |  ------ | :-----: |  ----- |  
-| 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
-| 1. | Pergolakan  | <a href="./PERgolakan/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [eCommerce behavior data from multi-category store](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store) |
-| 2. | 3H  |  <a href="./3H/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Anime Dataset 2023](https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset?select=final_animedataset.csv)|
-| 3. | SYNA  |  <a href="https://github.com/drshahizan/Python_EDA/tree/main/assignment/ass4/hpdp/SYNA" ><img src="../../../images/answer.png" width="24px" height="24px" >|  [Age dataset: life, work, and death of 1.22M people](https://www.kaggle.com/datasets/imoore/age-dataset)| </a> | 
-| 5. | ATG  |   <a href="./ATG/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |[Airline Delay and Cancellation Data 2018](https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018?select=2018.csv)|
-| 6. | DEADPOOL  | <a href="https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/hpdp/DEADPOOL/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Spotify_1_million_tracks](https://www.kaggle.com/datasets/amitanshjoshi/spotify-1million-tracks/data)|
-| 7. | ANGKASA  | <a href="./ANGKASA/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [USA Real Estate Dataset](https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset) |
-| 8. | ByteNav  | <a href="./ByteNav/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Large Car Dataset](https://www.kaggle.com/datasets/cisautomotiveapi/large-car-dataset) |
-| 9. | HANY  | <a href="./HANY/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Climate Weather Surface of Brazil](https://www.kaggle.com/datasets/PROPPG-PPG/hourly-weather-surface-brazil-southeast-region) |
-| 10. | BERUK  | <a href="./BERUK/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Flight Data](https://www.kaggle.com/datasets/polartech/flight-data-with-1-million-or-more-records) |
-| 11. | ZProMax  | <a href="./ZProMax/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [New York Bus Rides Service](https://www.kaggle.com/datasets/asimzahid/new-york-bus-rides-service?select=searches.csv) |
-| 12. | CapKetereh  | <a href="./CapKetereh/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [COVID vaccination vs. mortality](https://www.kaggle.com/datasets/sinakaraji/covid-vaccination-vs-death) |
+🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1vLDgDAu2ai9rAOIKUfE1xUfTEvK2ikpXJ_1F-Xqtk_c/edit?pli=1#gid=2103764783). 
 
 
 ### 3. Academic Integrity
@@ -97,6 +82,24 @@ You can refer to the following resources for guidance and inspiration:
 - Books on data preprocessing and feature engineering in data science
 
 Good luck with your assignment! If you have any questions or need help, don't hesitate to reach out to your instructor or fellow students.
+
+## Submission
+
+| No | Group |  File | Dataset | 
+| -----: |  ------ | :-----: |  ----- |  
+| 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
+| 1. | Pergolakan  | <a href="./PERgolakan/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [eCommerce behavior data from multi-category store](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store) |
+| 2. | 3H  |  <a href="./3H/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Anime Dataset 2023](https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset?select=final_animedataset.csv)|
+| 3. | SYNA  |  <a href="https://github.com/drshahizan/Python_EDA/tree/main/assignment/ass4/hpdp/SYNA" ><img src="../../../images/answer.png" width="24px" height="24px" >|  [Age dataset: life, work, and death of 1.22M people](https://www.kaggle.com/datasets/imoore/age-dataset)| </a> | 
+| 5. | ATG  |   <a href="./ATG/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |[Airline Delay and Cancellation Data 2018](https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018?select=2018.csv)|
+| 6. | DEADPOOL  | <a href="https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/hpdp/DEADPOOL/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Spotify_1_million_tracks](https://www.kaggle.com/datasets/amitanshjoshi/spotify-1million-tracks/data)|
+| 7. | ANGKASA  | <a href="./ANGKASA/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [USA Real Estate Dataset](https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset) |
+| 8. | ByteNav  | <a href="./ByteNav/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Large Car Dataset](https://www.kaggle.com/datasets/cisautomotiveapi/large-car-dataset) |
+| 9. | HANY  | <a href="./HANY/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Climate Weather Surface of Brazil](https://www.kaggle.com/datasets/PROPPG-PPG/hourly-weather-surface-brazil-southeast-region) |
+| 10. | BERUK  | <a href="./BERUK/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Flight Data](https://www.kaggle.com/datasets/polartech/flight-data-with-1-million-or-more-records) |
+| 11. | ZProMax  | <a href="./ZProMax/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [New York Bus Rides Service](https://www.kaggle.com/datasets/asimzahid/new-york-bus-rides-service?select=searches.csv) |
+| 12. | CapKetereh  | <a href="./CapKetereh/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [COVID vaccination vs. mortality](https://www.kaggle.com/datasets/sinakaraji/covid-vaccination-vs-death) |
+
 
 
 ## Contribution 🛠️
