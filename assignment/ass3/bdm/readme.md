@@ -58,19 +58,7 @@ Your assignment will be assessed based on the quality of your EDA, the insights 
 If you have any questions or need clarification on any part of this assignment, please don't hesitate to reach out to your instructor for guidance. Good luck with your Exploratory Data Analysis using big data!
 
 ### 2. Team Collaboration
-🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1WJWrzrGmfC0z5CmTYCGmlkKa7_byYOoxlU0MTg7pRrk/edit#gid=1626725610). Please update your group information:
-
-| No | Group  | Dataset | File |
-| -----: | ---- |  ----- |  :-----: |  
-| 0. | Sample  | [GTZAN: Music Genre Classification](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification) | <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
-| 1. | RAM  | [Amazon reviews](https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews) | <a href="./RAM/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
-| 2. | Avengers  | [10+ M. Beatport Tracks / Spotify Audio Features](https://www.kaggle.com/datasets/mcfurland/10-m-beatport-tracks-spotify-audio-features/) | <a href="./avengers/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
-| 3. | Ayam Rendang  | [Airline Delay and Cancellation Data, 2009 - 2018](https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018/code)) | <a href="https://docs.google.com/spreadsheets/d/1WJWrzrGmfC0z5CmTYCGmlkKa7_byYOoxlU0MTg7pRrk/edit#gid=1626725610" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
-| 4. | Truth Archive  | [NYC Yellow Taxi Trip Data](https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data) | <a href="https://github.com/drshahizan/Python_EDA/tree/bac7a9807c1f4714ee4824ac08145e19813320bd/assignment/ass3/bdm/Truth%20Archive" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
-| 5. | F4  | [YouTube Trending Video Dataset](https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset) | <a href="./F4/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
-| 6. | TheBoys  | [Brooklyn Home Sales](https://www.kaggle.com/datasets/tianhwu/brooklynhomes2003to2017) | <a href="./TheBoys" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
-| 7. | KicapSambal  | [Amazon Books Reviews](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews) | <a href="./KicapSambal" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
-
+🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1WJWrzrGmfC0z5CmTYCGmlkKa7_byYOoxlU0MTg7pRrk/edit#gid=1626725610). 
 
 ### 3. Academic Integrity
 🚫 Uphold the highest standards of academic integrity. Any candidate suspected of cheating in the assignment will face disciplinary action, which may include suspension or expulsion from the University. Moreover, any materials or devices found to be in violation of examination rules and regulations will be confiscated.
@@ -89,6 +77,18 @@ bdm/your_group/
 ├── 📄 readme.md
 └── 📄 report.md
 ```
+## Submission
+
+| No | Group  | Dataset | File |
+| -----: | ---- |  ----- |  :-----: |  
+| 0. | Sample  | [GTZAN: Music Genre Classification](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification) | <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
+| 1. | RAM  | [Amazon reviews](https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews) | <a href="./RAM/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
+| 2. | Avengers  | [10+ M. Beatport Tracks / Spotify Audio Features](https://www.kaggle.com/datasets/mcfurland/10-m-beatport-tracks-spotify-audio-features/) | <a href="./avengers/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
+| 3. | Ayam Rendang  | [Airline Delay and Cancellation Data, 2009 - 2018](https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018/code)) | <a href="https://docs.google.com/spreadsheets/d/1WJWrzrGmfC0z5CmTYCGmlkKa7_byYOoxlU0MTg7pRrk/edit#gid=1626725610" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
+| 4. | Truth Archive  | [NYC Yellow Taxi Trip Data](https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data) | <a href="https://github.com/drshahizan/Python_EDA/tree/bac7a9807c1f4714ee4824ac08145e19813320bd/assignment/ass3/bdm/Truth%20Archive" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
+| 5. | F4  | [YouTube Trending Video Dataset](https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset) | <a href="./F4/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
+| 6. | TheBoys  | [Brooklyn Home Sales](https://www.kaggle.com/datasets/tianhwu/brooklynhomes2003to2017) | <a href="./TheBoys" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
+| 7. | KicapSambal  | [Amazon Books Reviews](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews) | <a href="./KicapSambal" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
