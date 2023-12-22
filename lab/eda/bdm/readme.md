@@ -90,6 +90,8 @@
 | 20.   | Bakunga Bronson   |  [:octocat:](https://github.com/BakungaBronson) |<a href="https://github.com/BakungaBronson/BDM/blob/main/assignment/submission/cleaning-data-eda.ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://github.com/BakungaBronson/BDM/blob/main/assignment/submission/eda-of-7-million-company-dataset.ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 | 21.   | Linggesh A/L Tamilmani   |  [:octocat:](https://github.com/linggesh) |<a href="https://github.com/linggesh/linggesh/blob/main/Task/Lab%20Work/EDA_Big_Data_Lab1_(2a).ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://github.com/linggesh/linggesh/blob/main/Task/Lab%20Work/EDA_Big_Data_Lab2_(2b).ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
 
+| 22.   | Ismail Maeen       |  [:octocat:](https://github.com/seemo111) |<a href="https://github.com/seemo111/BDM/blob/main/Lab%20EDA%20Big%20Data/7%2B_million_company_Lab2A_By_Ismail.ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href="https://github.com/seemo111/BDM/blob/main/Lab%20EDA%20Big%20Data/kivadataset_Lab2B_By_Ismail.ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> |
+
 Good luck with your lab exercise!
 
 
