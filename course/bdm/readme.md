@@ -76,6 +76,7 @@ By following these steps, your student can complete the Feature Engineering cour
 | 18.   | Liu Kaiyuan | [:octocat:](https://github.com/lky970215) | <a href="https://github.com/lky970215/Files/blob/main/Liu%20Kaiyuan%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 | 19.   | Nurul Wahieda | [:octocat:](https://github.com/NurulWahieda) | <a href="https://github.com/NurulWahieda/NurulWahieda/blob/main/Nurul%20Wahieda%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 | 20.   | Linggesh A/L Tamilmani | [:octocat:](https://github.com/linggesh) | <a href="https://github.com/linggesh/linggesh/blob/main/Linggesh%20Tamilmani%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
+| 21.   | Bakunga Bronson | [:octocat:](https://github.com/BakungaBronson) | <a href="https://github.com/BakungaBronson/kaggle-feature-engineering/blob/main/Bakunga%20Bronson%20-%20Feature%20Engineering.png"><img src="../../images/certificate.svg" width="24px" height="24px"></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
