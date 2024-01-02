@@ -1,7 +1,4 @@
-# BDM Assignment 2 
-
-
-##Dataset -- Air Pollution Index (API) in Malaysia
+# BDM Assignment 2: Dataset - Air Pollution Index (API) in Malaysia
 
 Data from 2005 to 2017 are retrieved from data.gov.my under MOSTI, DOE and KeTSA. The data is licensed under Creative Commons Attribution and Open Definition 2.1.
 
