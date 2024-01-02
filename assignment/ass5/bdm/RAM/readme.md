@@ -1,24 +1,14 @@
 
-<a href="https://github.com/drshahizan/Python_EDA/assignment/ass5/bdm/RAM/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/Python_EDA" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/Python_EDA/assignment/ass5/bdm/RAM/network/members"><img src="https://img.shields.io/github/forks/drshahizan/Python_EDA" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/Python_EDA/assignment/ass5/bdm/RAM/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/Python_EDA" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/Python_EDA/assignment/ass5/bdm/RAM/issues"><img src="https://img.shields.io/github/issues/drshahizan/Python_EDA" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/Python_EDA/assignment/ass5/bdm/RAM/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/Python_EDA?color=2b9348"></a>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FPython_EDA&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
-
-🌟 Hit star button to save this repo in your profile
-
 # Automated Feature Engineering Tools Assignment
 
+In this assignment, we will explore the fascinating world of automated feature engineering tools in data science. Automated feature engineering is a critical step that can save time and improve the quality of features used for machine learning models.
 
 
-## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/Python_EDA/assignment/ass5/bdm/RAM/issues) for any improvements, suggestions or errors in the content.
+## Group Members:
 
-You can also contact me using [Linkedin](https://www.linkedin.com/in/mohammed-raza-chidimar-8016831a9/) for any other queries or feedback.
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FDSRaza403)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
-
-
-
+| Name          | Matric Number  | 
+| ------------- | -------------- | 
+|MOHAMMED RAZA ASFAK CHIDIMAR     | MCS231004       | 
+| AYAZ RAHMAN BHUIYAN    | MCS231023       |
+|MUSAB IBNE AHMAD  | MCS231017        | 
+| HUSSEIN YUSUF SHEIKH MOHAMED   | MCS231024       |
