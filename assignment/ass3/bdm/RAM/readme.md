@@ -5,11 +5,11 @@ The objective of this assignment is to perform Exploratory Data Analysis (EDA) o
 
 ## Group Members:
 
-| Name          | Matric Number  | Task            |
-| ------------- | -------------- | --------------- |
-| MOHAMMED RAZA ASFAK CHIDIMAR     | MCS231004       | Case Study 1   : Step by step EDA          |
-| AYAZ RAHMAN BHUIYAN    | MCS231023       | Case Study 2a : Pandas-Profiling          |
-| MUSAB IBNE AHMAD  | MCS231017        | Case Study 2b : DataPrep          |
-| HUSSEIN YUSUF SHEIKH MOHAMED   | MCS231024       | Case Study 2c :  SweetViz          |
+| Name          | Matric Number  | 
+| ------------- | -------------- | 
+|MOHAMMED RAZA ASFAK CHIDIMAR     | MCS231004       | 
+| AYAZ RAHMAN BHUIYAN    | MCS231023       |
+|MUSAB IBNE AHMAD  | MCS231017        | 
+| HUSSEIN YUSUF SHEIKH MOHAMED   | MCS231024       |
 
 
