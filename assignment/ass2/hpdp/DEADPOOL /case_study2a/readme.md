@@ -92,40 +92,37 @@ new browser tab interface for D-Tale will show the data from the connected dataf
 
 To generate the descriptive statistics of the dataset, the "Visualize" from the new browser tab of D-Tale is selected and choose "Describe" from the dropdown
 
-![Dtale2](./Dtale2.png)
+![Dtale2](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/DEADPOOL%20/case_study2a/image/Dtale2.png)
 
 <br>
 The D-Tale will generates descriptive statistics of the imported dataset, including mean, median, mode, variance, and standard error, offering a quick summary on dataset.It will show the detailed description on the column that is selected on the right side of page.
 
-![Dtale2a](./Dtale2a.png)
+![Dtale2a](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/DEADPOOL%20/case_study2a/image/Dtale2a.png)
 
 <br>
 
 In D-tale, the descriptive analysis of the selected column can be exported in coding by selecting the "Code Export" located on the upper right corner.
 
-![Dtale2ex](./Dtale2ex.png)
+![Dtale2ex](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/DEADPOOL%20/case_study2a/image/Dtale2ex.png)
 
 <br>
 
 Date :
 
-![Dtale2a](./Dtale2a.png)
+![Dtale2a](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/DEADPOOL%20/case_study2a/image/Dtale2a.png)
 
 Daily :
 
-![Dtale2b](./Dtale2b.png)
+![Dtale2b](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/DEADPOOL%20/case_study2a/image/Dtale2b.png)
 
 donations_new :
 
-![Dtale2c](./Dtale2c.png)
+![Dtale2c](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/DEADPOOL%20/case_study2a/image/Dtale2c.png)
 
 donations_regular :
 
-![Dtale2d](./Dtale2d.png)
+![Dtale2d](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/DEADPOOL%20/case_study2a/image/Dtale2d.png)
 
-donations_regular :
-
-![Dtale2e](./Dtale2e.png)
 
 <br>
 
@@ -133,25 +130,25 @@ donations_regular :
 
 Back to the D-tale dashboard, from the upper part tab select "Correlation" under the "Visualize" tab.
 
-![Dtale3](./Dtale3.png)
+![Dtale3](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/DEADPOOL%20/case_study2a/image/Dtale3.png)
 
 <br>
 
 D-tale will display the Pearson Correlation Matrix of the numerical variables from the imported dataset
 
-![Dtale3a](./Dtale3a.png)
+![Dtale3a](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/DEADPOOL%20/case_study2a/image/Dtale3a.png)
 
 <br>
 
 The correlation analysis can be exported in coding by selecting the "Code Export", the popup of the code sample is shown
 
-![Dtale3ex](./Dtale3ex.png)
+![Dtale3ex](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/DEADPOOL%20/case_study2a/image/Dtale3ex.png)
 
 <br>
 
 There is "Export Image" button on the upper right of the user interface, by selecting the "Export Image" button the correlation graph can be downloaded and saved in PNG file.
 
-![correlations](./correlations.png)
+![correlations](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/DEADPOOL%20/case_study2a/image/correlations.png)
 
 <br>
 
@@ -159,39 +156,41 @@ There is "Export Image" button on the upper right of the user interface, by sele
 
 Within the D-Tale dashboard, you can explore visualizations by selecting 'Chart' from the 'Visualize' dropdown in the upper tab. This action opens a new tab dedicated to charts where various types of visual representations of data can be created.
 
-![Dtale4](./Dtale4.png)
+![Dtale4](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/DEADPOOL%20/case_study2a/image/Dtale4.png)
 
 <br>
 
 Here is the view of the new tab that is directed to create charts and visualizations based on the dataset. Users can interact with the site to plot charts, setting filters, or modify data and see the changes reflected dynamically.
 
-![Dtale4tab](./Dtale4tab.png)
+![Dtale4tab](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/DEADPOOL%20/case_study2a/image/Dtale4tab.png)
 
 <br>
 
 After creating visualizations, there is the code export symbol where the code can be exported for further use.
 
-![Dtale4aex](./Dtale4aex.png)
+![Dtale4aex](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/DEADPOOL%20/case_study2a/image/Dtale4aex.png)
 
 <br>
 
 When exporting images from D-Tale's charts, the output format is a PNG file which is saved during export.
 
-![bar_export](./bar_export.png)
+![bar_export](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/DEADPOOL%20/case_study2a/image/bar_export.png)
 
 <br>
 
 The total amount of different types of blood across states :
 
-![Dtale4a](./Dtale4a.png)
+![Dtale4a](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/DEADPOOL%20/case_study2a/image/Dtale4a.png)
+
 
 The total amount on types of blood across the years from 2006-2023 :
 
-![Dtale4b](./Dtale4b.png)
+![Dtale4b](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/DEADPOOL%20/case_study2a/image/Dtale4b.png)
+
 
 Regular blood donations made by social civilian across states:
 
-![Dtale4c](./Dtale4c.png)
+![Dtale4c]([./Dtale4c.png](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/DEADPOOL%20/case_study2a/image/Dtale4c.png))
 
 <br>
 
