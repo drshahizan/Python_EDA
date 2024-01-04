@@ -80,7 +80,7 @@ dtale.show(df)
 
 new browser tab interface for D-Tale will show the data from the connected dataframe
 
-![Dtale1]([./Dtale1.png](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/DEADPOOL%20/case_study2a/image/Dtale1.png))
+![Dtale1](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/DEADPOOL%20/case_study2a/image/Dtale1.png)
 
 
 <br>
