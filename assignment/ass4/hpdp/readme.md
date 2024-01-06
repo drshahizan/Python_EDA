@@ -96,7 +96,7 @@ Good luck with your assignment! If you have any questions or need help, don't he
 | 7. | ANGKASA  | <a href="./ANGKASA/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [USA Real Estate Dataset](https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset) |
 | 8. | ByteNav  | <a href="./ByteNav/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Large Car Dataset](https://www.kaggle.com/datasets/cisautomotiveapi/large-car-dataset) |
 | 9. | HANY  | <a href="./HANY/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Climate Weather Surface of Brazil](https://www.kaggle.com/datasets/PROPPG-PPG/hourly-weather-surface-brazil-southeast-region) |
-| 10. | BERUK  | <a href="./BERUK/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Flight Data](https://www.kaggle.com/datasets/polartech/flight-data-with-1-million-or-more-records) |
+| 10. | BERUK  | <a href="./BERUK/README.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Flight Data](https://www.kaggle.com/datasets/polartech/flight-data-with-1-million-or-more-records) |
 | 11. | ZProMax  | <a href="./ZProMax/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [New York Bus Rides Service](https://www.kaggle.com/datasets/asimzahid/new-york-bus-rides-service?select=searches.csv) |
 | 12. | CapKetereh  | <a href="./CapKetereh/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [COVID vaccination vs. mortality](https://www.kaggle.com/datasets/sinakaraji/covid-vaccination-vs-death) |
 
