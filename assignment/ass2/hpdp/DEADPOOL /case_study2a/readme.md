@@ -182,11 +182,13 @@ The total amount of different types of blood across states :
 
 ![Dtale4a](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/DEADPOOL%20/case_study2a/image/Dtale4a.png)
 
+<br>
 
 The total amount on types of blood across the years from 2006-2023 :
 
 ![Dtale4b](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/DEADPOOL%20/case_study2a/image/Dtale4b.png)
 
+<br>
 
 Regular blood donations made by social civilian across states:
 
