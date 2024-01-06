@@ -47,10 +47,10 @@ In this assignment, you will explore the essential concept of feature engineerin
 
 🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1WJWrzrGmfC0z5CmTYCGmlkKa7_byYOoxlU0MTg7pRrk/edit#gid=433067553). Please update your group information:
 
-| No | Group |  File | Dataset | 
-| -----: |  ------ | :-----: |  ----- |  
-| 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
-| 1. |  Truth Archive  |  <a href="https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/bdm/%20Truth%20Archive/Assignment_4_Truth_Archive.ipynb" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [NYC Yellow Taxi Trip Data](https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data)
+| No | Group |  File | Dataset | AI |
+| -----: |  ------ | :-----: |  ----- | -----: |  
+| 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | | |100|
+| 1. |  Truth Archive  |  <a href="https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/bdm/%20Truth%20Archive/Assignment_4_Truth_Archive.ipynb" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [NYC Yellow Taxi Trip Data](https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data)| 100|
 | 2. |  TheBoys  |  <a href="./Theboys" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Brooklyn Home Sales](https://www.kaggle.com/datasets/tianhwu/brooklynhomes2003to2017)
 | 3. |  Kicap Sambal |  <a href="https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/bdm/KicapSambal/feature_eng.ipynb" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Flight Price Data](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction)
 | 4. |  F4 |  <a href="./F4/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Used Cars Dataset](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data/code)
