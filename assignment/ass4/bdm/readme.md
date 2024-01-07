@@ -56,7 +56,7 @@ In this assignment, you will explore the essential concept of feature engineerin
 | 4. |  F4 |  <a href="./F4/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Used Cars Dataset](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data/code)
 | 5. |  Avengers |  <a href="./Avengers/" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [10+ M. Beatport Tracks / Spotify Audio Features](https://www.kaggle.com/datasets/mcfurland/10-m-beatport-tracks-spotify-audio-features?select=bp_genre.csv)| 0 |
 | 6. |  RAM |  <a href="./RAM/" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [NIFTY-50 Stock Market Data (2000 - 2021)](https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data)
-| 7. |  RAM |  <a href="https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/bdm/Ayam%20Rendang/Assignment%204%20(Ayam%20Rendang)%20-%20Feature_Engineering.ipynb" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Predict Diabetes](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/bdm/Ayam%20Rendang/data%20set%20-%20diabetes%20-%20vid%20-%20csv.csv)
+| 7. |  Ayam Rendang |  <a href="https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/bdm/Ayam%20Rendang/Assignment%204%20(Ayam%20Rendang)%20-%20Feature_Engineering.ipynb" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Predict Diabetes](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/bdm/Ayam%20Rendang/data%20set%20-%20diabetes%20-%20vid%20-%20csv.csv)
 
 
 ### 3. Academic Integrity
