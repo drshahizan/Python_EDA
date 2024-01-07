@@ -19,6 +19,9 @@ Don't forget to hit the :star: if you like this repo.
 | RANJEET A/L THIAGARAJAN   | (MCS231015)         | 
 | LINGGESH A/L TAMILMANI   | (MCS232005)         | 
 
+## Assignment Link
+* [📖 Google Colab link ](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/bdm/Ayam%20Rendang/Assignment%204%20(Ayam%20Rendang)%20-%20Feature_Engineering.ipynb)
+
 ## Dataset: Predict Diabetes
 This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
 
