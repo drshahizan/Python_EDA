@@ -1,7 +1,7 @@
 # Assignment 3: Exploratory Data Analysis (EDA) Using Big Data
 
-## Group Name: RAM
-## Group Members:
+##### Group Name: RAM
+##### Group Members:
 
 | Name          | Matric Number  | 
 | ------------- | -------------- | 
