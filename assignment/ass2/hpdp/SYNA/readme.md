@@ -18,7 +18,7 @@
 | YASMEEN NATASHA BINTI HAFIZ SHAHREL | A21EC0147 | Case Study 2
 
 ### 📂 Folder content:
-* [📖 Case Study 1](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/SYNA/casestudy1/SYNA_CASESTUDY1.ipynb)
+* [📖 Case Study 1](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/SYNA/casestudy1/SYNA_CASESTUDY1_.ipynb)
 * [📖 Case Study 2a](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/SYNA/casestudy2a/SYNA_CASESTUDY2_a_.ipynb)
 * [📖 Case Study 2b](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/SYNA/casestudy2b/SYNA_CASESTUDY2b_.ipynb)
 * [📖 Case Study 2c](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/hpdp/SYNA/casestudy2c/SYNA_CASESTUDY2_c.ipynb)
