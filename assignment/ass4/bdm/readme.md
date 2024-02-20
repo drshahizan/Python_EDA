@@ -47,8 +47,8 @@ In this assignment, you will explore the essential concept of feature engineerin
 
 🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1WJWrzrGmfC0z5CmTYCGmlkKa7_byYOoxlU0MTg7pRrk/edit#gid=433067553). Please update your group information:
 
-| No | Group |  File | Dataset | AI |
-| -----: |  ------ | :-----: |  ----- | -----: |  
+| No | Group |  File | Dataset | 
+| -----: |  ------ | :-----: |  ----- | 
 | 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | | 0 |
 | 1. |  Truth Archive  |  <a href="https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/bdm/%20Truth%20Archive/Assignment_4_Truth_Archive.ipynb" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [NYC Yellow Taxi Trip Data](https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data)| 24 |
 | 2. |  TheBoys  |  <a href="./Theboys" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Brooklyn Home Sales](https://www.kaggle.com/datasets/tianhwu/brooklynhomes2003to2017) | 0 |
