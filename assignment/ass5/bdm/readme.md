@@ -43,8 +43,8 @@ In this assignment, you will explore the fascinating world of automated feature 
 
 🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1WJWrzrGmfC0z5CmTYCGmlkKa7_byYOoxlU0MTg7pRrk/edit#gid=433067553). Please update your group information:
 
-| No | Group |  File | Tool 1 | Tool 2 | AI |
-| -----: |  ------ | :-----: |  ----- |  ----- | -----: |   
+| No | Group |  File | Tool 1 | Tool 2 | 
+| -----: |  ------ | :-----: |  ----- |  ----- | 
 | 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 | 1. | RAM  |  <a href="./RAM" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [TPOT](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/bdm/RAM/feature_eng_tool.ipynb)| [H20.ai](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/bdm/RAM/feature_eng_tool.ipynb) | 5 |
 | 2. | AyamRendang  |  <a href="./Ayam Rendang" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [H20.ai](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/bdm/Ayam%20Rendang/ass5AutoML.ipynb) | [PyCaret](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass5/bdm/Ayam%20Rendang/ass5AutoML.ipynb)
