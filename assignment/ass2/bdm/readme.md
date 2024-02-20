@@ -173,8 +173,8 @@ bdm/your_group/
 
 ## Submission
 
-| No | Group |  File | Dataset | EDA Tools 1 | EDA Tools 2 | EDA Tools 3 | AI |
-| -----: |  ------ | :-----: |  ----- |  ----- | ----- | ----- | -----: | 
+| No | Group |  File | Dataset | EDA Tools 1 | EDA Tools 2 | EDA Tools 3 | 
+| -----: |  ------ | :-----: |  ----- |  ----- | ----- | ----- | 
 | 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | ||||100|
 | 1. | F4 |  <a href="./F4" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | [Rental Pricing Dataset, Malaysia](./F4/case_study1/Assignment_2__EDA_Case_Study_1.ipynb) | [DataPrep](./F4/case_study2a/cs2a.ipynb)	| [AutoViz](./F4/case_study2b/CS2B_F4(AutoViz).ipynb)	| [SweetVitz](./F4/case_study2c/CS2C_F4(Sweetvitz).ipynb) |
 | 2. | Truth Archive |  <a href="./Truth_Archive" ><img src="../../../images/answer.png" width="24px" height="24px" >|[Population Table: Administrative Districts](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/bdm/Truth_Archive/case_study1/Assignment_EDA_Truth_Archive.ipynb)</a> | [Pandas-Profiling](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/bdm/Truth_Archive/case_study1a/Assignment_EDA_Truth_Archive_Pandas_profiling.ipynb) |[Sweetviz](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/bdm/Truth_Archive/case_study1b/Assignment_EDA_Truth_Archive_Sweetviz.ipynb)|[DataPrep](https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/bdm/Truth_Archive/case_study1c/Assignment_EDA_Truth_Archive_Dataprep_Tool.ipynb)| 32 |
