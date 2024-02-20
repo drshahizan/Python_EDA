@@ -79,8 +79,8 @@ bdm/your_group/
 ```
 ## Submission
 
-| No | Group  | Dataset | File | AI |
-| -----: | ---- |  ----- |  :-----: |  -----: |
+| No | Group  | Dataset | File | 
+| -----: | ---- |  ----- |  :-----: |  
 | 0. | Sample  | [GTZAN: Music Genre Classification](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification) | <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 0 |
 | 1. | RAM  | [Water Quality Prediction](https://www.kaggle.com/datasets/mitanshuchakrawarty/water-quality-prediction) | <a href="./RAM/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 4 |
 | 2. | Avengers  | [10+ M. Beatport Tracks / Spotify Audio Features](https://www.kaggle.com/datasets/mcfurland/10-m-beatport-tracks-spotify-audio-features/) | <a href="./avengers/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 6 |
