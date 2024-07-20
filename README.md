@@ -103,6 +103,7 @@ In EDA, you might perform tasks such as cleaning the data, handling missing valu
 * [A Five-Step Guide for Conducting Exploratory Data Analysis](https://shopify.engineering/conducting-exploratory-data-analysis)
 * [I asked ChatGPT to do Exploratory Data Analysis with Visualizations](https://youtu.be/787VOGoqBzk)
 
+<!-- 
 ### Code & Practice
 * [simplilearn: What is Exploratory Data Analysis? Steps and Market Analysis](https://www.simplilearn.com/tutorials/data-analytics-tutorial/exploratory-data-analysis)
 * [Exploratory Data Analysis (EDA): Types, Tools, Process](https://www.knowledgehut.com/blog/data-science/eda-data-science)
@@ -159,10 +160,6 @@ In EDA, you might perform tasks such as cleaning the data, handling missing valu
 The provided list comprises a collection of case studies, each with a title and accessibility information on platforms like Colab and GitHub. These case studies likely involve data analysis and exploration. For instance, "404 Error" may involve exploring property-related data in Kuala Lumpur, while "Alrite" could be centered around the exportation of plantation products in Sarawak. "BEFE" appears to focus on COVID-19 clusters in Malaysia, "Boboiboy" on property listings in Kuala Lumpur, and "COLBY" on the results of the 14th General Election in Malaysia. "FANTOM" likely tracks daily recorded COVID-19 cases at the state level, "HAHA" pertains to foreign direct investment in Malaysia, and "HD" may involve land usage analysis in Tampin for 2021. Other case studies cover topics such as elections, healthcare, real estate, population, and more, providing a diverse range of data exploration possibilities.
 
 
-
-
-
-
 ## Automated EDA Tools
 EDA is a vital but time-consuming task in a data project. Here are 10 open-source tools that generate an EDA report in seconds.
 
@@ -184,6 +181,8 @@ EDA is a vital but time-consuming task in a data project. Here are 10 open-sourc
 
 ## [Feature Engineering](./materials/fe.md)
 **Feature engineering** in data science is the process of selecting, transforming, and creating relevant **attributes** or **variables** from raw data to improve the performance of **machine learning models**. It involves identifying **patterns**, **relationships**, and meaningful **information** within the data, and then designing or modifying features to enhance the model's ability to make accurate **predictions** or **classifications**. Effective feature engineering can lead to increased model **accuracy**, reduced **overfitting**, and a better understanding of the underlying data, making it a critical step in the data **preprocessing** pipeline for **machine learning** tasks.
+
+-->
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
