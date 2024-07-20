@@ -18,6 +18,7 @@ How you obtain the Titanic dataset from Kaggle, post it to Google Colab, then im
 2. **Download the Dataset:**
    - Click on the "Download All" button to download the dataset as a ZIP file.
    - Extract the ZIP file on your computer to access the `train.csv` file.
+   - [File: train.csv](https://github.com/drshahizan/dataset/blob/main/titanic/train.csv)
 
 ### Step 2: Upload the Dataset to Google Colab
 1. **Open Google Colab:**
