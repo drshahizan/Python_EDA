@@ -14,6 +14,7 @@ Here are the processes for identifying and handling missing values in the Titani
 ### Step 1: Identify Missing Values
 1. **Check for Missing Values:**
    - After loading the dataset into a pandas DataFrame, we can use the `isnull()` and `sum()` methods to check for missing values.
+
    ```python
    df.isnull().sum()
    ```
