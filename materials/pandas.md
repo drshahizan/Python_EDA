@@ -17,7 +17,8 @@ Pandas is a popular Python library for data manipulation and analysis, and it of
 
       ```python
       import pandas as pd
-      df = pd.read_csv('data.csv')
+      !wget https://raw.githubusercontent.com/drshahizan/dataset/main/titanic/train.csv -O train.csv
+      df = pd.read_csv('train.csv')
       ```
 
 2. **Data Summary:**
