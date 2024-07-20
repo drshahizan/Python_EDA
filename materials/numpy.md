@@ -105,6 +105,31 @@ NumPy is a fundamental library in Python for numerical and array operations. Whi
        t_stat, p_value = stats.ttest_ind(array1, array2)
        ```
 
+## Example
+
+       ```python
+      import numpy as np
+      import urllib.request
+      import csv
+
+      # URL of the Titanic dataset
+      url = 'https://raw.githubusercontent.com/drshahizan/dataset/main/titanic/train.csv'
+
+      # Function to load the dataset
+      def load_titanic_data(url):
+      response = urllib.request.urlopen(url)
+      lines = [l.decode('utf-8') for l in response.readlines()]
+      data = np.array(list(csv.reader(lines)))
+      return data
+
+      # Load the Titanic dataset
+      titanic_data = load_titanic_data(url)
+
+      # Display the first 5 rows
+      print(titanic_data[:5])
+      ```
+
+
 NumPy is a powerful library for numerical operations and array manipulation, making it a valuable tool for various tasks in EDA, especially when dealing with numerical data or conducting statistical tests. It is often used alongside pandas for data analysis and manipulation in EDA workflows.
 
 ## Contribution 🛠️
