@@ -107,7 +107,7 @@ In EDA, you might perform tasks such as cleaning the data, handling missing valu
 
 | **Exercise** | **Objective** | **Description** |
 |--------------|---------------|-----------------|
-| **1. Introduction to Google Colab** | Familiarize yourself with Google Colab | Create a new notebook, write a simple Python script to print "Hello, World!", and explore basic features like adding text cells, running code cells, and saving your notebook. |
+| **[1. Introduction to Google Colab](./materials/exer1.md)** | Familiarize yourself with Google Colab | Create a new notebook, write a simple Python script to print "Hello, World!", and explore basic features like adding text cells, running code cells, and saving your notebook. |
 | **2. Loading Data with pandas** | Learn how to load datasets into pandas DataFrames | Download a sample dataset (e.g., Titanic dataset from Kaggle), upload it to Google Colab, and load it into a pandas DataFrame. Display the first few rows using the `head()` method. |
 | **3. Data Cleaning and Preprocessing** | Understand how to clean and preprocess data | Identify and handle missing values in the dataset. Use methods like `dropna()` to remove missing values or `fillna()` to fill them with appropriate values. Convert data types if necessary. |
 | **4. EDA - Descriptive Statistics** | Perform basic descriptive statistics to understand the dataset | Use pandas methods like `describe()`, `mean()`, `median()`, and `std()` to calculate summary statistics for numerical columns. Create frequency tables for categorical columns. |
