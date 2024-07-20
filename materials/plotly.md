@@ -102,6 +102,38 @@ Plotly is a versatile Python library for creating interactive and visually appea
 12. **Interactive Features:**
     - Plotly provides interactivity by default, including zoom, pan, and hover tooltips.
 
+### Example
+```python
+import pandas as pd
+import plotly.express as px
+import plotly.graph_objects as go
+
+# URL of the Titanic dataset
+url = 'https://raw.githubusercontent.com/drshahizan/dataset/main/titanic/train.csv'
+
+# Load the dataset
+titanic_data = pd.read_csv(url)
+
+# Display the first 5 rows
+print(titanic_data.head())
+
+# Plotting the distribution of passengers' ages
+fig_age = px.histogram(titanic_data, x='Age', nbins=30, title='Distribution of Passengers\' Ages')
+fig_age.update_layout(xaxis_title='Age', yaxis_title='Number of Passengers')
+fig_age.show()
+
+# Plotting the survival rate by gender
+fig_gender = px.bar(titanic_data, x='Sex', y='Survived', color='Sex', title='Survival Rate by Gender', 
+                    labels={'Survived': 'Survival Rate'})
+fig_gender.update_layout(xaxis_title='Gender', yaxis_title='Survival Rate')
+fig_gender.show()
+
+# Plotting the survival rate by class
+fig_class = px.bar(titanic_data, x='Pclass', y='Survived', color='Pclass', title='Survival Rate by Class', 
+                   labels={'Survived': 'Survival Rate', 'Pclass': 'Class'})
+fig_class.update_layout(xaxis_title='Class', yaxis_title='Survival Rate')
+fig_class.show()
+```
 
 Plotly is an excellent choice for EDA when you need to create interactive and visually engaging plots. You can use these Plotly syntax and functions to explore and present your data in a highly interactive way.
 
