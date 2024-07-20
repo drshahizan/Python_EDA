@@ -22,83 +22,50 @@ The steps to calculate the correlation matrix using the `corr()` method in panda
    ```
 
 ### Step 2: Calculate the Correlation Matrix
-1. **Calculate the correlation matrix:**
+
+# Select only numeric columns for correlation calculation
+numeric_cols = titanic.select_dtypes(include=['number']).columns
+corr_matrix = titanic[numeric_cols].corr()
+
+1. **Select only numeric columns for correlation calculation:**
    ```python
-   correlation_matrix = df.corr()
-   print(correlation_matrix)
+      numeric_cols = titanic.select_dtypes(include=['number']).columns
+      corr_matrix = titanic[numeric_cols].corr()
    ```
 
 ### Step 3: Visualize the Correlation Matrix Using a Heatmap
-1. **Import Seaborn and Matplotlib:**
-   ```python
-   import seaborn as sns
-   import matplotlib.pyplot as plt
-   ```
 
 2. **Create the heatmap:**
    ```python
-   plt.figure(figsize=(10, 8))
-   sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', linewidths=0.5)
-   plt.title('Correlation Matrix Heatmap')
-   plt.show()
+      plt.figure(figsize=(10, 8))
+      sns.heatmap(corr_matrix, annot=True, cmap='coolwarm', center=0)
+      plt.title('Correlation Matrix of Titanic Dataset')
+      plt.show()
    ```
 
-### Step-by-Step Execution
 
-1. **Load the Titanic Dataset:**
-   ```python
-   import pandas as pd
-   df = pd.read_csv('train.csv')
-   ```
-
-2. **Calculate the Correlation Matrix:**
-   ```python
-   correlation_matrix = df.corr()
-   print(correlation_matrix)
-   ```
-
-3. **Import Seaborn and Matplotlib:**
-   ```python
-   import seaborn as sns
-   import matplotlib.pyplot as plt
-   ```
-
-4. **Create the Heatmap:**
-   ```python
-   plt.figure(figsize=(10, 8))
-   sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', linewidths=0.5)
-   plt.title('Correlation Matrix Heatmap')
-   plt.show()
-   ```
 
 ### Full Code
 Here's the complete code in a single notebook:
 
-1. **Code Cell 1: Load the Titanic Dataset**
-   ```python
-   import pandas as pd
-   df = pd.read_csv('train.csv')
-   ```
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
 
-2. **Code Cell 2: Calculate the Correlation Matrix**
-   ```python
-   correlation_matrix = df.corr()
-   print(correlation_matrix)
-   ```
+# Load the Titanic dataset from the provided URL
+url = 'https://raw.githubusercontent.com/drshahizan/dataset/main/titanic/train.csv'
+titanic = pd.read_csv(url)
 
-3. **Code Cell 3: Import Seaborn and Matplotlib**
-   ```python
-   import seaborn as sns
-   import matplotlib.pyplot as plt
-   ```
+# Select only numeric columns for correlation calculation
+numeric_cols = titanic.select_dtypes(include=['number']).columns
+corr_matrix = titanic[numeric_cols].corr()
 
-4. **Code Cell 4: Create the Heatmap**
-   ```python
-   plt.figure(figsize=(10, 8))
-   sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', linewidths=0.5)
-   plt.title('Correlation Matrix Heatmap')
-   plt.show()
-   ```
+# Create a heatmap to visualize the correlation matrix
+plt.figure(figsize=(10, 8))
+sns.heatmap(corr_matrix, annot=True, cmap='coolwarm', center=0)
+plt.title('Correlation Matrix of Titanic Dataset')
+plt.show()
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
