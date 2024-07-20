@@ -100,6 +100,49 @@ Seaborn is a Python data visualization library based on Matplotlib, designed for
        plt.xlabel('X-axis label')
        plt.ylabel('Y-axis label')
        ```
+### Example
+
+```python
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+# URL of the Titanic dataset
+url = 'https://raw.githubusercontent.com/drshahizan/dataset/main/titanic/train.csv'
+
+# Load the dataset
+titanic_data = pd.read_csv(url)
+
+# Display the first 5 rows
+print(titanic_data.head())
+
+# Set the aesthetic style of the plots
+sns.set_style('whitegrid')
+
+# Plotting the distribution of passengers' ages
+plt.figure(figsize=(10, 6))
+sns.histplot(titanic_data['Age'].dropna(), bins=30, kde=True)
+plt.title('Distribution of Passengers\' Ages')
+plt.xlabel('Age')
+plt.ylabel('Number of Passengers')
+plt.show()
+
+# Plotting the survival rate by gender
+plt.figure(figsize=(10, 6))
+sns.barplot(x='Sex', y='Survived', data=titanic_data, palette='pastel')
+plt.title('Survival Rate by Gender')
+plt.xlabel('Gender')
+plt.ylabel('Survival Rate')
+plt.show()
+
+# Plotting the survival rate by class
+plt.figure(figsize=(10, 6))
+sns.barplot(x='Pclass', y='Survived', data=titanic_data, palette='muted')
+plt.title('Survival Rate by Class')
+plt.xlabel('Class')
+plt.ylabel('Survival Rate')
+plt.show()
+```
 
 Seaborn is known for its high-level abstractions and aesthetically pleasing visualizations. You can use these Seaborn syntax and functions to create informative and attractive plots for EDA, making it easier to explore and understand your data.
 
