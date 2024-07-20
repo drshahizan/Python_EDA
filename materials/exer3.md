@@ -8,7 +8,7 @@
 
 # Exercise 3: Data Cleaning and Preprocessing
 
-Here are the processes for identifying and handling missing values in the Titanic dataset using methods such as `dropna()` and `fillna()`. We will also transform data types as necessary.
+The processes for identifying and handling missing values in the Titanic dataset using methods such as `dropna()` and `fillna()`. We will also transform data types as necessary.
 
 
 ### Step 1: Identify Missing Values
