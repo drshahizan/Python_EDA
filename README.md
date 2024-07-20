@@ -103,7 +103,7 @@ In EDA, you might perform tasks such as cleaning the data, handling missing valu
 * [A Five-Step Guide for Conducting Exploratory Data Analysis](https://shopify.engineering/conducting-exploratory-data-analysis)
 * [I asked ChatGPT to do Exploratory Data Analysis with Visualizations](https://youtu.be/787VOGoqBzk)
 
-### Exercise related to Exploratory Data Analysis (EDA):
+### Exercise
 
 | **Exercise** | **Objective** | **Description** |
 |--------------|---------------|-----------------|
