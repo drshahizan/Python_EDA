@@ -104,6 +104,49 @@ Matplotlib is a popular Python library for creating various types of plots and c
        plt.show()
        ```
 
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# URL of the Titanic dataset
+url = 'https://raw.githubusercontent.com/drshahizan/dataset/main/titanic/train.csv'
+
+# Load the dataset
+titanic_data = pd.read_csv(url)
+
+# Display the first 5 rows
+print(titanic_data.head())
+
+# Plotting the distribution of passengers' ages
+plt.figure(figsize=(10, 6))
+plt.hist(titanic_data['Age'].dropna(), bins=30, edgecolor='k', alpha=0.7)
+plt.title('Distribution of Passengers\' Ages')
+plt.xlabel('Age')
+plt.ylabel('Number of Passengers')
+plt.grid(True)
+plt.show()
+
+# Plotting the survival rate by gender
+survival_by_gender = titanic_data.groupby('Sex')['Survived'].mean()
+survival_by_gender.plot(kind='bar', color=['blue', 'pink'], alpha=0.7)
+plt.title('Survival Rate by Gender')
+plt.xlabel('Gender')
+plt.ylabel('Survival Rate')
+plt.xticks(rotation=0)
+plt.grid(True)
+plt.show()
+
+# Plotting the survival rate by class
+survival_by_class = titanic_data.groupby('Pclass')['Survived'].mean()
+survival_by_class.plot(kind='bar', color='green', alpha=0.7)
+plt.title('Survival Rate by Class')
+plt.xlabel('Class')
+plt.ylabel('Survival Rate')
+plt.xticks(rotation=0)
+plt.grid(True)
+plt.show()
+```
+
 Matplotlib offers a wide range of customization and plot types, making it a versatile tool for visualizing and exploring data during the EDA process. You can use these Matplotlib syntax and functions to create various types of plots and gain insights into your dataset.
 
 ## Contribution 🛠️
