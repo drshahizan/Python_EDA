@@ -21,6 +21,7 @@ The steps to create various plots such as histograms, box plots, and scatter plo
 1. **Load the dataset:**
    ```python
    import pandas as pd
+   !wget https://raw.githubusercontent.com/drshahizan/dataset/main/titanic/train.csv -O train.csv
    df = pd.read_csv('train.csv')
    ```
 
