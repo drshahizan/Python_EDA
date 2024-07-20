@@ -102,50 +102,6 @@ The steps to create various plots such as histograms, box plots, and scatter plo
    plt.show()
    ```
 
-### Full Code
-Here's the complete code in a single notebook:
-
-1. **Code Cell 1: Import Necessary Libraries**
-   ```python
-   import matplotlib.pyplot as plt
-   import seaborn as sns
-   ```
-
-2. **Code Cell 2: Load the Titanic Dataset**
-   ```python
-   import pandas as pd
-   df = pd.read_csv('train.csv')
-   ```
-
-3. **Code Cell 3: Create a Histogram for Age Distribution**
-   ```python
-   plt.figure(figsize=(10, 6))
-   sns.histplot(df['Age'].dropna(), kde=True)
-   plt.title('Age Distribution')
-   plt.xlabel('Age')
-   plt.ylabel('Frequency')
-   plt.show()
-   ```
-
-4. **Code Cell 4: Create a Box Plot for Age Distribution by Survived**
-   ```python
-   plt.figure(figsize=(10, 6))
-   sns.boxplot(x='Survived', y='Age', data=df)
-   plt.title('Age Distribution by Survival')
-   plt.xlabel('Survived')
-   plt.ylabel('Age')
-   plt.show()
-   ```
-
-5. **Code Cell 5: Create a Scatter Plot for Age vs Fare**
-   ```python
-   plt.figure(figsize=(10, 6))
-   sns.scatterplot(x='Age', y='Fare', data=df)
-   plt.title('Age vs Fare')
-   plt.xlabel('Age')
-   plt.ylabel('Fare')
-   plt.show()
-   ```
 
 
 ## Contribution 🛠️
