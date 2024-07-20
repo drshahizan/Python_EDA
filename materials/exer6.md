@@ -8,7 +8,93 @@
 
 # Exercise 6: Correlation Analysis
 
+The steps to calculate the correlation matrix using the `corr()` method in pandas and visualize it using a heatmap in Seaborn to identify strongly correlated features in the Titanic dataset.
 
+### Step 1: Load the Titanic Dataset
+1. **Load the dataset:**
+   ```python
+   import pandas as pd
+   df = pd.read_csv('train.csv')
+   ```
+
+### Step 2: Calculate the Correlation Matrix
+1. **Calculate the correlation matrix:**
+   ```python
+   correlation_matrix = df.corr()
+   print(correlation_matrix)
+   ```
+
+### Step 3: Visualize the Correlation Matrix Using a Heatmap
+1. **Import Seaborn and Matplotlib:**
+   ```python
+   import seaborn as sns
+   import matplotlib.pyplot as plt
+   ```
+
+2. **Create the heatmap:**
+   ```python
+   plt.figure(figsize=(10, 8))
+   sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', linewidths=0.5)
+   plt.title('Correlation Matrix Heatmap')
+   plt.show()
+   ```
+
+### Step-by-Step Execution
+
+1. **Load the Titanic Dataset:**
+   ```python
+   import pandas as pd
+   df = pd.read_csv('train.csv')
+   ```
+
+2. **Calculate the Correlation Matrix:**
+   ```python
+   correlation_matrix = df.corr()
+   print(correlation_matrix)
+   ```
+
+3. **Import Seaborn and Matplotlib:**
+   ```python
+   import seaborn as sns
+   import matplotlib.pyplot as plt
+   ```
+
+4. **Create the Heatmap:**
+   ```python
+   plt.figure(figsize=(10, 8))
+   sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', linewidths=0.5)
+   plt.title('Correlation Matrix Heatmap')
+   plt.show()
+   ```
+
+### Full Code
+Here's the complete code in a single notebook:
+
+1. **Code Cell 1: Load the Titanic Dataset**
+   ```python
+   import pandas as pd
+   df = pd.read_csv('train.csv')
+   ```
+
+2. **Code Cell 2: Calculate the Correlation Matrix**
+   ```python
+   correlation_matrix = df.corr()
+   print(correlation_matrix)
+   ```
+
+3. **Code Cell 3: Import Seaborn and Matplotlib**
+   ```python
+   import seaborn as sns
+   import matplotlib.pyplot as plt
+   ```
+
+4. **Code Cell 4: Create the Heatmap**
+   ```python
+   plt.figure(figsize=(10, 8))
+   sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', linewidths=0.5)
+   plt.title('Correlation Matrix Heatmap')
+   plt.show()
+   ```
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
