@@ -103,6 +103,7 @@ Matplotlib is a popular Python library for creating various types of plots and c
        ```python
        plt.show()
        ```
+## Example
 
 ```python
 import pandas as pd
