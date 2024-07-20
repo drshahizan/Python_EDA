@@ -14,6 +14,7 @@ The steps to calculate the correlation matrix using the `corr()` method in panda
 1. **Load the dataset:**
    ```python
    import pandas as pd
+   !wget https://raw.githubusercontent.com/drshahizan/dataset/main/titanic/train.csv -O train.csv
    df = pd.read_csv('train.csv')
    ```
 
