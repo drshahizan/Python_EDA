@@ -21,7 +21,8 @@ The information on this Github is part of the materials for the subject High Per
 <p align="center">
 <img src="https://raw.githubusercontent.com/drshahizan/Python_EDA/main/images/eda_mso.jpeg"  height="400" />
 </p>
-The webinar titled **"Exploratory Data Analysis Techniques in Python"** is designed to provide participants with a comprehensive understanding of how to effectively analyze data using Python. Scheduled for Sunday, July 21, 2024, from 03:00 pm to 05:00 pm (MYT), this online event is organized by ISS-Nigeria and UTMI. The session will be led by Prof Dr. Shahizan Othman, a renowned expert in data analysis, who will guide attendees through various techniques and methodologies essential for exploratory data analysis.
+
+The webinar titled **"Exploratory Data Analysis Techniques in Python"** is designed to provide participants with a comprehensive understanding of how to effectively analyze data using Python. Scheduled for Sunday, July 21, 2024, from 03:00 pm to 05:00 pm (MYT), this online event is organized by ISS-Nigeria and UTMI. The session will be led by Assoc Prof Dr. Shahizan Othman, a renowned expert in data analysis, who will guide attendees through various techniques and methodologies essential for exploratory data analysis.
 
 Participants will learn practical applications and best practices for using Python libraries such as pandas and Jupyter Notebooks to manipulate, clean, and visualize data. This webinar is ideal for both beginners and experienced professionals looking to enhance their data analysis skills. With a focus on hands-on learning, attendees will gain valuable insights that can be applied to real-world data science projects.
 
