@@ -13,9 +13,12 @@ The steps to calculate the correlation matrix using the `corr()` method in panda
 ### Step 1: Load the Titanic Dataset
 1. **Load the dataset:**
    ```python
-   import pandas as pd
-   !wget https://raw.githubusercontent.com/drshahizan/dataset/main/titanic/train.csv -O train.csv
-   df = pd.read_csv('train.csv')
+      import pandas as pd
+      import seaborn as sns
+      import matplotlib.pyplot as plt
+
+      url = 'https://raw.githubusercontent.com/drshahizan/dataset/main/titanic/train.csv'
+      titanic = pd.read_csv(url)
    ```
 
 ### Step 2: Calculate the Correlation Matrix
