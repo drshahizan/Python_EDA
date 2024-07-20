@@ -86,45 +86,6 @@ The steps to calculate summary statistics for numerical columns using pandas met
        print(f"Frequency Table for {col}:\n{freq_table}\n")
    ```
 
-### Full Code
-Here's the complete code in a single notebook:
-
-1. **Code Cell 1: Load the Titanic Dataset**
-   ```python
-   import pandas as pd
-   df = pd.read_csv('train.csv')
-   ```
-
-2. **Code Cell 2: Use the describe() Method**
-   ```python
-   summary_statistics = df.describe()
-   print(summary_statistics)
-   ```
-
-3. **Code Cell 3: Calculate Mean, Median, and Standard Deviation**
-   ```python
-   mean_values = df.mean()
-   median_values = df.median()
-   std_values = df.std()
-
-   print("Mean Values:\n", mean_values)
-   print("Median Values:\n", median_values)
-   print("Standard Deviation Values:\n", std_values)
-   ```
-
-4. **Code Cell 4: Identify Categorical Columns**
-   ```python
-   categorical_columns = df.select_dtypes(include=['object']).columns
-   print("Categorical Columns:\n", categorical_columns)
-   ```
-
-5. **Code Cell 5: Create Frequency Tables**
-   ```python
-   frequency_tables = {col: df[col].value_counts() for col in categorical_columns}
-   for col, freq_table in frequency_tables.items():
-       print(f"Frequency Table for {col}:\n{freq_table}\n")
-   ```
-
 By following these steps, you will have calculated summary statistics for numerical columns and created frequency tables for categorical columns in the Titanic dataset.
 
 
