@@ -8,7 +8,7 @@
 
 # Exercise 2: Loading Data with Pandas
 
-Here's how you obtain the Titanic dataset from Kaggle, post it to Google Colab, then import it into a Pandas DataFrame. The first few rows will be displayed using the `head()` method.
+How you obtain the Titanic dataset from Kaggle, post it to Google Colab, then import it into a Pandas DataFrame. The first few rows will be displayed using the `head()` method.
 
 
 ### Step 1: Download the Titanic Dataset
