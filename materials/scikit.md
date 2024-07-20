@@ -86,6 +86,57 @@ Scikit-learn is a popular machine learning library in Python, but it also provid
       from sklearn.feature_selection import f_classif
       f_values, p_values = f_classif(X, y)
       ```
+      
+      ```python
+      import pandas as pd
+      from sklearn.model_selection import train_test_split
+      from sklearn.preprocessing import StandardScaler
+      from sklearn.linear_model import LogisticRegression
+      from sklearn.metrics import accuracy_score
+
+      # URL of the Titanic dataset
+      url = 'https://raw.githubusercontent.com/drshahizan/dataset/main/titanic/train.csv'
+
+      # Load the dataset
+      titanic_data = pd.read_csv(url)
+
+      # Display the first 5 rows
+      print(titanic_data.head())
+
+      # Preprocess the data
+      # Fill missing values
+      titanic_data['Age'].fillna(titanic_data['Age'].median(), inplace=True)
+      titanic_data['Embarked'].fillna(titanic_data['Embarked'].mode()[0], inplace=True)
+
+      # Convert categorical variables to numeric
+      titanic_data = pd.get_dummies(titanic_data, columns=['Sex', 'Embarked'], drop_first=True)
+
+      # Drop columns that won't be used
+      titanic_data.drop(['Name', 'Ticket', 'Cabin'], axis=1, inplace=True)
+
+      # Define features and target variable
+      X = titanic_data.drop('Survived', axis=1)
+      y = titanic_data['Survived']
+
+      # Split the data into training and testing sets
+      X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+      # Standardize the features
+      scaler = StandardScaler()
+      X_train = scaler.fit_transform(X_train)
+      X_test = scaler.transform(X_test)
+
+      # Train a logistic regression model
+      model = LogisticRegression()
+      model.fit(X_train, y_train)
+
+      # Make predictions
+      y_pred = model.predict(X_test)
+
+      # Evaluate the model
+      accuracy = accuracy_score(y_test, y_pred)
+      print(f'Accuracy: {accuracy:.2f}')
+      ```
 
 Scikit-learn offers a comprehensive set of tools for data preprocessing and dimensionality reduction, which are critical steps in EDA. These functions can help you prepare your data for analysis, visualize it more effectively, and uncover important patterns and relationships between features.
 
