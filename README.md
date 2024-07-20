@@ -141,6 +141,22 @@ In EDA, you might perform tasks such as cleaning the data, handling missing valu
 | TUK | Number of Government School Pupils by District Education Office and State 2017-2018 | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1r6BEgFqPBOndPoYMQnvEfcVp6hdh2ZyI?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/TUK/TUK_Assignment_EDA.ipynb) |
 | UWU | Property Listings in Kuala Lumpur | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1uXYLArbaXLyIwWJyvCmaa2lAKtBunj0P?usp=sharing#scrollTo=rN1bUu8RVJJ7) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/tree/main/Malaysia%20EDA/uwu) |
 
+## Automated EDA Tools
+EDA is a vital but time-consuming task in a data project. Here are 10 open-source tools that generate an EDA report in seconds.
+
+| Library | Description | Web | Github |
+| ------------- | :------------- | :-------------: | :-------------: |
+| SweetViz | - In-depth EDA report in two lines of code.<br> - Covers information about missing values, data statistics, etc.<br> - Creates a variety of data visualizations. <br>- Integrates with Jupyter Notebook.|[🌐](https://pypi.org/project/sweetviz/) | [:octocat:](https://github.com/fbdesignpro/sweetviz) |
+| Pandas-Profiling | - Generate a high-level EDA report of your data in no time.<br>- Covers info about missing values, data statistics, correlation etc.<br>- Produces data alerts.<br>- Plots data feature interactions. |[🌐](https://pypi.org/project/pandas-profiling/) | [:octocat:](https://github.com/ydataai/pandas-profiling) |
+| DataPrep | - Supports Pandas and Dask DataFrames.<br>- Interactive Visualizations.<br>- 10x Faster than Pandas based tools.<br>- Covers info about missing values, data statistics, correlation etc.<br>- Plots data feature interactions. |[🌐](https://dataprep.ai/) | [:octocat:](https://github.com/sfu-db/dataprep) |
+| AutoViz | - Supports CSV, TXT, and JSON.<br>- Interactive Bokeh charts.<br>- Covers info about missing values, data statistics, correlation etc.<br>- Presents data cleaning suggestions. |[🌐](https://pypi.org/project/autoviz) | [:octocat:](https://github.com/AutoViML/AutoViz) |
+| D-Tale | - Runs common Pandas operation with no-code.<br>- Exports code of analysis.<br>- Covers info about missing values, data statistics, correlation etc.<br>- Highlights duplicates, outliers, etc.<br>- Integrates with Jupyter Notebook. |[🌐](https://pypi.org/project/dtale/) | [:octocat:](https://github.com/man-group/dtale) |
+| dabl | - Primarily provides visualizations.<br>- Covers wide range of plots: Scatter pair plots. Histograms. <br>- Target distribution.|[🌐](https://pypi.org/project/dabl) | [:octocat:](https://github.com/dabl/dabl) |
+| QuickDA | - Get overview report of dataset.<br>- Covers info about missing values, data statistics, correlation etc.<br>- Produces data alerts.<br>- Plots data feature interactions. |[🌐](https://pypi.org/project/quickda) | [:octocat:](https://github.com/sid-the-coder/QuickDA) |
+| Datatile | - Extends Pandas describe().<br>- Provides column stats: column type count, missing, column datatype.<br>- Mostly statistical information. |[🌐](https://pypi.org/project/datatile/) | [:octocat:](https://github.com/polyaxon/datatile) |
+| Lux | - Provides visualization recommendations.<br>- Supports EDA on a subset of columns.<br>- Integrates with Jupyter Notebook.<br>- Exports code of analysis.|[🌐](https://lux-api.readthedocs.io/en/latest/#:~:text=Lux%20is%20a%20Python%20library,what%20they%20are%20looking%20for.) | [:octocat:](https://github.com/lux-org/lux) |
+| ExploriPy | - Performs statistical testing.<br>- Column type-wise distribution: Continuous, Categorical<br>- Covers info about missing values, data statistics, correlation etc. |[🌐](https://pypi.org/project/ExploriPy/) | [:octocat:](https://github.com/exploripy/exploripy) |
+
 <!-- 
 ### Code & Practice
 * [simplilearn: What is Exploratory Data Analysis? Steps and Market Analysis](https://www.simplilearn.com/tutorials/data-analytics-tutorial/exploratory-data-analysis)
