@@ -16,6 +16,7 @@ The steps to calculate summary statistics for numerical columns using pandas met
    - Ensure the dataset is loaded into a pandas DataFrame.
    ```python
    import pandas as pd
+   !wget https://raw.githubusercontent.com/drshahizan/dataset/main/titanic/train.csv -O train.csv
    df = pd.read_csv('train.csv')
    ```
 
