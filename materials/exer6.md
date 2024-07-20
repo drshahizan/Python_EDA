@@ -23,10 +23,6 @@ The steps to calculate the correlation matrix using the `corr()` method in panda
 
 ### Step 2: Calculate the Correlation Matrix
 
-# Select only numeric columns for correlation calculation
-numeric_cols = titanic.select_dtypes(include=['number']).columns
-corr_matrix = titanic[numeric_cols].corr()
-
 1. **Select only numeric columns for correlation calculation:**
    ```python
       numeric_cols = titanic.select_dtypes(include=['number']).columns
@@ -35,7 +31,7 @@ corr_matrix = titanic[numeric_cols].corr()
 
 ### Step 3: Visualize the Correlation Matrix Using a Heatmap
 
-2. **Create the heatmap:**
+1. **Create the heatmap:**
    ```python
       plt.figure(figsize=(10, 8))
       sns.heatmap(corr_matrix, annot=True, cmap='coolwarm', center=0)
@@ -44,10 +40,9 @@ corr_matrix = titanic[numeric_cols].corr()
    ```
 
 
-
 ### Full Code
 Here's the complete code in a single notebook:
-
+   ```python
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -65,7 +60,7 @@ plt.figure(figsize=(10, 8))
 sns.heatmap(corr_matrix, annot=True, cmap='coolwarm', center=0)
 plt.title('Correlation Matrix of Titanic Dataset')
 plt.show()
-
+   ```
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
