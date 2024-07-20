@@ -86,44 +86,6 @@ The processes for identifying and handling missing values in the Titanic dataset
    df['Survived'] = df['Survived'].astype(bool)
    ```
 
-### Full Code
-Here's the complete code in a single notebook:
-
-1. **Code Cell 1:**
-   ```python
-   import pandas as pd
-   df = pd.read_csv('train.csv')
-   ```
-
-2. **Code Cell 2:**
-   ```python
-   missing_values = df.isnull().sum()
-   print(missing_values)
-   ```
-
-3. **Code Cell 3:**
-   ```python
-   df['Age'].fillna(df['Age'].mean(), inplace=True)
-   df['Embarked'].fillna(df['Embarked'].mode()[0], inplace=True)
-   ```
-
-4. **Code Cell 4:**
-   ```python
-   df_dropped = df.dropna()  # Uncomment if you prefer to drop rows with any missing values
-   # df_dropped_cols = df.dropna(axis=1)  # Uncomment if you prefer to drop columns with any missing values
-   ```
-
-5. **Code Cell 5:**
-   ```python
-   print(df.dtypes)
-   df['Survived'] = df['Survived'].astype(bool)
-   ```
-
-6. **Code Cell 6 (Optional): Display the First Few Rows:**
-   ```python
-   df.head()
-   ```
-
 By following these steps, you will have identified and handled missing values in the Titanic dataset and converted data types if necessary.
 
 
