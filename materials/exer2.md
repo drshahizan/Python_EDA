@@ -48,37 +48,7 @@ How you obtain the Titanic dataset from Kaggle, post it to Google Colab, then im
      df.head()
      ```
 
-### Full Code
-Your final notebook should look like this:
 
-1. **Code Cell 1:**
-   ```python
-   import pandas as pd
-   ```
-
-2. **Code Cell 2:**
-   ```python
-   df = pd.read_csv('train.csv')
-   ```
-
-3. **Code Cell 3:**
-   ```python
-   df.head()
-   ```
-
-### Step-by-Step Execution
-1. **Run the first cell to import pandas.** 
-   - Click on the cell to select it.
-   - Press `Shift + Enter` to run the cell.
-
-2. **Run the second cell to load the dataset.**
-   - Click on the cell to select it.
-   - Press `Shift + Enter` to run the cell.
-
-3. **Run the third cell to display the first few rows of the DataFrame.**
-   - Click on the cell to select it.
-   - Press `Shift + Enter` to run the cell.
-   - You should see the first few rows of the Titanic dataset displayed as output.
 
 By following these steps, you will have successfully downloaded the Titanic dataset, uploaded it to Google Colab, loaded it into a pandas DataFrame, and displayed the first few rows using the `head()` method.
 
