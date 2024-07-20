@@ -87,6 +87,8 @@ Scikit-learn is a popular machine learning library in Python, but it also provid
       f_values, p_values = f_classif(X, y)
       ```
       
+## Example
+
       ```python
       import pandas as pd
       from sklearn.model_selection import train_test_split
