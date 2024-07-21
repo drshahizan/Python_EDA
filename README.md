@@ -114,6 +114,9 @@ In EDA, you might perform tasks such as cleaning the data, handling missing valu
 | **[5. Data Visualization with Matplotlib and Seaborn](./materials/exer5.md)** | Visualize data to uncover patterns and insights | Create various plots such as histograms, box plots, and scatter plots using Matplotlib and Seaborn. For example, visualize the distribution of ages in the Titanic dataset and explore relationships between different features. |
 | **[6. Correlation Analysis](./materials/exer6.md)** | Analyze correlations between different features | Calculate the correlation matrix using the `corr()` method in pandas. Visualize the correlation matrix using a heatmap in Seaborn to identify strongly correlated features. |
 | **[7. Identifying Outliers](./materials/exer7.md)** | Detect and handle outliers in the dataset | Use statistical methods and visualizations like box plots to identify outliers in numerical data. Explore techniques to handle outliers, such as removing them or transforming the data. |
+| **[8. Exerces Marketing](https://colab.research.google.com/drive/1pd6WiQQ88pzbzVWir-PPmulTmDsGJ-Cc?usp=sharing)** | Do All Step with Marketing Dataset. |
+
+
 ||||
 ||||
 
