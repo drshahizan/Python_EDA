@@ -115,7 +115,7 @@ In EDA, you might perform tasks such as cleaning the data, handling missing valu
 | **[6. Correlation Analysis](./materials/exer6.md)** | Analyze correlations between different features | Calculate the correlation matrix using the `corr()` method in pandas. Visualize the correlation matrix using a heatmap in Seaborn to identify strongly correlated features. |
 | **[7. Identifying Outliers](./materials/exer7.md)** | Detect and handle outliers in the dataset | Use statistical methods and visualizations like box plots to identify outliers in numerical data. Explore techniques to handle outliers, such as removing them or transforming the data. |
 | **[8. Exerces Marketing](https://colab.research.google.com/drive/1pd6WiQQ88pzbzVWir-PPmulTmDsGJ-Cc?usp=sharing)** | Do All Step with Marketing Dataset. |
-
+| **[9. Titanic Dataset](https://colab.research.google.com/drive/1CMR48NySP6rMUU1P_kuWOU1bCqmODyLX?usp=sharing)** | Do All Step with Marketing Dataset. |
 
 ||||
 ||||
