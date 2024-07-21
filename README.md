@@ -76,7 +76,7 @@ EDA is an iterative process, and the specific techniques and tools used can vary
 ✅️ After the exploratory analysis is completed and the predictions are determined, its features can be used for more complex data analysis or modeling, including machine learning.
 
 <p align="center">
-  <img src="./images/EDA.png"  height="200" />
+  <img src="./images/EDA.png"  height="400" />
 </p>
 
 ## Python
